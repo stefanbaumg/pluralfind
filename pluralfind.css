@@ -1,6 +1,28 @@
 body {
-    padding: 50px 0 0 0;
+    background-color: #fff;
+}
+.navbar {
+    background-color: #eee;
+    border-radius: 0;
+}
+.navbar .navbar-brand {
+    color: #1DAFF0;
+    font-size: 20px;
+}
+.navbar a {
+    color: #000;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+ul.navbar-nav li {
+    border-left: solid 1px #fff;
+    padding: 0;
+}
+ul.navbar-nav li.active a, ul.navbar-nav li a:hover {
+    background-color: #d5d5d5;
+}
+ul.navbar-nav li a {
 }
 #iron-router-progress {
-    background-color : #f5e625;
+    background-color : #1DAFF0;
 }

@@ -6,7 +6,8 @@
       "iron-router": {},
       "accounts-ui-bootstrap-3-blaze": {},
       "iron-router-progress": {},
-      "iron-router-active": {}
+      "iron-router-active": {},
+      "font-awesome": {}
     },
     "packages": {
       "bootstrap-3": {
@@ -33,6 +34,11 @@
         "git": "https://github.com/XpressiveCode/iron-router-active.git",
         "tag": "v0.2.0",
         "commit": "1b05aad5325c3dfdb5186b9c288aa53013d767b8"
+      },
+      "font-awesome": {
+        "git": "https://github.com/nate-strauser/meteor-font-awesome.git",
+        "tag": "v4.0.3",
+        "commit": "61e9361384347547ae144f8228faa4deffda23db"
       },
       "blaze-layout": {
         "git": "https://github.com/EventedMind/blaze-layout.git",

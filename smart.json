@@ -4,6 +4,7 @@
     "iron-router": {},
     "accounts-ui-bootstrap-3-blaze": {},
     "iron-router-progress": {},
-    "iron-router-active": {}
+    "iron-router-active": {},
+    "font-awesome": {}
   }
 }
