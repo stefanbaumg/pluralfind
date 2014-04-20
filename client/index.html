@@ -23,7 +23,7 @@
                 <ul class="nav navbar-nav navbar-right">
                     <li class="{{ isActiveRoute 'home' }}"><a href="{{pathFor 'home'}}"><i class="fa fa-th fa-fw"></i> Browse</a>
                     </li>
-                    <li class="{{ isActiveRoute 'about' }}"><a href="{{pathFor 'about'}}"><i class="fa fa-heart"></i> Mine (2)</a>
+                    <li class="{{ isActiveRoute 'mine' }}"><a href="{{pathFor 'mine'}}"><i class="fa fa-heart"></i> Mine (2)</a>
                     </li>
                     {{> loginButtons }}
                 </ul>
@@ -38,18 +38,27 @@
 <template name="home">
     <div class="row">
         <div class="col-md-12">
-            <h1>Home</h1>
-            Home here, homey!
-            <br/>
-            <br/>
-            <button class="btn btn-primary">Click Me!</button>
+            <ul class="course-list">
+                {{#each courses}}
+                <li>
+                    <div class="category">{{category}}</div>
+                    <div class="name">{{name}}</div>
+                </li>
+                {{else}}
+                <li>No courses found</li>
+                {{/each}}
+            </ul>
         </div>
     </div>
 
 </template>
 
-<template name="about">
-    <h1>About</h1>
-    Home here, homey!
+<template name="mine">
+    <h1>My Courses</h1>
+    My courses here
+</template>
 
+<template name="404">
+    <h1>Oopsie-Daisy</h1>
+    The page you are looking for does not exist.
 </template>
