@@ -1,54 +1,108 @@
-body {
-    background-color: #fff;
-}
-.navbar {
-    background-color: #eee;
-    border-radius: 0;
-}
-.navbar .navbar-brand {
-    color: #1DAFF0;
-    font-size: 20px;
-}
-.navbar a {
-    color: #000;
-    text-transform: uppercase;
-    font-size: 12px;
-}
-ul.navbar-nav li {
-    border-left: solid 1px #fff;
-    padding: 0;
-}
-ul.navbar-nav li.active a, ul.navbar-nav li a:hover {
-    background-color: #d5d5d5;
-}
-ul.navbar-nav li a {
-}
-#iron-router-progress {
-    background-color : #1DAFF0;
-}
-ul.course-list {
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
-}
-ul.course-list li {
-    width: 100%;
-    background-color: #E65A4B;
-    margin: 7px 0;
-}
-ul.course-list li:hover {
-    background-color: #FD6251;
-}
-ul.course-list li .category {
-    display: inline-block;
-    color: #fff;
-    font-size: 16px;
-    padding: 12px 0 12px 10px;
-    opacity: .5;
-}
-ul.course-list li .name {
-    display: inline-block;
-    color: #fff;
-    font-size: 16px;
-    padding: 10px 10px 10px 0;
-}
+ body {
+     background-color: #fff;
+     font-family:"Lato", Helvetica, Arial, sans-serif;
+ }
+ /*Navigation*/
+ .navbar {
+     background-color: #eee;
+     border-radius: 0;
+ }
+ .navbar .navbar-brand {
+     color: #1DAFF0;
+     font-size: 20px;
+ }
+ .navbar a {
+     color: #000;
+     text-transform: uppercase;
+     font-size: 12px;
+ }
+ ul.navbar-nav li {
+     border-left: solid 1px #fff;
+     padding: 0;
+ }
+ ul.navbar-nav .active a, ul.navbar-nav li a:hover {
+     background-color: #d5d5d5;
+ }
+ /*Iron Router Progress bar and spinner*/
+ #iron-router-progress {
+     background-color : #1DAFF0;
+ }
+ #iron-router-progress.spinner:before {
+     border-color : #1DAFF0;
+ }
+ /*Course Listing on Homepage*/
+ ul.course-list {
+     margin: 0;
+     padding: 0;
+     list-style-type: none;
+ }
+ ul.course-list li {
+     width: 100%;
+     background-color: #E65A4B;
+     margin: 7px 0;
+ }
+ ul.course-list li:hover {
+     background-color: #FD6251;
+ }
+ ul.course-list li div {
+     display: inline-block;
+ }
+ ul.course-list li>div {
+     color: #fff;
+     font-size: 14px;
+     padding: 10px 0 10px 10px;
+ }
+ ul.course-list li .category {
+     opacity: .5;
+ }
+ ul.course-list li .name {
+     padding-left: 0;
+ }
+ ul.course-list li .details {
+     float: right;
+ }
+ ul.course-list li .details div {
+     padding: 0 10px;
+ }
+ ul.course-list li .details .duration {
+     width: 80px;
+ }
+ ul.course-list li .details .rating {
+     unicode-bidi: bidi-override;
+     direction: rtl;
+ }
+ ul.course-list li .details .rating span {
+     font-family: FontAwesome;
+     font-weight: normal;
+     font-style: normal;
+     display: inline-block;
+     padding: 0 2px;
+     margin-left: -3px;
+ }
+ ul.course-list li .details .rating > span:before {
+     content:"\f006";
+ }
+ ul.course-list li .details .rating > span.full:before {
+     content:"\f005";
+ }
+ ul.course-list li .details .rating > span.half:before {
+     content:"\f123";
+ }
+ /* for use on hover; if we ever want to allow users to rate on our site too...
+ ul.course-list li .details .rating > span:hover:before, ul.course-list li .details .rating > span:hover ~ span:before {
+     content:"\f005";
+     color: #FEE026;
+ }*/
+ ul.course-list li .actions {
+     float: right;
+     padding: 0;
+     cursor: pointer;
+ }
+ ul.course-list li .actions .heart {
+     font-size: 16px;
+     padding: 12px;
+     background-color: #C63B2B;
+ }
+ ul.course-list li .actions .heart:hover {
+     background-color: #DD422F;
+ }

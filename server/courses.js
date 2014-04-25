@@ -6,7 +6,7 @@ courses = [{
     "author": "BurkeMalik",
     "level": "Beginner",
     "duration": 64,
-    "rating": "4.1",
+    "rating": "4",
     "released": "2010-03-16T04:00:00.000Z",
     "users": []
 }, {
@@ -127,7 +127,7 @@ courses = [{
     "author": "Robert Horvick",
     "level": "Intermediate",
     "duration": 150,
-    "rating": "4.5",
+    "rating": "4.4",
     "released": "2012-06-11T04:00:00.000Z",
     "users": []
 }, {
@@ -138,8 +138,19 @@ courses = [{
     "author": "Jim Christopher",
     "level": "Intermediate",
     "duration": 275,
-    "rating": "4.6",
+    "rating": "4.7",
     "released": "2013-08-29T04:00:00.000Z",
+    "users": []
+}, {
+    "category": ".NET",
+    "name": "Architecting Applications for the Real World in .NET",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/architecting-applications-dotnet",
+    "description": "An architect's job is to manage complexity, not increase it. Yet the developer life is filled with jargon, acronyms, and seemingly infinite choices. So how do we know when complexity makes sense? This course discusses when abstractions are justified and outlines the merits of various approaches for structuring applications with a pragmatic, real-world mind set. The discussion begins by outlining philosophies for thinking about architecture and considering the benefits of doing the simplest thing that could possibly work. Then we dive into various design patterns and technologies to consider within the business, service, presentation and data access layers. And in the final capstone module we'll consider two specific architectures and discuss the contexts where each makes sense. You'll learn when table module, active record, DDD, and ORMs are useful and walk away with the tools to better evaluate and justify complexity as an agile software craftsman. Like any responsible architect, we'l focus on the value of keeping things simple whenever we can.",
+    "author": "Cory House",
+    "level": "Intermediate",
+    "duration": 172,
+    "rating": "4.5",
+    "released": "2014-01-07T05:00:00.000Z",
     "users": []
 }, {
     "category": ".NET",
@@ -154,13 +165,35 @@ courses = [{
     "users": []
 }, {
     "category": ".NET",
+    "name": "Building .NET Console Applications in C#",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/building-dotnet-console-applications-csharp",
+    "description": "Learn how to create well-designed .NET console applications and how to manipulate the console window, parse command line arguments, and handle input and output. By the end of this course you'll be developing maintainable applications that take full advantage of .NET console application capabilities.",
+    "author": "Jason Roberts",
+    "level": "Intermediate",
+    "duration": 130,
+    "rating": "4.0",
+    "released": "2014-03-20T04:00:00.000Z",
+    "users": []
+}, {
+    "category": ".NET",
+    "name": "Building State Machines in .NET",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/building-state-machines-dotnet",
+    "description": "State machines very often hide in applications and technical systems we are using every day, without being aware of it. This course uses a pragmatic and simple approach to lead you into the exciting world of state machines. Get a taste of the power and flexibility of this architectural concept. You'll never want to miss it again!",
+    "author": "Alexander Wechsler",
+    "level": "Intermediate",
+    "duration": 251,
+    "rating": "4.2",
+    "released": "2014-02-21T05:00:00.000Z",
+    "users": []
+}, {
+    "category": ".NET",
     "name": "Caching in the .NET Stack: Inside-Out",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/dotnet-caching-inside-out",
     "description": "In this course we look at caching as a tool to improve your solution's performance and capacity. Using a distributed demo solution, we add caching inside the solution using a simple AOP approach, where you'll learn how to use different caches: the .NET MemoryCache, NCache Express, AppFabric Caching, and memcached. We use some custom caches based on Azure Table Storage and disk shares, and you'll see how to set up ASP.NET Output Caching to use different solution caches. You'll learn how to add caching outside the solution with HTTP response headers so consumers of your website and API can cache solution resources locally, and reduce traffic to your servers. Finally, you'll learn how to analyze items to configure them for maximum cache effectiveness, how to control items in caches, and how to measure the performance improvements you get from caching.",
     "author": "Elton Stoneman",
     "level": "Intermediate",
     "duration": 285,
-    "rating": "4.1",
+    "rating": "4.0",
     "released": "2013-06-27T04:00:00.000Z",
     "users": []
 }, {
@@ -173,6 +206,17 @@ courses = [{
     "duration": 260,
     "rating": "4.4",
     "released": "2010-04-13T04:00:00.000Z",
+    "users": []
+}, {
+    "category": ".NET",
+    "name": "Event Tracing for Windows (ETW) in .NET",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/event-tracing-windows-etw-dotnet",
+    "description": "Teach your applications to communicate while they are in production! Event Tracing for Windows is a blazingly fast logging system built into the operating system, .NET and many libraries. This course will teach you how to access thousands of events your applications are already producing and add signpost events with application state decoupled from tracing technology with Semantic Tracing. You’ll see the latest in tracing technology for .NET with EventSource, the Semantic Logging Application Block, and the newly released NuGet versions of EventSource. You’ll learn to add logging to your apps, use existing tools and create new ones, and access Event Viewer, all in the context of better debugging, profiling and application management.",
+    "author": "Kathleen Dollard",
+    "level": "Intermediate",
+    "duration": 167,
+    "rating": "4.0",
+    "released": "2014-02-04T05:00:00.000Z",
     "users": []
 }, {
     "category": ".NET",
@@ -203,8 +247,8 @@ courses = [{
     "description": "Learn how to make a high quality 3D Game ready for publishing to the App Store or Web like Facebook in about 3 hours. Discover Agile Game Development design principles and practices geared towards Unity3D and .Net. Learn how to create, acquire, modify and integrate AAA quality assets such as sounds, music and 3D models. By the end of this course you will have a survival game which you can publish and play with your friends and family or continue to develop into your own custom creation. Some C# and .Net experience recommended.",
     "author": "Alexander Zanfir",
     "level": "Intermediate",
-    "duration": 267,
-    "rating": "4.6",
+    "duration": 271,
+    "rating": "4.5",
     "released": "2013-12-03T05:00:00.000Z",
     "users": []
 }, {
@@ -215,7 +259,7 @@ courses = [{
     "author": "Jeremy Clark",
     "level": "Intermediate",
     "duration": 180,
-    "rating": "4.5",
+    "rating": "4.4",
     "released": "2014-01-02T05:00:00.000Z",
     "users": []
 }, {
@@ -226,7 +270,7 @@ courses = [{
     "author": "Andreas Öhlund",
     "level": "Intermediate",
     "duration": 283,
-    "rating": "4.5",
+    "rating": "4.4",
     "released": "2012-09-17T04:00:00.000Z",
     "users": []
 }, {
@@ -248,7 +292,7 @@ courses = [{
     "author": "Fabian Deitelhoff",
     "level": "Intermediate",
     "duration": 102,
-    "rating": "4.1",
+    "rating": "4.0",
     "released": "2014-01-13T05:00:00.000Z",
     "users": []
 }, {
@@ -270,8 +314,30 @@ courses = [{
     "author": "Michael Stephenson",
     "level": "Intermediate",
     "duration": 161,
-    "rating": "3.9",
+    "rating": "4",
     "released": "2013-11-15T05:00:00.000Z",
+    "users": []
+}, {
+    "category": ".NET",
+    "name": "RabbitMQ for .NET Developers - Part 2",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/rabbitmq-dotnet-developers-pt2",
+    "description": "This course will extend on the part 1 \"Introduction\" course to introduce some of the considerations you might need to make when building real world messaging solutions based on RabbitMQ.",
+    "author": "Michael Stephenson",
+    "level": "Intermediate",
+    "duration": 218,
+    "rating": "4.4",
+    "released": "2014-01-23T05:00:00.000Z",
+    "users": []
+}, {
+    "category": ".NET",
+    "name": "SpecFlow Tips and Tricks",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/specflow-tips-tricks",
+    "description": "Whether you have recently discovered SpecFlow or have been using it for a while, the tips and tricks in this course will help you create more maintainable SpecFlow test automation solutions.",
+    "author": "Jason Roberts",
+    "level": "Intermediate",
+    "duration": 88,
+    "rating": "4.3",
+    "released": "2014-02-10T05:00:00.000Z",
     "users": []
 }, {
     "category": ".NET",
@@ -292,7 +358,7 @@ courses = [{
     "author": "Kevin Kuebler",
     "level": "Intermediate",
     "duration": 187,
-    "rating": "4.4",
+    "rating": "4.5",
     "released": "2012-09-20T04:00:00.000Z",
     "users": []
 }, {
@@ -319,13 +385,24 @@ courses = [{
     "users": []
 }, {
     "category": ".NET",
+    "name": "What’s New in PostSharp v3",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/postsharp3-new-features",
+    "description": "Learn about the features that were added to PostSharp v3 and how they will impact your existing aspects.",
+    "author": "Donald Belcham",
+    "level": "Intermediate",
+    "duration": 51,
+    "rating": "Not",
+    "released": "2014-01-30T05:00:00.000Z",
+    "users": []
+}, {
+    "category": ".NET",
     "name": "What's New in .NET 4.5",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/dotnet45-whatsnew",
     "description": "Learn how to take advantage of well-known and obscure features in .NET 4.5. As an in-place update, some changes will happen when you target .NET 4.5, or you recompile with the new compilers, or your users upgrade libraries, often beyond your control. Improved behavior often has the downside of breaking changes and this course explores the possible downside of these changes. Written mostly in C#, the course also includes a module covering changes in Visual Basic. You’ll see the breadth of the release from async to zip, including improvements to tracing and MEF.",
     "author": "Kathleen Dollard",
     "level": "Intermediate",
     "duration": 282,
-    "rating": "3.6",
+    "rating": "3.7",
     "released": "2013-03-27T04:00:00.000Z",
     "users": []
 }, {
@@ -349,6 +426,17 @@ courses = [{
     "duration": 157,
     "rating": "4.5",
     "released": "2010-04-13T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Adobe",
+    "name": "Beginning After Effects CC",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/beginning-after-effects-cc",
+    "description": "Adobe's After Effects is the industry-leading solution for creating animations, motion graphics and visual effects. Learn the basics and more by being hands-on with real industry animations and following an entertaining scenario story arc. Beginning After Effects CC will walk you through the essential skills you need to animate everything from text and shapes to simple character animations. This course will also help you build a solid foundation in common workflows and easily break down a complex animation into manageable pieces.",
+    "author": "Jeff Hurd",
+    "level": "Beginner",
+    "duration": 201,
+    "rating": "4.8",
+    "released": "2014-02-13T05:00:00.000Z",
     "users": []
 }, {
     "category": "Amazon Web Services",
@@ -413,7 +501,7 @@ courses = [{
     "author": "Jim Wilson",
     "level": "Beginner",
     "duration": 207,
-    "rating": "4.5",
+    "rating": "4.6",
     "released": "2013-08-14T04:00:00.000Z",
     "users": []
 }, {
@@ -424,7 +512,7 @@ courses = [{
     "author": "Jim Wilson",
     "level": "Beginner",
     "duration": 203,
-    "rating": "4.1",
+    "rating": "4.4",
     "released": "2013-10-14T04:00:00.000Z",
     "users": []
 }, {
@@ -457,7 +545,7 @@ courses = [{
     "author": "Jim Wilson",
     "level": "Intermediate",
     "duration": 200,
-    "rating": "4.8",
+    "rating": "4.6",
     "released": "2013-11-19T05:00:00.000Z",
     "users": []
 }, {
@@ -468,7 +556,7 @@ courses = [{
     "author": "Chiu-Ki Chan",
     "level": "Intermediate",
     "duration": 99,
-    "rating": "4.8",
+    "rating": "4.6",
     "released": "2014-01-13T05:00:00.000Z",
     "users": []
 }, {
@@ -479,7 +567,7 @@ courses = [{
     "author": "Jim Wilson",
     "level": "Intermediate",
     "duration": 213,
-    "rating": "4.5",
+    "rating": "4.6",
     "released": "2013-03-11T04:00:00.000Z",
     "users": []
 }, {
@@ -490,7 +578,7 @@ courses = [{
     "author": "Jim Wilson",
     "level": "Intermediate",
     "duration": 268,
-    "rating": "4.5",
+    "rating": "4.6",
     "released": "2013-04-19T04:00:00.000Z",
     "users": []
 }, {
@@ -501,7 +589,7 @@ courses = [{
     "author": "Larry Schiefer",
     "level": "Intermediate",
     "duration": 119,
-    "rating": "4.3",
+    "rating": "4.4",
     "released": "2013-10-04T04:00:00.000Z",
     "users": []
 }, {
@@ -534,7 +622,7 @@ courses = [{
     "author": "Jim Wilson",
     "level": "Intermediate",
     "duration": 181,
-    "rating": "4.6",
+    "rating": "4.7",
     "released": "2012-12-11T05:00:00.000Z",
     "users": []
 }, {
@@ -545,7 +633,7 @@ courses = [{
     "author": "Jim Wilson",
     "level": "Advanced",
     "duration": 183,
-    "rating": "4.6",
+    "rating": "4.7",
     "released": "2011-08-22T04:00:00.000Z",
     "users": []
 }, {
@@ -655,7 +743,7 @@ courses = [{
     "author": "SeelySkonnard",
     "level": "Intermediate",
     "duration": 243,
-    "rating": "4.0",
+    "rating": "4.1",
     "released": "2010-08-27T04:00:00.000Z",
     "users": []
 }, {
@@ -710,7 +798,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Beginner",
     "duration": 225,
-    "rating": "4.4",
+    "rating": "4.5",
     "released": "2013-05-01T04:00:00.000Z",
     "users": []
 }, {
@@ -734,17 +822,6 @@ courses = [{
     "duration": 225,
     "rating": "4.5",
     "released": "2013-09-19T04:00:00.000Z",
-    "users": []
-}, {
-    "category": "ASP.NET",
-    "name": "Orchard Fundamentals",
-    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/orchard-fundamentals",
-    "description": "This course introduces the Orchard Content Management System. Orchard is an open source, extensible CMS for the .Net platform built on ASP.Net MVC3, C#4 and the Razor view engine. This course will show you how to get started with Orchard, from setting up a new site, to customizing the theme and adding your own content.",
-    "author": "Kevin Kuebler",
-    "level": "Beginner",
-    "duration": 177,
-    "rating": "4.6",
-    "released": "2011-09-13T04:00:00.000Z",
     "users": []
 }, {
     "category": "ASP.NET",
@@ -787,7 +864,7 @@ courses = [{
     "author": "Fritz Onion",
     "level": "Intermediate",
     "duration": 147,
-    "rating": "4.4",
+    "rating": "4.3",
     "released": "2010-11-23T05:00:00.000Z",
     "users": []
 }, {
@@ -809,7 +886,7 @@ courses = [{
     "author": "Travis Gosselin",
     "level": "Intermediate",
     "duration": 262,
-    "rating": "4.6",
+    "rating": "4.5",
     "released": "2013-12-11T05:00:00.000Z",
     "users": []
 }, {
@@ -820,7 +897,7 @@ courses = [{
     "author": "Yacine Khammal",
     "level": "Intermediate",
     "duration": 302,
-    "rating": "4.6",
+    "rating": "4.5",
     "released": "2010-06-17T04:00:00.000Z",
     "users": []
 }, {
@@ -831,7 +908,7 @@ courses = [{
     "author": "Scott Allen",
     "level": "Intermediate",
     "duration": 114,
-    "rating": "4.4",
+    "rating": "4.5",
     "released": "2010-08-13T04:00:00.000Z",
     "users": []
 }, {
@@ -875,7 +952,7 @@ courses = [{
     "author": "Scott Allen",
     "level": "Intermediate",
     "duration": 283,
-    "rating": "4.5",
+    "rating": "4.6",
     "released": "2009-04-11T04:00:00.000Z",
     "users": []
 }, {
@@ -886,7 +963,7 @@ courses = [{
     "author": "Troy Hunt",
     "level": "Intermediate",
     "duration": 204,
-    "rating": "4.7",
+    "rating": "4.6",
     "released": "2014-01-07T05:00:00.000Z",
     "users": []
 }, {
@@ -908,8 +985,19 @@ courses = [{
     "author": "Keith Brown",
     "level": "Intermediate",
     "duration": 37,
-    "rating": "4.2",
+    "rating": "4.0",
     "released": "2010-02-12T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "ASP.NET",
+    "name": "Build Your Own Application Framework with ASP.NET MVC 5",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/build-application-framework-aspdotnet-mvc-5",
+    "description": "In this course, you will learn all about ASP.NET MVC, the various pieces and components that can be extended or customized, and how to leverage those pieces to build your own application framework. You’ll learn about concepts such as editor and display templates, layouts, building custom helpers, action filters, data annotations, and more. After a thorough introduction to application frameworks concepts, you will see how to craft your own optimized infrastructure for your applications. You’ll learn how to create your own HTML helpers, action results, data annotations, and action filters, as well as how to customize and extend larger subsystems such as model metadata providers, model binders, view engines, and dependency resolvers. You will learn how the baked-in conventions can be customized, enriched with additional conventions, or completely overwritten with whatever best fits your day-to-day needs. By the end of the course, you will know how to bend ASP.NET MVC 5 to maximize your productivity.",
+    "author": "Matt Honeycutt",
+    "level": "Intermediate",
+    "duration": 205,
+    "rating": "4.8",
+    "released": "2014-03-13T04:00:00.000Z",
     "users": []
 }, {
     "category": "ASP.NET",
@@ -952,7 +1040,7 @@ courses = [{
     "author": "Brian Noyes",
     "level": "Intermediate",
     "duration": 231,
-    "rating": "4.7",
+    "rating": "4.6",
     "released": "2013-03-05T05:00:00.000Z",
     "users": []
 }, {
@@ -963,7 +1051,7 @@ courses = [{
     "author": "Jesse Liberty",
     "level": "Intermediate",
     "duration": 156,
-    "rating": "4.0",
+    "rating": "4.1",
     "released": "2013-11-29T05:00:00.000Z",
     "users": []
 }, {
@@ -974,7 +1062,7 @@ courses = [{
     "author": "Adam Tuliper",
     "level": "Intermediate",
     "duration": 300,
-    "rating": "4.7",
+    "rating": "4.6",
     "released": "2012-02-03T05:00:00.000Z",
     "users": []
 }, {
@@ -985,7 +1073,7 @@ courses = [{
     "author": "Dominick Baier",
     "level": "Intermediate",
     "duration": 200,
-    "rating": "4.6",
+    "rating": "4.7",
     "released": "2012-11-09T05:00:00.000Z",
     "users": []
 }, {
@@ -1007,7 +1095,7 @@ courses = [{
     "author": "Keith Brown",
     "level": "Intermediate",
     "duration": 79,
-    "rating": "4.4",
+    "rating": "4.3",
     "released": "2010-08-27T04:00:00.000Z",
     "users": []
 }, {
@@ -1034,28 +1122,6 @@ courses = [{
     "users": []
 }, {
     "category": "ASP.NET",
-    "name": "Introduction to Sitefinity",
-    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/sitefinity-introduction",
-    "description": "This course will intorduce you to the architecture of Sitefinity while demonstrating the different aspects of creating new Web Application, work with the backend, add content, news, images, videos and others content items while showing you where to get help and be part of the community of this excellent CMS system.",
-    "author": "Lino Tadros",
-    "level": "Intermediate",
-    "duration": 135,
-    "rating": "4.2",
-    "released": "2013-07-25T04:00:00.000Z",
-    "users": []
-}, {
-    "category": "ASP.NET",
-    "name": "Introduction to Sitefinity Development",
-    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/sitefinity-development-introduction",
-    "description": "This course will introduce you to development in Sitefinity using Viusal Studio and Thunder while demonstrating the creation of custom widgets and custom modules.",
-    "author": "Lino Tadros",
-    "level": "Intermediate",
-    "duration": 232,
-    "rating": "4.4",
-    "released": "2013-11-08T05:00:00.000Z",
-    "users": []
-}, {
-    "category": "ASP.NET",
     "name": "Introduction to the ASP.NET Web API",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/aspnetwebapi",
     "description": "In the world of HTML5, mobile devices, and modern development techniques HTTP has become the default option for building rich, scalable services. The ASP.NET Web API was designed from the ground up to meet the need of developers who want to build HTTP/RESTful services. The API provides a easy to use set of default options, but also provides a deep extensibility infrastructure to meet the demands of any scenario using HTTP.",
@@ -1073,8 +1139,41 @@ courses = [{
     "author": "Dan Wahlin",
     "level": "Intermediate",
     "duration": 269,
-    "rating": "4.6",
+    "rating": "4.5",
     "released": "2013-03-21T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "ASP.NET",
+    "name": "Play By Play: Azure Deployment with Scott Hanselman",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/play-by-play-hanselman",
+    "description": "Scott Hanselman is back with us and he and Rob have a mission: move the This Developer's Life podcast site up to Azure. Currently it's hosted on a shared account with MaximumASP and we want to move it into the cloud. This means migrating our database, moving our files, setting up Azure properly, and finally handling DNS changes. Scott knows Azure really well, but real life sometimes has a way of thwarting our best efforts! Can he pull this off?",
+    "author": "Scott Hanselman",
+    "level": "Intermediate",
+    "duration": 62,
+    "rating": "4.4",
+    "released": "2013-08-02T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "ASP.NET",
+    "name": "Play by Play: Knockout Refactoring",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/play-by-play-knockout-refactor",
+    "description": "In this single-episode production we're joined by Ryan Niemeyer, a core maintainer on the KnockoutJS project, who is going to help us refactor the code for the Knockout Cart that we put together for a previous episode here at Tekpub. The cart works well for us - it powers our Gifts and Groups page - but it could be cleaned up a bit to be a bit more \"idiomatic\" in the Knockout way. If you work with Knockout, this production is a must-watch. The code for this course is available at http://github.com/tekpub/knockout-cart.",
+    "author": "ConeryNiemeyer",
+    "level": "Intermediate",
+    "duration": 68,
+    "rating": "4.2",
+    "released": "2013-02-21T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "ASP.NET",
+    "name": "Play by Play: Triage with Ayende Rahien",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/play-by-play-ayende-triage",
+    "description": "You have an application that's on fire and a client that is about to go nuclear. You're not sure what's going on and you need to solve the problem RIGHT NOW. What do you do? How do you handle this pressure? We sit down with Ayende Rahien and tighten the screws: forget tests, forget theory. Our app is exploding and needs fixing NOW. Our Play by Play productions put you in a chair right next to an expert in the field, so you can see how they get their work done when confronted with a singular problem or task. These titles are free-form and uncut - we try not spend much time on explanations - just go Full Throttle to get the problem solved!",
+    "author": "Ayende Rahien (Oren Eini)",
+    "level": "Intermediate",
+    "duration": 67,
+    "rating": "4.2",
+    "released": "2011-10-03T04:00:00.000Z",
     "users": []
 }, {
     "category": "ASP.NET",
@@ -1086,6 +1185,17 @@ courses = [{
     "duration": 135,
     "rating": "4.6",
     "released": "2013-08-26T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "ASP.NET",
+    "name": "Real-World ASP.NET MVC3",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/real-world-aspdotnet-mvc3",
+    "description": "In this advanced, somewhat-opinionated production you'll get your very own startup off the ground using Microsoft's ASP.NET MVC framework. No silly demos, no adhering to high-concept to keep your ego inflated - this is high-intensity, Pressure-Driven Development to get a product out the door. Topics include testing, SaaS integration, reworking Membership, sane data access and walking the line between business owner and good coder. The exercise files for this course are available at: https://github.com/tekpub/mvc3.",
+    "author": "Rob Conery",
+    "level": "Intermediate",
+    "duration": 412,
+    "rating": "3.7",
+    "released": "2011-06-19T04:00:00.000Z",
     "users": []
 }, {
     "category": "ASP.NET",
@@ -1111,6 +1221,17 @@ courses = [{
     "users": []
 }, {
     "category": "ASP.NET",
+    "name": "Speed: ASP.NET MVC Edition",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/speed-aspdotnet-mvc-edition",
+    "description": "In this production, Sam Saffron (formerly of StackOverflow) rips apart Tekpub.com in an effort to optimize it for speed. As a result, Tekpub.com goes from an almost-failing YSlow grade to an A - with a Google Page Speed score of 96. Watch as Rob Conery optimizes his site - concatenating and minifying css and javascript, rolling to a CDN, setting up dynamic compression and proper image caching, unblocking page loads with proper script placement, and a lot more.",
+    "author": "Sam Saffron",
+    "level": "Intermediate",
+    "duration": 85,
+    "rating": "4.5",
+    "released": "2012-07-02T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "ASP.NET",
     "name": "Using Glimpse With ASP.NET, MVC4, and Entity Framework",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/using-glimpse-aspdotnet-mvc4",
     "description": "If you are using ASP.NET, especially if you are using ASP.NET MVC, you need to be using Glimpse! Glimpse is an amazing open source and free diagnostics platform for the web. Glimpse lets you see diagnostics information about what is happening on your server directly in your page through a small diagnostics window completely rendered in JavaScript. Out of the box, Glimpse can show you all kinds of information about your MVC application, like what routes are registered, what the flow was through the MVC pipeline and how the models were bound. In this course I walk you through getting Glimpse set up in your application. Then, I show you how to use the Glimpse tabs to understand what is going on in your ASP.NET application. After that, I'll take you through the very useful ASP.NET MVC tabs and show you how to diagnose a real problem in an ASP.NET MVC 4 application using glimpse. Once we learn all about Glimpse, it's time to learn about plugins. In the last two modules of the course, I first show you how to install and use some of the common Glimpse plugins, then I show you how easy it is to actually create your own Glimpse plugin. So, if you are an ASP.NET developer and you haven't heard of Glimpse, you'll definitely want to check out this course. It will be well worth your time. And if you have heard about Glimpse, but haven't felt like you have had the time to learn how to use it, this course will help you to become a Glimpse expert and learn everything you need to know to start using Glimpse in just a few hours.",
@@ -1119,6 +1240,17 @@ courses = [{
     "duration": 144,
     "rating": "4.6",
     "released": "2013-05-28T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "ASP.NET",
+    "name": "Using MongoDB with ASP.NET MVC",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/using-mongodb-aspdotnet-mvc",
+    "description": "Interested in using MongoDB to store information in your ASP.NET MVC applications? This course covers the decisions you will face and the tools available to incrementally build an MVC application with MongoDB. You will learn how to connect to MongoDB using the official C# driver, create documents and customize serialization, overcome the object relational impedance mismatch and start creating rich domain models, store and modify documents, query documents with both LINQ and Mongo query styles, and store files with GridFS. At the end of this course, you will have the skills necessary to begin using MongoDB in your .NET applications.",
+    "author": "Wes McClure",
+    "level": "Intermediate",
+    "duration": 192,
+    "rating": "4.6",
+    "released": "2014-04-04T04:00:00.000Z",
     "users": []
 }, {
     "category": "ASP.NET",
@@ -1133,14 +1265,14 @@ courses = [{
     "users": []
 }, {
     "category": "ASP.NET",
-    "name": "Advanced Orchard",
-    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/adv-orchard",
-    "description": "This course will show you how to build a custom Orchard module, from the initial creation of the module all the way through publishing it to the Orchard Gallery. Along the way we'll learn a lot of concepts and techniques for Orchard module development. The topic of our module will be Movies. By the end of the course, we'll be able to enter, edit and view Movie content items in Orchard. We'll also be able to enter Actors with a many-to-many relationship to movies. And we'll implement some advanced features like importing movies from an external service, and automatically displaying similar movies to the user based on a Lucene search.",
-    "author": "Kevin Kuebler",
-    "level": "Advanced",
-    "duration": 252,
-    "rating": "4.6",
-    "released": "2012-04-06T04:00:00.000Z",
+    "name": "Web API v2 Security",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/webapi-v2-security",
+    "description": "The main feature focus of ASP.NET Web API v2 was security. There's a brand new authentication system and support for popular authentication methods, like OAuth2 tokens, that is already built-in. Additionally, it is now much easier to use Web APIs from JavaScript clients and the new security extensibility gives you powerful features to integrate your APIs in arbitrary security systems.",
+    "author": "Dominick Baier",
+    "level": "Intermediate",
+    "duration": 372,
+    "rating": "4.7",
+    "released": "2014-04-12T04:00:00.000Z",
     "users": []
 }, {
     "category": "ASP.NET",
@@ -1150,7 +1282,7 @@ courses = [{
     "author": "Fritz Onion",
     "level": "Advanced",
     "duration": 360,
-    "rating": "4.5",
+    "rating": "4.6",
     "released": "2008-12-05T05:00:00.000Z",
     "users": []
 }, {
@@ -1161,7 +1293,7 @@ courses = [{
     "author": "Fritz Onion",
     "level": "Advanced",
     "duration": 173,
-    "rating": "4.4",
+    "rating": "4.2",
     "released": "2008-09-30T04:00:00.000Z",
     "users": []
 }, {
@@ -1183,7 +1315,7 @@ courses = [{
     "author": "Steve Michelotti",
     "level": "Advanced",
     "duration": 104,
-    "rating": "4.5",
+    "rating": "4.6",
     "released": "2011-08-15T04:00:00.000Z",
     "users": []
 }, {
@@ -1249,7 +1381,7 @@ courses = [{
     "author": "Dr. Joe Hummel",
     "level": "Beginner",
     "duration": 269,
-    "rating": "4.6",
+    "rating": "4.7",
     "released": "2013-03-25T04:00:00.000Z",
     "users": []
 }, {
@@ -1304,7 +1436,7 @@ courses = [{
     "author": "FalcoLangit",
     "level": "Beginner",
     "duration": 74,
-    "rating": "4.6",
+    "rating": "4.5",
     "released": "2013-03-25T04:00:00.000Z",
     "users": []
 }, {
@@ -1320,13 +1452,46 @@ courses = [{
     "users": []
 }, {
     "category": "Big Data",
+    "name": "Big Data Analytics with Tableau",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/big-data-analytics-tableau",
+    "description": "Analyzing terabytes of data can be daunting, so what do you do with petabytes? The era of Big Data is upon us and it's time to sharpen up the toolbox in this new genre of systems and technologies. In this course Ben explains the evolution of Big Data systems, as well as, the various architectures and popular vendors in this space. After covering the fundamentals of Big Data systems Ben covers how to access these systems using Tableau Software. Using Tableau Software he covers how to work with your Big Data and visualize in ways that will leave your boss singing your praise.",
+    "author": "Ben Sullins",
+    "level": "Intermediate",
+    "duration": 224,
+    "rating": "4.2",
+    "released": "2013-07-22T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Big Data",
+    "name": "Big Data: The Big Picture",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/bigdata-bigpicture",
+    "description": "In this course, ZDNet’s Big Data correspondent Andrew Brust teaches you all about Big Data. This course will get you up and running with the definitions and technologies you need to know, and the vendors you need to know about. By the end of the course, you’ll know what Big Data is, how it can integrate with conventional database and Business Intelligence (BI) technologies, and how to devise a strategy for adopting Big Data in your organization. No Big Data or NoSQL knowledge is required, but a lot will be imparted. This course is aimed at executives and business decision makers, and is actionable for technologists as well.",
+    "author": "Andrew Brust",
+    "level": "Intermediate",
+    "duration": 88,
+    "rating": "4.1",
+    "released": "2012-10-31T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Big Data",
+    "name": "SQL Big Data Convergence - The Big Picture",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/sql-big-data-convergence-big-picture",
+    "description": "This course explains what Big Data, Hadoop and Massively Parallel Processing (MPP) data warehouse technologies are, and how the latter two are converging technologically. Products from Hadapt, Teradata, ParAccel, Microsoft and Cloudera -- all of which integrate with Apache Hadoop -- are investigated",
+    "author": "Andrew Brust",
+    "level": "Intermediate",
+    "duration": 81,
+    "rating": "4.1",
+    "released": "2013-03-07T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Big Data",
     "name": "SQL on Hadoop - Analyzing Big Data with Hive",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/sql-hadoop-analyzing-big-data-hive",
     "description": "From developer to analyst, this course tackles a few big questions about big data: Why does this technology exist and why do I need it? How can I get the best out of it utilizing something familiar like SQL and how does this all fit together in an ever-evolving eco-system? This course will introduce the concepts of distributed computing, Hadoop and MapReduce and then goes into great detail into Apache Hive which is an SQL-like query language that can be used with Hadoop and NoSQL databases like HBase and Cassandra. The course presents some challenges you might experience solving real production problems and how Hive makes that task easier to accomplish.",
     "author": "Ahmad Alkilani",
     "level": "Intermediate",
     "duration": 256,
-    "rating": "4.4",
+    "rating": "4.5",
     "released": "2013-10-08T04:00:00.000Z",
     "users": []
 }, {
@@ -1337,7 +1502,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Beginner",
     "duration": 405,
-    "rating": "4 s",
+    "rating": "4.2",
     "released": "2008-06-01T04:00:00.000Z",
     "users": []
 }, {
@@ -1348,7 +1513,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Beginner",
     "duration": 232,
-    "rating": "4.4",
+    "rating": "4.3",
     "released": "2009-11-24T05:00:00.000Z",
     "users": []
 }, {
@@ -1359,7 +1524,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Beginner",
     "duration": 147,
-    "rating": "4.3",
+    "rating": "4.2",
     "released": "2010-01-12T05:00:00.000Z",
     "users": []
 }, {
@@ -1414,7 +1579,7 @@ courses = [{
     "author": "Mohamad Halabi",
     "level": "Intermediate",
     "duration": 307,
-    "rating": "4.2",
+    "rating": "4.3",
     "released": "2013-11-19T05:00:00.000Z",
     "users": []
 }, {
@@ -1463,6 +1628,17 @@ courses = [{
     "users": []
 }, {
     "category": "Business Intelligence",
+    "name": "Business Dashboard Fundamentals",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/business-dashboard-fundamentals",
+    "description": "Business dashboards are the cornerstone of Business Intelligence deliverables in today's information economy. The better you can properly visualize and present data in dashboard form the more effective use of your companies data you can make. This course explains all the concepts behind why certain charts and dashboards stand out as more valuable than others and walks you through step-by-step how to build them using tools you already know and love, Microsoft Excel and Tableau Software's free version, Tableau Public.",
+    "author": "Ben Sullins",
+    "level": "Beginner",
+    "duration": 216,
+    "rating": "4.4",
+    "released": "2014-02-20T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Business Intelligence",
     "name": "Data Analysis Fundamentals with Tableau",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/data-analysis-fundamentals-tableau",
     "description": "The cleanest most accurate data sources in the world are useless if no one can see and understand them. This course goes into detail showing you how to use Tableau Software's powerful platform for visual analysis and business intelligence to do just that, help your audience see and understand their data like never before. You'll learn how to connect to many data sources at once, enhance them with calculations and metrics, then display them using proper visual analysis techniques. Prepare to become a data rockstar!",
@@ -1502,7 +1678,7 @@ courses = [{
     "author": "Robert Cain",
     "level": "Beginner",
     "duration": 43,
-    "rating": "4.1",
+    "rating": "4.0",
     "released": "2011-05-17T04:00:00.000Z",
     "users": []
 }, {
@@ -1524,7 +1700,7 @@ courses = [{
     "author": "Robert Cain",
     "level": "Beginner",
     "duration": 67,
-    "rating": "4.3",
+    "rating": "4.4",
     "released": "2011-04-25T04:00:00.000Z",
     "users": []
 }, {
@@ -1535,7 +1711,7 @@ courses = [{
     "author": "Stacia Misner",
     "level": "Beginner",
     "duration": 288,
-    "rating": "4.4",
+    "rating": "4.5",
     "released": "2010-12-14T05:00:00.000Z",
     "users": []
 }, {
@@ -1546,7 +1722,7 @@ courses = [{
     "author": "Stacia Misner",
     "level": "Beginner",
     "duration": 184,
-    "rating": "4.5",
+    "rating": "4.6",
     "released": "2011-02-14T05:00:00.000Z",
     "users": []
 }, {
@@ -1562,35 +1738,13 @@ courses = [{
     "users": []
 }, {
     "category": "Business Intelligence",
-    "name": "Big Data Analytics with Tableau",
-    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/big-data-analytics-tableau",
-    "description": "Analyzing terabytes of data can be daunting, so what do you do with petabytes? The era of Big Data is upon us and it's time to sharpen up the toolbox in this new genre of systems and technologies. In this course Ben explains the evolution of Big Data systems, as well as, the various architectures and popular vendors in this space. After covering the fundamentals of Big Data systems Ben covers how to access these systems using Tableau Software. Using Tableau Software he covers how to work with your Big Data and visualize in ways that will leave your boss singing your praise.",
-    "author": "Ben Sullins",
-    "level": "Intermediate",
-    "duration": 224,
-    "rating": "4.3",
-    "released": "2013-07-22T04:00:00.000Z",
-    "users": []
-}, {
-    "category": "Business Intelligence",
-    "name": "Big Data: The Big Picture",
-    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/bigdata-bigpicture",
-    "description": "In this course, ZDNet’s Big Data correspondent Andrew Brust teaches you all about Big Data. This course will get you up and running with the definitions and technologies you need to know, and the vendors you need to know about. By the end of the course, you’ll know what Big Data is, how it can integrate with conventional database and Business Intelligence (BI) technologies, and how to devise a strategy for adopting Big Data in your organization. No Big Data or NoSQL knowledge is required, but a lot will be imparted. This course is aimed at executives and business decision makers, and is actionable for technologists as well.",
-    "author": "Andrew Brust",
-    "level": "Intermediate",
-    "duration": 88,
-    "rating": "4.0",
-    "released": "2012-10-31T04:00:00.000Z",
-    "users": []
-}, {
-    "category": "Business Intelligence",
     "name": "Data Visualizations Using Tableau Public",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/data-visualization-using-tableau-public",
     "description": "This course offers a hands-on introduction to Tableau Public. Learn to create and share visually appealing and informative infographic dashboards using Tableau Public.",
     "author": "Robert Horvick",
     "level": "Intermediate",
     "duration": 107,
-    "rating": "Not",
+    "rating": "4.4",
     "released": "2013-09-10T04:00:00.000Z",
     "users": []
 }, {
@@ -1612,8 +1766,19 @@ courses = [{
     "author": "Andrew Brust",
     "level": "Intermediate",
     "duration": 182,
-    "rating": "4.5",
+    "rating": "4.6",
     "released": "2013-06-12T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Business Intelligence",
+    "name": "Indexing, Querying and Analyzing Text with SQL Server 2012-2014",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/indexing-querying-analyzing-text-with-sqlserver-2012-2014",
+    "description": "It is hard to imagine searching for something on the Web without modern search engines like Bing or Google. However, most contemporary applications still limit users to exact searches only. For end users, even the standard SQL LIKE operator is not powerful enough for approximate searches. In addition, many documents are stored in modern databases; end users would probably like to get powerful search inside document contents as well. Text mining is also becoming more and more popular. Everybody would like to understand data from blogs, Web sites, and social media. Microsoft SQL Server in versions 2012 and 2014 enhances full-text search support that was substantially available in previous editions. Semantic Search, a new component in Full-Text Search, can help you understand the meaning of documents. Finally, the Term Extraction and Term Lookup components from SQL Server Integration Services also helps with text analysis.",
+    "author": "Dejan Sarka",
+    "level": "Intermediate",
+    "duration": 168,
+    "rating": "4.4",
+    "released": "2014-02-07T05:00:00.000Z",
     "users": []
 }, {
     "category": "Business Intelligence",
@@ -1634,7 +1799,7 @@ courses = [{
     "author": "Dejan Sarka",
     "level": "Intermediate",
     "duration": 147,
-    "rating": "4.1",
+    "rating": "4",
     "released": "2013-10-31T04:00:00.000Z",
     "users": []
 }, {
@@ -1645,7 +1810,7 @@ courses = [{
     "author": "Stacia Misner",
     "level": "Intermediate",
     "duration": 217,
-    "rating": "4.4",
+    "rating": "4.5",
     "released": "2013-09-19T04:00:00.000Z",
     "users": []
 }, {
@@ -1656,7 +1821,7 @@ courses = [{
     "author": "Bill Pearson",
     "level": "Intermediate",
     "duration": 250,
-    "rating": "Not",
+    "rating": "4.0",
     "released": "2013-12-11T05:00:00.000Z",
     "users": []
 }, {
@@ -1672,24 +1837,13 @@ courses = [{
     "users": []
 }, {
     "category": "Business Intelligence",
-    "name": "SQL Big Data Convergence - The Big Picture",
-    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/sql-big-data-convergence-big-picture",
-    "description": "This course explains what Big Data, Hadoop and Massively Parallel Processing (MPP) data warehouse technologies are, and how the latter two are converging technologically. Products from Hadapt, Teradata, ParAccel, Microsoft and Cloudera -- all of which integrate with Apache Hadoop -- are investigated",
-    "author": "Andrew Brust",
-    "level": "Intermediate",
-    "duration": 81,
-    "rating": "4.1",
-    "released": "2013-03-07T05:00:00.000Z",
-    "users": []
-}, {
-    "category": "Business Intelligence",
     "name": "Advanced Analysis Services",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/ssas-adv",
     "description": "This course covers advanced design topics related to dimensions and partitions. It explains how to utilize Analysis Services features for parent-child hierarchies, financial analytics, referenced dimensions and many-to-many relationships. It also demonstrates how to work with write back in Analysis Services for both dimensions and cells. In addition, this course provides guidance for managing Analysis Services performance and storage through the implementation of aggregations and partitions. Furthermore, this course expands topics introduced in the Analysis Services Fundamentals course by explaining how to manage design and data changes following initial implementation and how to implement alternative security scenarios. The features and demonstrations in this course focus on the SQL Server 2008 R2 release, although most topics also apply to all versions of Analysis Services (SQL Server 2005 and later).",
     "author": "Stacia Misner",
     "level": "Advanced",
     "duration": 272,
-    "rating": "4.6",
+    "rating": "4.7",
     "released": "2012-09-28T04:00:00.000Z",
     "users": []
 }, {
@@ -1716,6 +1870,17 @@ courses = [{
     "users": []
 }, {
     "category": "C#",
+    "name": "Accelerated C# Fundamentals",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/csharp-fundamentals",
+    "description": "C# is Microsoft's entry into the world of managed programming. Using a syntax that is deliberately reminiscent of Java, C++ and C, C# achieves a natural tradeoff of terseness and clarity, enabling programmers to express concepts in a clear and maintainable form. Note - this course was originally titled \"C# Fundamentals - Part 1\", but has been renamed to more accurately reflect the target audience and content of this course. The course content itself has not been changed since its original publication. For a beginner-level introduction to C#, watch \"C# Fundamentals with C# 5.0.\"",
+    "author": "Scott Allen",
+    "level": "Beginner",
+    "duration": 377,
+    "rating": "4.4",
+    "released": "2010-03-26T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "C#",
     "name": "C# From Scratch",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/csharp-from-scratch",
     "description": "C# is one of the most powerful and popular languages on the planet. In this course, you will learn all you need to know to get started programming with this object-oriented language that can be used for creating Windows and Console applications. This course assumes no prior programming experience.",
@@ -1738,24 +1903,24 @@ courses = [{
     "users": []
 }, {
     "category": "C#",
-    "name": "C# Fundamentals - Part 1",
-    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/csharp-fundamentals",
-    "description": "C# is Microsoft's entry into the world of managed programming. Using a syntax that is deliberately reminiscent of Java, C++ and C, C# achieves a natural tradeoff of terseness and clarity, enabling programmers to express concepts in a clear and maintainable form. Recent enhancements to the language have made it even more powerful than before, allowing programmers to work with C# in both an object-oriented and partially functional style.",
+    "name": "C# Fundamentals with C# 5.0",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/csharp-fundamentals-csharp5",
+    "description": "C# Fundamentals with C# 5.0 is designed to give you everything you need to become a productive C# developer on the .NET platform. We'll look at the syntax of C#, which is similar to Java, JavaScript, and C++, as well as learn about tools such as Visual Studio, and the object oriented programming paradigm.",
     "author": "Scott Allen",
     "level": "Beginner",
-    "duration": 377,
-    "rating": "4.4",
-    "released": "2010-03-26T04:00:00.000Z",
+    "duration": 374,
+    "rating": "4.8",
+    "released": "2014-02-28T05:00:00.000Z",
     "users": []
 }, {
     "category": "C#",
     "name": "Mastering C# 4.0",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/skeet-csharp4",
-    "description": "If you're just learning Microsoft's flagship language - or if you've been at it for years - this production will teach you a lot. Jon Skeet is well-known as the \"Chuck Norris\" of StackOverflow.com with inhuman skills when it comes to answering questions about C# 4.0. Tap his brain and learn the language from beginning to expert.",
+    "description": "If you're just learning Microsoft's flagship language - or if you've been at it for years - this production will teach you a lot. Jon Skeet is well-known as the \"Chuck Norris\" of StackOverflow.com with inhuman skills when it comes to answering questions about C# 4.0. Tap his brain and learn the language from beginning to expert. Course materials are available at: https://github.com/tekpub/DemoCode.",
     "author": "Jon Skeet",
     "level": "Beginner",
     "duration": 709,
-    "rating": "4.6",
+    "rating": "4.5",
     "released": "2011-04-16T04:00:00.000Z",
     "users": []
 }, {
@@ -1766,7 +1931,7 @@ courses = [{
     "author": "Tracey Wiedmeyer",
     "level": "Beginner",
     "duration": 214,
-    "rating": "3.9",
+    "rating": "4.3",
     "released": "2013-12-10T05:00:00.000Z",
     "users": []
 }, {
@@ -1777,7 +1942,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 196,
-    "rating": "4.5",
+    "rating": "4.6",
     "released": "2013-08-15T04:00:00.000Z",
     "users": []
 }, {
@@ -1804,13 +1969,24 @@ courses = [{
     "users": []
 }, {
     "category": "C#",
+    "name": "C# Collections Fundamentals",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/csharp-collections",
+    "description": "This course aims to empower you to take advantage of the surprisingly rich set of collections that are available in C#. You'll learn how to use the various collection types to store data as arrays, lists, dictionaries, linked lists, or sets, as well as how to customize collection behavior in C#. You'll also learn how many of these types work under the hood and the implications for performance. This course also covers enumerators and the collection interfaces.",
+    "author": "Simon Robinson",
+    "level": "Intermediate",
+    "duration": 357,
+    "rating": "4.6",
+    "released": "2014-04-08T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "C#",
     "name": "C# Design Strategies",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/csharp-design-strategies",
     "description": "In this advanced series, Jon Skeet (of Stack Overflow fame) dives into various strategies and patterns you might want to consider when building your application. Topics covered include core Gang of Four design patterns such as the Singleton, Strategy, State and others as well as good habits such as using interfaces, Dependency Injection and Inversion of Control.",
     "author": "Jon Skeet",
     "level": "Intermediate",
     "duration": 195,
-    "rating": "4.3",
+    "rating": "4.2",
     "released": "2012-04-26T04:00:00.000Z",
     "users": []
 }, {
@@ -1832,7 +2008,7 @@ courses = [{
     "author": "Elton Stoneman",
     "level": "Intermediate",
     "duration": 189,
-    "rating": "4.3",
+    "rating": "4.4",
     "released": "2013-12-16T05:00:00.000Z",
     "users": []
 }, {
@@ -1845,17 +2021,6 @@ courses = [{
     "duration": 196,
     "rating": "4.5",
     "released": "2013-09-27T04:00:00.000Z",
-    "users": []
-}, {
-    "category": "C#",
-    "name": "C# Fundamentals - Part 2",
-    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/csharp-fundamentals-2",
-    "description": "C# Fundamentals - Part 2 introduces you to the variety of programming styles supported by the C# language. At its core, C# is an object-oriented, statically-typed language that lends itself to procedural and object-oriented programming, but recent additions to the language have made it much easier to develop using other programming paradigms, most notably, dynamic. This course covers object-oriented programming, functional programming, the dynamic language runtime, LINQ programming, and software craftsmanship.",
-    "author": "Scott Allen",
-    "level": "Intermediate",
-    "duration": 164,
-    "rating": "4.6",
-    "released": "2011-09-30T04:00:00.000Z",
     "users": []
 }, {
     "category": "C#",
@@ -1878,6 +2043,17 @@ courses = [{
     "duration": 172,
     "rating": "4.7",
     "released": "2013-07-02T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "C#",
+    "name": "C# Programming Paradigms",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/csharp-fundamentals-2",
+    "description": "C# Programming Paradigms introduces you to the variety of programming styles supported by the C# language. At its core, C# is an object-oriented, statically-typed language that lends itself to procedural and object-oriented programming, but recent additions to the language have made it much easier to develop using other programming paradigms, most notably, dynamic programming and functional programming. This course also covers programming with the Language Integrated Query features of C#, and software craftsmanship. Note - this course was originally titled \"C# Fundamentals - Part 2,\" but has been renamed to more accurately reflect the target audience and content of this course. The course content itself has not been changed since its original publication.",
+    "author": "Scott Allen",
+    "level": "Intermediate",
+    "duration": 164,
+    "rating": "4.6",
+    "released": "2011-09-30T04:00:00.000Z",
     "users": []
 }, {
     "category": "C#",
@@ -1909,8 +2085,19 @@ courses = [{
     "author": "Jim Wilson",
     "level": "Intermediate",
     "duration": 190,
-    "rating": "4.8",
+    "rating": "4.7",
     "released": "2014-01-15T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "C#",
+    "name": "Cross Platform iOS/Android with Visual Studio and C# - Part 2",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/cross-platform-ios-android-visual-studio-csharp-pt2",
+    "description": "Leverage your skills in Microsoft Visual Studio and C# to build cross-platform apps that run on both Android and iOS. In the second part of this series, we focus on building a rich user experience that embraces the capabilities and feel of each platform. In this course we expand the application from part 1 to incorporate rich gesture-based paging allowing the user to perform swipe actions to move between data items. We introduce a master detail relationship to manage groups of data items utilizing the appropriate metaphor for each platform. We also incorporate platform-specific features such as page-turning animations on iOS and slide-out navigation drawers on Android.",
+    "author": "Jim Wilson",
+    "level": "Intermediate",
+    "duration": 231,
+    "rating": "4.4",
+    "released": "2014-03-11T04:00:00.000Z",
     "users": []
 }, {
     "category": "C#",
@@ -1931,8 +2118,19 @@ courses = [{
     "author": "Ian Griffiths",
     "level": "Advanced",
     "duration": 75,
-    "rating": "4.4",
+    "rating": "4.3",
     "released": "2010-12-10T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "C#",
+    "name": "C# Language Internals - Part 1",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/csharp-language-internals",
+    "description": "This course takes .NET developers behind the scenes of C# language features to gain a deeper understanding of the language, the Intermediate Language (IL) it compiles into, and the Common Language Runtime (CLR) it runs on. By studying language internals, you can make well-informed design choices, solve hard debugging puzzles quicker, and understand the performance ramifications of using various language features. This is the first part of a two-part course.",
+    "author": "Bart De Smet",
+    "level": "Advanced",
+    "duration": 310,
+    "rating": "4.6",
+    "released": "2014-01-29T05:00:00.000Z",
     "users": []
 }, {
     "category": "C++",
@@ -1964,7 +2162,7 @@ courses = [{
     "author": "Kenny Kerr",
     "level": "Intermediate",
     "duration": 434,
-    "rating": "Not",
+    "rating": "4.8",
     "released": "2013-12-10T05:00:00.000Z",
     "users": []
 }, {
@@ -1975,7 +2173,7 @@ courses = [{
     "author": "Giovanni Dicanio",
     "level": "Intermediate",
     "duration": 168,
-    "rating": "4.4",
+    "rating": "4.5",
     "released": "2013-11-01T04:00:00.000Z",
     "users": []
 }, {
@@ -1986,7 +2184,7 @@ courses = [{
     "author": "Kate Gregory",
     "level": "Intermediate",
     "duration": 174,
-    "rating": "4.5",
+    "rating": "4.6",
     "released": "2011-12-14T05:00:00.000Z",
     "users": []
 }, {
@@ -2008,7 +2206,7 @@ courses = [{
     "author": "Alex Korban",
     "level": "Intermediate",
     "duration": 201,
-    "rating": "4.6",
+    "rating": "4.3",
     "released": "2013-11-13T05:00:00.000Z",
     "users": []
 }, {
@@ -2035,13 +2233,24 @@ courses = [{
     "users": []
 }, {
     "category": "C++",
+    "name": "Introduction to D",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/introduction-to-d",
+    "description": "This course introduces D, a systems programming language designed to offer the same power and flexibility as C++ coupled with the convenience of features found in modern programming languages such as C# or Java. D is a native, compiled object-oriented programming language that manages to avoid some of C/C++ shortcomings such as imprecise data types or the need for manual memory management. On the other hand, D lends itself to performance-critical tasks: if needed, it supports various performance-improving approaches such as an ability to disable array bound checks. This course covers the basic features of D, such as its type system, support for error handling, the way it handles OOP as well as D's approach to concurrency.",
+    "author": "Dmitri Nesteruk",
+    "level": "Intermediate",
+    "duration": 303,
+    "rating": "4.8",
+    "released": "2014-04-11T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "C++",
     "name": "Modern C++ Concurrency",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/modern-cplusplus-concurrency",
     "description": "This course will introduce you to modern C++ concurrency on the Windows operating system. Unfortunately, standard or portable concurrency is still in its infancy so a comprehensive study of concurrency cannot get away from the practical and platform-specific aspects of the craft. As such, this course uses the Windows operating system as the playground to explore concurrency in C++. This course will prepare you with a deep understanding of threads and synchronization at the OS level, including modern synchronization primitives such as slim reader/writer locks and condition variables. You will learn all about the mighty Windows thread pool API and the Concurrency Runtime. Finally, you will be introduced to some of the shortcomings that plague the C++11 Thread Support Library.",
     "author": "Kenny Kerr",
     "level": "Intermediate",
     "duration": 273,
-    "rating": "4.7",
+    "rating": "4.6",
     "released": "2013-10-15T04:00:00.000Z",
     "users": []
 }, {
@@ -2052,7 +2261,7 @@ courses = [{
     "author": "Kenny Kerr",
     "level": "Intermediate",
     "duration": 241,
-    "rating": "4.4",
+    "rating": "4.5",
     "released": "2013-08-28T04:00:00.000Z",
     "users": []
 }, {
@@ -2063,8 +2272,19 @@ courses = [{
     "author": "Dmitri Nesteruk",
     "level": "Intermediate",
     "duration": 252,
-    "rating": "4.5",
+    "rating": "4.6",
     "released": "2013-10-03T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "C++",
+    "name": "The C Programming Language in Action",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/c-programming-language-in-action",
+    "description": "C is a systems programming language and sits at the heart of practically every computing device imaginable. It offers unrivaled performance and supports more devices, processors, and micro-controllers than any other language. This course aims to get you up to speed with the C programming language and libraries. You will learn everything from installing popular compilers, how to compile programs at the command prompt, and how to make sense of the C programming language and libraries.",
+    "author": "Kenny Kerr",
+    "level": "Intermediate",
+    "duration": 252,
+    "rating": "4.2",
+    "released": "2014-03-10T04:00:00.000Z",
     "users": []
 }, {
     "category": "C++",
@@ -2107,7 +2327,7 @@ courses = [{
     "author": "Michael Lopp",
     "level": "Beginner",
     "duration": 30,
-    "rating": "3.7",
+    "rating": "3.6",
     "released": "2013-07-03T04:00:00.000Z",
     "users": []
 }, {
@@ -2123,6 +2343,17 @@ courses = [{
     "users": []
 }, {
     "category": "Careers",
+    "name": "Change It Up!",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/changeitup",
+    "description": "In the late spring of 2014, Rob Ashton visited the Tekpub offices in Hawaii and Rob Conery sat with him and discussed the career shift he was currently going through. Rob dropped everything - his current job, his apartment, most of his possessions - and got on a train headed for Scotland. From there he began his odyssey: traveling the world and coding for free. His only request was that you pay for his travel expenses and put a roof over his head. This might not be the path for everyone - but it's inspiring to hear Rob's story about taking control of his life and career, giving himself the freedom to choose what he wants to do. I found this story highly inspiring - and I hope you do to.",
+    "author": "Rob Conery",
+    "level": "Beginner",
+    "duration": 53,
+    "rating": "4.5",
+    "released": "2013-06-27T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Careers",
     "name": "Communications: How to Talk, Write, Present, and Get Ahead!",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/communication-skills",
     "description": "Communicating effectively is one of the most essential aspects of your job, and is the key to progressing in your career. But how do you do it? Most companies do not provide training on how to communicate so this course fills that gap for you. Firstly you'll learn the foundational skills necessary for any form of communication. Then you'll learn the art of running a successful meeting, along with how to handle some specific meeting scenarios like code reviews and 1-1s. You'll learn how to write effectively, whether emails, articles, or reports, and how to start and maintain a popular blog. Then you'll move on to planning and writing a presentation, including how to pick a topic, formulate an effective slide-deck template, and write the presentation content, all depending on what type of presentation it is. Finally, you'll learn how deliver a top-notch presentation, including preparation, managing nerves, and a whole raft of tips and tricks on what to do and what not to do. In today's busy work environment you can't afford to have sub-standard communication skills or you'll be left behind - but if you watch this course and practice what you learn in it, you'll boost your skills and start to get ahead! This course is perfect for anyone working in the I.T. industry, with any amount of technical experience and communication skills.",
@@ -2131,6 +2362,17 @@ courses = [{
     "duration": 149,
     "rating": "4.4",
     "released": "2013-02-08T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Careers",
+    "name": "Designing a Killer Job Search Strategy",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/job-search-strategies",
+    "description": "This course will help you create the tactics of your own job search strategy. Borrow from current and principle-based job search systems to help you get the highest return on the time you spend as you advance in your career and transition quickly to a new role.",
+    "author": "Jason Alba",
+    "level": "Beginner",
+    "duration": 103,
+    "rating": "4.2",
+    "released": "2014-04-18T04:00:00.000Z",
     "users": []
 }, {
     "category": "Careers",
@@ -2151,8 +2393,8 @@ courses = [{
     "author": "HanselmanConery",
     "level": "Beginner",
     "duration": 109,
-    "rating": "4.7",
-    "released": "2013-06-06T04:00:00.000Z",
+    "rating": "4.6",
+    "released": "2013-03-06T05:00:00.000Z",
     "users": []
 }, {
     "category": "Careers",
@@ -2173,7 +2415,7 @@ courses = [{
     "author": "Dan Appleman",
     "level": "Beginner",
     "duration": 95,
-    "rating": "4.6",
+    "rating": "4.5",
     "released": "2014-01-01T05:00:00.000Z",
     "users": []
 }, {
@@ -2206,7 +2448,7 @@ courses = [{
     "author": "Jason Alba",
     "level": "Beginner",
     "duration": 107,
-    "rating": "Not",
+    "rating": "3.5",
     "released": "2013-12-04T05:00:00.000Z",
     "users": []
 }, {
@@ -2228,7 +2470,7 @@ courses = [{
     "author": "John Papa",
     "level": "Beginner",
     "duration": 147,
-    "rating": "4.5",
+    "rating": "4.6",
     "released": "2013-05-02T04:00:00.000Z",
     "users": []
 }, {
@@ -2241,6 +2483,17 @@ courses = [{
     "duration": 81,
     "rating": "4.6",
     "released": "2011-12-09T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Careers",
+    "name": "Becoming an Outlier: Reprogramming the Developer Mind",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/career-reboot-for-developer-mind",
+    "description": "As a developer, your image and your mind are your product. So to get what you’ve never had, you must do what you’ve never done with these precious tools. If you want to make a bigger impact, raise your income, and code with purpose, this course will outline the path to get you there. This course is about making a paradigm shift in how you manage your career. We’ll discuss concrete activities and skills that transform average developers into outliers. You’ll learn why developers can't afford cable, ways to improve your “luck surface area”, and techniques to compress your career through accelerated development. You'll learn the foundational skills for becoming an outlier: command your time, hack your image, and own your trajectory. Prepare to think about your development career in a whole new way.",
+    "author": "Cory House",
+    "level": "Intermediate",
+    "duration": 153,
+    "rating": "4.7",
+    "released": "2014-04-24T04:00:00.000Z",
     "users": []
 }, {
     "category": "Careers",
@@ -2272,8 +2525,19 @@ courses = [{
     "author": "Jason Alba",
     "level": "Intermediate",
     "duration": 115,
-    "rating": "4.4",
+    "rating": "4.3",
     "released": "2014-01-07T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Careers",
+    "name": "Generating Multiple Income Streams",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/generating-multiple-income-streams",
+    "description": "Learn how to generate multiple income streams by producing e-books, hard copy books, mobile apps, and mobile games. Do it all without learning any code or having to pay major upfront fees.",
+    "author": "Jay Mcfarland",
+    "level": "Intermediate",
+    "duration": 205,
+    "rating": "4.1",
+    "released": "2014-04-10T04:00:00.000Z",
     "users": []
 }, {
     "category": "Careers",
@@ -2283,7 +2547,7 @@ courses = [{
     "author": "Paul D. Sheriff",
     "level": "Intermediate",
     "duration": 167,
-    "rating": "4.8",
+    "rating": "4.7",
     "released": "2013-09-12T04:00:00.000Z",
     "users": []
 }, {
@@ -2294,7 +2558,7 @@ courses = [{
     "author": "Dan Appleman",
     "level": "Intermediate",
     "duration": 253,
-    "rating": "4.7",
+    "rating": "4.6",
     "released": "2013-09-20T04:00:00.000Z",
     "users": []
 }, {
@@ -2305,7 +2569,7 @@ courses = [{
     "author": "Jason Alba",
     "level": "Intermediate",
     "duration": 166,
-    "rating": "Not",
+    "rating": "4.2",
     "released": "2013-12-02T05:00:00.000Z",
     "users": []
 }, {
@@ -2327,7 +2591,7 @@ courses = [{
     "author": "David Davis",
     "level": "Beginner",
     "duration": 276,
-    "rating": "4.5",
+    "rating": "4.3",
     "released": "2012-07-10T04:00:00.000Z",
     "users": []
 }, {
@@ -2338,7 +2602,7 @@ courses = [{
     "author": "Richard Seroter",
     "level": "Intermediate",
     "duration": 226,
-    "rating": "4.3",
+    "rating": "4.4",
     "released": "2013-04-09T04:00:00.000Z",
     "users": []
 }, {
@@ -2349,8 +2613,30 @@ courses = [{
     "author": "Robert Horvick",
     "level": "Intermediate",
     "duration": 67,
-    "rating": "4.3",
+    "rating": "4.4",
     "released": "2013-03-06T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Computer Science",
+    "name": "Data Visualization for Developers",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/data-visualization-developers",
+    "description": "At some point in your software development career, you may be called upon to produce a graph or a chart. Delivering on even a simple request can be remarkably complex. How much data is there and where does it live? What kind of chart should you use? Should the chart be rendered on a server or on the client? What kind of clients should you support, and what are the consequences of that choice? This course introduces every aspect of visualization, from story, to numbers, to architecture, to code.",
+    "author": "Dan Appleman",
+    "level": "Intermediate",
+    "duration": 115,
+    "rating": "Not",
+    "released": "2014-04-25T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Computer Science",
+    "name": "Introduction to Machine Learning with ENCOG 3",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/introduction-to-machine-learning-encog",
+    "description": "This course is focused on implementation and applications of various machine learning methods. As machine learning is a very vast area, this course will be targeted more towards one of the machine learning methods which is neural networks. The course will try to make a base foundation first by explaining machine learning through some real world applications and various associated components. In this course, we'll take one of the open source machine learning framework for .NET, which is ENCOG. The course will explain how ENCOG fits into the picture for machine learning programming. Then we'll learn to create various neural network components using ENCOG and how to combine these components for real world scenarios. We'll go in detail of feed forward networks and various propagation training methodologies supported in ENCOG. We'll also talk about data preparation for neural networks using normalization process. Finally, we will take a few more case studies and will try to implement tasks of classification & regression. In the course I will also give some tips & tricks for effective & quick implementations of neural networks in real world applications.",
+    "author": "Abhishek Kumar",
+    "level": "Intermediate",
+    "duration": 139,
+    "rating": "4.4",
+    "released": "2013-07-22T04:00:00.000Z",
     "users": []
 }, {
     "category": "Computer Science",
@@ -2365,25 +2651,91 @@ courses = [{
     "users": []
 }, {
     "category": "Computer Science",
-    "name": "Advanced Machine Learning With ENCOG",
+    "name": "Advanced Machine Learning with ENCOG",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/advanced-machine-learning-encog",
     "description": "Are you worried about your neural network model prediction accuracy? Are you not sure about your neural network model selection for your machine learning problem? This course will introduce you to more advanced topics in machine learning. The previous introductory course, \"Introduction to Machine Learning with ENCOG 3,\" laid out a solid foundation of machine learning and neural networks. This course will build upon that foundation for more advanced machine learning implementations. In this course, you will learn about various neural network optimization techniques to overcome the problems of underfitting and overfitting and to create more accurate predictive models. This course will also provide an overall picture of various neural network architectures and reasons for their existence. This course will be focused towards implementation of various supervised feed forward and feedback networks. During the whole course, we will be using open source machine learning framework ENCOG to implement various concepts discussed in this course. Although the implementations in this course are ENCOG-based, concepts discussed in this course are widely applicable in other frameworks or even in custom development.",
     "author": "Abhishek Kumar",
     "level": "Advanced",
     "duration": 251,
-    "rating": "4.2",
+    "rating": "4.4",
     "released": "2013-11-27T05:00:00.000Z",
     "users": []
 }, {
+    "category": "Computer Science",
+    "name": "Advanced Machine Learning with ENCOG - Part 2",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/advanced-machine-learning-encog-pt2",
+    "description": "Finding patterns in a multidimensional dataset has always been a challenging task, but self-organizing maps can simplify this process and can help to find interesting patterns and inferences. In this course, you will learn not only the fundamentals of self-organizing maps but also the implementation in a C# application using the ENCOG machine learning framework. In this course, you will also learn to use Hopfield networks in a pattern recall and reconstruction application. This course will also provide a real world case study on time series forecasting, where you will learn to forecast future behavior using historical values. The course also covers another very important aspect of machine learning: optimization. You will learn to solve optimization problems with the help of genetic algorithms. The concepts learned in this course are applicable for developers working in any other framework in any other language.",
+    "author": "Abhishek Kumar",
+    "level": "Advanced",
+    "duration": 221,
+    "rating": "Not",
+    "released": "2014-03-24T04:00:00.000Z",
+    "users": []
+}, {
     "category": "Content Management Systems",
-    "name": "Drupal 7: Foundation",
-    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/drupal7-foundation",
-    "description": "This course provides a solid foundation for developing custom content management systems using the Drupal 7 Content Management Framework. Through dozens of thoroughly explained, direct demonstrations, you will learn how to be productive using the core tools and building blocks of a Drupal site: modules, themes, content types, nodes, menus, blocks, URL patterns, views, and more.",
-    "author": "Leo Schuman",
+    "name": "Orchard Fundamentals",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/orchard-fundamentals",
+    "description": "This course introduces the Orchard Content Management System. Orchard is an open source, extensible CMS for the .Net platform built on ASP.Net MVC3, C#4 and the Razor view engine. This course will show you how to get started with Orchard, from setting up a new site, to customizing the theme and adding your own content.",
+    "author": "Kevin Kuebler",
     "level": "Beginner",
-    "duration": 215,
+    "duration": 177,
+    "rating": "4.5",
+    "released": "2011-09-13T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Content Management Systems",
+    "name": "DotNetNuke Fundamentals",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/dotnetnuke-fundamentals",
+    "description": "This course is aimed at beginner DotNetNuke (DNN) users. It is designed to get you started in building your own site with DotNetNuke. It takes you on a Guided Tour of some of the more important features of DNN, and concludes with a tutorial on building your own DNN module extension.",
+    "author": "Charles Nurse",
+    "level": "Intermediate",
+    "duration": 117,
+    "rating": "4.0",
+    "released": "2013-08-16T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Content Management Systems",
+    "name": "DotNetNuke Module Development",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/dotnetnuke-module-development",
+    "description": "This course is aimed at developers who wish to create DNN modules. It starts with the most basic concepts, and then goes into detail on building a simple DNN module, continues by adding more detail about some extended DNN concepts, and concludes with a section on packaging DNN modules for distribution.",
+    "author": "Charles Nurse",
+    "level": "Intermediate",
+    "duration": 143,
+    "rating": "4.1",
+    "released": "2014-04-02T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Content Management Systems",
+    "name": "Introduction to Sitefinity",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/sitefinity-introduction",
+    "description": "This course will intorduce you to the architecture of Sitefinity while demonstrating the different aspects of creating new Web Application, work with the backend, add content, news, images, videos and others content items while showing you where to get help and be part of the community of this excellent CMS system.",
+    "author": "Lino Tadros",
+    "level": "Intermediate",
+    "duration": 135,
+    "rating": "4.1",
+    "released": "2013-07-25T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Content Management Systems",
+    "name": "Introduction to Sitefinity Development",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/sitefinity-development-introduction",
+    "description": "This course will introduce you to development in Sitefinity using Viusal Studio and Thunder while demonstrating the creation of custom widgets and custom modules.",
+    "author": "Lino Tadros",
+    "level": "Intermediate",
+    "duration": 232,
+    "rating": "4.4",
+    "released": "2013-11-08T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Content Management Systems",
+    "name": "Advanced Orchard",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/adv-orchard",
+    "description": "This course will show you how to build a custom Orchard module, from the initial creation of the module all the way through publishing it to the Orchard Gallery. Along the way we'll learn a lot of concepts and techniques for Orchard module development. The topic of our module will be Movies. By the end of the course, we'll be able to enter, edit and view Movie content items in Orchard. We'll also be able to enter Actors with a many-to-many relationship to movies. And we'll implement some advanced features like importing movies from an external service, and automatically displaying similar movies to the user based on a Lucene search.",
+    "author": "Kevin Kuebler",
+    "level": "Advanced",
+    "duration": 252,
     "rating": "4.6",
-    "released": "2013-10-08T04:00:00.000Z",
+    "released": "2012-04-06T04:00:00.000Z",
     "users": []
 }, {
     "category": "CSS",
@@ -2431,6 +2783,17 @@ courses = [{
     "users": []
 }, {
     "category": "CSS",
+    "name": "CSS3 In-Depth",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/css3-in-depth",
+    "description": "Learn how deep the CSS3 rabbit hole goes in this jam-packed course with CSS luminary Estelle Weyl. Estelle dives deep into the various components of CSS3 including: selectors, specificity, generated content, media queries, debugging, colors, fonts, shadows, text-effects, borders, backgrounds, gradients, transforms, transitions, animations…and more! Slides available at: http://estelle.github.com/CSS-Workshop.",
+    "author": "Estelle Weyl",
+    "level": "Intermediate",
+    "duration": 370,
+    "rating": "3.9",
+    "released": "2013-02-19T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "CSS",
     "name": "Mobile First Responsive Web Design",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/mobile-first-responsive-web-design",
     "description": "Responsive web design is a recent strategy for building web sites that can respond and adapt to multiple devices and their respective resolutions. Mobile first is the concept of creating the design for your mobile web site first, and then building out that design for larger resolutions. This course covers the concepts that developers need to know to be able to work in this new way of designing web sites.",
@@ -2439,6 +2802,17 @@ courses = [{
     "duration": 177,
     "rating": "4.0",
     "released": "2013-04-29T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "CSS",
+    "name": "Responsive Web Design",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/responsive-web-design",
+    "description": "From smart phones to tablets and even 60″ HDTV sets, your site can be viewed everywhere on almost every device. But is your site built to respond for all the different size and display options? A pioneer in responsive web design, Ben Callahan, leads you through the process of what it means to build a web site in the 21st century. Ben tackles RWD process, prototyping and patterns down to specific coding tactics with media queries and responsive CSS.",
+    "author": "Ben Callahan",
+    "level": "Intermediate",
+    "duration": 271,
+    "rating": "4.6",
+    "released": "2013-04-30T04:00:00.000Z",
     "users": []
 }, {
     "category": "Databases",
@@ -2458,8 +2832,8 @@ courses = [{
     "description": "In this production, a SQL Server DBA (Rob Sullivan) and a developer (Rob Conery) take a deep dive into PostGreSQL (v9.1). This series was originally about Mono and ASP.NET MVC - but \"the Robs\" quickly found themselves amazed and surprised by just how capable, intelligent and fast PostGreSQL is. The goal of this production is to introduce people to PostGres who aren't familiar with the system.",
     "author": "Rob Sullivan",
     "level": "Intermediate",
-    "duration": 165,
-    "rating": "Not",
+    "duration": 134,
+    "rating": "4.4",
     "released": "2012-03-26T04:00:00.000Z",
     "users": []
 }, {
@@ -2470,7 +2844,7 @@ courses = [{
     "author": "Ayende Rahien (Oren Eini)",
     "level": "Intermediate",
     "duration": 122,
-    "rating": "Not",
+    "rating": "4.2",
     "released": "2012-02-26T05:00:00.000Z",
     "users": []
 }, {
@@ -2481,8 +2855,30 @@ courses = [{
     "author": "Xavier Shay",
     "level": "Intermediate",
     "duration": 67,
-    "rating": "3.3",
+    "rating": "3.1",
     "released": "2011-02-16T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Databases",
+    "name": "Play by Play: Database Tuning",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/play-by-play-rob-sullivan",
+    "description": "In this single video, Rob Sullivan is tasked with perf-tuning an ASP.NET MVC 3 web application (using EF) so it can handle a StackOverflow data dump. Over 4 million rows of data in the Posts table alone! The application is one that any web developer might build - with holes in it that any developer might fall into. The site is timing out, we're down - we need some help from an amazing DBA!",
+    "author": "ConerySullivan",
+    "level": "Intermediate",
+    "duration": 64,
+    "rating": "4.6",
+    "released": "2011-06-04T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Databases",
+    "name": "Play by Play: TDD with Brad Wilson",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/play-by-play-wilson-tdd",
+    "description": "In this production we sit down with Brad Wilson as he uses Test-driven Development, C# 4.0, and xUnit to create the core of a subscription billing system - just like the one we have here at Tekpub. In fact - we used those exact requirements! Halfway through the episode, we throw a curveball at Brad - changing up the requirements to see how much of a drag TDD can have on the change process.",
+    "author": "ConeryWilson",
+    "level": "Intermediate",
+    "duration": 65,
+    "rating": "4.4",
+    "released": "2011-08-16T04:00:00.000Z",
     "users": []
 }, {
     "category": "Databases",
@@ -2492,7 +2888,7 @@ courses = [{
     "author": "Hugo Kornelis",
     "level": "Intermediate",
     "duration": 453,
-    "rating": "4.4",
+    "rating": "4.3",
     "released": "2014-01-06T05:00:00.000Z",
     "users": []
 }, {
@@ -2503,7 +2899,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Beginner",
     "duration": 170,
-    "rating": "4.7",
+    "rating": "4.6",
     "released": "2013-04-24T04:00:00.000Z",
     "users": []
 }, {
@@ -2514,7 +2910,7 @@ courses = [{
     "author": "Mario Hewardt",
     "level": "Intermediate",
     "duration": 119,
-    "rating": "4.3",
+    "rating": "4.4",
     "released": "2014-01-10T05:00:00.000Z",
     "users": []
 }, {
@@ -2536,7 +2932,7 @@ courses = [{
     "author": "Mario Hewardt",
     "level": "Intermediate",
     "duration": 172,
-    "rating": "4.3",
+    "rating": "4.4",
     "released": "2012-08-08T04:00:00.000Z",
     "users": []
 }, {
@@ -2569,7 +2965,7 @@ courses = [{
     "author": "Robert Boedigheimer",
     "level": "Intermediate",
     "duration": 139,
-    "rating": "4.3",
+    "rating": "4.4",
     "released": "2012-06-18T04:00:00.000Z",
     "users": []
 }, {
@@ -2580,7 +2976,7 @@ courses = [{
     "author": "Marcel de Vries",
     "level": "Intermediate",
     "duration": 330,
-    "rating": "4.3",
+    "rating": "4.4",
     "released": "2012-09-27T04:00:00.000Z",
     "users": []
 }, {
@@ -2602,7 +2998,7 @@ courses = [{
     "author": "Robert Boedigheimer",
     "level": "Intermediate",
     "duration": 223,
-    "rating": "4.5",
+    "rating": "4.4",
     "released": "2013-08-08T04:00:00.000Z",
     "users": []
 }, {
@@ -2613,7 +3009,7 @@ courses = [{
     "author": "WoodringSullivan",
     "level": "Intermediate",
     "duration": 44,
-    "rating": "3.8",
+    "rating": "3.9",
     "released": "2009-11-01T04:00:00.000Z",
     "users": []
 }, {
@@ -2646,7 +3042,7 @@ courses = [{
     "author": "Mario Hewardt",
     "level": "Advanced",
     "duration": 138,
-    "rating": "4.1",
+    "rating": "4.2",
     "released": "2011-12-06T05:00:00.000Z",
     "users": []
 }, {
@@ -2668,8 +3064,19 @@ courses = [{
     "author": "Pavel Yosifovich",
     "level": "Advanced",
     "duration": 450,
-    "rating": "4.4",
+    "rating": "4.5",
     "released": "2013-10-17T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Debugging",
+    "name": "Windows Internals 3",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/windows-internals-3",
+    "description": "Software developers for Windows should understand the way Windows works, its mechanisms and algorithms, so they are able to write better software that can take advantage of Windows' strengths. The course deals with all the major terms in Windows, such as processes, threads, virtual memory and more. Whether you're a Win32 programmer, a .NET programmer or a device driver programmer, you should benefit from understanding Windows, which may help in troubleshooting difficult issues as well.",
+    "author": "Pavel Yosifovich",
+    "level": "Advanced",
+    "duration": 316,
+    "rating": "4.6",
+    "released": "2014-02-12T05:00:00.000Z",
     "users": []
 }, {
     "category": "Deployment",
@@ -2695,24 +3102,13 @@ courses = [{
     "users": []
 }, {
     "category": "Deployment",
-    "name": "Docker Fundamentals",
-    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/docker-fundamentals",
-    "description": "This course on Docker covers the latest in container technology. With a short history of containers, what Docker accomplishes in that technology, an introduction and look at installation across operating systems, cloud providers, day to day operations and ongoing involvement with repositories within the Docker Community.",
-    "author": "Adron Hall",
-    "level": "Intermediate",
-    "duration": 63,
-    "rating": "3.9",
-    "released": "2014-01-11T05:00:00.000Z",
-    "users": []
-}, {
-    "category": "Deployment",
     "name": "Scaling Up",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/scaling-up-lindvall",
     "description": "The Internet is full of reviews or suggestions from people who have used a piece of software for 15 minutes or only on a single server. This series is about the strategies, stories, and tips learned by development and operations experts while running real sites with real traffic. Eric Lindvall is co-founder of Papertrail, a log collection, searching, and reporting service. Previously, he sold Cloudvox, a telephony startup. He shares his knowledge from years of day to day development and deployment of multi-machine networked systems. You'll hear about Eric's philosophies on efficient scaling, tools he finds invaluable, and techniques for handling unexpected errors or sudden floods of traffic.",
     "author": "LindvallGrosenbach",
     "level": "Advanced",
     "duration": 53,
-    "rating": "3.7",
+    "rating": "3.8",
     "released": "2012-12-08T05:00:00.000Z",
     "users": []
 }, {
@@ -2738,6 +3134,28 @@ courses = [{
     "released": "2013-07-25T04:00:00.000Z",
     "users": []
 }, {
+    "category": "Drupal",
+    "name": "Drupal 7: Foundation",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/drupal7-foundation",
+    "description": "This course provides a solid foundation for developing custom content management systems using the Drupal 7 Content Management Framework. Through dozens of thoroughly explained, direct demonstrations, you will learn how to be productive using the core tools and building blocks of a Drupal site: modules, themes, content types, nodes, menus, blocks, URL patterns, views, and more.",
+    "author": "Leo Schuman",
+    "level": "Beginner",
+    "duration": 215,
+    "rating": "4.6",
+    "released": "2013-10-08T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Drupal",
+    "name": "Site Building with Drupal 7",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/site-building-with-drupal-7",
+    "description": "In this course we will walk through the process of building a basic Drupal 7 site. We start with installation and cover all of the major pieces of site building, including content, menus, blocks, users, and adding modules and themes. Along the way we'll define all of the common Drupal terminology and at the end you will have your first Drupal site, as well as the basic building blocks to build many more sites. We also walk through a typical launch checklist, and show you how you can keep your site up to date once it is live.",
+    "author": "Kyle Hofmeyeret al.",
+    "level": "Intermediate",
+    "duration": 188,
+    "rating": "4",
+    "released": "2012-03-14T04:00:00.000Z",
+    "users": []
+}, {
     "category": "Dynamics CRM",
     "name": "Dynamics CRM - Power User",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/dynamics-crm-power-user",
@@ -2745,7 +3163,7 @@ courses = [{
     "author": "Julie Yack",
     "level": "Beginner",
     "duration": 104,
-    "rating": "3.9",
+    "rating": "3.8",
     "released": "2013-07-02T04:00:00.000Z",
     "users": []
 }, {
@@ -2767,7 +3185,7 @@ courses = [{
     "author": "YackYack",
     "level": "Intermediate",
     "duration": 195,
-    "rating": "3.9",
+    "rating": "3.6",
     "released": "2013-06-28T04:00:00.000Z",
     "users": []
 }, {
@@ -2789,7 +3207,7 @@ courses = [{
     "author": "David Yack",
     "level": "Intermediate",
     "duration": 305,
-    "rating": "4.5",
+    "rating": "4.3",
     "released": "2013-07-10T04:00:00.000Z",
     "users": []
 }, {
@@ -2800,7 +3218,7 @@ courses = [{
     "author": "David Yack",
     "level": "Intermediate",
     "duration": 247,
-    "rating": "4.6",
+    "rating": "4.3",
     "released": "2013-11-07T05:00:00.000Z",
     "users": []
 }, {
@@ -2811,7 +3229,7 @@ courses = [{
     "author": "Julie Yack",
     "level": "Intermediate",
     "duration": 141,
-    "rating": "4.0",
+    "rating": "4.1",
     "released": "2013-05-02T04:00:00.000Z",
     "users": []
 }, {
@@ -2844,7 +3262,7 @@ courses = [{
     "author": "Tod Gentille",
     "level": "Intermediate",
     "duration": 206,
-    "rating": "Not",
+    "rating": "4.4",
     "released": "2013-12-18T05:00:00.000Z",
     "users": []
 }, {
@@ -2855,7 +3273,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Beginner",
     "duration": 77,
-    "rating": "4.2",
+    "rating": "4.3",
     "released": "2012-04-17T04:00:00.000Z",
     "users": []
 }, {
@@ -2877,7 +3295,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 70,
-    "rating": "4.6",
+    "rating": "4.5",
     "released": "2012-04-27T04:00:00.000Z",
     "users": []
 }, {
@@ -2888,7 +3306,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 62,
-    "rating": "4.5",
+    "rating": "4.4",
     "released": "2012-03-16T04:00:00.000Z",
     "users": []
 }, {
@@ -2921,7 +3339,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 80,
-    "rating": "4.5",
+    "rating": "4.4",
     "released": "2012-05-09T04:00:00.000Z",
     "users": []
 }, {
@@ -3031,8 +3449,19 @@ courses = [{
     "author": "Julie Lerman",
     "level": "Intermediate",
     "duration": 82,
-    "rating": "4.5",
+    "rating": "4.4",
     "released": "2011-02-28T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "ERP",
+    "name": "Introduction to ABAP for SAP Business Warehouse Developers",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/intro-abap-for-sap-business-warehouse-developer",
+    "description": "Business Warehouse Developers need to model and develop many complex data flows and queries. Learn ABAP to add an indispensable tool into your toolset and to solve complex problems in the most important areas of BW like transformation, DTP, InfoPackage, and query variables. Besides learning ABAP syntax, you will also gain insight into a programming style that keeps the performance, maintainability, and readability in focus.",
+    "author": "Laszlo Meszaros",
+    "level": "Intermediate",
+    "duration": 227,
+    "rating": "Not",
+    "released": "2014-04-16T04:00:00.000Z",
     "users": []
 }, {
     "category": "Exchange Server",
@@ -3042,7 +3471,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 191,
-    "rating": "4.2",
+    "rating": "4.1",
     "released": "2013-09-25T04:00:00.000Z",
     "users": []
 }, {
@@ -3207,7 +3636,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 281,
-    "rating": "4.5",
+    "rating": "4.6",
     "released": "2010-06-22T04:00:00.000Z",
     "users": []
 }, {
@@ -3218,7 +3647,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 346,
-    "rating": "4.5",
+    "rating": "4.6",
     "released": "2010-06-22T04:00:00.000Z",
     "users": []
 }, {
@@ -3229,7 +3658,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 282,
-    "rating": "Not",
+    "rating": "4.2",
     "released": "2010-06-22T04:00:00.000Z",
     "users": []
 }, {
@@ -3245,7 +3674,7 @@ courses = [{
     "users": []
 }, {
     "category": "Exchange Server",
-    "name": "Exchange Server 2010 Part 5: High Availability &-mo Monitoring",
+    "name": "Exchange Server 2010 Part 5: High Availability & Monitoring",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/exchange-2010-high-availability",
     "description": "Part 5 of 5 in the Exchange Server 2010 series. This in-depth course will teach you the essentials of working with Exchange Server 2010. You'll walk away from this course knowing how to install, configure, and maintain Exchange Server 2010 environments, as well as get to know some advanced features such as high availability and Unified Messaging. This course is intended for Exchange administrators looking to learn Exchange Server 2010, as well as administrators who are completely new to Exchange Server. To get the most out of this course, you should be familiar with some basic networking concepts and have at least a little experience working with the Windows Server 2008 and Windows 7 operating systems.",
     "author": "J. Peter Bruzzese",
@@ -3355,6 +3784,17 @@ courses = [{
     "users": []
 }, {
     "category": "Exchange Server",
+    "name": "Exchange Server 2013 New Features",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/exchange-server-2013-new-features",
+    "description": "This course will help you quickly update your Exchange Server skill set to include Exchange Server 2013. You will learn how to use the new administrative interface, how to implement the new features, and how you can utilize these changes to make your administrative life easier.",
+    "author": "Gary Grudzinskas",
+    "level": "Intermediate",
+    "duration": 200,
+    "rating": "Not",
+    "released": "2014-03-25T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Exchange Server",
     "name": "Exchange Server 2013 Regulatory Compliance",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/exchange-2013-regulatory-compliance",
     "description": "In this course, we will discuss regulatory compliance from the perspective of what is built into Exchange 2013, as well as third-party alternatives. We will also look at personal vs. third-party archive, messaging records management, in-place hold, in-place eDiscovery, journaling, transport rules, data loss prevention, auditing, informational rights management (IRM), and alternative possibilities to regulatory compliance.",
@@ -3366,13 +3806,24 @@ courses = [{
     "users": []
 }, {
     "category": "Exchange Server",
+    "name": "Exchange Server 2013 Unified Messaging",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/exchange-2013-unified-messaging",
+    "description": "Unified Messaging is a set of services in Exchange 2013 that allow you to provide a universal Inbox that includes voicemails, emails and, if configured with a 3rd party provider, incoming fax. It also provides the ability for end users to call into the system and interact and listen to emails and such through Outlook Voice Access (OVA) and see transcriptions of email through voicemail preview. However, there is a complexity level attached and unfamiliar ground for most IT folks into the world of telephony to get UM up and running. This course will help you learn how to configure Unified Messaging within your environment so that your end-users can benefit from a solution that is already built-in and waiting for you to use.",
+    "author": "J. Peter Bruzzese",
+    "level": "Intermediate",
+    "duration": 210,
+    "rating": "Not",
+    "released": "2014-02-26T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Exchange Server",
     "name": "Exchange Server 2013: Advanced Features",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/exchange-2013-admin-adv-ft",
     "description": "This course is part 2 of 3 in the Exchange Server 2013 Administration series. This course will take a new admin into the world of Exchange Server 2013 and bring them to the point where they feel comfortable deploying it in their environment and feel confident they can implement the various features. Students should be somewhat knowledgeable with regard to Microsoft solutions. Server solutions like DNS, certificate services and Active Directory are essential. Any legacy Exchange knowledge the student may have will be helpful for them as well.",
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 220,
-    "rating": "Not",
+    "rating": "4.2",
     "released": "2013-01-29T05:00:00.000Z",
     "users": []
 }, {
@@ -3407,6 +3858,28 @@ courses = [{
     "duration": 133,
     "rating": "Not",
     "released": "2012-02-01T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "F#",
+    "name": "Introduction to F#",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/fsintro",
+    "description": "This course introduces you to the F# programming language. F# is a multi-paradigm programming language that encompasses functional and object-oriented programming models. It is a variant of ML, and has become the predominant functional language targeting the .NET platform. This course will walk you through all of the core details of working with F#, covering not just language fundamentals, but also showing practical scenarios of where it is best used creating .NET applications.",
+    "author": "Oliver Sturm",
+    "level": "Beginner",
+    "duration": 257,
+    "rating": "4.2",
+    "released": "2012-03-07T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "F#",
+    "name": "A Functional Architecture with F#",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/functional-architecture-fsharp",
+    "description": "F# is a Functional language in the .NET framework; while most people still regard it as a niche language, it’s a Turing complete, general purpose language, so you can build almost any sort of application with it. However, with its strong focus on immutability, programmers used to Object Orientation struggle with creating a proper architecture for a Functional system. This course provides an example of how to build a mainstream application in F#, using extensive demos to build a comprehensive demo application from scratch.",
+    "author": "Mark Seemann",
+    "level": "Intermediate",
+    "duration": 148,
+    "rating": "4.6",
+    "released": "2014-01-22T05:00:00.000Z",
     "users": []
 }, {
     "category": "Google",
@@ -3471,7 +3944,7 @@ courses = [{
     "author": "Robbe Morris",
     "level": "Intermediate",
     "duration": 204,
-    "rating": "4 s",
+    "rating": "4.2",
     "released": "2013-10-15T04:00:00.000Z",
     "users": []
 }, {
@@ -3482,7 +3955,7 @@ courses = [{
     "author": "Lynn Langit",
     "level": "Intermediate",
     "duration": 145,
-    "rating": "4.4",
+    "rating": "4.1",
     "released": "2013-03-29T04:00:00.000Z",
     "users": []
 }, {
@@ -3515,7 +3988,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Beginner",
     "duration": 156,
-    "rating": "4.5",
+    "rating": "4.6",
     "released": "2013-07-18T04:00:00.000Z",
     "users": []
 }, {
@@ -3526,7 +3999,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Beginner",
     "duration": 244,
-    "rating": "4.5",
+    "rating": "4.6",
     "released": "2013-07-18T04:00:00.000Z",
     "users": []
 }, {
@@ -3548,7 +4021,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Beginner",
     "duration": 280,
-    "rating": "Not",
+    "rating": "4.6",
     "released": "2013-07-18T04:00:00.000Z",
     "users": []
 }, {
@@ -3608,13 +4081,13 @@ courses = [{
     "users": []
 }, {
     "category": "Hardware",
-    "name": "Kinect Interaction with WPF",
+    "name": "Kinect Interaction with WPF and Beyond",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/using-kinect-interaction-wpf",
     "description": "The Kinect Interaction extension for the Kinect for Windows SDK allows you to create WPF (and other) applications that the user can interact with using a hand cursor that follows the movement of their hands much like a mouse cursor follows the movement of the mouse. This course will show how creating such an application can be as easy as creating with a mouse. You will also learn how to customize the look and feel of controls provided by Microsoft, and dig even deeper to completely control the interaction model or use Kinect Interaction outside of WPF.",
     "author": "András Velvárt",
     "level": "Intermediate",
     "duration": 119,
-    "rating": "Not",
+    "rating": "3.9",
     "released": "2014-01-18T05:00:00.000Z",
     "users": []
 }, {
@@ -3625,7 +4098,7 @@ courses = [{
     "author": "Jon Flanders",
     "level": "Intermediate",
     "duration": 144,
-    "rating": "4.3",
+    "rating": "4.2",
     "released": "2013-05-30T04:00:00.000Z",
     "users": []
 }, {
@@ -3669,7 +4142,7 @@ courses = [{
     "author": "Christopher Schmitt",
     "level": "Beginner",
     "duration": 155,
-    "rating": "3.6",
+    "rating": "3.2",
     "released": "2012-03-05T05:00:00.000Z",
     "users": []
 }, {
@@ -3691,7 +4164,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 172,
-    "rating": "4.7",
+    "rating": "4.6",
     "released": "2013-10-25T04:00:00.000Z",
     "users": []
 }, {
@@ -3702,7 +4175,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 140,
-    "rating": "4.7",
+    "rating": "4.6",
     "released": "2013-10-17T04:00:00.000Z",
     "users": []
 }, {
@@ -3724,7 +4197,7 @@ courses = [{
     "author": "Derik Whittaker",
     "level": "Intermediate",
     "duration": 172,
-    "rating": "4.6",
+    "rating": "4.5",
     "released": "2013-05-02T04:00:00.000Z",
     "users": []
 }, {
@@ -3779,7 +4252,7 @@ courses = [{
     "author": "Craig Shoemaker",
     "level": "Intermediate",
     "duration": 328,
-    "rating": "4.4",
+    "rating": "4.5",
     "released": "2013-12-03T05:00:00.000Z",
     "users": []
 }, {
@@ -3790,8 +4263,19 @@ courses = [{
     "author": "Lisa Larson-Kelley",
     "level": "Intermediate",
     "duration": 168,
-    "rating": "4.3",
+    "rating": "4.4",
     "released": "2013-08-22T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "HTML5",
+    "name": "WebRTC Fundamentals",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/webrtc-fundamentals",
+    "description": "WebRTC is a powerful new open-source project that seamlessly enables real-time communication (RTC) – baked right into modern web browsers. This means web developers can now incorporate video, voice and data sharing using peer-to-peer connectivity via simple JavaScript APIs, with no plugins or additional installs required. In this course, Lisa Larson-Kelley introduces you to the fundamentals of WebRTC, explaining its elements and capabilities in easy-to-understand terms, and gets you started building simple ‘hello world’ applications using the WebRTC API. With over 10 years of experience building RTC apps using Flash Media Server, Lisa brings her perspective and enthusiasm for RTC to this rapidly emerging open source technology that is poised revolutionize how we communicate on the web.",
+    "author": "Lisa Larson-Kelley",
+    "level": "Intermediate",
+    "duration": 100,
+    "rating": "4.6",
+    "released": "2014-02-20T05:00:00.000Z",
     "users": []
 }, {
     "category": "HTML5",
@@ -3834,7 +4318,7 @@ courses = [{
     "author": "Paul Lemmers",
     "level": "Beginner",
     "duration": 44,
-    "rating": "2.6",
+    "rating": "2.7",
     "released": "2010-06-25T04:00:00.000Z",
     "users": []
 }, {
@@ -3845,7 +4329,7 @@ courses = [{
     "author": "Robert Boedigheimer",
     "level": "Intermediate",
     "duration": 167,
-    "rating": "4.4",
+    "rating": "4.3",
     "released": "2011-09-20T04:00:00.000Z",
     "users": []
 }, {
@@ -3916,6 +4400,17 @@ courses = [{
     "users": []
 }, {
     "category": "iOS",
+    "name": "A Tour of Objective-C for .NET Developers",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/tour-objective-c",
+    "description": "In this series, Ben Scheirman shows Rob Conery the basics of Objective-C using Apple's Xcode. Along the way we take a look at strings, numbers, dates, working with a SQLite database (for iPhone/iPad data work), and accessing a remote JSON API. If you're not an experienced programmer and want to try it anyway - be prepared to do a little studying on the side. There's still value here for you - but you'll have an extra challenge. Ben and Rob are friends, and the tone of this screencast follows suit. It's informal and Rob doesn't hide his aesthetic preferences along the way. This is not meant to be a \"classical training\" style screencast - more of an informative, follow-along kind of thing.",
+    "author": "Ben Scheirman",
+    "level": "Intermediate",
+    "duration": 300,
+    "rating": "4.0",
+    "released": "2012-09-28T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "iOS",
     "name": "Beginning iOS 7 Development",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/beginning-ios7-development",
     "description": "Starting to learn iOS application development can be intimidating if you don’t have much experience with a Mac and haven’t used Objective-C. But, it doesn’t have to be a painful experience. In this course, I’ll show you the basics of creating an iOS application as we build a complete iOS application learning what we need to know about Objective-C along the way. We’ll start out by learning a little bit about iOS in general and the iOS development environment. Then, we’ll jump right in and create out first Hello World iOS application as we set up our development environment and learn the basics of the IDE we use for iOS development, Xcode. After that, I’ll show you the core things you need to know to build any application, how to build a user interface and interact with it. We’ll learn how to use Xcode’s Interface Builder tool to create a very basic IU and interact with it. Once we’ve got the basics covered, we’ll start building our first real application. We’ll learn a few new concepts as we build our application, like how to use the iOS storyboarding feature to creating a multi-screen application and how to setup navigation in our application. Finally, we’ll finish up our iOS application by learning how to add user settings to the app and how to show the user a simple notification through the use of alerts. So, if you are looking to get started with iOS development and are looking for an easy and gentle way to get introduced to the environment and tools while building a real application, this course is exactly what you need. You won’t be an expert at iOS development after taking this course, but this course will definitely give you a head start in learning the platform and show you the basics you need to know before taking a more advanced course.",
@@ -3933,7 +4428,7 @@ courses = [{
     "author": "Jon Flanders",
     "level": "Intermediate",
     "duration": 222,
-    "rating": "Not",
+    "rating": "4.4",
     "released": "2013-08-19T04:00:00.000Z",
     "users": []
 }, {
@@ -3965,8 +4460,8 @@ courses = [{
     "description": "Provisioning and deployment can be one of the most frustrating and time-consuming parts of iOS development. Most developers don't really understand how it works and often flail about when they run into trouble. In this course you will learn how the provisioning and deployment process works so that you can stay focused on making fantastic iOS apps.",
     "author": "Alex Vollmer",
     "level": "Intermediate",
-    "duration": 171,
-    "rating": "4.8",
+    "duration": 172,
+    "rating": "4.7",
     "released": "2013-12-20T05:00:00.000Z",
     "users": []
 }, {
@@ -4010,7 +4505,7 @@ courses = [{
     "author": "Mark Zamoyta",
     "level": "Intermediate",
     "duration": 248,
-    "rating": "4.4",
+    "rating": "4.3",
     "released": "2013-07-30T04:00:00.000Z",
     "users": []
 }, {
@@ -4021,8 +4516,19 @@ courses = [{
     "author": "Rag Dhiman",
     "level": "Intermediate",
     "duration": 186,
-    "rating": "4.3",
+    "rating": "4.4",
     "released": "2013-12-04T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "iOS",
+    "name": "iOS7 Fundamentals",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/ios7-fundamentals",
+    "description": "This course introduces you to all the fundamental skills you need in order to build, debug, and deploy iOS applications - either to the Apple AppStore or to your enterprise.",
+    "author": "Jon Flanders",
+    "level": "Intermediate",
+    "duration": 599,
+    "rating": "4.3",
+    "released": "2014-02-04T05:00:00.000Z",
     "users": []
 }, {
     "category": "iOS",
@@ -4032,7 +4538,7 @@ courses = [{
     "author": "John O'Neill Sr.",
     "level": "Intermediate",
     "duration": 411,
-    "rating": "4.1",
+    "rating": "4.2",
     "released": "2013-01-17T05:00:00.000Z",
     "users": []
 }, {
@@ -4053,7 +4559,7 @@ courses = [{
     "description": "Objective-C and Ruby both share many features, thanks to their shared inspirations from Smalltalk. You can use your knowledge of Ruby (or even Python) to understand many of the core concepts of Objective-C. This screencast also covers crucial concepts that are not part of Ruby, such as memory management and the extensive use of the delegate pattern. Better yet, you'll learn how to do Test-Driven Development in Objective-C as you learn the language.",
     "author": "Geoffrey Grosenbach",
     "level": "Intermediate",
-    "duration": 94,
+    "duration": 81,
     "rating": "Not",
     "released": "2009-02-11T05:00:00.000Z",
     "users": []
@@ -4070,35 +4576,13 @@ courses = [{
     "users": []
 }, {
     "category": "IT Administration",
-    "name": "CompTIA Linux+ (2010 Objectives): Part 1",
-    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/comptia-linux-plus-pt1",
-    "description": "Part 1 of 2 in the CompTIA Linux+ (2010 Objectives) series. In this course, you'll learn the basics of Linux technology. You'll work to develop system architecture, work with GNU and Unix commands, and learn about Linux file systems. This course is ideal for those who have some understanding of IT fundamentals but are new to Linux. Network+ and A+ certifications are recommended to get the most out of this course, but not required.",
-    "author": "Veronica Henry",
-    "level": "Beginner",
-    "duration": 336,
-    "rating": "3.5",
-    "released": "2010-11-30T05:00:00.000Z",
-    "users": []
-}, {
-    "category": "IT Administration",
-    "name": "CompTIA Linux+ (2010 Objectives): Part 2",
-    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/comptia-linux-plus-pt2",
-    "description": "Part 2 of 2 in the CompTIA Linux+ (2010 Objectives) series. In this course, you'll learn the basics of Linux technology. You'll work to develop system architecture, work with GNU and Unix commands, and learn about Linux file systems. This course is ideal for those who have some understanding of IT fundamentals but are new to Linux. Network+ and A+ certifications are recommended to get the most out of this course, but not required.",
-    "author": "Veronica Henry",
-    "level": "Beginner",
-    "duration": 464,
-    "rating": "Not",
-    "released": "2010-11-30T05:00:00.000Z",
-    "users": []
-}, {
-    "category": "IT Administration",
     "name": "CompTIA Mobility+ Part 1: Over-the-Air and Network Infrastructure",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/comptia-mobility-plus-over-the-air-network",
     "description": "Part 1 of 3 in the Comptia Mobility+ series. In this course, we will cover the subject of mobile devices and over-the-air technologies. We will also cover mobile device management, troubleshooting, security, network infrastructure.",
     "author": "John O'Neill Sr.",
     "level": "Beginner",
     "duration": 318,
-    "rating": "4.1",
+    "rating": "4.2",
     "released": "2013-10-24T04:00:00.000Z",
     "users": []
 }, {
@@ -4131,7 +4615,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Beginner",
     "duration": 289,
-    "rating": "4.4",
+    "rating": "4.2",
     "released": "2010-08-17T04:00:00.000Z",
     "users": []
 }, {
@@ -4153,7 +4637,7 @@ courses = [{
     "author": "Veronica Henry",
     "level": "Beginner",
     "duration": 178,
-    "rating": "4.8",
+    "rating": "4.5",
     "released": "2011-05-10T04:00:00.000Z",
     "users": []
 }, {
@@ -4180,14 +4664,25 @@ courses = [{
     "users": []
 }, {
     "category": "IT Administration",
-    "name": "Installing and Configuring Apache Web Server",
-    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/apache-web-server-install-config",
-    "description": "In this course we will install and configure an Apache web server from scratch on a linux system. We will learn about Apache's configuration file and how to configure multiple virtual sites on a single machine. We'll configure user logins and access controls to restrict access to parts of the site, and set up apache to serve a secure http connection using the secure sockets layer and a self-signed certificate. Finally, we'll see how to configure the logging and status reporting features of Apache. The course is intended for web administrators with no previous experience of Apache. Basic linux command-line competence is assumed. Students may follow along with all demos by installing a standard CentOS 6 distribution.",
-    "author": "Chris Brown",
-    "level": "Intermediate",
-    "duration": 139,
-    "rating": "4.3",
-    "released": "2013-09-23T04:00:00.000Z",
+    "name": "Windows Operating System Fundamentals: Install and Configure",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/windows-operating-system-fundamentals-install-configure",
+    "description": "More and more computers have become a part of our everyday life. We use them at work, home, and school. Most home and businesses use Microsoft Operating Systems as their primary operating system for both workstations and servers. It is important to have a basic foundation of how to install, upgrade, and configure Windows whether you are new to the IT field or just looking to learn the basics for your home computer. This course is designed to start the foundation with Microsoft Windows desktop operating system by learning solid skills to build your IT future upon.",
+    "author": "Ken Mauldin",
+    "level": "Beginner",
+    "duration": 436,
+    "rating": "4.1",
+    "released": "2013-11-11T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "IT Administration",
+    "name": "Windows Operating System Fundamentals: Managing and Maintaining",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/windows-operating-system-fundamentals-managing-maintaining",
+    "description": "More and more computers have become a part of our everyday life. We use them at work, home, and school. Most home and businesses use Microsoft Operating Systems as their primary operating system for both workstations and servers. It is important to have a basic foundation of how to protect, secure, manage, recover, and maintain Windows whether you are new to the IT field or just looking to learn the basics for your home computer. This course is designed to start the foundation with Microsoft Windows desktop operating system by learning solid skills in managing Windows and to build your IT future upon.",
+    "author": "Ken Mauldin",
+    "level": "Beginner",
+    "duration": 521,
+    "rating": "4.2",
+    "released": "2014-02-07T05:00:00.000Z",
     "users": []
 }, {
     "category": "IT Administration",
@@ -4208,7 +4703,7 @@ courses = [{
     "author": "Lowell Amos",
     "level": "Intermediate",
     "duration": 277,
-    "rating": "3.8",
+    "rating": "4.0",
     "released": "2013-07-12T04:00:00.000Z",
     "users": []
 }, {
@@ -4257,6 +4752,17 @@ courses = [{
     "users": []
 }, {
     "category": "Java",
+    "name": "Bean Validation 1.1",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/bean-validation",
+    "description": "Processing, storing, and retrieving valid data is crucial for an application, that's why validation is a common task that needs to be done in several layers of your application. In this course you will learn how Bean Validation allows developers to write constraints in a standard way and apply them everywhere (bean, properties, constructors, method parameters, and return value). You will also see how Bean Validation can be integrated in other Java EE specifications.",
+    "author": "Antonio Goncalves",
+    "level": "Intermediate",
+    "duration": 149,
+    "rating": "4.8",
+    "released": "2014-01-28T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Java",
     "name": "Introduction To Hibernate",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/hibernate-introduction",
     "description": "In the world of Java, one of the most popular and widely used frameworks is Hibernate. Hibernate is an ORM, or Object Relational Mapper, that allows developers to map Java objects to relational database tables. It is a valuable tool that all Java developers should know how to use. The problem is, learning Hibernate can be difficult. Hibernate is a very large framework and there are many important concepts to understand to use it effectively. This course is designed to make getting started with Hibernate as easy as possible and focus on the most important things you need to know. We start off this course by learning a bit about Hibernate and how it works, and then see how to get it setup with a real MySQL database installation. After that, we learn the very basics of mapping, which is one of the most important things to understand about Hibernate. I'll show you how to create a basic mapping for a Java object to a relational table and explain to you how the mapping works. But most real world applications have more complex mapping that often trips up new developers and experienced developers alike. So, we'll also cover some of the complex mapping situations like mapping collections and different relational mappings like one-to-many and many-to-one. Once you've learned how to map you objects, you'll want to know how to query them, so I'll show you how to do this using Hibernate's built in HQL and using a more object oriented approach with the Criteria API. Finally, we'll wrap things up by taking a brief tour of some of the more advanced features like caching and interceptors. So, if you are wanting to learn how to use Hibernate, or if you've been struggling through using Hibernate in an existing application, but never really understood what was going on, this course will give you the knowledge you need to feel confident about how Hibernate works and how to use it.",
@@ -4285,7 +4791,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 247,
-    "rating": "4.6",
+    "rating": "4.5",
     "released": "2012-10-26T04:00:00.000Z",
     "users": []
 }, {
@@ -4296,18 +4802,18 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 227,
-    "rating": "4.6",
+    "rating": "4.5",
     "released": "2011-11-23T05:00:00.000Z",
     "users": []
 }, {
     "category": "Java",
-    "name": "Java Swing Development Using Netbeans",
+    "name": "Java Swing Development Using NetBeans",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/java-swing-development-netbeans",
     "description": "Learn how to build a lightweight cross-platform desktop application with Java Swing using the Netbeans IDE. This course is beneficial to the beginner and seasoned programmer alike. You will learn how to use the powerful Netbeans GUI Builder to quickly develop the user interface with little effort, so you can spend your valuable time building the application logic instead. At the conclusion, you will learn to build a fully functional application interacting with a database. If you prefer to program manually, this course will provide a great entry point into Java Swing's structure and features.",
     "author": "Rusty Lowrey",
     "level": "Intermediate",
     "duration": 199,
-    "rating": "Not",
+    "rating": "4.6",
     "released": "2014-01-03T05:00:00.000Z",
     "users": []
 }, {
@@ -4318,7 +4824,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 157,
-    "rating": "4.8",
+    "rating": "4.7",
     "released": "2013-05-17T04:00:00.000Z",
     "users": []
 }, {
@@ -4329,7 +4835,7 @@ courses = [{
     "author": "John Purcell",
     "level": "Intermediate",
     "duration": 216,
-    "rating": "4.4",
+    "rating": "4.5",
     "released": "2012-01-01T05:00:00.000Z",
     "users": []
 }, {
@@ -4351,7 +4857,7 @@ courses = [{
     "author": "John Purcell",
     "level": "Intermediate",
     "duration": 285,
-    "rating": "Not",
+    "rating": "4.8",
     "released": "2012-01-01T05:00:00.000Z",
     "users": []
 }, {
@@ -4362,7 +4868,7 @@ courses = [{
     "author": "John Purcell",
     "level": "Intermediate",
     "duration": 110,
-    "rating": "Not",
+    "rating": "4.4",
     "released": "2012-01-01T05:00:00.000Z",
     "users": []
 }, {
@@ -4395,8 +4901,19 @@ courses = [{
     "author": "Bryan Hansen",
     "level": "Intermediate",
     "duration": 264,
-    "rating": "4.4",
+    "rating": "4.5",
     "released": "2013-11-15T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Java",
+    "name": "Spring Security Fundamentals",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/spring-security-fundamentals",
+    "description": "This course covers all of the fundamentals of Spring Security. It covers building your first app, user storage in memory and in a database, client integration with taglibs, password storage, customizing the UI, method level security as well as method level permissions, basic LDAP configuration, and forcing connections over HTTPS.",
+    "author": "Bryan Hansen",
+    "level": "Intermediate",
+    "duration": 248,
+    "rating": "4.8",
+    "released": "2014-04-03T04:00:00.000Z",
     "users": []
 }, {
     "category": "Java",
@@ -4410,6 +4927,28 @@ courses = [{
     "released": "2013-04-10T04:00:00.000Z",
     "users": []
 }, {
+    "category": "Java",
+    "name": "Test-Driven Development Practices in Java",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/test-driven-development-java",
+    "description": "This course covers Test-Driven Development (TDD) practices and tools supporting TDD on the Java Platform. This includes information on JUnit, Mockito, PowerMock, and DBUnit.",
+    "author": "Mike Nolan",
+    "level": "Intermediate",
+    "duration": 174,
+    "rating": "3.9",
+    "released": "2014-04-07T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "JavaScript",
+    "name": "Front End Web Development: Get Started",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/front-end-web-development-get-started",
+    "description": "Front end web development involves many different technologies, and the landscape is constantly changing. In this course you will learn the basics of all of the different aspects of front end web development, and how to hone and keep your skills up to date.",
+    "author": "Joe Eames",
+    "level": "Beginner",
+    "duration": 224,
+    "rating": "Not",
+    "released": "2014-04-24T04:00:00.000Z",
+    "users": []
+}, {
     "category": "JavaScript",
     "name": "Google Charts By Example",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/google-charts-by-example",
@@ -4417,7 +4956,7 @@ courses = [{
     "author": "Paul O'Fallon",
     "level": "Beginner",
     "duration": 135,
-    "rating": "4.2",
+    "rating": "4.1",
     "released": "2013-06-07T04:00:00.000Z",
     "users": []
 }, {
@@ -4526,7 +5065,7 @@ courses = [{
     "description": "This course will teach you all the ins and outs of using AngularJS with ASP.NET. You will learn how to use Angular with current technologies like MVC and the Web API, and legacy technologies like Webforms and Web Services. You will learn how to shift your way of thinking to go from just using a little bit of JavaScript here and there, to take advantage of all that Angular has to offer the .NET developer. Whether that means just putting a little bit of angular on a page or two in your site, or building an entire Single Page Application. Topics include how to organize and maintain your code, how to integrate Angular into ASP.NET pages, how to communicate with both current gen and legacy technology servers, how to work with real time services using SignalR, and how to prep and deliver your code to the client efficiently. By the end of this course you will feel comfortable adding either a little or a lot of Angular to your ASP.NET project.",
     "author": "EamesCooper",
     "level": "Intermediate",
-    "duration": 315,
+    "duration": 316,
     "rating": "4.6",
     "released": "2013-12-17T05:00:00.000Z",
     "users": []
@@ -4537,15 +5076,26 @@ courses = [{
     "description": "In this course you will learn how simple it is to use AngularJS to create maintainable and testable single page applications. You will learn how to: bootstrap your AngularJS application; use AngularJS markup and expressions; create and use controllers; use built-in services and create custom services; turn your application into a SPA using routing; and create your own custom elements and handle events using directives. You will also learn how AngularJS allows you to do all thing using test-driven-development.",
     "author": "EamesCooper",
     "level": "Intermediate",
-    "duration": 374,
+    "duration": 381,
     "rating": "4.4",
     "released": "2013-05-17T04:00:00.000Z",
     "users": []
 }, {
     "category": "JavaScript",
+    "name": "AngularJS In-Depth",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/angularjs-in-depth",
+    "description": "\"AngularJS In Action\" author Lukas Ruebbelke dives into AngularJS, an intuitive framework that makes it easy to organize code by incorporates concepts like two-way binding, dependency injection and views which results in very testable code.",
+    "author": "Lukas Ruebbelke",
+    "level": "Intermediate",
+    "duration": 296,
+    "rating": "3.8",
+    "released": "2013-11-19T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "JavaScript",
     "name": "Application Building Patterns with AngularJS",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/show-me-angular",
-    "description": "Our focus is building an application. This means we're going to be less conceptual (as you might find with typical training approaches) and more pragmatic: what we need to know and do to get the job done. The code for this course is located at https://github.com/tekpub/ng-mongo.",
+    "description": "Our focus is building an application. This means we're going to be less conceptual (as you might find with typical training approaches) and more pragmatic: what we need to know and do to get the job done. The code for this course is located at https://github.com/tekpub/congo.",
     "author": "Rob Conery",
     "level": "Intermediate",
     "duration": 163,
@@ -4582,18 +5132,29 @@ courses = [{
     "author": "Liam McLennan",
     "level": "Intermediate",
     "duration": 282,
-    "rating": "4.5",
+    "rating": "4.4",
     "released": "2012-09-05T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "JavaScript",
+    "name": "Backbone.JS In-Depth and Intro to Testing with Mocha and Sinon",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/backbone-js-in-depth-testing-mocha-sinon",
+    "description": "Non-trivial web applications demand moving beyond jQuery one-offs into testable, single-responsibility code architectures. Sam shows us Backbone's lightweight approach to building client-side MVC applications and builds in unit tests with Mocha and Sinon.JS.",
+    "author": "Sam Breed",
+    "level": "Intermediate",
+    "duration": 319,
+    "rating": "4",
+    "released": "2013-10-16T04:00:00.000Z",
     "users": []
 }, {
     "category": "JavaScript",
     "name": "Backbone.js Persistence",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/backbonejs",
     "description": "Backbone.js is a capable framework for building client-side applications. But even with method-by-method documentation, the details of how to actually build full-featured, useful applications can be elusive. Complete your knowledge of Backbone by learning about data persistence in this course. You'll learn how to use Backbone.js to create and modify data on a server.",
-    "author": "Geoffrey Grosenbach",
+    "author": "GrosenbachGoodlad",
     "level": "Intermediate",
     "duration": 191,
-    "rating": "3.7",
+    "rating": "3.8",
     "released": "2011-11-23T05:00:00.000Z",
     "users": []
 }, {
@@ -4617,6 +5178,17 @@ courses = [{
     "duration": 389,
     "rating": "4.8",
     "released": "2013-07-31T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "JavaScript",
+    "name": "Building AngularJS and Node.js Apps with the MEAN Stack",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/building-angularjs-nodejs-apps-mean",
+    "description": "The MEAN stack is becoming more and more popular. Angular.js has become the hottest new MVC framework, and using it with Node and Express means a high level of harmony between the client and server. Throw MongoDB on for data storage, and you have JavaScript from front to back. These applications are quick to put together, and represent the modern state of web application development. This course will help you get a full application up and running in no time, and introduce you to all the core concepts you need to build applications utilizing these technologies.",
+    "author": "Joe Eames",
+    "level": "Intermediate",
+    "duration": 241,
+    "rating": "4.6",
+    "released": "2014-01-31T05:00:00.000Z",
     "users": []
 }, {
     "category": "JavaScript",
@@ -4648,7 +5220,7 @@ courses = [{
     "author": "Brian Noyes",
     "level": "Intermediate",
     "duration": 366,
-    "rating": "4.7",
+    "rating": "4.8",
     "released": "2013-10-02T04:00:00.000Z",
     "users": []
 }, {
@@ -4664,14 +5236,47 @@ courses = [{
     "users": []
 }, {
     "category": "JavaScript",
+    "name": "Building Web Applications with Open-Source Software on Windows",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/building-web-application-open-source-software-on-windows",
+    "description": "In this course you will learn to create a meaningful web application using some of the most popular open-source frameworks for the web, including Angularjs, Bootstrap, HotTowel, Breeze, ServiceStack and more. The heart of the application will be built with Angularjs, kicked off by HotTowel. Data will be managed on the server side by ServiceStack, which will provide a web service and API as well as dependency injection through an Inversion of Control container that will provide ORMLite, a light-weight Object Relational Mapper. Client side data will be managed by Breeze. Bootstrap will provide a much cleaner and more professional UI design than might otherwise be available. Together, these libraries make creating a real world web application not only possible, but relatively straightforward, even if this is your first web app. Some knowledge of C# is required, as is familiarity with HTML, CSS and JavaScript.",
+    "author": "Jesse Liberty",
+    "level": "Intermediate",
+    "duration": 150,
+    "rating": "4.1",
+    "released": "2014-01-24T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "JavaScript",
+    "name": "Code Testability",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/code-testability",
+    "description": "Misko, the creator of AngularJS (by Google), dives into the psychology of testing when building large JavaScript applications, as well as practical examples for implementing test-driven development.",
+    "author": "Misko Hevery",
+    "level": "Intermediate",
+    "duration": 51,
+    "rating": "4.5",
+    "released": "2013-02-19T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "JavaScript",
     "name": "CoffeeScript Fundamentals",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/coffeescript-fundamentals",
     "description": "CoffeeScript is the little language that compiles to JavaScript. It is an attempt to expose the good parts of JavaScript in a simple way, combined with the best of Ruby and Python. This course introduces the CoffeeScript syntax and style. It explains the why and how of CoffeeScript development.",
     "author": "Liam McLennan",
     "level": "Intermediate",
     "duration": 119,
-    "rating": "4.4",
+    "rating": "4.3",
     "released": "2011-09-12T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "JavaScript",
+    "name": "D3.js Data Visualization Fundamentals",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/d3js-data-visualization-fundamentals",
+    "description": "This course teaches you how to use D3.js (data-driven documents) to make stunning data visualizations. You will learn all of the core concepts of D3.js, as well as go through functional examples of building data visualizations and business dashboards. Watch this course to get up to speed quickly using D3.js and start seeing what your data has been trying to tell you. This is a beginner course, but it is assumed you are familiar with the basics of HTML, CSS, and JavaScript.",
+    "author": "Ben Sullins",
+    "level": "Intermediate",
+    "duration": 275,
+    "rating": "Not",
+    "released": "2014-04-23T04:00:00.000Z",
     "users": []
 }, {
     "category": "JavaScript",
@@ -4703,7 +5308,7 @@ courses = [{
     "author": "Geoffrey Grosenbach",
     "level": "Intermediate",
     "duration": 85,
-    "rating": "4.5",
+    "rating": "4.3",
     "released": "2013-01-24T05:00:00.000Z",
     "users": []
 }, {
@@ -4725,7 +5330,7 @@ courses = [{
     "author": "Elijah Manor",
     "level": "Intermediate",
     "duration": 201,
-    "rating": "4.6",
+    "rating": "4.5",
     "released": "2013-05-10T04:00:00.000Z",
     "users": []
 }, {
@@ -4741,6 +5346,17 @@ courses = [{
     "users": []
 }, {
     "category": "JavaScript",
+    "name": "Interactive Data Visualization with D3.js",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/interactive-data-visualization-d3js",
+    "description": "Ian Johnson, the organizer of Bay Area d3 (the largest d3 meetup in the world), starts with SVG and then dives deep into d3 including DOM manipulation, categorical and quantitative scales, axis, brushes, color schemes, events and histograms. Slides are available at:http://enjalot.github.io/intro-d3/frontendmasters/",
+    "author": "Ian Johnson",
+    "level": "Intermediate",
+    "duration": 330,
+    "rating": "4.3",
+    "released": "2013-12-20T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "JavaScript",
     "name": "Introduction to Bootstrap",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/bootstrap-introduction",
     "description": "Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development. In this course we'll see how to use Bootstrap's CSS and JavaScript to turn plain HTML into navigational menus, picture carousels, split buttons, alerts, modal dialogs, and more. As an open source and free gift from the developers at Twitter, Bootstrap is a pure CSS and JavaScript framework that you can use with any editor or server technology.",
@@ -4749,6 +5365,17 @@ courses = [{
     "duration": 129,
     "rating": "4.7",
     "released": "2013-02-05T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "JavaScript",
+    "name": "Introduction to JavaScript & jQuery",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/introduction-javascript-jquery",
+    "description": "Karl Swedberg, author of Learning jQuery and the jQuery API Documentation (api.jquery.com), teaches you what you need to know about the JavaScript language before diving into jQuery; including closures, anonymous functions, and implicit versus explicit iteration. If you missed out on a formal education on pure JavaScript, this workshop will help get you up to speed on the language.",
+    "author": "Karl Swedberg",
+    "level": "Intermediate",
+    "duration": 214,
+    "rating": "3.5",
+    "released": "2013-02-19T05:00:00.000Z",
     "users": []
 }, {
     "category": "JavaScript",
@@ -4785,6 +5412,17 @@ courses = [{
     "users": []
 }, {
     "category": "JavaScript",
+    "name": "JavaScript the Good Parts",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/javascript-good-parts",
+    "description": "JavaScript has bad parts that many times overshadow it’s good parts. Douglas claims JavaScript has, \"some of the best parts of any programming language ever created.\" He explains why in this course, quizzes you on functional programming and covers the monad in the final lecture of the course.",
+    "author": "Douglas Crockford",
+    "level": "Intermediate",
+    "duration": 292,
+    "rating": "4.8",
+    "released": "2013-02-19T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "JavaScript",
     "name": "jQuery-free JavaScript",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/jquery-free-javascript",
     "description": "In this course we will explain when it's appropriate to use jQuery and when it may not be. If you need jQuery then we will look at making a custom build that includes only the parts you need. Most of this course is focused on converting common jQuery snippets to either use native browser APIs or utilize a popular micro-library.",
@@ -4802,8 +5440,19 @@ courses = [{
     "author": "Derik Whittaker",
     "level": "Intermediate",
     "duration": 136,
-    "rating": "4.3",
+    "rating": "4.4",
     "released": "2013-06-28T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "JavaScript",
+    "name": "Large Scale JavaScript on Client and Server",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/large-scale-javascript",
+    "description": "JavaScript is an important language to modern web development. Most examples are trivial in size, but many developers need to work in large scale projects. In this course I'll show you the techniques in dealing with building large JavaScript projects that are sizeable in lines of code, complexity and in number of developers. This course will show you JavaScript techniques that are useful for client-side and server-side JavaScript.",
+    "author": "Shawn Wildermuth",
+    "level": "Intermediate",
+    "duration": 169,
+    "rating": "4.4",
+    "released": "2014-01-24T05:00:00.000Z",
     "users": []
 }, {
     "category": "JavaScript",
@@ -4824,7 +5473,7 @@ courses = [{
     "author": "Geoffrey Grosenbach",
     "level": "Intermediate",
     "duration": 51,
-    "rating": "Not",
+    "rating": "4.2",
     "released": "2010-10-07T04:00:00.000Z",
     "users": []
 }, {
@@ -4835,8 +5484,19 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 172,
-    "rating": "4.7",
+    "rating": "4.6",
     "released": "2013-10-01T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "JavaScript",
+    "name": "Play by Play: Knockout Cart with Scott Hanselman",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/play-by-play-knockout-cart",
+    "description": "In this Play by Play (formally \"Full Throttle\" from Tekpub), Rob Conery builds a Javascript-powered shopping cart for Tekpub.com using KnockoutJS which Scott Hanselman watches and comments. Inspired by SimpleCartJS, Rob is tasked with creating a browser-based shopping experience for his users. The code for this course is up at http://github.com/tekpub/knockout-cart. Don't miss the follow up to this course - where Ryan Neimeyer refactors Rob's code!",
+    "author": "Rob Conery",
+    "level": "Intermediate",
+    "duration": 71,
+    "rating": "4.1",
+    "released": "2012-02-12T05:00:00.000Z",
     "users": []
 }, {
     "category": "JavaScript",
@@ -4870,6 +5530,17 @@ courses = [{
     "duration": 183,
     "rating": "Not",
     "released": "2007-05-01T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "JavaScript",
+    "name": "React Fundamentals",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/react-fundamentals",
+    "description": "This course covers the features offered by React and explains their advantages and disadvantages relative to the other popular options available. Important topics include: React's one-way reactive data flow, the virtual DOM, and JSX syntax for describing markup.",
+    "author": "Liam McLennan",
+    "level": "Intermediate",
+    "duration": 164,
+    "rating": "4.2",
+    "released": "2014-03-19T04:00:00.000Z",
     "users": []
 }, {
     "category": "JavaScript",
@@ -4912,8 +5583,19 @@ courses = [{
     "author": "Joe Eames",
     "level": "Intermediate",
     "duration": 290,
-    "rating": "4.5",
+    "rating": "4.4",
     "released": "2013-02-12T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "JavaScript",
+    "name": "UI Architecture",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/web-ui-architecture",
+    "description": "Garann walks through considerations you need to make when building an architecture for your web application. She covers JavaScript architecture and lots of tools you can use to improve your client-side stack.",
+    "author": "Garann Means",
+    "level": "Intermediate",
+    "duration": 234,
+    "rating": "2.4",
+    "released": "2013-07-13T04:00:00.000Z",
     "users": []
 }, {
     "category": "JavaScript",
@@ -4923,8 +5605,19 @@ courses = [{
     "author": "Craig Shoemaker",
     "level": "Intermediate",
     "duration": 175,
-    "rating": "4.5",
+    "rating": "4.6",
     "released": "2013-05-08T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "JavaScript",
+    "name": "Website Performance",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/website-performance",
+    "description": "With the rise of mobile networks and devices, website performance is now absolutely critical to building good websites and web applications. Kyle dives deep into everything web performance from resource loading, to thread, animations, JSON, minification, image optimization and more!",
+    "author": "Kyle Simpson",
+    "level": "Intermediate",
+    "duration": 303,
+    "rating": "4.2",
+    "released": "2013-03-29T04:00:00.000Z",
     "users": []
 }, {
     "category": "jQuery",
@@ -4978,8 +5671,19 @@ courses = [{
     "author": "Mark Zamoyta",
     "level": "Intermediate",
     "duration": 215,
-    "rating": "4.7",
+    "rating": "4.6",
     "released": "2014-01-09T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "jQuery",
+    "name": "jQuery In-Depth",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/jquery-in-depth",
+    "description": "Karl leverages his experience on the jQuery Team and gives a thorough walkthrough of all of the most important parts of jQuery. He discusses how to resolve some common misuses of each of these areas and also covers recent changes to jQuery like the new Ajax promise API and cleaning up your event handling and delegation by using the new \"on\" method.",
+    "author": "Karl Swedberg",
+    "level": "Intermediate",
+    "duration": 215,
+    "rating": "3.4",
+    "released": "2013-02-19T05:00:00.000Z",
     "users": []
 }, {
     "category": "jQuery",
@@ -4989,8 +5693,19 @@ courses = [{
     "author": "Scott Allen",
     "level": "Intermediate",
     "duration": 107,
-    "rating": "4.7",
+    "rating": "4.6",
     "released": "2012-04-27T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "jQuery",
+    "name": "jQuery Plugins & jQuery UI",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/jquery-plugins-jquery-ui",
+    "description": "Scott Gonzalez, lead developer for jQuery UI, dives into patterns and practices for writing jQuery plugins and how you can make your plugins stateful. Scott covers many of the jQuery UI plugins in-depth, pointing out strengths and weaknesses as he sees them in the various plugins. He also covers how you can make your plugins stateful with the widget factory (the underlying framework for each of the jQuery UI widgets). Scott also gives an overview of themeroller and theming jQuery UI.",
+    "author": "Scott Gonzalez",
+    "level": "Intermediate",
+    "duration": 206,
+    "rating": "4.1",
+    "released": "2013-02-19T05:00:00.000Z",
     "users": []
 }, {
     "category": "jQuery",
@@ -5022,7 +5737,7 @@ courses = [{
     "author": "Robert Boedigheimer",
     "level": "Intermediate",
     "duration": 186,
-    "rating": "Not",
+    "rating": "4.2",
     "released": "2014-01-17T05:00:00.000Z",
     "users": []
 }, {
@@ -5038,9 +5753,9 @@ courses = [{
     "users": []
 }, {
     "category": "Lightswitch",
-    "name": "Introduction to Visual Studio LightSwitch",
+    "name": "Introduction to Visual Studio LightSwitch 2011",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/lightswitch-introduction",
-    "description": "In this course you will learn how to create, access and manipulate data in Visual Studio LightSwitch applications. You will also learn about the screen creation capabilities and how to create rich applications quickly.",
+    "description": "In this course you will learn how to create, access and manipulate data in Visual Studio LightSwitch applications. You will also learn about the screen creation capabilities and how to create rich applications quickly. This course covers Visual Studio LightSwitch 2011. For users of Visual Studio 2012 or 2013, we recommend our newer course, \"Visual Studio LightSwitch 2012 and 2013.\"",
     "author": "Matt Milner",
     "level": "Beginner",
     "duration": 94,
@@ -5057,6 +5772,17 @@ courses = [{
     "duration": 103,
     "rating": "4.2",
     "released": "2013-10-10T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Lightswitch",
+    "name": "Visual Studio LightSwitch 2012 and 2013",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/visual-studio-lightswitch2012",
+    "description": "In this course you will learn about all the features of Visual Studio LightSwitch versions 2012 and 2013. You will learn how to manage datasources; create screens and navigation in both HTML and Silverlight clients, and how to secure your application. In addition you will learn how to localize and deploy your application and how to integrate with SharePoint online.",
+    "author": "Matt Milner",
+    "level": "Intermediate",
+    "duration": 306,
+    "rating": "4.7",
+    "released": "2014-02-21T05:00:00.000Z",
     "users": []
 }, {
     "category": "LINQ",
@@ -5099,7 +5825,7 @@ courses = [{
     "author": "Dan Sullivan",
     "level": "Advanced",
     "duration": 234,
-    "rating": "4.1",
+    "rating": "4.2",
     "released": "2011-05-17T04:00:00.000Z",
     "users": []
 }, {
@@ -5114,6 +5840,61 @@ courses = [{
     "released": "2010-10-08T04:00:00.000Z",
     "users": []
 }, {
+    "category": "Linux",
+    "name": "CompTIA Linux+ (2010 Objectives): Part 1",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/comptia-linux-plus-pt1",
+    "description": "Part 1 of 2 in the CompTIA Linux+ (2010 Objectives) series. In this course, you'll learn the basics of Linux technology. You'll work to develop system architecture, work with GNU and Unix commands, and learn about Linux file systems. This course is ideal for those who have some understanding of IT fundamentals but are new to Linux. Network+ and A+ certifications are recommended to get the most out of this course, but not required.",
+    "author": "Veronica Henry",
+    "level": "Beginner",
+    "duration": 336,
+    "rating": "3.9",
+    "released": "2010-11-30T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Linux",
+    "name": "CompTIA Linux+ (2010 Objectives): Part 2",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/comptia-linux-plus-pt2",
+    "description": "Part 2 of 2 in the CompTIA Linux+ (2010 Objectives) series. In this course, you'll learn the basics of Linux technology. You'll work to develop system architecture, work with GNU and Unix commands, and learn about Linux file systems. This course is ideal for those who have some understanding of IT fundamentals but are new to Linux. Network+ and A+ certifications are recommended to get the most out of this course, but not required.",
+    "author": "Veronica Henry",
+    "level": "Beginner",
+    "duration": 464,
+    "rating": "3.5",
+    "released": "2010-11-30T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Linux",
+    "name": "Docker Fundamentals",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/docker-fundamentals",
+    "description": "This course on Docker covers the latest in container technology. With a short history of containers, what Docker accomplishes in that technology, an introduction and look at installation across operating systems, cloud providers, day to day operations and ongoing involvement with repositories within the Docker Community.",
+    "author": "Adron Hall",
+    "level": "Intermediate",
+    "duration": 63,
+    "rating": "3.5",
+    "released": "2014-01-11T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Linux",
+    "name": "Installing and Configuring Apache Web Server",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/apache-web-server-install-config",
+    "description": "In this course we will install and configure an Apache web server from scratch on a linux system. We will learn about Apache's configuration file and how to configure multiple virtual sites on a single machine. We'll configure user logins and access controls to restrict access to parts of the site, and set up apache to serve a secure http connection using the secure sockets layer and a self-signed certificate. Finally, we'll see how to configure the logging and status reporting features of Apache. The course is intended for web administrators with no previous experience of Apache. Basic linux command-line competence is assumed. Students may follow along with all demos by installing a standard CentOS 6 distribution.",
+    "author": "Chris Brown",
+    "level": "Intermediate",
+    "duration": 139,
+    "rating": "4.3",
+    "released": "2013-09-23T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Linux",
+    "name": "Introduction to the Bash Shell on Mac OS and Linux",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/introduction-bash-shell-linux-mac-os",
+    "description": "The command line is one of the most important tools for a Linux/UNIX power user. Bash is the default login shell on Linux and Mac OS, and adding it to your skillset will open up a whole new world of possibilities. For one thing, it gives you access to a huge number of command line utilities, simplifying many everyday tasks. But Bash also provides you with a powerful scripting language for automating just about anything. For remote access and system administration, Bash is an absolute must.",
+    "author": "Reindert-Jan Ekker",
+    "level": "Intermediate",
+    "duration": 209,
+    "rating": "4.5",
+    "released": "2013-07-02T04:00:00.000Z",
+    "users": []
+}, {
     "category": "Lync Server",
     "name": "Lync Server 2013 Core Solutions Pt. 1: Planning & Installing",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/lync-2013-planning-installing",
@@ -5121,7 +5902,7 @@ courses = [{
     "author": "Stephen McCassey",
     "level": "Intermediate",
     "duration": 220,
-    "rating": "4.1",
+    "rating": "4.2",
     "released": "2013-07-13T04:00:00.000Z",
     "users": []
 }, {
@@ -5154,7 +5935,7 @@ courses = [{
     "author": "Stephen McCassey",
     "level": "Intermediate",
     "duration": 263,
-    "rating": "Not",
+    "rating": "4.3",
     "released": "2013-03-20T04:00:00.000Z",
     "users": []
 }, {
@@ -5176,7 +5957,7 @@ courses = [{
     "author": "Heather Ackmann",
     "level": "Beginner",
     "duration": 163,
-    "rating": "4.8",
+    "rating": "4.4",
     "released": "2008-06-03T04:00:00.000Z",
     "users": []
 }, {
@@ -5187,7 +5968,7 @@ courses = [{
     "author": "Heather Ackmann",
     "level": "Beginner",
     "duration": 247,
-    "rating": "Not",
+    "rating": "4.5",
     "released": "2008-06-03T04:00:00.000Z",
     "users": []
 }, {
@@ -5231,7 +6012,7 @@ courses = [{
     "author": "Heather Ackmann",
     "level": "Beginner",
     "duration": 228,
-    "rating": "Not",
+    "rating": "4.8",
     "released": "2010-11-02T04:00:00.000Z",
     "users": []
 }, {
@@ -5264,7 +6045,7 @@ courses = [{
     "author": "Heather Ackmann",
     "level": "Beginner",
     "duration": 303,
-    "rating": "Not",
+    "rating": "4.6",
     "released": "2013-08-23T04:00:00.000Z",
     "users": []
 }, {
@@ -5286,7 +6067,7 @@ courses = [{
     "author": "Ben Howard",
     "level": "Beginner",
     "duration": 158,
-    "rating": "3.6",
+    "rating": "3.9",
     "released": "2014-01-06T05:00:00.000Z",
     "users": []
 }, {
@@ -5308,7 +6089,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Beginner",
     "duration": 263,
-    "rating": "Not",
+    "rating": "4.8",
     "released": "2007-12-19T05:00:00.000Z",
     "users": []
 }, {
@@ -5330,7 +6111,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Beginner",
     "duration": 189,
-    "rating": "4.2",
+    "rating": "4.4",
     "released": "2011-04-13T04:00:00.000Z",
     "users": []
 }, {
@@ -5341,7 +6122,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Beginner",
     "duration": 168,
-    "rating": "4.4",
+    "rating": "4.5",
     "released": "2011-04-13T04:00:00.000Z",
     "users": []
 }, {
@@ -5354,6 +6135,17 @@ courses = [{
     "duration": 180,
     "rating": "4.5",
     "released": "2011-04-13T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Microsoft Office",
+    "name": "Excel 2013 Fundamentals",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/excel-2013-fundamentals",
+    "description": "This course covers everything you need to know to get started in Excel 2013. Starting with an overview of how to navigate in Excel using both the mouse and keyboard shortcuts, Heather Ackmann dives into popular topics including writing formulas and expressions, popular functions, sorting and filtering, conditional formatting, PivotTables and PivotCharts, and more.",
+    "author": "Heather Ackmann",
+    "level": "Beginner",
+    "duration": 334,
+    "rating": "4.5",
+    "released": "2014-02-05T05:00:00.000Z",
     "users": []
 }, {
     "category": "Microsoft Office",
@@ -5407,7 +6199,7 @@ courses = [{
     "author": "AckmannKulterman",
     "level": "Beginner",
     "duration": 284,
-    "rating": "Not",
+    "rating": "4.9",
     "released": "2011-04-13T04:00:00.000Z",
     "users": []
 }, {
@@ -5473,7 +6265,7 @@ courses = [{
     "author": "Heather Ackmann",
     "level": "Beginner",
     "duration": 275,
-    "rating": "Not",
+    "rating": "4.5",
     "released": "2011-04-13T04:00:00.000Z",
     "users": []
 }, {
@@ -5495,7 +6287,7 @@ courses = [{
     "author": "Heather Ackmann",
     "level": "Beginner",
     "duration": 457,
-    "rating": "Not",
+    "rating": "4.7",
     "released": "2013-04-29T04:00:00.000Z",
     "users": []
 }, {
@@ -5506,7 +6298,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Beginner",
     "duration": 242,
-    "rating": "Not",
+    "rating": "4.2",
     "released": "2008-10-23T04:00:00.000Z",
     "users": []
 }, {
@@ -5605,7 +6397,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Beginner",
     "duration": 154,
-    "rating": "4.3",
+    "rating": "4.5",
     "released": "2011-04-13T04:00:00.000Z",
     "users": []
 }, {
@@ -5627,8 +6419,19 @@ courses = [{
     "author": "Ron Schindler",
     "level": "Intermediate",
     "duration": 310,
-    "rating": "Not",
+    "rating": "4.1",
     "released": "2014-01-17T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Microsoft Office",
+    "name": "Introduction to Microsoft Office Open XML",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/introduction-microsoft-office-open-xml",
+    "description": "Working with data in Microsoft Office documents can be slow and error-prone if you rely on Automation. Starting with Office 2007, Microsoft introduced a new file format, the Open XML File formats, that stores the content of Microsoft Word, Excel, and PowerPoint documents in an XML-based structured set of folders inside a standard ZIP file. The Open XML File formats are easy to use, easy to view, and far easier to work with than the previous binary formats. The XML content is, however, somewhat daunting to manipulate programmatically, and Microsoft has released the Open XML SDK to make it simpler. This course focuses both on examining and understanding enough about the Open XML File formats to get you started, and shows several examples using the Open XML SDK with each type of supported document. You'll learn to both retrieve and modify data in an example for each type of document. By the time you're done with the course, you'll have a basic understanding of the tools you need, and the locations for finding help.",
+    "author": "Ken Getz",
+    "level": "Intermediate",
+    "duration": 224,
+    "rating": "4.5",
+    "released": "2014-01-22T05:00:00.000Z",
     "users": []
 }, {
     "category": "Microsoft Office",
@@ -5649,18 +6452,18 @@ courses = [{
     "author": "Shawn Wildermuth",
     "level": "Beginner",
     "duration": 215,
-    "rating": "4.3",
+    "rating": "4.4",
     "released": "2013-04-24T04:00:00.000Z",
     "users": []
 }, {
     "category": "Mobile Frameworks",
-    "name": "Building Cross-Platform Mobile Apps With Icenium",
+    "name": "Building Cross-Platform Mobile Apps with Telerik AppBuilder",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/building-hybrid-mobile-apps-icenium",
-    "description": "Mobile app development does not have to be as painstaking as it has been in previous years. Building hybrid mobile applications with JavaScript, HTML, and CSS enables you to deploy your app on multiple platforms without having to learn a new programming language for each platform. Hybrid apps enable you to re-use your existing JavaScript and HTML skills to quickly build compelling apps. Icenium is one of the best tools available today for building cross-platform applications. Icenium represents a giant leap forward for development tools for mobile apps. In this course, we will look at all of the major features of Icenium including the three IDEs, the robust Icenium simulator, debugging with Icenium, built-in project templates, working with plugins, Everlive services, source control, deployment, and more!",
+    "description": "Mobile app development does not have to be as painstaking as it has been in previous years. Building hybrid mobile applications with JavaScript, HTML, and CSS enables you to deploy your app on multiple platforms without having to learn a new programming language for each platform. Hybrid apps enable you to re-use your existing JavaScript and HTML skills to quickly build compelling apps. Telerik AppBuilder is one of the best tools available today for building cross-platform applications. AppBuilder represents a giant leap forward for development tools for mobile apps. In this course, we will look at all of the major features of AppBuilder including the three IDEs, the robust AppBuilder simulator, debugging with AppBuilder, built-in project templates, working with plugins, Everlive services, source control, deployment, and more!",
     "author": "Steve Michelotti",
     "level": "Intermediate",
     "duration": 194,
-    "rating": "4.9",
+    "rating": "4.7",
     "released": "2014-01-18T05:00:00.000Z",
     "users": []
 }, {
@@ -5671,7 +6474,7 @@ courses = [{
     "author": "Jay Mcfarland",
     "level": "Intermediate",
     "duration": 218,
-    "rating": "Not",
+    "rating": "4.7",
     "released": "2013-10-25T04:00:00.000Z",
     "users": []
 }, {
@@ -5682,8 +6485,19 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 175,
-    "rating": "4.5",
+    "rating": "4.4",
     "released": "2013-06-27T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Mobile Frameworks",
+    "name": "Deploying GamesSalad Games for Testing",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/deploying-gamesalad-games-for-testing",
+    "description": "Learn how to properly test your games for iOS, Android, and HTML before and after publishing.",
+    "author": "Jay Mcfarland",
+    "level": "Intermediate",
+    "duration": 111,
+    "rating": "Not",
+    "released": "2014-01-30T05:00:00.000Z",
     "users": []
 }, {
     "category": "Mobile Frameworks",
@@ -5693,7 +6507,7 @@ courses = [{
     "author": "Jay Mcfarland",
     "level": "Intermediate",
     "duration": 175,
-    "rating": "Not",
+    "rating": "4.2",
     "released": "2013-10-17T04:00:00.000Z",
     "users": []
 }, {
@@ -5706,6 +6520,17 @@ courses = [{
     "duration": 191,
     "rating": "Not",
     "released": "2013-11-25T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Mobile Frameworks",
+    "name": "Pebble Smart Watch App Fundamentals",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/pebble-smart-watch-app-fundamentals",
+    "description": "This course will teach you how to create apps for the market-leading Pebble smart watch. The course will start off by covering the basic topics to get you started. Then the course will progress to more advanced topics, such as smart phone app and watch app integration. By the end of the course you will be an advanced Pebble app developer with enough knowledge to develop and ready an app for Pebble Appstore release.",
+    "author": "Rag Dhiman",
+    "level": "Intermediate",
+    "duration": 321,
+    "rating": "Not",
+    "released": "2014-04-23T04:00:00.000Z",
     "users": []
 }, {
     "category": "Mobile Frameworks",
@@ -5737,7 +6562,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Intermediate",
     "duration": 381,
-    "rating": "4.6",
+    "rating": "4.7",
     "released": "2013-07-23T04:00:00.000Z",
     "users": []
 }, {
@@ -5781,7 +6606,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 207,
-    "rating": "4.6",
+    "rating": "4.5",
     "released": "2012-08-13T04:00:00.000Z",
     "users": []
 }, {
@@ -5825,7 +6650,7 @@ courses = [{
     "author": "Pinal Dave",
     "level": "Intermediate",
     "duration": 163,
-    "rating": "4.2",
+    "rating": "4.3",
     "released": "2013-07-09T04:00:00.000Z",
     "users": []
 }, {
@@ -5836,7 +6661,7 @@ courses = [{
     "author": "Pinal Dave",
     "level": "Intermediate",
     "duration": 99,
-    "rating": "4.0",
+    "rating": "4.2",
     "released": "2013-08-26T04:00:00.000Z",
     "users": []
 }, {
@@ -5847,8 +6672,19 @@ courses = [{
     "author": "Pinal Dave",
     "level": "Intermediate",
     "duration": 110,
-    "rating": "4.1",
+    "rating": "4.2",
     "released": "2013-12-30T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "MySQL",
+    "name": "MySQL Workbench Guided Tour",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/mysql-workbench-guided-tour",
+    "description": "A detailed exploration of MySQL Workbench, a unified visual tool for data modeling, SQL development, and comprehensive administration tools for MySQL. This course will guide you through maximizing the power of MySQL Workbench and getting productive quickly with MySQL.",
+    "author": "Pinal Dave",
+    "level": "Intermediate",
+    "duration": 112,
+    "rating": "4.3",
+    "released": "2014-01-23T05:00:00.000Z",
     "users": []
 }, {
     "category": "Networking",
@@ -5858,7 +6694,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Beginner",
     "duration": 721,
-    "rating": "Not",
+    "rating": "4.5",
     "released": "2009-05-06T04:00:00.000Z",
     "users": []
 }, {
@@ -5880,7 +6716,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Beginner",
     "duration": 258,
-    "rating": "4.3",
+    "rating": "4.5",
     "released": "2012-08-07T04:00:00.000Z",
     "users": []
 }, {
@@ -5902,7 +6738,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Beginner",
     "duration": 258,
-    "rating": "4.5",
+    "rating": "4.6",
     "released": "2012-02-21T05:00:00.000Z",
     "users": []
 }, {
@@ -5913,7 +6749,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Beginner",
     "duration": 227,
-    "rating": "4.7",
+    "rating": "4.6",
     "released": "2012-02-21T05:00:00.000Z",
     "users": []
 }, {
@@ -5924,7 +6760,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Beginner",
     "duration": 125,
-    "rating": "4.4",
+    "rating": "4.5",
     "released": "2008-10-23T04:00:00.000Z",
     "users": []
 }, {
@@ -5935,7 +6771,7 @@ courses = [{
     "author": "Steve Evans",
     "level": "Beginner",
     "duration": 86,
-    "rating": "4.1",
+    "rating": "4.2",
     "released": "2012-03-29T04:00:00.000Z",
     "users": []
 }, {
@@ -5946,7 +6782,7 @@ courses = [{
     "author": "Joe Rinehart",
     "level": "Intermediate",
     "duration": 625,
-    "rating": "Not",
+    "rating": "4.6",
     "released": "2012-08-21T04:00:00.000Z",
     "users": []
 }, {
@@ -5957,7 +6793,7 @@ courses = [{
     "author": "Joe Rinehart",
     "level": "Intermediate",
     "duration": 1153,
-    "rating": "Not",
+    "rating": "4.8",
     "released": "2012-08-21T04:00:00.000Z",
     "users": []
 }, {
@@ -5968,8 +6804,19 @@ courses = [{
     "author": "Chris Wahl",
     "level": "Intermediate",
     "duration": 410,
-    "rating": "4.9",
+    "rating": "4.7",
     "released": "2013-10-29T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Networking",
+    "name": "Cisco CCNA Data Center: Nexus, Advanced Switching & SAN",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/cisco-ccna-data-center-nexus-switching-san",
+    "description": "The CCNA Data Center covers a wide range of technologies found in the data center. In this course, we dive deep into LAN architecture with the Cisco Nexus line of switches, their specific use cases, and how to perform initial setup and configuration. We'll also look at advanced switching techniques, such as Virtual Port Channels, FabricPath, and Virtual Device Contexts (VDCs). Finally, we'll switch gears and focus on Storage Area Network (SAN) design and implementation with the Cisco MDS line of switches, including port types, Virtual SAN (VSAN), zoning, masking, and Fabric Login (FLOGI).",
+    "author": "Chris Wahl",
+    "level": "Intermediate",
+    "duration": 266,
+    "rating": "4.8",
+    "released": "2014-01-27T05:00:00.000Z",
     "users": []
 }, {
     "category": "Networking",
@@ -5990,7 +6837,7 @@ courses = [{
     "author": "Joe Rinehart",
     "level": "Intermediate",
     "duration": 193,
-    "rating": "4.8",
+    "rating": "4.6",
     "released": "2012-11-20T05:00:00.000Z",
     "users": []
 }, {
@@ -6023,7 +6870,7 @@ courses = [{
     "author": "Joe Rinehart",
     "level": "Intermediate",
     "duration": 326,
-    "rating": "Not",
+    "rating": "4.5",
     "released": "2011-06-07T04:00:00.000Z",
     "users": []
 }, {
@@ -6067,7 +6914,7 @@ courses = [{
     "author": "Avril Salter",
     "level": "Intermediate",
     "duration": 200,
-    "rating": "Not",
+    "rating": "4.7",
     "released": "2012-11-20T05:00:00.000Z",
     "users": []
 }, {
@@ -6078,7 +6925,7 @@ courses = [{
     "author": "Ross Bagurdes",
     "level": "Intermediate",
     "duration": 293,
-    "rating": "4.8",
+    "rating": "4.7",
     "released": "2013-10-21T04:00:00.000Z",
     "users": []
 }, {
@@ -6105,13 +6952,24 @@ courses = [{
     "users": []
 }, {
     "category": "Networking",
+    "name": "Cisco CCNA: IP Routing",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/cisco-ccna-ip-routing",
+    "description": "In this course, we dive deeper into IP routing. Routing protocols are critical at keeping a network fault tolerant, so we will spend plenty of time looking at EIGRP and OSPF and their operation. Additionally, IPv6 is moving into data networking, albeit somewhat slowly at this point, and it's important to understand the fundamentals of IPv6 routing, so we dive into OSPFv3 and EIGRP for IPv6 as well.",
+    "author": "Ross Bagurdes",
+    "level": "Intermediate",
+    "duration": 326,
+    "rating": "4.5",
+    "released": "2014-02-17T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Networking",
     "name": "Cisco CCNA: Network Control and Security",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/ccna-network-control-security",
     "description": "Part 4 of 4 in the Cisco CCENT - ICND1 (100-101) series will teach the fundamental concepts of networking, and then immedately apply this knowledge to the configuration of a router and switch. By the end of the course, the student will have enough knowledge to set up a network environment that has multiple subnets over multiple virtual LANs (VLANs), use network address translation (NAT) to connect to the Internet, and hand out IP addresses automatically. Additionally, the student will take a deep dive into IP addressing, using binary, to really gain a fundamental understanding of how endpoints are addressed. All you need as a prerequisite is a willingness to learn and basic computer skills.",
     "author": "Ross Bagurdes",
     "level": "Intermediate",
     "duration": 337,
-    "rating": "4.7",
+    "rating": "4.8",
     "released": "2013-08-26T04:00:00.000Z",
     "users": []
 }, {
@@ -6166,7 +7024,7 @@ courses = [{
     "author": "Joe Rinehart",
     "level": "Intermediate",
     "duration": 388,
-    "rating": "Not",
+    "rating": "3.7",
     "released": "2011-11-29T05:00:00.000Z",
     "users": []
 }, {
@@ -6276,7 +7134,7 @@ courses = [{
     "author": "Robert Juric",
     "level": "Intermediate",
     "duration": 219,
-    "rating": "Not",
+    "rating": "4.1",
     "released": "2013-12-03T05:00:00.000Z",
     "users": []
 }, {
@@ -6298,7 +7156,7 @@ courses = [{
     "author": "Ross Bagurdes",
     "level": "Intermediate",
     "duration": 206,
-    "rating": "4.6",
+    "rating": "4.7",
     "released": "2013-06-19T04:00:00.000Z",
     "users": []
 }, {
@@ -6316,11 +7174,11 @@ courses = [{
     "category": "Networking",
     "name": "Cisco CCIE Routing and Switching: Implement Ethernet Technologies",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/ccie-routing-switching-ethernet",
-    "description": "This course is part 1 of 2 of the Cisco CCIE Routing and Switching: Implementing Layer 2 Technologies series. This course is part of a series of courses to prepare candidates to pass the CCIE Routing and Switching written exam, as well as to provide CCIE candidates with a strong level of fundamental knowledge needed to begin studying for the CCIE Routing and Switching lab exam. In this course, your instructor Joe Astorino will cover all of the topics listed under the \"Implement Layer 2 Technologies\" of the current CCIE Routing and Switching written exam blueprint including Spanning-Tree Protocol, Frame-Relay, Ethernet technologies, and more. The course is designed for those who have at least a CCNP R&amp;S level of knowledge.",
+    "description": "This course is part 1 of 2 of the Cisco CCIE Routing and Switching: Implementing Layer 2 Technologies series. This course is part of a series of courses to prepare candidates to pass the CCIE Routing and Switching written exam, as well as to provide CCIE candidates with a strong level of fundamental knowledge needed to begin studying for the CCIE Routing and Switching lab exam. In this course, your instructor Joe Astorino will cover all of the topics listed under the \"Implement Layer 2 Technologies\" of the current CCIE Routing and Switching written exam blueprint including Spanning-Tree Protocol, Frame-Relay, Ethernet technologies, and more. The course is designed for those who have at least a CCNP R&S level of knowledge.",
     "author": "Joe Astorino",
     "level": "Advanced",
     "duration": 335,
-    "rating": "Not",
+    "rating": "4.2",
     "released": "2013-08-14T04:00:00.000Z",
     "users": []
 }, {
@@ -6364,7 +7222,7 @@ courses = [{
     "author": "Geoffrey Grosenbach",
     "level": "Intermediate",
     "duration": 155,
-    "rating": "3.8",
+    "rating": "3.7",
     "released": "2012-04-27T04:00:00.000Z",
     "users": []
 }, {
@@ -6402,13 +7260,24 @@ courses = [{
     "users": []
 }, {
     "category": "NodeJS",
+    "name": "Node.js for .NET Developers",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/nodejs-dotnet-developers",
+    "description": "ASP.NET is a mature technology for building web applications, but a newcomer to the web ecosystem deserves your attention too. Node.js represents a new way to build applications with JavaScript on the server. If you're going to learn this new technology, it would be beneficial to apply your existing knowledge. This course will take what you know about ASP.NET and apply it to Node.js.",
+    "author": "Shawn Wildermuth",
+    "level": "Intermediate",
+    "duration": 319,
+    "rating": "4.7",
+    "released": "2014-03-31T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "NodeJS",
     "name": "Play by Play: Tim Caswell",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/play-by-play-tim-caswell",
     "description": "Tim Caswell (@creationix) is an open source trailblazer. He was one of the first users and contributors to Node.js. He started howtonode.org where many people learned how to use early versions of Node.js. He now works at Cloud9, a browser-based IDE. He has authored over a hundred open source projects. We gave Tim the task of building a simple function that parses directions, durations, and distances from a set of instructions for trail hikers. He built a simple Node.js web app to demonstrate the feature. You'll see Tim work with: lightweight, high performance Node.js web servers (his final app runs in only 1ms!), building middleware, writing a test suite with built-in modules, using Apache bench for benchmarking, adding structure to an application as it develops, debugging, and the good feeling of writing Open Source software.",
     "author": "CaswellGrosenbach",
     "level": "Intermediate",
     "duration": 98,
-    "rating": "4.3",
+    "rating": "4.0",
     "released": "2012-08-02T04:00:00.000Z",
     "users": []
 }, {
@@ -6419,7 +7288,7 @@ courses = [{
     "author": "Hadi Hariri",
     "level": "Intermediate",
     "duration": 134,
-    "rating": "4.6",
+    "rating": "4.5",
     "released": "2012-09-27T04:00:00.000Z",
     "users": []
 }, {
@@ -6430,7 +7299,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Beginner",
     "duration": 183,
-    "rating": "4.3",
+    "rating": "4.2",
     "released": "2012-02-09T05:00:00.000Z",
     "users": []
 }, {
@@ -6522,6 +7391,39 @@ courses = [{
     "released": "2012-01-25T05:00:00.000Z",
     "users": []
 }, {
+    "category": "Oracle",
+    "name": "Oracle PL/SQL Fundamentals - Part 1",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/oracle-plsql-fundamentals",
+    "description": "In this course you will learn about the fundamentals of Oracle PL/SQL programming language. You will gain a solid understanding of Pl/SQL datatypes and programming constructs like loops, conditional execution, cursors and exception handling, which will enable you to do effective debugging.",
+    "author": "Pankaj Jain",
+    "level": "Beginner",
+    "duration": 268,
+    "rating": "4.0",
+    "released": "2014-03-03T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Oracle",
+    "name": "Introduction to Dates, Times and Intervals in Oracle",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/intro-dates-times-intervals-oracle",
+    "description": "The Introduction to Dates, Time and Intervals in Oracle course details how to use the DATE, TIMESTAMP and INTERVAL data types as well as the many date- and time-related functions available to the SQL programmer such as TO_DATE(), TO_CHAR(), MONTHS_BETWEEN(), as well as many others.",
+    "author": "Scott Hecht",
+    "level": "Intermediate",
+    "duration": 144,
+    "rating": "4.5",
+    "released": "2013-12-06T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Oracle",
+    "name": "Optimizing SQL Queries in Oracle",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/optimizing-sql-queries-oracle",
+    "description": "This course introduces SQL programmers and new Oracle database administrators to several methods to make SQL queries execute faster, such as transforming your data to normal form, using more efficient SQL code, and using indexes, as well as how to work with partitions.",
+    "author": "Scott Hecht",
+    "level": "Intermediate",
+    "duration": 226,
+    "rating": "Not",
+    "released": "2014-04-15T04:00:00.000Z",
+    "users": []
+}, {
     "category": "Performance",
     "name": "A Web Developer's Guide to Images",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/dev-guide-to-images",
@@ -6540,7 +7442,7 @@ courses = [{
     "author": "Robert Boedigheimer",
     "level": "Intermediate",
     "duration": 171,
-    "rating": "4.5",
+    "rating": "4.4",
     "released": "2011-08-08T04:00:00.000Z",
     "users": []
 }, {
@@ -6551,8 +7453,19 @@ courses = [{
     "author": "Troy Kranendonk",
     "level": "Beginner",
     "duration": 129,
-    "rating": "4.3",
+    "rating": "4.2",
     "released": "2013-11-20T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Photoshop",
+    "name": "A Programmer's Guide to Game Art for Unity",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/programmers-guide-game-art-unity",
+    "description": "Learn to develop high quality, stylized low poly models with hand painted textures for Unity3D with Blender, Gimp or Photoshop. This course is delivered through a programmer's perspective. Alex has been a programmer first and an artist second, so he knows what it's like to be new to 3D Art, and also shows how to use programming concepts such as agile and rapid production in art and asset creation.",
+    "author": "Alexander Zanfir",
+    "level": "Intermediate",
+    "duration": 192,
+    "rating": "4.6",
+    "released": "2014-02-14T05:00:00.000Z",
     "users": []
 }, {
     "category": "Photoshop",
@@ -6562,7 +7475,7 @@ courses = [{
     "author": "Peter Shaw",
     "level": "Intermediate",
     "duration": 53,
-    "rating": "3.4",
+    "rating": "3.5",
     "released": "2013-04-10T04:00:00.000Z",
     "users": []
 }, {
@@ -6578,13 +7491,35 @@ courses = [{
     "users": []
 }, {
     "category": "PHP",
+    "name": "Building Dynamic Websites with PHP and MySQL",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/build-dynamic-web-sites-mysql-php",
+    "description": "In this course you will learn how to create dynamic, data driven websites using the LAMP stack. The course focuses on the integration of the LAMP components (especially MySQL and PHP) to create a complete working site. Throughout the course, a lending library that needs a web application to track its books and borrowers provides a scenario for discussion and demonstration. Attention is also paid to best practices for keeping the site secure. Students should have a basic prior knowledge of relational databases and SQL and of the PHP language (variables, operators, loops, branches, and simple string handling). Basic competence at the Linux command line (including the ability to edit text files) is also assumed. Students can follow along with all demos by pre-installing Centos 6 (or similar) into a virtual machine.",
+    "author": "Chris Brown",
+    "level": "Intermediate",
+    "duration": 300,
+    "rating": "4.4",
+    "released": "2014-02-25T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "PHP",
+    "name": "Building PHP Applications with the Zend Framework",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/building-php-applications-zend-framework",
+    "description": "This course will introduce you to the PHP Zend Framework. PHP has been around for a long time and the Zend framework has proven to be one of the most popular web frameworks for PHP. This course will cover the basics of getting Zend running with a brief overview. The rest of the time will be spent doing actual application coding and working with the Zend framework as if you were working on a real world project. No prior experience with Zend is required for this course.",
+    "author": "Dan Bunker",
+    "level": "Intermediate",
+    "duration": 190,
+    "rating": "4.2",
+    "released": "2014-02-26T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "PHP",
     "name": "Introduction to PHP MVC with CakePHP",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/introduction-php-mvc-cakephp",
     "description": "An introduction to building a PHP MVC website using the CakePHP Framework. The course includes installing and setting up your environment and walks you through the process of creating a functional web application.",
     "author": "Jill Gundersen",
     "level": "Intermediate",
     "duration": 239,
-    "rating": "4.4",
+    "rating": "4.5",
     "released": "2013-11-26T05:00:00.000Z",
     "users": []
 }, {
@@ -6595,7 +7530,7 @@ courses = [{
     "author": "Elton Stoneman",
     "level": "Intermediate",
     "duration": 172,
-    "rating": "4.5",
+    "rating": "4.4",
     "released": "2013-07-31T04:00:00.000Z",
     "users": []
 }, {
@@ -6608,6 +7543,28 @@ courses = [{
     "duration": 161,
     "rating": "4.4",
     "released": "2011-09-07T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "PowerShell",
+    "name": "Play by Play: Discovering PowerShell with Mark Minasi",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/play-by-play-discovering-powershell-minasi",
+    "description": "In this Play by Play, Windows Server guru Mark Minasi turns the tables on Pluralsight's Gary Eimerman and challenges him to discover PowerShell with his assistance. Before this course, Gary had never used PowerShell, and that's just the point. With the built-in help commands and the occasional help of a search engine, any administrator can learn to use PowerShell to automate tasks and access information that isn't available through the GUI.",
+    "author": "EimermanMinasi",
+    "level": "Beginner",
+    "duration": 100,
+    "rating": "4.2",
+    "released": "2014-03-28T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "PowerShell",
+    "name": "The Case for PowerShell",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/case-for-powershell",
+    "description": "In this course, Mark Minasi makes the case for learning PowerShell, and shows why it's one of the most valuable tools an admin can learn. If you run a Windows network, learning PowerShell will help you do your job, keep your job, and enjoy your job more.",
+    "author": "Mark Minasi",
+    "level": "Beginner",
+    "duration": 77,
+    "rating": "4.3",
+    "released": "2014-03-21T04:00:00.000Z",
     "users": []
 }, {
     "category": "PowerShell",
@@ -6639,7 +7596,7 @@ courses = [{
     "author": "Thomas Lee",
     "level": "Intermediate",
     "duration": 152,
-    "rating": "4.2",
+    "rating": "4.4",
     "released": "2012-03-20T04:00:00.000Z",
     "users": []
 }, {
@@ -6661,18 +7618,18 @@ courses = [{
     "author": "Robert Cain",
     "level": "Intermediate",
     "duration": 167,
-    "rating": "4.1",
+    "rating": "4.2",
     "released": "2012-06-26T04:00:00.000Z",
     "users": []
 }, {
     "category": "PowerShell",
     "name": "PowerShell Gotchas",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/powershell-gotchas",
-    "description": "PowerShell is the de facto standard for automation and administration on Windows systems. The central design mantra in PowerShell is Think-Type-Get. That is: Think what you want, Type it, and Get the results. Unfortunately this mantra doesn't always work - PowerShell combines concepts from other languages (Perl, Python, and VBScript for example) and borrows ideas from other platforms (like pipelining in Bash). This creates an experience that feels familiar, but fails to behave consistently with our experiences. This creates \"gotchas\". In this course, we will analyze some specific cases of PowerShell's strange behavior in order to better understand how and why PowerShell works the way it does.",
+    "description": "PowerShell is the de facto standard for automation and administration on Windows systems. The central design mantra in PowerShell is Think-Type-Get. That is: Think what you want, Type it, and Get the results. Unfortunately this mantra doesn't always work - PowerShell combines concepts from other languages (Perl, Python, and VBScript for example) and borrows ideas from other platforms (like pipelining in Bash). This creates an experience that feels familiar, but fails to behave consistently with our experiences. This creates \"gotchas.\" In this course, we will analyze some specific cases of PowerShell's strange behavior in order to better understand how and why PowerShell works the way it does.",
     "author": "Jim Christopher",
     "level": "Intermediate",
     "duration": 100,
-    "rating": "4.5",
+    "rating": "4.6",
     "released": "2013-10-28T04:00:00.000Z",
     "users": []
 }, {
@@ -6694,7 +7651,7 @@ courses = [{
     "author": "Jeff Hicks",
     "level": "Intermediate",
     "duration": 249,
-    "rating": "Not",
+    "rating": "4.5",
     "released": "2011-08-22T04:00:00.000Z",
     "users": []
 }, {
@@ -6716,7 +7673,7 @@ courses = [{
     "author": "Jeff Hicks",
     "level": "Intermediate",
     "duration": 260,
-    "rating": "4.7",
+    "rating": "4.5",
     "released": "2013-06-04T04:00:00.000Z",
     "users": []
 }, {
@@ -6727,7 +7684,7 @@ courses = [{
     "author": "Jeff Hicks",
     "level": "Intermediate",
     "duration": 294,
-    "rating": "Not",
+    "rating": "4.9",
     "released": "2013-06-04T04:00:00.000Z",
     "users": []
 }, {
@@ -6738,7 +7695,7 @@ courses = [{
     "author": "Jeff Hicks",
     "level": "Intermediate",
     "duration": 382,
-    "rating": "Not",
+    "rating": "4.6",
     "released": "2013-06-04T04:00:00.000Z",
     "users": []
 }, {
@@ -6837,7 +7794,7 @@ courses = [{
     "author": "Jimmy Skowronski",
     "level": "Advanced",
     "duration": 119,
-    "rating": "4 s",
+    "rating": "4.0",
     "released": "2013-02-14T05:00:00.000Z",
     "users": []
 }, {
@@ -6845,7 +7802,7 @@ courses = [{
     "name": "Productivity for Programmers",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/productivity-for-programmers",
     "description": "Programming is hard work that requires creativity, problem solving, and even physical stamina. In this course, Calvin will teach you how to set achievable, measurable goals, prepare for the work of thinking, achieve focus, find shortcuts, and maximize your natural rhythm and energy. Part 2 dives into controlling email, where Calvin presents a system that he has developed and taught to many people over several years. It combines ideas from GTD and Inbox Zero and adds other concrete strategies for facing up to your email and attacking it with a consistent plan.",
-    "author": "Calvin Conaway",
+    "author": "Calvin Correli",
     "level": "Beginner",
     "duration": 86,
     "rating": "4.1",
@@ -6881,8 +7838,19 @@ courses = [{
     "author": "Phil Hagelberg",
     "level": "Intermediate",
     "duration": 58,
-    "rating": "4.1",
+    "rating": "3.9",
     "released": "2008-12-23T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Productivity",
+    "name": "Personal Productivity & Performance Tools for Windows Developers",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/personal-productivity-performance-tools-windows-developers",
+    "description": "We’re constantly under pressure to be more productive. Learn how to use these tools to improve your productivity, streamline your workflows, and get more done in less time.",
+    "author": "Jason Roberts",
+    "level": "Intermediate",
+    "duration": 125,
+    "rating": "4",
+    "released": "2014-02-06T05:00:00.000Z",
     "users": []
 }, {
     "category": "Productivity",
@@ -6892,19 +7860,8 @@ courses = [{
     "author": "Jesse Liberty",
     "level": "Intermediate",
     "duration": 102,
-    "rating": "4.1",
+    "rating": "4.3",
     "released": "2013-10-29T04:00:00.000Z",
-    "users": []
-}, {
-    "category": "Programming Languages",
-    "name": "Introduction to F#",
-    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/fsintro",
-    "description": "This course introduces you to the F# programming language. F# is a multi-paradigm programming language that encompasses functional and object-oriented programming models. It is a variant of ML, and has become the predominant functional language targeting the .NET platform. This course will walk you through all of the core details of working with F#, covering not just language fundamentals, but also showing practical scenarios of where it is best used creating .NET applications.",
-    "author": "Oliver Sturm",
-    "level": "Beginner",
-    "duration": 257,
-    "rating": "4.2",
-    "released": "2012-03-07T05:00:00.000Z",
     "users": []
 }, {
     "category": "Programming Languages",
@@ -6914,7 +7871,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 170,
-    "rating": "4.6",
+    "rating": "4.5",
     "released": "2013-12-02T05:00:00.000Z",
     "users": []
 }, {
@@ -6925,7 +7882,7 @@ courses = [{
     "author": "Alan Dipert",
     "level": "Intermediate",
     "duration": 188,
-    "rating": "4.5",
+    "rating": "4.6",
     "released": "2012-07-13T04:00:00.000Z",
     "users": []
 }, {
@@ -6933,11 +7890,22 @@ courses = [{
     "name": "Functional Programming with Clojure",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/functional-programming-clojure",
     "description": "Clojure is a dynamic functional programming language designed to be as approachable as scripting languages, yet harness the power of multi-core machines in the manner of more cryptic languages such as Erlang. In this course, Clojure expert Phil Hagelberg walks through the stages of building a multi-user text adventure game (code available). It's the perfect project to learn about the basics of Clojure while having a fun time doing it, too.",
-    "author": "Phil Hagelberg",
+    "author": "HagelbergHickey",
     "level": "Intermediate",
     "duration": 65,
     "rating": "Not",
     "released": "2009-04-24T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Programming Languages",
+    "name": "Groovy Fundamentals",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/groovy-fundamentals",
+    "description": "This course will introduce you to not only the Groovy language, but also the underlying Groovy platform. Throughout this course we'll develop a Groovy application that can parse GPS data from an XML file, insert it into a database, and even correlate this data to forecast data retrieved from a REST API. At the end of this course you'll not only have a working knowledge of the Groovy language, but you'll also be able to use Groovy in a multitude of everyday use cases.",
+    "author": "Jeremy Jarrell",
+    "level": "Intermediate",
+    "duration": 217,
+    "rating": "4.1",
+    "released": "2014-01-28T05:00:00.000Z",
     "users": []
 }, {
     "category": "Programming Languages",
@@ -6963,17 +7931,6 @@ courses = [{
     "users": []
 }, {
     "category": "Programming Languages",
-    "name": "Introduction to Machine Learning with ENCOG 3",
-    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/introduction-to-machine-learning-encog",
-    "description": "This course is focused on implementation and applications of various machine learning methods. As machine learning is a very vast area, this course will be targeted more towards one of the machine learning methods which is neural networks. The course will try to make a base foundation first by explaining machine learning through some real world applications and various associated components. In this course, we'll take one of the open source machine learning framework for .NET, which is ENCOG. The course will explain how ENCOG fits into the picture for machine learning programming. Then we'll learn to create various neural network components using ENCOG and how to combine these components for real world scenarios. We'll go in detail of feed forward networks and various propagation training methodologies supported in ENCOG. We'll also talk about data preparation for neural networks using normalization process. Finally, we will take a few more case studies and will try to implement tasks of classification & regression. In the course I will also give some tips & tricks for effective & quick implementations of neural networks in real world applications.",
-    "author": "Abhishek Kumar",
-    "level": "Intermediate",
-    "duration": 139,
-    "rating": "4.5",
-    "released": "2013-07-22T04:00:00.000Z",
-    "users": []
-}, {
-    "category": "Programming Languages",
     "name": "Learn Perl by Doing - Part 1",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/learn-perl-by-doing-part1",
     "description": "In this first part of the course, we'll create our first Perl program and tackle the basics of regular expressions, those powerful little strings of squiggles and brackets that remain mysterious to so many programmers. Along the way we'll also get a taste of the power of Perl by creating a program that can download text and images from the Internet.",
@@ -6991,7 +7948,7 @@ courses = [{
     "author": "John Purcell",
     "level": "Intermediate",
     "duration": 216,
-    "rating": "Not",
+    "rating": "4.3",
     "released": "2013-01-01T05:00:00.000Z",
     "users": []
 }, {
@@ -7035,7 +7992,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 275,
-    "rating": "4.6",
+    "rating": "4.5",
     "released": "2013-02-15T05:00:00.000Z",
     "users": []
 }, {
@@ -7046,8 +8003,19 @@ courses = [{
     "author": "Craig Andera",
     "level": "Advanced",
     "duration": 154,
-    "rating": "4.6",
+    "rating": "4.7",
     "released": "2010-04-09T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Python",
+    "name": "Django Fundamentals",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/django-fundamentals",
+    "description": "Django is the most popular and most mature Python web development framework around. It makes it easier to build better Web apps more quickly and with less code. Building web sites with Django is not just smart and efficient, but fun too!",
+    "author": "Reindert-Jan Ekker",
+    "level": "Intermediate",
+    "duration": 189,
+    "rating": "4.6",
+    "released": "2014-01-31T05:00:00.000Z",
     "users": []
 }, {
     "category": "Python",
@@ -7057,7 +8025,7 @@ courses = [{
     "author": "Filip Ekberg",
     "level": "Intermediate",
     "duration": 258,
-    "rating": "4.7",
+    "rating": "4.6",
     "released": "2013-12-18T05:00:00.000Z",
     "users": []
 }, {
@@ -7090,7 +8058,7 @@ courses = [{
     "author": "ShawGrosenbach",
     "level": "Advanced",
     "duration": 111,
-    "rating": "Not",
+    "rating": "4.2",
     "released": "2011-04-29T04:00:00.000Z",
     "users": []
 }, {
@@ -7112,7 +8080,7 @@ courses = [{
     "author": "Dan Benjamin",
     "level": "Beginner",
     "duration": 64,
-    "rating": "4.3",
+    "rating": "4.5",
     "released": "2009-10-12T04:00:00.000Z",
     "users": []
 }, {
@@ -7161,13 +8129,24 @@ courses = [{
     "users": []
 }, {
     "category": "Ruby",
+    "name": "Learn by Building Redis with Ruby",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/learn-by-building-redis-with-ruby",
+    "description": "In this course we build a Redis clone from scratch, using Ruby. We will implement all the major features, including the data structures, transactions, persistence, and more. Along the way we'll also learn how Redis uses Unix sockets and process management to better understand how it operates at the system level. By the end of this course you will have a better understanding of how Redis works, allowing you to make better decisions about how and when to use it.",
+    "author": "Xavier Shay",
+    "level": "Intermediate",
+    "duration": 105,
+    "rating": "Not",
+    "released": "2014-04-09T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Ruby",
     "name": "Meet Chef",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/meet-chef",
     "description": "For many years, server administration was a grueling, manual process. It was one area of computer science that hadn't caught up to the agile, iterative techniques of software development. Thanks to Chef, you can now automate your server deployments with the same confidence with which you run your unit tests. Even software developers can overcome the fear of sysadmin work! In an hour, former 37signals sysadmin Joshua Sierles takes you through the basics of building Chef recipes.",
     "author": "Joshua Sierles",
     "level": "Intermediate",
     "duration": 111,
-    "rating": "4 s",
+    "rating": "3.9",
     "released": "2012-10-05T04:00:00.000Z",
     "users": []
 }, {
@@ -7221,7 +8200,7 @@ courses = [{
     "description": "Jim Weirich is the author of the ubiquitous Rake build tool for Ruby. He's the Chief Scientist at EdgeCase and is a popular speaker and teacher. Given Jim's proven skills in designing APIs for programmers, we wanted to see him design an API from scratch in real time. We gave him the task of building a library that enforces HTML form security. The library protects against unauthorized data model modification by users in less-privileged roles.",
     "author": "WeirichGrosenbach",
     "level": "Intermediate",
-    "duration": 91,
+    "duration": 90,
     "rating": "Not",
     "released": "2012-03-16T04:00:00.000Z",
     "users": []
@@ -7233,7 +8212,7 @@ courses = [{
     "author": "OwenGrosenbach",
     "level": "Intermediate",
     "duration": 126,
-    "rating": "4.3",
+    "rating": "4.4",
     "released": "2013-08-17T04:00:00.000Z",
     "users": []
 }, {
@@ -7277,8 +8256,19 @@ courses = [{
     "author": "Dustin Davis",
     "level": "Intermediate",
     "duration": 159,
-    "rating": "4.7",
+    "rating": "4.6",
     "released": "2013-05-14T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Ruby",
+    "name": "Sinatra In-Depth",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/tekpub-sinatra",
+    "description": "Rob Conery walks you through Sinatra, the lightweight Ruby web framework. Along the way you'll get to know Vim, HAML, and MongoDB as Rob rebuilds the MVC Music Store completely with Sinatra. \"Understanding Rack\" is bundled with this production and is Episode 2. The code for this production is up at https://github.com/tekpub/Sinatra-Music-Store",
+    "author": "Rob Conery",
+    "level": "Intermediate",
+    "duration": 297,
+    "rating": "Not",
+    "released": "2010-07-30T04:00:00.000Z",
     "users": []
 }, {
     "category": "Ruby",
@@ -7310,7 +8300,7 @@ courses = [{
     "author": "Xavier Shay",
     "level": "Intermediate",
     "duration": 118,
-    "rating": "4.5",
+    "rating": "4.6",
     "released": "2013-10-03T04:00:00.000Z",
     "users": []
 }, {
@@ -7332,7 +8322,7 @@ courses = [{
     "author": "Geoffrey Grosenbach",
     "level": "Beginner",
     "duration": 168,
-    "rating": "4.8",
+    "rating": "4.6",
     "released": "2010-10-22T04:00:00.000Z",
     "users": []
 }, {
@@ -7365,7 +8355,7 @@ courses = [{
     "author": "PattersonGrosenbach",
     "level": "Intermediate",
     "duration": 116,
-    "rating": "Not",
+    "rating": "4.5",
     "released": "2012-02-25T05:00:00.000Z",
     "users": []
 }, {
@@ -7464,7 +8454,7 @@ courses = [{
     "author": "Adam Purkiss",
     "level": "Intermediate",
     "duration": 105,
-    "rating": "4.8",
+    "rating": "4.6",
     "released": "2013-05-02T04:00:00.000Z",
     "users": []
 }, {
@@ -7475,7 +8465,7 @@ courses = [{
     "author": "Dan Appleman",
     "level": "Intermediate",
     "duration": 97,
-    "rating": "4.3",
+    "rating": "4.4",
     "released": "2013-02-26T05:00:00.000Z",
     "users": []
 }, {
@@ -7541,7 +8531,7 @@ courses = [{
     "author": "Lisa Szpunar",
     "level": "Beginner",
     "duration": 262,
-    "rating": "4.6",
+    "rating": "4.4",
     "released": "2011-12-27T05:00:00.000Z",
     "users": []
 }, {
@@ -7552,7 +8542,7 @@ courses = [{
     "author": "Lisa Szpunar",
     "level": "Beginner",
     "duration": 231,
-    "rating": "4.7",
+    "rating": "4.6",
     "released": "2011-12-27T05:00:00.000Z",
     "users": []
 }, {
@@ -7574,8 +8564,19 @@ courses = [{
     "author": "Paul Lemmers",
     "level": "Intermediate",
     "duration": 28,
-    "rating": "3.4",
+    "rating": "3.0",
     "released": "2009-11-12T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Security",
+    "name": "Check Point Certified Security Administrator: Install & Deploy",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/check-point-certified-security-administrator-install-deploy",
+    "description": "The Check Point Security Administration Course will prepare network engineers to deploy the network security solution trusted by 100% of all Fortune 100 companies worldwide. This will also prepare you to get a new position or advance you skills in network firewall administration in your current role. This course will lay the foundation to build your knowledge of Check Point products and this will allow you to become an elite network security professional that companies are looking for.",
+    "author": "Bobby Meador",
+    "level": "Intermediate",
+    "duration": 238,
+    "rating": "Not",
+    "released": "2014-03-07T05:00:00.000Z",
     "users": []
 }, {
     "category": "Security",
@@ -7585,7 +8586,7 @@ courses = [{
     "author": "Patrick Hynds",
     "level": "Intermediate",
     "duration": 63,
-    "rating": "3.6",
+    "rating": "3.7",
     "released": "2013-06-17T04:00:00.000Z",
     "users": []
 }, {
@@ -7728,7 +8729,7 @@ courses = [{
     "author": "Tony Northrup",
     "level": "Intermediate",
     "duration": 179,
-    "rating": "Not",
+    "rating": "4.1",
     "released": "2013-06-28T04:00:00.000Z",
     "users": []
 }, {
@@ -7739,7 +8740,7 @@ courses = [{
     "author": "Tony Northrup",
     "level": "Intermediate",
     "duration": 218,
-    "rating": "Not",
+    "rating": "4.4",
     "released": "2013-06-28T04:00:00.000Z",
     "users": []
 }, {
@@ -7750,8 +8751,19 @@ courses = [{
     "author": "Tony Northrup",
     "level": "Intermediate",
     "duration": 347,
-    "rating": "Not",
+    "rating": "4.6",
     "released": "2013-06-28T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Security",
+    "name": "Web Security and the OWASP Top 10: The Big Picture",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/web-security-owasp-top10-big-picture",
+    "description": "Security on the web is becoming an increasingly important topic for organisations to grasp. Recent years have seen the emergence of the hacktivist movement, the increasing sophistication of online career criminals and now the very real threat posed by nation states compromising personal and corporate security. The Open Web Application Security Project gives us the OWASP Top 10 to help guide the secure development of online applications and defend against these threats. This course takes you through a very well-structured, evidence-based prioritisation of risks and most importantly, how organisations building software for the web can protect against them.",
+    "author": "Troy Hunt",
+    "level": "Intermediate",
+    "duration": 123,
+    "rating": "4.5",
+    "released": "2014-03-18T04:00:00.000Z",
     "users": []
 }, {
     "category": "Security",
@@ -7761,7 +8773,7 @@ courses = [{
     "author": "Niraj Bhatt",
     "level": "Intermediate",
     "duration": 286,
-    "rating": "4.3",
+    "rating": "4.2",
     "released": "2012-08-30T04:00:00.000Z",
     "users": []
 }, {
@@ -7772,7 +8784,7 @@ courses = [{
     "author": "Paul Lemmers",
     "level": "Advanced",
     "duration": 288,
-    "rating": "3.5",
+    "rating": "3.4",
     "released": "2011-05-31T04:00:00.000Z",
     "users": []
 }, {
@@ -7794,7 +8806,7 @@ courses = [{
     "author": "Dan Wahlin",
     "level": "Beginner",
     "duration": 46,
-    "rating": "4.4",
+    "rating": "4.3",
     "released": "2009-11-12T05:00:00.000Z",
     "users": []
 }, {
@@ -7805,7 +8817,7 @@ courses = [{
     "author": "OnionMalik",
     "level": "Beginner",
     "duration": 449,
-    "rating": "4.8",
+    "rating": "4.6",
     "released": "2010-06-29T04:00:00.000Z",
     "users": []
 }, {
@@ -7827,7 +8839,7 @@ courses = [{
     "author": "PattisonConnell",
     "level": "Beginner",
     "duration": 194,
-    "rating": "3.8",
+    "rating": "3.9",
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -7838,7 +8850,7 @@ courses = [{
     "author": "Wendy Henry",
     "level": "Beginner",
     "duration": 50,
-    "rating": "3.3",
+    "rating": "3.4",
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -7871,7 +8883,7 @@ courses = [{
     "author": "Wendy Henry",
     "level": "Beginner",
     "duration": 56,
-    "rating": "3 s",
+    "rating": "3.0",
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -7893,7 +8905,7 @@ courses = [{
     "author": "Wendy Henry",
     "level": "Beginner",
     "duration": 334,
-    "rating": "3.9",
+    "rating": "4.0",
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -7915,7 +8927,7 @@ courses = [{
     "author": "Wendy Henry",
     "level": "Beginner",
     "duration": 65,
-    "rating": "3.8",
+    "rating": "3.6",
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -7926,7 +8938,7 @@ courses = [{
     "author": "Wendy Henry",
     "level": "Beginner",
     "duration": 62,
-    "rating": "Not",
+    "rating": "3.3",
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -7937,7 +8949,7 @@ courses = [{
     "author": "Rob Windsor",
     "level": "Beginner",
     "duration": 424,
-    "rating": "4.7",
+    "rating": "4.6",
     "released": "2013-11-07T05:00:00.000Z",
     "users": []
 }, {
@@ -7948,7 +8960,7 @@ courses = [{
     "author": "Sahil Malik",
     "level": "Beginner",
     "duration": 72,
-    "rating": "4.1",
+    "rating": "4.0",
     "released": "2013-03-05T05:00:00.000Z",
     "users": []
 }, {
@@ -7964,13 +8976,24 @@ courses = [{
     "users": []
 }, {
     "category": "SharePoint",
+    "name": "Building SharePoint Apps as Single Page Apps with AngularJS",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/building-sharepoint-apps-spa-angularjs",
+    "description": "Microsoft introduced a new app model in the SharePoint 2013 release, which is available both for on-premise deployments and in the hosted service Office 365. One type of SharePoint app developers can build is a SharePoint-hosted application where everything is stored in SharePoint but the app actually runs within the user's browser. These types of SharePoint apps can be built as single page applications for a very fast, fluid, and pleasant experience for your users. This course will show you how to create a SharePoint-hosted app as a single page application by working through an example scenario.",
+    "author": "Andrew Connell",
+    "level": "Intermediate",
+    "duration": 216,
+    "rating": "Not",
+    "released": "2014-04-25T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "SharePoint",
     "name": "Configuring SharePoint 2013 Farm with PowerShell",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/configuring-sharepoint-2013-farms-powershell",
     "description": "In this course we will go over configuring a SharePoint 2013 farm using only PowerShell. From Farm administration, Service Applications and Backup and Restores, we will cover all of this with a focus on ending the course with Automation.",
     "author": "Jeff Adkin",
     "level": "Intermediate",
     "duration": 276,
-    "rating": "Not",
+    "rating": "4.1",
     "released": "2014-01-21T05:00:00.000Z",
     "users": []
 }, {
@@ -7981,7 +9004,7 @@ courses = [{
     "author": "David Mann",
     "level": "Intermediate",
     "duration": 370,
-    "rating": "4.4",
+    "rating": "4.6",
     "released": "2013-12-04T05:00:00.000Z",
     "users": []
 }, {
@@ -7997,13 +9020,24 @@ courses = [{
     "users": []
 }, {
     "category": "SharePoint",
+    "name": "Manage Office Data with SharePoint 2013",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/manage-office-data-sharepoint-2013",
+    "description": "In this course see how SharePoint 2013 can help extend your Microsoft Office capabilities as well as how Office can help you to get more out of SharePoint. You’ll learn how to customize a SharePoint List form using InfoPath and import Excel data into a SharePoint list. Outlook and SharePoint work hand in hand to bring your SharePoint libraries and calendar into your Outlook for easy access and this course will show you how. Get a glimpse into the powerful ways to analyse data using PowerPivot and Power View with SharePoint and Excel. See how SharePoint can bring in data from external sources like SQL and other ODBC databases and give you the tools to make business decisions fast. You will also learn how to quickly and easily create a no code web application using Access 2013 and SharePoint. Finally we wrap the whole thing up by unleashing the power of Visio working alongside SharePoint. Allow users to view complex Visio drawings with just a web browser and SharePoint 2013.",
+    "author": "Bill Kulterman",
+    "level": "Intermediate",
+    "duration": 221,
+    "rating": "4.5",
+    "released": "2014-03-12T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "SharePoint",
     "name": "SharePoint 2007 Developer Ramp-Up - Part 2",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/cpt-sp2007-dev-ramp-part2",
     "description": "In this course students will start to learn the basic building blocks involved in creating customized solutions in SharePoint. This includes understanding what Features and Solutions are as well as how to create them. Microsoft does not include any tools within Visual Studio 2008, the ideal tool for creating custom solutions for SharePoint 2007 so this course demonstrates how to build solutions (the deployment packages) in Visual Studio. IN addition students will also learn how SharePoint 2007 integrates with ASP.NET 2.0.",
     "author": "David Mann",
     "level": "Intermediate",
     "duration": 107,
-    "rating": "3.8",
+    "rating": "3.9",
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -8201,7 +9235,7 @@ courses = [{
     "author": "ConnellPattison",
     "level": "Intermediate",
     "duration": 195,
-    "rating": "3.7",
+    "rating": "3.8",
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -8212,7 +9246,7 @@ courses = [{
     "author": "ConnellPattison",
     "level": "Intermediate",
     "duration": 177,
-    "rating": "3.8",
+    "rating": "3.9",
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -8245,7 +9279,7 @@ courses = [{
     "author": "ConnellPattison",
     "level": "Intermediate",
     "duration": 122,
-    "rating": "4.1",
+    "rating": "4",
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -8278,7 +9312,7 @@ courses = [{
     "author": "Ted Pattison",
     "level": "Intermediate",
     "duration": 150,
-    "rating": "4.2",
+    "rating": "4.3",
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -8289,7 +9323,7 @@ courses = [{
     "author": "Ted Pattison",
     "level": "Intermediate",
     "duration": 155,
-    "rating": "4.1",
+    "rating": "4.2",
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -8300,7 +9334,7 @@ courses = [{
     "author": "Ted Pattison",
     "level": "Intermediate",
     "duration": 302,
-    "rating": "4 s",
+    "rating": "4.1",
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -8355,7 +9389,7 @@ courses = [{
     "author": "Andrew Connell",
     "level": "Intermediate",
     "duration": 97,
-    "rating": "4.1",
+    "rating": "4.0",
     "released": "2012-11-05T05:00:00.000Z",
     "users": []
 }, {
@@ -8377,7 +9411,7 @@ courses = [{
     "author": "Andrew Connell",
     "level": "Intermediate",
     "duration": 146,
-    "rating": "4 s",
+    "rating": "4.0",
     "released": "2012-11-05T05:00:00.000Z",
     "users": []
 }, {
@@ -8421,7 +9455,7 @@ courses = [{
     "author": "Rob Windsor",
     "level": "Intermediate",
     "duration": 401,
-    "rating": "4.7",
+    "rating": "4.6",
     "released": "2013-05-28T04:00:00.000Z",
     "users": []
 }, {
@@ -8432,7 +9466,7 @@ courses = [{
     "author": "Markus Ehrenmüller-Jensen",
     "level": "Intermediate",
     "duration": 91,
-    "rating": "Not",
+    "rating": "3.9",
     "released": "2014-01-16T05:00:00.000Z",
     "users": []
 }, {
@@ -8465,8 +9499,19 @@ courses = [{
     "author": "Andrew Connell",
     "level": "Intermediate",
     "duration": 244,
-    "rating": "4.5",
+    "rating": "4.4",
     "released": "2013-06-21T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "SharePoint",
+    "name": "SharePoint 2013 Workflow - Web Services",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/sharepoint-2013-workflow-web-services",
+    "description": "Workflow changed quite a bit in the SharePoint 2013 release from previous versions of SharePoint. The new workflow platform is implemented with a new product called Workflow Manager 1.0. This course builds off what you learned in the SharePoint 2013 Workflow - Fundamentals and the SharePoint 2013 Workflow - Advanced Topics courses. In this course you will learn how to work with web services in your SharePoint 2013 workflows to meet today's business requirements. You will learn how to read and write to anonymous web services and how to authenticate and interact with the SharePoint 2013 REST API from both SharePoint Designer and Visual Studio when the provided activities don't provide the necessary tools to complete the task. Finally you will also learn how to communicate with secured web services including third party OAuth secured services and how to deploy, and interact, with your own custom secured web services.",
+    "author": "Andrew Connell",
+    "level": "Intermediate",
+    "duration": 196,
+    "rating": "4.1",
+    "released": "2014-02-06T05:00:00.000Z",
     "users": []
 }, {
     "category": "SharePoint",
@@ -8520,7 +9565,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 233,
-    "rating": "4.2",
+    "rating": "4.4",
     "released": "2011-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -8531,7 +9576,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 223,
-    "rating": "Not",
+    "rating": "4.5",
     "released": "2011-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -8553,7 +9598,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 211,
-    "rating": "Not",
+    "rating": "4.5",
     "released": "2011-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -8597,7 +9642,7 @@ courses = [{
     "author": "Eric Skaggs",
     "level": "Intermediate",
     "duration": 216,
-    "rating": "4.1",
+    "rating": "4.4",
     "released": "2011-09-18T04:00:00.000Z",
     "users": []
 }, {
@@ -8608,7 +9653,7 @@ courses = [{
     "author": "Eric Skaggs",
     "level": "Intermediate",
     "duration": 342,
-    "rating": "4.2",
+    "rating": "4.4",
     "released": "2011-09-18T04:00:00.000Z",
     "users": []
 }, {
@@ -8619,7 +9664,7 @@ courses = [{
     "author": "Eric Skaggs",
     "level": "Intermediate",
     "duration": 265,
-    "rating": "4.3",
+    "rating": "4.4",
     "released": "2011-09-18T04:00:00.000Z",
     "users": []
 }, {
@@ -8685,7 +9730,7 @@ courses = [{
     "author": "Christopher Harrison",
     "level": "Intermediate",
     "duration": 244,
-    "rating": "4.6",
+    "rating": "4.5",
     "released": "2013-05-06T04:00:00.000Z",
     "users": []
 }, {
@@ -8696,7 +9741,7 @@ courses = [{
     "author": "Christopher Harrison",
     "level": "Intermediate",
     "duration": 238,
-    "rating": "4.4",
+    "rating": "4.5",
     "released": "2013-05-06T04:00:00.000Z",
     "users": []
 }, {
@@ -8707,7 +9752,7 @@ courses = [{
     "author": "Christopher Harrison",
     "level": "Intermediate",
     "duration": 197,
-    "rating": "4.9",
+    "rating": "4.5",
     "released": "2013-05-06T04:00:00.000Z",
     "users": []
 }, {
@@ -8729,7 +9774,7 @@ courses = [{
     "author": "Sahil Malik",
     "level": "Intermediate",
     "duration": 92,
-    "rating": "4.2",
+    "rating": "4.1",
     "released": "2013-03-05T05:00:00.000Z",
     "users": []
 }, {
@@ -8769,11 +9814,11 @@ courses = [{
     "category": "SharePoint",
     "name": "Understanding SharePoint 2013: Part 6 - SharePoint Apps Basics",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/understanding-sharepoint2013-office365-apps",
-    "description": "Apps are perhaps the biggest cahnge between SharePoint 2010 and 2013. But how ready is the App Model? Is it even worth spending the time learning it, and if you do learn it, what is the best, clearest way of making it stick inside our minds with 100-percent clarity on what works? More importantly, what doesn't work? This course \"uncloudifies\" this cloud-ready technology.",
+    "description": "Apps are perhaps the biggest change between SharePoint 2010 and 2013. But how ready is the App Model? Is it even worth spending the time learning it, and if you do learn it, what is the best, clearest way of making it stick inside our minds with 100-percent clarity on what works? More importantly, what doesn't work? This course \"uncloudifies\" this cloud-ready technology.",
     "author": "Sahil Malik",
     "level": "Intermediate",
     "duration": 198,
-    "rating": "4.8",
+    "rating": "4.7",
     "released": "2013-11-27T05:00:00.000Z",
     "users": []
 }, {
@@ -8784,7 +9829,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Intermediate",
     "duration": 122,
-    "rating": "4.3",
+    "rating": "4.4",
     "released": "2013-10-25T04:00:00.000Z",
     "users": []
 }, {
@@ -8806,7 +9851,7 @@ courses = [{
     "author": "Sahil Malik",
     "level": "Advanced",
     "duration": 108,
-    "rating": "4.6",
+    "rating": "4.5",
     "released": "2012-05-08T04:00:00.000Z",
     "users": []
 }, {
@@ -8828,7 +9873,7 @@ courses = [{
     "author": "Jeff Adkin",
     "level": "Advanced",
     "duration": 177,
-    "rating": "4.4",
+    "rating": "4.5",
     "released": "2013-06-24T04:00:00.000Z",
     "users": []
 }, {
@@ -8839,7 +9884,7 @@ courses = [{
     "author": "Jeff Adkin",
     "level": "Advanced",
     "duration": 305,
-    "rating": "4.8",
+    "rating": "4.7",
     "released": "2013-06-24T04:00:00.000Z",
     "users": []
 }, {
@@ -8850,7 +9895,7 @@ courses = [{
     "author": "Jeff Adkin",
     "level": "Advanced",
     "duration": 311,
-    "rating": "4.8",
+    "rating": "4.3",
     "released": "2013-06-24T04:00:00.000Z",
     "users": []
 }, {
@@ -8894,7 +9939,7 @@ courses = [{
     "author": "Shawn Wildermuth",
     "level": "Intermediate",
     "duration": 186,
-    "rating": "Not",
+    "rating": "4.3",
     "released": "2011-10-13T04:00:00.000Z",
     "users": []
 }, {
@@ -8905,7 +9950,7 @@ courses = [{
     "author": "Yacine Khammal",
     "level": "Intermediate",
     "duration": 295,
-    "rating": "4.6",
+    "rating": "4.5",
     "released": "2010-09-03T04:00:00.000Z",
     "users": []
 }, {
@@ -8916,7 +9961,7 @@ courses = [{
     "author": "Shawn Wildermuth",
     "level": "Intermediate",
     "duration": 100,
-    "rating": "4.8",
+    "rating": "4.7",
     "released": "2011-04-12T04:00:00.000Z",
     "users": []
 }, {
@@ -8927,7 +9972,7 @@ courses = [{
     "author": "Ian Griffiths",
     "level": "Advanced",
     "duration": 125,
-    "rating": "Not",
+    "rating": "3.8",
     "released": "2010-03-25T04:00:00.000Z",
     "users": []
 }, {
@@ -8938,7 +9983,7 @@ courses = [{
     "author": "Yacine Khammal",
     "level": "Advanced",
     "duration": 206,
-    "rating": "4.5",
+    "rating": "4.4",
     "released": "2010-09-03T04:00:00.000Z",
     "users": []
 }, {
@@ -8949,8 +9994,19 @@ courses = [{
     "author": "Pinal Dave",
     "level": "Beginner",
     "duration": 125,
-    "rating": "4.0",
+    "rating": "4 s",
     "released": "2013-05-13T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Social Media",
+    "name": "Crowdfunding Fundamentals",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/crowdfunding-fundamentals",
+    "description": "In this course, we will prepare you to run a successful crowdfunding campaign to launch a new product or business. We will learn what it takes to assess your potential for crowdfunding, how to prepare for a successful campaign, raise money, and leverage traditional and social media.",
+    "author": "Devin Thorpe",
+    "level": "Beginner",
+    "duration": 114,
+    "rating": "4.2",
+    "released": "2014-02-11T05:00:00.000Z",
     "users": []
 }, {
     "category": "Social Media",
@@ -8960,7 +10016,7 @@ courses = [{
     "author": "Yasser Shohoud",
     "level": "Beginner",
     "duration": 74,
-    "rating": "4 s",
+    "rating": "4.0",
     "released": "2012-01-21T05:00:00.000Z",
     "users": []
 }, {
@@ -8971,7 +10027,7 @@ courses = [{
     "author": "Felbrigg Herriot",
     "level": "Beginner",
     "duration": 147,
-    "rating": "Not",
+    "rating": "4.7",
     "released": "2013-12-27T05:00:00.000Z",
     "users": []
 }, {
@@ -8982,7 +10038,7 @@ courses = [{
     "author": "Jesse Stay",
     "level": "Beginner",
     "duration": 204,
-    "rating": "3.5",
+    "rating": "3.6",
     "released": "2012-03-14T04:00:00.000Z",
     "users": []
 }, {
@@ -8993,7 +10049,7 @@ courses = [{
     "author": "Jesse Stay",
     "level": "Beginner",
     "duration": 169,
-    "rating": "3.7",
+    "rating": "3.4",
     "released": "2012-05-03T04:00:00.000Z",
     "users": []
 }, {
@@ -9004,7 +10060,7 @@ courses = [{
     "author": "Jesse Stay",
     "level": "Beginner",
     "duration": 154,
-    "rating": "4.1",
+    "rating": "4.2",
     "released": "2013-07-25T04:00:00.000Z",
     "users": []
 }, {
@@ -9026,7 +10082,7 @@ courses = [{
     "author": "Jesse Stay",
     "level": "Beginner",
     "duration": 130,
-    "rating": "4.1",
+    "rating": "4.2",
     "released": "2013-06-25T04:00:00.000Z",
     "users": []
 }, {
@@ -9037,7 +10093,7 @@ courses = [{
     "author": "Jason Alba",
     "level": "Beginner",
     "duration": 112,
-    "rating": "4.3",
+    "rating": "4.4",
     "released": "2013-07-23T04:00:00.000Z",
     "users": []
 }, {
@@ -9092,7 +10148,7 @@ courses = [{
     "author": "Jesse Stay",
     "level": "Intermediate",
     "duration": 144,
-    "rating": "4.1",
+    "rating": "4 s",
     "released": "2013-12-12T05:00:00.000Z",
     "users": []
 }, {
@@ -9147,7 +10203,7 @@ courses = [{
     "author": "Jeremy Clark",
     "level": "Beginner",
     "duration": 211,
-    "rating": "4.4",
+    "rating": "4.5",
     "released": "2013-09-26T04:00:00.000Z",
     "users": []
 }, {
@@ -9169,7 +10225,7 @@ courses = [{
     "author": "Geoffrey Grosenbach",
     "level": "Beginner",
     "duration": 24,
-    "rating": "3.4",
+    "rating": "3.3",
     "released": "2013-04-19T04:00:00.000Z",
     "users": []
 }, {
@@ -9202,19 +10258,8 @@ courses = [{
     "author": "David Starr",
     "level": "Intermediate",
     "duration": 225,
-    "rating": "4.3",
+    "rating": "4.4",
     "released": "2010-04-15T04:00:00.000Z",
-    "users": []
-}, {
-    "category": "Software Practices",
-    "name": "Architecting Applications for the Real World in .NET",
-    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/architecting-applications-dotnet",
-    "description": "An architect's job is to manage complexity, not increase it. Yet the developer life is filled with jargon, acronyms, and seemingly infinite choices. So how do we know when complexity makes sense? This course discusses when abstractions are justified and outlines the merits of various approaches for structuring applications with a pragmatic, real-world mind set. The discussion begins by outlining philosophies for thinking about architecture and considering the benefits of doing the simplest thing that could possibly work. Then we dive into various design patterns and technologies to consider within the business, service, presentation and data access layers. And in the final capstone module we'll consider two specific architectures and discuss the contexts where each makes sense. You'll learn when table module, active record, DDD, and ORMs are useful and walk away with the tools to better evaluate and justify complexity as an agile software craftsman. Like any responsible architect, we'l focus on the value of keeping things simple whenever we can.",
-    "author": "Cory House",
-    "level": "Intermediate",
-    "duration": 172,
-    "rating": "4.5",
-    "released": "2014-01-07T05:00:00.000Z",
     "users": []
 }, {
     "category": "Software Practices",
@@ -9268,7 +10313,7 @@ courses = [{
     "author": "Brendan Younger",
     "level": "Intermediate",
     "duration": 97,
-    "rating": "4.4",
+    "rating": "4.6",
     "released": "2013-10-10T04:00:00.000Z",
     "users": []
 }, {
@@ -9323,7 +10368,7 @@ courses = [{
     "author": "Emily Bache",
     "level": "Intermediate",
     "duration": 124,
-    "rating": "4.5",
+    "rating": "4.4",
     "released": "2013-06-25T04:00:00.000Z",
     "users": []
 }, {
@@ -9345,7 +10390,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 190,
-    "rating": "4.3",
+    "rating": "4.4",
     "released": "2013-05-17T04:00:00.000Z",
     "users": []
 }, {
@@ -9356,8 +10401,19 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 226,
-    "rating": "4.6",
+    "rating": "4.7",
     "released": "2013-09-26T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Software Practices",
+    "name": "Customizing Your Team Workflow with the Best of Kanban and Scrum",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/customizing-team-workflow-best-of-kanban-scrum",
+    "description": "If you have doubts choosing which methodology to use, this course will give you a comparison of Kanban and Scrum, making your choice easier. By watching this course you will learn how to take the best of both, Scrum and Kanban, and how to make a winning combination for your team and project.",
+    "author": "Milena Pajic",
+    "level": "Intermediate",
+    "duration": 88,
+    "rating": "4.3",
+    "released": "2014-02-28T05:00:00.000Z",
     "users": []
 }, {
     "category": "Software Practices",
@@ -9383,6 +10439,17 @@ courses = [{
     "users": []
 }, {
     "category": "Software Practices",
+    "name": "Developing Extensible Software",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/developing-extensible-software",
+    "description": "In today's competitive world of software development, using methodologies such as Agile lets us get products to market quicker and in a controlled fashion, but that's not enough. Applications need to be able to grow without being totally rewritten. Sure, there eventually comes a time when every app needs a major overhaul, but if applications are written to be extensible in the first place, the overhaul can be performed in pieces; and in the meantime, new features can be added or existing features changed without bringing the app down. This \"extensibility\" in our design is becoming more and more important every day as software shops compete with each other for work and even with other countries. There have been many articles and design documents written on things like inversion of control in the UI tiers. Many books have dedicated chapters to injecting objects into MVC controllers or WPF ViewModels, but not many have focused on the meat of a system, the business tiers. These are the tiers that are accessible to the UI of a system, more than one in many cases. And these are the tiers that can be most volatile and subject to change and enhancement. In this course, I'll show you some of my favorite extensibility designs and techniques which will let you write software in building blocks that can be connected and interconnected in different ways. I'll keep most of my focus on the business tiers, which despite the lack of user-centric visual glamour, is where you get to exercise the most creativity. You'll be able to roll out applications and continuously add or change things without affecting the core infrastructure in place. To me, this not only makes the software better, but more fun to write!",
+    "author": "Miguel Castro",
+    "level": "Intermediate",
+    "duration": 226,
+    "rating": "4.8",
+    "released": "2014-02-05T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Software Practices",
     "name": "FakeItEasy",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/fakeiteasy",
     "description": "This prepares you with the fundamental reasons that you would want to use a mocking framework. It also covers, in detail, how to create and use fakes (or mock objects as they're commonly known) using the FakeItEasy framework as well as advanced usages of that framework.",
@@ -9400,7 +10467,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 158,
-    "rating": "4.4",
+    "rating": "4.5",
     "released": "2013-02-22T05:00:00.000Z",
     "users": []
 }, {
@@ -9433,7 +10500,7 @@ courses = [{
     "author": "Jan-Erik Sandberg",
     "level": "Intermediate",
     "duration": 148,
-    "rating": "3.9",
+    "rating": "4.1",
     "released": "2013-09-05T04:00:00.000Z",
     "users": []
 }, {
@@ -9444,7 +10511,7 @@ courses = [{
     "author": "Philip Japikse",
     "level": "Intermediate",
     "duration": 156,
-    "rating": "4 s",
+    "rating": "4.2",
     "released": "2013-10-02T04:00:00.000Z",
     "users": []
 }, {
@@ -9455,7 +10522,7 @@ courses = [{
     "author": "CooperBelcham",
     "level": "Intermediate",
     "duration": 116,
-    "rating": "3.7",
+    "rating": "3.8",
     "released": "2012-10-10T04:00:00.000Z",
     "users": []
 }, {
@@ -9466,7 +10533,7 @@ courses = [{
     "author": "BelchamCooper",
     "level": "Intermediate",
     "duration": 113,
-    "rating": "4.4",
+    "rating": "4.3",
     "released": "2012-07-25T04:00:00.000Z",
     "users": []
 }, {
@@ -9493,13 +10560,24 @@ courses = [{
     "users": []
 }, {
     "category": "Software Practices",
+    "name": "Pragmatic Behavior-driven Design with .NET",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/pragmatic-bdd-dotnet",
+    "description": "Behavior-driven Design (BDD) is a simple way to structure your tests and development practice, but over the years it's been convoluted by jargon and cargo-cult testing frameworks. In this course, Rob Conery creates a membership library for ASP.NET MVC and brings you along in an \"over-the-shoulder,\" pair-coding style. Along the way concepts will be discussed at length, and at the end you'll appreciate how elegant, simple, and helpful BDD can be.",
+    "author": "Rob Conery",
+    "level": "Intermediate",
+    "duration": 172,
+    "rating": "4.2",
+    "released": "2014-03-05T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Software Practices",
     "name": "Provable Code",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/provable-code",
     "description": "Bertrand Meyer defined Design by Contract as a system of documenting and proving the responsibilities of a software system. Today, we have tools built into our compilers and type systems that help us to prove those assertions. This course will introduce you to some of those tools, define systems of logic for reasoning about code, and recommend patterns for building provable software.",
     "author": "Michael Perry",
     "level": "Intermediate",
     "duration": 351,
-    "rating": "4.6",
+    "rating": "4.7",
     "released": "2012-06-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9521,7 +10599,7 @@ courses = [{
     "author": "CooperBelcham",
     "level": "Intermediate",
     "duration": 132,
-    "rating": "4.2",
+    "rating": "4.3",
     "released": "2012-06-28T04:00:00.000Z",
     "users": []
 }, {
@@ -9532,7 +10610,7 @@ courses = [{
     "author": "Xavier Morera",
     "level": "Intermediate",
     "duration": 97,
-    "rating": "4.2",
+    "rating": "4.0",
     "released": "2014-01-14T05:00:00.000Z",
     "users": []
 }, {
@@ -9565,7 +10643,7 @@ courses = [{
     "author": "Jan-Erik Sandberg",
     "level": "Intermediate",
     "duration": 98,
-    "rating": "3.5",
+    "rating": "3.6",
     "released": "2013-10-23T04:00:00.000Z",
     "users": []
 }, {
@@ -9675,7 +10753,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Beginner",
     "duration": 177,
-    "rating": "4.5",
+    "rating": "4.4",
     "released": "2012-01-13T05:00:00.000Z",
     "users": []
 }, {
@@ -9697,7 +10775,7 @@ courses = [{
     "author": "Robert Horvick",
     "level": "Beginner",
     "duration": 229,
-    "rating": "4.4",
+    "rating": "4.3",
     "released": "2011-05-02T04:00:00.000Z",
     "users": []
 }, {
@@ -9723,6 +10801,28 @@ courses = [{
     "released": "2012-05-23T04:00:00.000Z",
     "users": []
 }, {
+    "category": "Source Control",
+    "name": "Practical Mercurial",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/tekpub-mercurial",
+    "description": "In this production Rob Conery delivers more than 3 hours of content focused on getting you and your company up and running on Mercurial. Topics include the basics: adding, committing, cloning, and push/pull. More advanced topics include working the console commands for improved speed, setting up the built in Hg web server behind IIS with authentication, and importing from Subversion.",
+    "author": "Rob Conery",
+    "level": "Intermediate",
+    "duration": 176,
+    "rating": "Not",
+    "released": "2010-03-18T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Source Control",
+    "name": "Understanding Distributed Version Control Systems",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/understanding-distributed-version-control-systems",
+    "description": "It's likely that you will already have heard of Distributed Version Control Systems such as Git, but what are they and how do they work? This course sets out to answer the questions of what is going on under the hood, and to demonstrate the new workflow you would need to learn if you started using it. We look at DVCS from the perspective of three different development scenarios - single developer projects, open source projects, and commercial projects. This course includes lots of diagrams that will help you understand the \"DAG,\" which is the way DVCS store their history, and there are demos of using both Mercurial and Git. We also see how you can make use of repository hosting from sites such as BitBucket and GitHub.",
+    "author": "Mark Heath",
+    "level": "Intermediate",
+    "duration": 177,
+    "rating": "4.7",
+    "released": "2014-01-27T05:00:00.000Z",
+    "users": []
+}, {
     "category": "SQL",
     "name": "Introduction to SQL",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/introduction-to-sql",
@@ -9743,17 +10843,6 @@ courses = [{
     "duration": 265,
     "rating": "4.6",
     "released": "2013-10-31T04:00:00.000Z",
-    "users": []
-}, {
-    "category": "SQL",
-    "name": "Introduction to Dates, Times and Intervals in Oracle",
-    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/intro-dates-times-intervals-oracle",
-    "description": "The Introduction to Dates, Time and Intervals in Oracle course details how to use the DATE, TIMESTAMP and INTERVAL data types as well as the many date- and time-related functions available to the SQL programmer such as TO_DATE(), TO_CHAR(), MONTHS_BETWEEN(), as well as many others.",
-    "author": "Scott Hecht",
-    "level": "Intermediate",
-    "duration": 144,
-    "rating": "4.4",
-    "released": "2013-12-06T05:00:00.000Z",
     "users": []
 }, {
     "category": "SQL Server",
@@ -9807,7 +10896,7 @@ courses = [{
     "author": "Glenn Berry",
     "level": "Beginner",
     "duration": 130,
-    "rating": "4.2",
+    "rating": "4.3",
     "released": "2013-04-24T04:00:00.000Z",
     "users": []
 }, {
@@ -9851,7 +10940,7 @@ courses = [{
     "author": "Jonathan Kehayias",
     "level": "Beginner",
     "duration": 159,
-    "rating": "4.5",
+    "rating": "4.7",
     "released": "2013-11-22T05:00:00.000Z",
     "users": []
 }, {
@@ -9884,7 +10973,7 @@ courses = [{
     "author": "Erin Stellato",
     "level": "Intermediate",
     "duration": 362,
-    "rating": "4.7",
+    "rating": "4.6",
     "released": "2013-05-31T04:00:00.000Z",
     "users": []
 }, {
@@ -9906,7 +10995,7 @@ courses = [{
     "author": "Scott Hecht",
     "level": "Intermediate",
     "duration": 178,
-    "rating": "Not",
+    "rating": "4.0",
     "released": "2014-01-14T05:00:00.000Z",
     "users": []
 }, {
@@ -9917,8 +11006,19 @@ courses = [{
     "author": "Ahmad Alkilani",
     "level": "Intermediate",
     "duration": 139,
-    "rating": "Not",
+    "rating": "4.8",
     "released": "2014-01-15T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "SQL Server",
+    "name": "Scaling SQL Server 2012 - Part 1",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/scaling-sqlserver2012-part1",
+    "description": "When considering how to improve the scalability of a SQL Server workload, many people jump to the conclusion that scaling up or scaling out are the only answers. This course will show you that there are a huge number of things you can do to improve performance and scalability before you should even think of scale-up or scale-out. The bulk of the course describes architecture and design issues in both the application and the database that can affect scalability, along with demonstrations of some of the issues and detailed scripts to help you find the issues in the first place. The course ends with a section on common indexing problems that can drastically limit a workload's scalability, along with how to identify and fix them. Save your company a bunch of money by postponing the scaling decision through fixing your existing scalability bottlenecks, not ignoring them! This course is perfect for anyone who is responsible for improving the performance and scalability of a SQL Server workload, with most topics applicable to SQL Server 2005 onward.",
+    "author": "Glenn Berry",
+    "level": "Intermediate",
+    "duration": 234,
+    "rating": "4.5",
+    "released": "2014-03-27T04:00:00.000Z",
     "users": []
 }, {
     "category": "SQL Server",
@@ -9928,7 +11028,7 @@ courses = [{
     "author": "Dan Sullivan",
     "level": "Intermediate",
     "duration": 287,
-    "rating": "4.5",
+    "rating": "4.4",
     "released": "2010-03-22T04:00:00.000Z",
     "users": []
 }, {
@@ -9939,7 +11039,7 @@ courses = [{
     "author": "Mel Haynes",
     "level": "Intermediate",
     "duration": 301,
-    "rating": "4.1",
+    "rating": "4.2",
     "released": "2009-05-11T04:00:00.000Z",
     "users": []
 }, {
@@ -9950,7 +11050,7 @@ courses = [{
     "author": "Mel Haynes",
     "level": "Intermediate",
     "duration": 355,
-    "rating": "Not",
+    "rating": "4 s",
     "released": "2009-05-11T04:00:00.000Z",
     "users": []
 }, {
@@ -9972,7 +11072,7 @@ courses = [{
     "author": "Mel Haynes",
     "level": "Intermediate",
     "duration": 284,
-    "rating": "4.1",
+    "rating": "4.3",
     "released": "2009-09-08T04:00:00.000Z",
     "users": []
 }, {
@@ -9983,7 +11083,7 @@ courses = [{
     "author": "Sean McCown",
     "level": "Intermediate",
     "duration": 286,
-    "rating": "4.5",
+    "rating": "4.4",
     "released": "2012-10-30T04:00:00.000Z",
     "users": []
 }, {
@@ -9994,7 +11094,7 @@ courses = [{
     "author": "Sean McCown",
     "level": "Intermediate",
     "duration": 301,
-    "rating": "4.8",
+    "rating": "4.6",
     "released": "2012-10-30T04:00:00.000Z",
     "users": []
 }, {
@@ -10005,7 +11105,7 @@ courses = [{
     "author": "Sean McCown",
     "level": "Intermediate",
     "duration": 291,
-    "rating": "4.6",
+    "rating": "4.3",
     "released": "2012-10-30T04:00:00.000Z",
     "users": []
 }, {
@@ -10049,7 +11149,7 @@ courses = [{
     "author": "Joe Sack",
     "level": "Intermediate",
     "duration": 81,
-    "rating": "4.4",
+    "rating": "4.5",
     "released": "2013-08-21T04:00:00.000Z",
     "users": []
 }, {
@@ -10071,7 +11171,7 @@ courses = [{
     "author": "KumarDave",
     "level": "Intermediate",
     "duration": 235,
-    "rating": "3.8",
+    "rating": "3.9",
     "released": "2012-06-01T04:00:00.000Z",
     "users": []
 }, {
@@ -10136,8 +11236,8 @@ courses = [{
     "description": "Deadlocks can be very problematic when they occur, especially if you do not know how to figure out what's making the deadlocks occur so that you can take steps to prevent them. This course explains how the locking mechanism in SQL Server works and the circumstances that can lead to deadlocks occurring. The course then describes and demonstrates the various methods for detecting deadlocks in SQL Server and collecting information about the deadlocks so they can be analyzed, plus how to perform deadlock graph analysis using XML, Profiler, Management Studio and third-party tools. Common deadlock scenarios are explained and demonstrated, including lock escalation deadlocks, multi-victim deadlocks, reverse object order deadlocks, and more. The course concludes with how to handle deadlocks in Transact-SQL and ADO.NET code, including the implementation of custom retry logic. This course is perfect for those with no experience of deadlock analysis and those with some experience but who want to solidify their understanding of deadlocks and how to analyze and prevent them. The information in the course applies to all versions from SQL Server 2005 onwards.",
     "author": "Jonathan Kehayias",
     "level": "Intermediate",
-    "duration": 157,
-    "rating": "4.6",
+    "duration": 158,
+    "rating": "4.5",
     "released": "2012-10-18T04:00:00.000Z",
     "users": []
 }, {
@@ -10148,7 +11248,7 @@ courses = [{
     "author": "Paul Randal",
     "level": "Intermediate",
     "duration": 232,
-    "rating": "4.8",
+    "rating": "4.9",
     "released": "2013-09-18T04:00:00.000Z",
     "users": []
 }, {
@@ -10170,7 +11270,7 @@ courses = [{
     "author": "Paul Randal",
     "level": "Intermediate",
     "duration": 456,
-    "rating": "4.9",
+    "rating": "4.8",
     "released": "2012-11-16T05:00:00.000Z",
     "users": []
 }, {
@@ -10236,8 +11336,19 @@ courses = [{
     "author": "Joe Sack",
     "level": "Intermediate",
     "duration": 112,
-    "rating": "4.7",
+    "rating": "4.6",
     "released": "2013-06-21T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "SQL Server",
+    "name": "SQL Server: Transact-SQL Common Table Expressions",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/sqlserver-transact-sql-common-table-expressions",
+    "description": "Common table expressions are a useful and versatile T-SQL query construct and this demo-centric course shows how to correctly define and use CTEs, what restrictions there are for using them, and some common usage scenarios. This course is perfect for developers, DBAs, and anyone responsible for writing Transact-SQL code, from complete beginners through to those with more experience. The information in the course applies to all versions from SQL Server 2005 onward.",
+    "author": "Joe Sack",
+    "level": "Intermediate",
+    "duration": 80,
+    "rating": "4.2",
+    "released": "2014-02-14T05:00:00.000Z",
     "users": []
 }, {
     "category": "SQL Server",
@@ -10258,7 +11369,7 @@ courses = [{
     "author": "Jonathan Kehayias",
     "level": "Intermediate",
     "duration": 124,
-    "rating": "4.6",
+    "rating": "4.5",
     "released": "2013-12-26T05:00:00.000Z",
     "users": []
 }, {
@@ -10282,6 +11393,17 @@ courses = [{
     "duration": 236,
     "rating": "4.8",
     "released": "2013-09-27T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "SQL Server",
+    "name": "Supporting SQL Server ISV Applications",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/sqlserver-supporting-isv-applications",
+    "description": "This course follows on from the Developing and Deploying SQL Server ISV Applications course and describes how to effectively support your application and provide the best experience for your customers and your company, whether you work for a large or small ISV and are creating a complex or simple application. The course discusses how to give customers recommendations, how to best support customer implementation of your application, and how to maintain the application database. It then explains how to deal with customer performance issues and overly-persistent customers, plus the importance of capturing usage information from customers and how to make use of it. The course wraps up with a discussion of how to build good relationships and a community with your customers, and how to create meaningful and useful documentation. This course is perfect for anyone involved in supporting applications that use SQL Server for data storage. The information in the course applies to all versions from SQL Server 2005 onward.",
+    "author": "Erin Stellato",
+    "level": "Intermediate",
+    "duration": 121,
+    "rating": "Not",
+    "released": "2014-03-17T04:00:00.000Z",
     "users": []
 }, {
     "category": "SQL Server",
@@ -10313,7 +11435,7 @@ courses = [{
     "author": "Mel Haynes",
     "level": "Advanced",
     "duration": 202,
-    "rating": "3.9",
+    "rating": "4.1",
     "released": "2010-03-02T05:00:00.000Z",
     "users": []
 }, {
@@ -10324,7 +11446,7 @@ courses = [{
     "author": "Mel Haynes",
     "level": "Advanced",
     "duration": 303,
-    "rating": "4.3",
+    "rating": "4.4",
     "released": "2010-03-02T05:00:00.000Z",
     "users": []
 }, {
@@ -10335,7 +11457,7 @@ courses = [{
     "author": "Mel Haynes",
     "level": "Advanced",
     "duration": 185,
-    "rating": "Not",
+    "rating": "3.9",
     "released": "2010-03-02T05:00:00.000Z",
     "users": []
 }, {
@@ -10346,7 +11468,7 @@ courses = [{
     "author": "Paul Randal",
     "level": "Advanced",
     "duration": 237,
-    "rating": "4.7",
+    "rating": "4.8",
     "released": "2013-11-22T05:00:00.000Z",
     "users": []
 }, {
@@ -10368,7 +11490,7 @@ courses = [{
     "author": "Nigel Poulton",
     "level": "Intermediate",
     "duration": 199,
-    "rating": "4.8",
+    "rating": "4.6",
     "released": "2013-12-09T05:00:00.000Z",
     "users": []
 }, {
@@ -10379,7 +11501,7 @@ courses = [{
     "author": "Nigel Poulton",
     "level": "Intermediate",
     "duration": 206,
-    "rating": "4.8",
+    "rating": "4.7",
     "released": "2013-12-09T05:00:00.000Z",
     "users": []
 }, {
@@ -10390,7 +11512,7 @@ courses = [{
     "author": "Nigel Poulton",
     "level": "Intermediate",
     "duration": 269,
-    "rating": "Not",
+    "rating": "4.7",
     "released": "2013-12-09T05:00:00.000Z",
     "users": []
 }, {
@@ -10401,7 +11523,7 @@ courses = [{
     "author": "Joe Kelly",
     "level": "Intermediate",
     "duration": 199,
-    "rating": "Not",
+    "rating": "4.7",
     "released": "2013-08-19T04:00:00.000Z",
     "users": []
 }, {
@@ -10412,7 +11534,7 @@ courses = [{
     "author": "Joe Kelly",
     "level": "Intermediate",
     "duration": 341,
-    "rating": "4 s",
+    "rating": "3.9",
     "released": "2013-06-07T04:00:00.000Z",
     "users": []
 }, {
@@ -10434,7 +11556,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Intermediate",
     "duration": 120,
-    "rating": "4.4",
+    "rating": "4.3",
     "released": "2013-01-15T05:00:00.000Z",
     "users": []
 }, {
@@ -10450,9 +11572,20 @@ courses = [{
     "users": []
 }, {
     "category": "System Center",
+    "name": "Planning & Creating Applications in System Center ConfigMgr 2012",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/planning-creating-applications-sccm-2012",
+    "description": "This course, targeted at intermediate SCCM administrators, will not just show you how to create ConfigMgr applications, it will also thoroughly explain the many different aspects of creating a reliable application. This course will go over all the information needed ahead of time, how to properly test the installers to ensure perfect deployments, and finally automate a lot of the application creation with Powershell.",
+    "author": "Adam Bertram",
+    "level": "Intermediate",
+    "duration": 150,
+    "rating": "Not",
+    "released": "2014-04-21T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "System Center",
     "name": "Planning and Preparing to Migrate SCCM 2007 to SCCM 2012",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/migrate-sccm-2007-2012",
-    "description": ". In this course, you'll learn what information is needed from SCCM 2007 to help your migration run smoothly. You'll have a solid understanding of the migration process from beginning to end along with the monitoring and troubleshooting log files.",
+    "description": "In this course, you'll learn what information is needed from SCCM 2007 to help your migration run smoothly. You'll have a solid understanding of the migration process from beginning to end along with the monitoring and troubleshooting log files.",
     "author": "Rhonda Layfield",
     "level": "Intermediate",
     "duration": 340,
@@ -10467,7 +11600,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Intermediate",
     "duration": 283,
-    "rating": "4.1",
+    "rating": "4.2",
     "released": "2012-09-14T04:00:00.000Z",
     "users": []
 }, {
@@ -10621,7 +11754,7 @@ courses = [{
     "author": "John Brown",
     "level": "Beginner",
     "duration": 150,
-    "rating": "4.1",
+    "rating": "4.0",
     "released": "2010-08-20T04:00:00.000Z",
     "users": []
 }, {
@@ -10654,7 +11787,7 @@ courses = [{
     "author": "John Brown",
     "level": "Intermediate",
     "duration": 239,
-    "rating": "3.9",
+    "rating": "4.0",
     "released": "2012-03-26T04:00:00.000Z",
     "users": []
 }, {
@@ -10698,7 +11831,7 @@ courses = [{
     "author": "John Brown",
     "level": "Intermediate",
     "duration": 162,
-    "rating": "Not",
+    "rating": "4.1",
     "released": "2014-01-20T05:00:00.000Z",
     "users": []
 }, {
@@ -10709,7 +11842,7 @@ courses = [{
     "author": "Esteban Garcia",
     "level": "Intermediate",
     "duration": 140,
-    "rating": "4.2",
+    "rating": "4.3",
     "released": "2013-03-15T04:00:00.000Z",
     "users": []
 }, {
@@ -10720,7 +11853,7 @@ courses = [{
     "author": "John Brown",
     "level": "Intermediate",
     "duration": 121,
-    "rating": "4.0",
+    "rating": "3.9",
     "released": "2012-06-19T04:00:00.000Z",
     "users": []
 }, {
@@ -10731,7 +11864,7 @@ courses = [{
     "author": "Dan Benjamin",
     "level": "Beginner",
     "duration": 52,
-    "rating": "Not",
+    "rating": "4.4",
     "released": "2010-07-10T04:00:00.000Z",
     "users": []
 }, {
@@ -10758,24 +11891,13 @@ courses = [{
     "users": []
 }, {
     "category": "Unix",
-    "name": "Introduction to the Bash Shell on Mac OS and Linux",
-    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/introduction-bash-shell-linux-mac-os",
-    "description": "The command line is one of the most important tools for a Linux/UNIX power user. Bash is the default login shell on Linux and Mac OS, and adding it to your skillset will open up a whole new world of possibilities. For one thing, it gives you access to a huge number of command line utilities, simplifying many everyday tasks. But Bash also provides you with a powerful scripting language for automating just about anything. For remote access and system administration, Bash is an absolute must.",
-    "author": "Reindert-Jan Ekker",
-    "level": "Intermediate",
-    "duration": 209,
-    "rating": "4.4",
-    "released": "2013-07-02T04:00:00.000Z",
-    "users": []
-}, {
-    "category": "Unix",
     "name": "Shell Scripting with Bash",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/bash-shell-scripting",
     "description": "Bash shell scripts allow you to automate just about any task on a UNIX system. They combine the power of all the UNIX userland utilities with a powerful scripting language. Whether you are a system administrator, a developer or a power user, shell scripts will make you more productive.",
     "author": "Reindert-Jan Ekker",
     "level": "Intermediate",
     "duration": 273,
-    "rating": "4.4",
+    "rating": "4.5",
     "released": "2013-10-16T04:00:00.000Z",
     "users": []
 }, {
@@ -10786,7 +11908,7 @@ courses = [{
     "author": "NeathGrosenbach",
     "level": "Beginner",
     "duration": 106,
-    "rating": "3.6",
+    "rating": "3.7",
     "released": "2012-05-15T04:00:00.000Z",
     "users": []
 }, {
@@ -10797,7 +11919,7 @@ courses = [{
     "author": "MrganGrosenbach",
     "level": "Beginner",
     "duration": 106,
-    "rating": "4.1",
+    "rating": "4.0",
     "released": "2012-08-30T04:00:00.000Z",
     "users": []
 }, {
@@ -10819,7 +11941,7 @@ courses = [{
     "author": "Jason Roberts",
     "level": "Intermediate",
     "duration": 113,
-    "rating": "3.8",
+    "rating": "3.9",
     "released": "2013-07-09T04:00:00.000Z",
     "users": []
 }, {
@@ -10841,18 +11963,40 @@ courses = [{
     "author": "Geoffrey Grosenbachet al.",
     "level": "Intermediate",
     "duration": 120,
-    "rating": "4.3",
+    "rating": "4.4",
     "released": "2013-12-05T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "UX Design",
+    "name": "UX Engineering Process",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/lean-front-end-engineering",
+    "description": "Bill Scott leverages his experience as Director of UI Engineering at Netflix and now Sr. Director at PayPal to teach us concepts behind delivering great experiences in the interfaces we build. He applies lean startup principles to UI engineering in order to teach how to develop an effective process, team and lean tech stack to achieve rapid experimentation and learning in the products we build.",
+    "author": "Bill Scott",
+    "level": "Intermediate",
+    "duration": 323,
+    "rating": "3.9",
+    "released": "2013-06-07T04:00:00.000Z",
     "users": []
 }, {
     "category": "Virtualization",
     "name": "Introduction to Virtualization",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/introduction-to-virtualization-2014-update",
+    "description": "In this course, we’ll focus in on server virtualization, how it has helped so many enterprises, and what you would need to test and deploy it. We’ll review both VMware and Microsoft’s virtualization offerings available today and take a look at what it would be like to administer a virtual infrastructure. You’ll learn how to build a virtualization lab, gain an introduction to cloud computing, and find out what it would take to perform a mass consolidation of physical servers using server virtualization. Finally, you’ll learn about some valuable additional resources available for you to take the next step and learn more about virtualization!",
+    "author": "David Davis",
+    "level": "Beginner",
+    "duration": 150,
+    "rating": "4.4",
+    "released": "2014-04-01T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Virtualization",
+    "name": "Introduction to Virtualization (2011)",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/introduction-to-virtualization",
     "description": "This course covers the foundations of virtualization technology. It's the perfect place to start if you're looking to learn more about virtualization. You'll walk away from the course knowing why virtualization matters, how server virtualization works, who are the major players in virtualization, how to build a virtualization lab, and of course more about “the Cloud.” There are no prerequisites for this course, but some knowledge of networking and server administration will be helpful.",
     "author": "David Davis",
     "level": "Beginner",
     "duration": 134,
-    "rating": "4.5",
+    "rating": "4.4",
     "released": "2011-09-09T04:00:00.000Z",
     "users": []
 }, {
@@ -10874,7 +12018,7 @@ courses = [{
     "author": "Elias Khnaser",
     "level": "Intermediate",
     "duration": 62,
-    "rating": "Not",
+    "rating": "4.2",
     "released": "2012-10-08T04:00:00.000Z",
     "users": []
 }, {
@@ -10885,7 +12029,7 @@ courses = [{
     "author": "Jason Nash",
     "level": "Intermediate",
     "duration": 432,
-    "rating": "4.6",
+    "rating": "4.7",
     "released": "2012-09-18T04:00:00.000Z",
     "users": []
 }, {
@@ -10907,8 +12051,19 @@ courses = [{
     "author": "Elias Khnaser",
     "level": "Intermediate",
     "duration": 316,
-    "rating": "Not",
+    "rating": "4.2",
     "released": "2012-08-14T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Virtualization",
+    "name": "Citrix Provisioning Services 7",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/citrix-provisioning-services-7",
+    "description": "This course covers everything that you need to know about Citrix Provisioning Services. Beginning with how to install it, manage it, integrate it with XenDesktop and offer HA for it as well.",
+    "author": "Elias Khnaser",
+    "level": "Intermediate",
+    "duration": 249,
+    "rating": "4.7",
+    "released": "2014-02-24T05:00:00.000Z",
     "users": []
 }, {
     "category": "Virtualization",
@@ -10918,7 +12073,7 @@ courses = [{
     "author": "Elias Khnaser",
     "level": "Intermediate",
     "duration": 111,
-    "rating": "3.9",
+    "rating": "4.1",
     "released": "2012-06-15T04:00:00.000Z",
     "users": []
 }, {
@@ -10929,7 +12084,7 @@ courses = [{
     "author": "Elias Khnaser",
     "level": "Intermediate",
     "duration": 211,
-    "rating": "4.5",
+    "rating": "4.6",
     "released": "2011-07-26T04:00:00.000Z",
     "users": []
 }, {
@@ -11033,6 +12188,28 @@ courses = [{
     "users": []
 }, {
     "category": "Virtualization",
+    "name": "Citrix XenDesktop 7: Install and Machine Creation Services (MCS)",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/citrix-xendesktop-7-install-mcs",
+    "description": "This course covers the installation of the XenDesktop core components, including license server, delivery controller, StoreFront and more. We also cover the provisioning of resources using the Machine Creation Services method.",
+    "author": "Elias Khnaser",
+    "level": "Intermediate",
+    "duration": 262,
+    "rating": "4.6",
+    "released": "2014-02-24T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Virtualization",
+    "name": "Citrix XenDesktop 7: Management",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/citrix-xendesktop-7-management",
+    "description": "This course discusses the management capabilities of XenDesktop, from integration with Microsoft App-V to Delegated Administration, all the way to setting up secure access with NetScaler.",
+    "author": "Elias Khnaser",
+    "level": "Intermediate",
+    "duration": 300,
+    "rating": "Not",
+    "released": "2014-02-25T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Virtualization",
     "name": "Citrix XenServer 6: High Availability and Troubleshooting",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/citrix-xenserver-6-high-availability",
     "description": "This course is part 2 of 2 in the Citrix XenServer 6 series. This series will take you through everything you need to know to get started with Citrix XenServer 6. You'll learn XenServer installation, configuration, administration, high availability, resource pools, distributed virtual switching, and troubleshooting. This course caters to experienced networking professionals who want to learn server virtualization with Citrix XenServer 6.",
@@ -11050,7 +12227,7 @@ courses = [{
     "author": "Elias Khnaser",
     "level": "Intermediate",
     "duration": 242,
-    "rating": "Not",
+    "rating": "4.4",
     "released": "2012-05-29T04:00:00.000Z",
     "users": []
 }, {
@@ -11083,7 +12260,7 @@ courses = [{
     "author": "Jason Nash",
     "level": "Intermediate",
     "duration": 533,
-    "rating": "4.6",
+    "rating": "4.7",
     "released": "2011-12-13T05:00:00.000Z",
     "users": []
 }, {
@@ -11105,8 +12282,19 @@ courses = [{
     "author": "Bill Gurling",
     "level": "Intermediate",
     "duration": 291,
-    "rating": "Not",
+    "rating": "4.3",
     "released": "2013-09-30T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Virtualization",
+    "name": "Introduction to Citrix XenDesktop 7",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/introduction-citrix-xendesktop-7",
+    "description": "Ever wanted to know the history of Citrix? What about their vision for the company? If so this course covers exactly that and more. We also discuss an introduction to XenDesktop 7.",
+    "author": "Elias Khnaser",
+    "level": "Intermediate",
+    "duration": 121,
+    "rating": "4.1",
+    "released": "2014-02-24T05:00:00.000Z",
     "users": []
 }, {
     "category": "Virtualization",
@@ -11116,7 +12304,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 142,
-    "rating": "4.4",
+    "rating": "4.5",
     "released": "2011-03-11T05:00:00.000Z",
     "users": []
 }, {
@@ -11160,7 +12348,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 145,
-    "rating": "4 s",
+    "rating": "4.2",
     "released": "2011-08-22T04:00:00.000Z",
     "users": []
 }, {
@@ -11203,8 +12391,8 @@ courses = [{
     "description": "Learn to use Veeam's Backup and Replication tool in your VMware infrastructure. This course is designed for middle to upper level enterprise network administrators, and to get the most out of this course you should have a solid understanding of working with vSphere and virtualization concepts.",
     "author": "David Davis",
     "level": "Intermediate",
-    "duration": 128,
-    "rating": "Not",
+    "duration": 131,
+    "rating": "4.2",
     "released": "2010-07-12T04:00:00.000Z",
     "users": []
 }, {
@@ -11270,7 +12458,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 261,
-    "rating": "Not",
+    "rating": "4.1",
     "released": "2008-01-08T05:00:00.000Z",
     "users": []
 }, {
@@ -11325,7 +12513,7 @@ courses = [{
     "author": "Sean Clark",
     "level": "Intermediate",
     "duration": 237,
-    "rating": "Not",
+    "rating": "4.2",
     "released": "2012-06-12T04:00:00.000Z",
     "users": []
 }, {
@@ -11347,7 +12535,7 @@ courses = [{
     "author": "Jason Nash",
     "level": "Intermediate",
     "duration": 476,
-    "rating": "Not",
+    "rating": "4.7",
     "released": "2013-01-02T05:00:00.000Z",
     "users": []
 }, {
@@ -11358,7 +12546,7 @@ courses = [{
     "author": "Chris Wahl",
     "level": "Intermediate",
     "duration": 154,
-    "rating": "4.6",
+    "rating": "4.7",
     "released": "2013-05-13T04:00:00.000Z",
     "users": []
 }, {
@@ -11369,7 +12557,7 @@ courses = [{
     "author": "Chris Wahl",
     "level": "Intermediate",
     "duration": 294,
-    "rating": "Not",
+    "rating": "4.8",
     "released": "2013-05-13T04:00:00.000Z",
     "users": []
 }, {
@@ -11393,6 +12581,17 @@ courses = [{
     "duration": 232,
     "rating": "Not",
     "released": "2012-10-16T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Virtualization",
+    "name": "VMware vCloud Hybrid Service (vCHS)",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/vmware-vcloud-hybrid-service",
+    "description": "VMware’s new public infrastructure as a service (IaaS) cloud offering was designed to provide enterprises with the business agility and efficiency that they need to stay competitive. By providing VMware’s enterprise customers with a powerful, fast, robust, secure, and reliable infrastructure on demand solution that is fully compatible with their existing vSphere infrastructure, VMware has created a compelling hybrid cloud offering. In this course, you’ll learn specifically how vCHS works, how you would administer it, how to create new virtual machines, how to manage virtual networks, administer users, connect your re infrastructure, and much more!",
+    "author": "David Davis",
+    "level": "Intermediate",
+    "duration": 165,
+    "rating": "Not",
+    "released": "2014-02-03T05:00:00.000Z",
     "users": []
 }, {
     "category": "Virtualization",
@@ -11490,7 +12689,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 361,
-    "rating": "Not",
+    "rating": "4.4",
     "released": "2013-04-08T04:00:00.000Z",
     "users": []
 }, {
@@ -11501,7 +12700,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 187,
-    "rating": "4.5",
+    "rating": "4.4",
     "released": "2013-08-27T04:00:00.000Z",
     "users": []
 }, {
@@ -11511,7 +12710,7 @@ courses = [{
     "description": "Part 3 of 3 in the VMware vSphere 5 series covers advanced features of VMware vSphere 5, including DRS, Fault Tolerance, VDR and more. This comprehensive course will show you how to virtualize your server and network infrastructure in an innovative, efficient, and reliable way using VMware vSphere 5. You'll walk away from this course able to install and configure ESXi 5 and vCenter 5 and able to manage virtual machines, virtual storage, networking and you'll also know how to leverage advanced features such as VMware High Availability, VMware Fault Tolerance and more. To get the most from this course, you should know the basics of virtualization, and some experience working with VMware vSphere will be helpful, but is not required.",
     "author": "DavisKhnaser",
     "level": "Intermediate",
-    "duration": 365,
+    "duration": 364,
     "rating": "4.6",
     "released": "2011-08-29T04:00:00.000Z",
     "users": []
@@ -11522,8 +12721,8 @@ courses = [{
     "description": "Part 2 of 3 in the VMware vSphere 5 series covers configuring VMware vSphere 5, including datacenters, hosts, virtual machines, virtual storage and more. This comprehensive course will show you how to virtualize your server and network infrastructure in an innovative, efficient, and reliable way using VMware vSphere 5. You'll walk away from this course able to install and configure ESXi 5 and vCenter 5 and able to manage virtual machines, virtual storage, networking and you'll also know how to leverage advanced features such as VMware High Availability, VMware Fault Tolerance and more. To get the most from this course, you should know the basics of virtualization, and some experience working with VMware vSphere will be helpful, but is not required.",
     "author": "KhnaserDavis",
     "level": "Intermediate",
-    "duration": 390,
-    "rating": "4.6",
+    "duration": 389,
+    "rating": "4.5",
     "released": "2011-08-29T04:00:00.000Z",
     "users": []
 }, {
@@ -11533,8 +12732,8 @@ courses = [{
     "description": "Part 1 of 3 in the VMware vSphere 5 series covers installing VMware vSphere 5. This comprehensive course will show you how to virtualize your server and network infrastructure in an innovative, efficient, and reliable way using VMware vSphere 5. You'll walk away from this course able to install and configure ESXi 5 and vCenter 5 and able to manage virtual machines, virtual storage, networking and you'll also know how to leverage advanced features such as VMware High Availability, VMware Fault Tolerance and more. To get the most from this course, you should know the basics of virtualization, and some experience working with VMware vSphere will be helpful, but is not required.",
     "author": "DavisKhnaser",
     "level": "Intermediate",
-    "duration": 246,
-    "rating": "4.4",
+    "duration": 245,
+    "rating": "4.3",
     "released": "2011-08-29T04:00:00.000Z",
     "users": []
 }, {
@@ -11545,7 +12744,7 @@ courses = [{
     "author": "Brian Tobia",
     "level": "Intermediate",
     "duration": 232,
-    "rating": "4.7",
+    "rating": "4.5",
     "released": "2013-10-31T04:00:00.000Z",
     "users": []
 }, {
@@ -11567,7 +12766,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 256,
-    "rating": "4.3",
+    "rating": "4.5",
     "released": "2013-06-03T04:00:00.000Z",
     "users": []
 }, {
@@ -11644,7 +12843,7 @@ courses = [{
     "author": "Jason Nash",
     "level": "Advanced",
     "duration": 294,
-    "rating": "5 s",
+    "rating": "4.9",
     "released": "2013-06-04T04:00:00.000Z",
     "users": []
 }, {
@@ -11655,7 +12854,7 @@ courses = [{
     "author": "Jason Nash",
     "level": "Advanced",
     "duration": 328,
-    "rating": "4.6",
+    "rating": "4.7",
     "released": "2013-06-04T04:00:00.000Z",
     "users": []
 }, {
@@ -11710,7 +12909,7 @@ courses = [{
     "author": "Hal Rottenberg",
     "level": "Advanced",
     "duration": 278,
-    "rating": "Not",
+    "rating": "4.4",
     "released": "2011-03-22T04:00:00.000Z",
     "users": []
 }, {
@@ -11754,7 +12953,7 @@ courses = [{
     "author": "David Davis",
     "level": "Advanced",
     "duration": 265,
-    "rating": "Not",
+    "rating": "4.4",
     "released": "2011-01-04T05:00:00.000Z",
     "users": []
 }, {
@@ -11847,6 +13046,17 @@ courses = [{
     "users": []
 }, {
     "category": "Visual Studio",
+    "name": "Introduction to Visual Studio 2013 - Part 1",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/intro-visual-studio-2013",
+    "description": "Visual Studio 2013 is an integrated development environment you can use to create applications and libraries with many different frameworks and languages. It has a rich feature set including an intelligent editor, built in compiler (and related tools) and context sensitive help. This course covers basic concepts like projects and solutions, shows you how to make Visual Studio look and work the way you want it to, and demonstrates how to use the most popular tool windows and dialogues. When you've completed it, you'll know how to use the tool itself and can focus on a specific language or framework as your next step.",
+    "author": "Kate Gregory",
+    "level": "Beginner",
+    "duration": 269,
+    "rating": "4.3",
+    "released": "2014-02-27T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Visual Studio",
     "name": "Visual Studio 2010 Tricks",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/vs-tricks",
     "description": "Visual Studio is your toolbox and knowing how to use that toolbox will make you a faster more efficient coder that's not distracted by the complexity of your environment. Almost all the tricks in Visual Studio 2010 work in Visual Studio 2012 as well, and many also work in previous versions of Visual Studio. You'll learn how to leverage IntelliSense and more efficiently edit code. You'll see a boatload of keystrokes in the context of getting things done. Find and Replace has some of the most underutilized features of Visual Studio and you'll learn how to speed up simple searches by avoiding the Find dialog, nuances of exploring symbols, and Regular Expression for find and replace.",
@@ -11897,7 +13107,7 @@ courses = [{
     "author": "Esteban Garcia",
     "level": "Intermediate",
     "duration": 128,
-    "rating": "4.5",
+    "rating": "4.4",
     "released": "2013-12-18T05:00:00.000Z",
     "users": []
 }, {
@@ -11907,8 +13117,8 @@ courses = [{
     "description": "This course is a basic introduction to NuGet. NuGet is a library and file dependency manager that is integrated into Visual Studio. With NuGet, you can wrap any kind of file (EXE's, DLL's, js/html/css files, source code, etc.) in a NuGet Package. In addition to contained files, a NuGet Package contains meta-data that describes what your files do as well as any dependencies that may exist with other NuGet Packages. NuGet Packages are published to either public or private feeds. The official NuGet feed and gallery can be found at nuget.org. In this course, you will learn how to create and publish packages with the various NuGet Tools. In addition, you will learn how to host your own NuGet Feed and gallery.",
     "author": "John V. Petersen",
     "level": "Intermediate",
-    "duration": 249,
-    "rating": "4.0",
+    "duration": 250,
+    "rating": "4.1",
     "released": "2012-05-25T04:00:00.000Z",
     "users": []
 }, {
@@ -11930,7 +13140,7 @@ courses = [{
     "author": "Benjamin Day",
     "level": "Intermediate",
     "duration": 243,
-    "rating": "4.5",
+    "rating": "4.4",
     "released": "2013-08-26T04:00:00.000Z",
     "users": []
 }, {
@@ -11990,6 +13200,17 @@ courses = [{
     "users": []
 }, {
     "category": "Visual Studio",
+    "name": "Test Automation with CodedUI",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/codedui-test-automation",
+    "description": "With Microsoft Visual Studio CodedUI you can build UI tests for the most common UI technologies including HTML and JavaScript based web applications, Windows Forms, WPF and XAML Based Store apps. In this course you will learn how you can use Microsoft CodedUI test technology to build UI test automation projects that will help you run tests via the user interface of your application. This enables you to speed up the validation of fully functional scenarios on your application which is an important step to enable continuous delivery. CodedUI integrates with the Microsoft ALM tool suite, and can help you build insights in your application quality on a daily basis. In this course we look in detail how CodedUI works. We will start with Record and Playback. Then we look at how to build your UI tests by hand coding against the CodedUI object model. Then we spend a good deal of time looking at how you can build a very good maintainable UI test automation project. Since a good UI test will live as long as the application it is therefore crucial to learn how to build a Test automation framework for your application that is maintainable, and that will keep up with changes in the application throughout its lifecycle. We will also look at analyzing playback failures and cross browser playback. This course concludes by looking at how to build key word driven UI tests by using data driven excel sheets to manage and drive your test scenarios.",
+    "author": "Marcel de Vries",
+    "level": "Intermediate",
+    "duration": 322,
+    "rating": "4.4",
+    "released": "2014-02-11T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Visual Studio",
     "name": "Unit Testing with MSTest",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/mstest",
     "description": "In this course you will be learning about using Microsoft Visual Studio Unit Testing features. We will cover understanding unit testing basics, asserts and testing lifecycle, web performance tests, generic tests, ordered tests, WebServiceHelper and TestConfigurationSection.",
@@ -12007,8 +13228,19 @@ courses = [{
     "author": "Robert Cain",
     "level": "Intermediate",
     "duration": 109,
-    "rating": "4.0",
+    "rating": "4.1",
     "released": "2011-01-06T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Visual Studio",
+    "name": "Visual Studio Data Tools for Developers",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/visual-studio-data-tools-developers",
+    "description": "Do you work with a database as part of your development tasks? This course covers the data tools available for developers within Visual Studio. These tools, called SQL Server Data Tools (SSDT) allow you to perform database tasks, create and manage database scripts, and easily deploy database changes all from within Visual Studio. Enjoy!",
+    "author": "Deborah Kurata",
+    "level": "Intermediate",
+    "duration": 197,
+    "rating": "4.3",
+    "released": "2014-02-12T05:00:00.000Z",
     "users": []
 }, {
     "category": "Visual Studio",
@@ -12062,7 +13294,7 @@ courses = [{
     "author": "Aaron Skonnard",
     "level": "Beginner",
     "duration": 118,
-    "rating": "4.4",
+    "rating": "4.5",
     "released": "2009-11-12T05:00:00.000Z",
     "users": []
 }, {
@@ -12100,13 +13332,24 @@ courses = [{
     "users": []
 }, {
     "category": "WCF",
+    "name": "Understanding Web Service Specifications in WCF",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/understanding-web-service-specifications-wcf",
+    "description": "SOAP isn't dead yet! Enterprises have invested loads of money in the past decade to build their integrations on top of SOAP. WS-* specifications are extensions to SOAP that add capabilities to support advanced integration scenarios. This course first explains the origins of these standards, and then explains in detail some of the most important ones. Each module covers one or a group of related standards, the business needs, and WCF implementation.",
+    "author": "Mohamad Halabi",
+    "level": "Intermediate",
+    "duration": 344,
+    "rating": "4.6",
+    "released": "2014-03-26T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "WCF",
     "name": "WCF 4 New Features",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/wcf4-newfeatures",
     "description": "This course covers updates to WCF between 3.5 and 4.0. A number of changes were made to make configuration easier and to better integrate WCF REST with ASP.NET. WCF 4.0 also includes new features to support Discovery and Routing.",
     "author": "Scott Seely",
     "level": "Intermediate",
     "duration": 150,
-    "rating": "3.5",
+    "rating": "3.6",
     "released": "2010-07-21T04:00:00.000Z",
     "users": []
 }, {
@@ -12155,14 +13398,14 @@ courses = [{
     "users": []
 }, {
     "category": "Web Frameworks",
-    "name": "DotNetNuke Fundamentals",
-    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/dotnetnuke-fundamentals",
-    "description": "This course is aimed at beginner DotNetNuke (DNN) users. It is designed to get you started in building your own site with DotNetNuke. It takes you on a Guided Tour of some of the more important features of DNN, and concludes with a tutorial on building your own DNN module extension.",
-    "author": "Charles Nurse",
+    "name": "Building JAX-WS Web Services with Apache CXF",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/building-jax-ws-web-services-apache-cxf",
+    "description": "This course is designed to help you learn and practice implementing contract-first web services using Apache CXF. We will focus on Java's JAX-WS specification as it is mature and accepted as a standard approach for web service implementation. This course has several objectives. Upon completion, you will be able to describe the Apache CXF architecture in detail. You will see the benefits of using CXF and understand the drivers for using it in your applications. You will be able to create a CXF web project using Maven. You will be able to use CXF for implementing a contract-first web service endpoint with a JAX-WS front-end. You will be able to implement unit tests, error handling, and interceptor logic for a CXF web service. Finally, you will be able to implement a web service client using CXF. This course is primarily intended for Java developers looking to implement web services. It will also be useful for technical and solution architects who are investigating technologies to leverage for implementing web services. It is recommended that you are proficient with Java and have an understanding of the Spring Framework core project. To best understand the drivers for using Apache CXF for your web service implementation, we will cover a brief history of the Java specifications, including JAX-RPC, JAX-WS, and JAX-RS. While the course will not cover CXF's capabilities around JAX-RS, we will cover the key architecture components that back the JAX-RS front-end. While viewing the course, you will be able to follow along with the many demonstrations it includes. Each demonstration will build on the previous demonstration to assure you a fluid experience.",
+    "author": "Michael Hoffman",
     "level": "Intermediate",
-    "duration": 117,
-    "rating": "4.2",
-    "released": "2013-08-16T04:00:00.000Z",
+    "duration": 197,
+    "rating": "Not",
+    "released": "2014-04-22T04:00:00.000Z",
     "users": []
 }, {
     "category": "Web Frameworks",
@@ -12183,7 +13426,7 @@ courses = [{
     "author": "Dan Bunker",
     "level": "Intermediate",
     "duration": 208,
-    "rating": "4.2",
+    "rating": "4.1",
     "released": "2013-10-10T04:00:00.000Z",
     "users": []
 }, {
@@ -12196,6 +13439,17 @@ courses = [{
     "duration": 92,
     "rating": "4.4",
     "released": "2012-07-03T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Web Frameworks",
+    "name": "Play! 2 for Scala",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/play-2-scala",
+    "description": "Play! 2 for Scala aims to allow developers to build modern web applications that allow them to take full advantage of commodity cloud infrastructure to produce highly scalable, fault-tolerant applications. This course will act as a high level introduction to the various features of Play! 2 that will allow you to take full advantage of this modern web framework.",
+    "author": "James Hughes",
+    "level": "Intermediate",
+    "duration": 97,
+    "rating": "Not",
+    "released": "2014-04-14T04:00:00.000Z",
     "users": []
 }, {
     "category": "WF",
@@ -12216,7 +13470,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Beginner",
     "duration": 281,
-    "rating": "4.1",
+    "rating": "4.2",
     "released": "2009-11-01T04:00:00.000Z",
     "users": []
 }, {
@@ -12227,7 +13481,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Beginner",
     "duration": 386,
-    "rating": "4.2",
+    "rating": "4.0",
     "released": "2008-05-31T04:00:00.000Z",
     "users": []
 }, {
@@ -12249,7 +13503,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Intermediate",
     "duration": 157,
-    "rating": "4.2",
+    "rating": "4.0",
     "released": "2012-12-17T05:00:00.000Z",
     "users": []
 }, {
@@ -12260,7 +13514,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Advanced",
     "duration": 133,
-    "rating": "4 s",
+    "rating": "4.1",
     "released": "2010-08-27T04:00:00.000Z",
     "users": []
 }, {
@@ -12282,7 +13536,7 @@ courses = [{
     "author": "Kate Gregory",
     "level": "Beginner",
     "duration": 261,
-    "rating": "4.2",
+    "rating": "4.3",
     "released": "2010-05-05T04:00:00.000Z",
     "users": []
 }, {
@@ -12293,19 +13547,8 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Beginner",
     "duration": 390,
-    "rating": "4.4",
+    "rating": "4.3",
     "released": "2010-05-20T04:00:00.000Z",
-    "users": []
-}, {
-    "category": "Windows 7",
-    "name": "Windows Operating System Fundamentals: Install and Configure",
-    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/windows-operating-system-fundamentals-install-configure",
-    "description": "More and more computers have become a part of our everyday life. We use them at work, home, and school. Most home and businesses use Microsoft Operating Systems as their primary operating system for both workstations and servers. It is important to have a basic foundation of how to install, upgrade, and configure Windows whether you are new to the IT field or just looking to learn the basics for your home computer. This course is designed to start the foundation with Microsoft Windows desktop operating system by learning solid skills to build your IT future upon.",
-    "author": "Ken Mauldin",
-    "level": "Beginner",
-    "duration": 436,
-    "rating": "Not",
-    "released": "2013-11-11T05:00:00.000Z",
     "users": []
 }, {
     "category": "Windows 7",
@@ -12315,7 +13558,7 @@ courses = [{
     "author": "Eric Burke",
     "level": "Intermediate",
     "duration": 237,
-    "rating": "4.2",
+    "rating": "4.1",
     "released": "2010-07-12T04:00:00.000Z",
     "users": []
 }, {
@@ -12326,7 +13569,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Intermediate",
     "duration": 286,
-    "rating": "4.3",
+    "rating": "4.4",
     "released": "2010-07-13T04:00:00.000Z",
     "users": []
 }, {
@@ -12337,7 +13580,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Intermediate",
     "duration": 294,
-    "rating": "Not",
+    "rating": "4.4",
     "released": "2010-07-13T04:00:00.000Z",
     "users": []
 }, {
@@ -12348,7 +13591,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Intermediate",
     "duration": 233,
-    "rating": "Not",
+    "rating": "4.5",
     "released": "2012-07-13T04:00:00.000Z",
     "users": []
 }, {
@@ -12359,7 +13602,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Intermediate",
     "duration": 243,
-    "rating": "Not",
+    "rating": "4.3",
     "released": "2010-07-13T04:00:00.000Z",
     "users": []
 }, {
@@ -12436,7 +13679,7 @@ courses = [{
     "author": "Iris Classon",
     "level": "Beginner",
     "duration": 152,
-    "rating": "4.8",
+    "rating": "4.6",
     "released": "2012-10-02T04:00:00.000Z",
     "users": []
 }, {
@@ -12524,7 +13767,7 @@ courses = [{
     "author": "Ian Griffiths",
     "level": "Intermediate",
     "duration": 280,
-    "rating": "4.3",
+    "rating": "4.4",
     "released": "2012-11-07T05:00:00.000Z",
     "users": []
 }, {
@@ -12535,7 +13778,7 @@ courses = [{
     "author": "Scott Seely",
     "level": "Intermediate",
     "duration": 83,
-    "rating": "4.2",
+    "rating": "4.3",
     "released": "2013-05-30T04:00:00.000Z",
     "users": []
 }, {
@@ -12557,7 +13800,7 @@ courses = [{
     "author": "Jason Roberts",
     "level": "Intermediate",
     "duration": 98,
-    "rating": "3.8",
+    "rating": "3.9",
     "released": "2013-05-23T04:00:00.000Z",
     "users": []
 }, {
@@ -12568,7 +13811,7 @@ courses = [{
     "author": "Michael Palermo",
     "level": "Intermediate",
     "duration": 66,
-    "rating": "3.7",
+    "rating": "3.8",
     "released": "2013-12-06T05:00:00.000Z",
     "users": []
 }, {
@@ -12590,7 +13833,7 @@ courses = [{
     "author": "Yacine Khammal",
     "level": "Intermediate",
     "duration": 202,
-    "rating": "4.1",
+    "rating": "4.2",
     "released": "2012-10-24T04:00:00.000Z",
     "users": []
 }, {
@@ -12601,7 +13844,7 @@ courses = [{
     "author": "Jesse Liberty",
     "level": "Intermediate",
     "duration": 95,
-    "rating": "4.2",
+    "rating": "4.3",
     "released": "2013-06-20T04:00:00.000Z",
     "users": []
 }, {
@@ -12634,7 +13877,7 @@ courses = [{
     "author": "Gill Cleeren",
     "level": "Intermediate",
     "duration": 205,
-    "rating": "4.6",
+    "rating": "4.7",
     "released": "2012-12-18T05:00:00.000Z",
     "users": []
 }, {
@@ -12645,7 +13888,7 @@ courses = [{
     "author": "Tony Northrup",
     "level": "Intermediate",
     "duration": 223,
-    "rating": "4.2",
+    "rating": "4.3",
     "released": "2013-04-01T04:00:00.000Z",
     "users": []
 }, {
@@ -12656,7 +13899,7 @@ courses = [{
     "author": "Tony Northrup",
     "level": "Intermediate",
     "duration": 262,
-    "rating": "Not",
+    "rating": "4.4",
     "released": "2013-04-01T04:00:00.000Z",
     "users": []
 }, {
@@ -12667,7 +13910,7 @@ courses = [{
     "author": "Tony Northrup",
     "level": "Intermediate",
     "duration": 286,
-    "rating": "Not",
+    "rating": "4.7",
     "released": "2013-04-01T04:00:00.000Z",
     "users": []
 }, {
@@ -12689,7 +13932,7 @@ courses = [{
     "author": "Rhonda Layfield",
     "level": "Intermediate",
     "duration": 284,
-    "rating": "Not",
+    "rating": "4.9",
     "released": "2013-06-06T04:00:00.000Z",
     "users": []
 }, {
@@ -12700,7 +13943,7 @@ courses = [{
     "author": "Rhonda Layfield",
     "level": "Intermediate",
     "duration": 105,
-    "rating": "Not",
+    "rating": "4.3",
     "released": "2013-06-25T04:00:00.000Z",
     "users": []
 }, {
@@ -12722,7 +13965,7 @@ courses = [{
     "author": "John O'Neill Sr.",
     "level": "Intermediate",
     "duration": 241,
-    "rating": "4.6",
+    "rating": "4.5",
     "released": "2013-06-28T04:00:00.000Z",
     "users": []
 }, {
@@ -12733,7 +13976,7 @@ courses = [{
     "author": "John O'Neill Sr.",
     "level": "Intermediate",
     "duration": 246,
-    "rating": "Not",
+    "rating": "4.5",
     "released": "2013-06-28T04:00:00.000Z",
     "users": []
 }, {
@@ -12777,7 +14020,7 @@ courses = [{
     "author": "Yacine Khammal",
     "level": "Intermediate",
     "duration": 249,
-    "rating": "4.5",
+    "rating": "4.6",
     "released": "2012-07-11T04:00:00.000Z",
     "users": []
 }, {
@@ -12788,8 +14031,19 @@ courses = [{
     "author": "Yacine Khammal",
     "level": "Intermediate",
     "duration": 348,
-    "rating": "4.5",
+    "rating": "4.4",
     "released": "2013-01-28T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Windows 8",
+    "name": "Windows 8.1: New Features for C#/XAML Developers",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/windows-81-whats-new-csharp-xaml-devs",
+    "description": "Windows 8.1 brings a lot of new features to the platform which are interesting for developers. Updated contracts such as Search and Share, new controls, new options for data binding, new screen sizes, more tile sizes and much more. To take advantage of these new options in your apps , it’s important that as a Windows 8 developer, you’re on board with all that’s being added by Microsoft to the platform. Also the tooling (Visual Studio and Blend) used for building Windows 8.1 apps has received a number of important updates. This course extends the already existing courses on Pluralsight on Windows 8 by showing the novelties in the different areas.",
+    "author": "Gill Cleeren",
+    "level": "Intermediate",
+    "duration": 289,
+    "rating": "4.5",
+    "released": "2014-02-27T05:00:00.000Z",
     "users": []
 }, {
     "category": "Windows 8",
@@ -12810,7 +14064,7 @@ courses = [{
     "author": "Gergely Orosz",
     "level": "Intermediate",
     "duration": 172,
-    "rating": "4.3",
+    "rating": "4.4",
     "released": "2013-12-05T05:00:00.000Z",
     "users": []
 }, {
@@ -12848,13 +14102,35 @@ courses = [{
     "users": []
 }, {
     "category": "Windows Azure",
+    "name": "Applied Windows Azure",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/applied-windows-azure",
+    "description": "This course walks you through various building blocks in Windows Azure and how to use these blocks to build practical applications.",
+    "author": "Vishwas Lele",
+    "level": "Intermediate",
+    "duration": 291,
+    "rating": "3.7",
+    "released": "2014-02-19T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Windows Azure",
+    "name": "Building Apps with Azure Mobile Svcs, SignalR, MVC, Win 8 and WP8",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/building-mobile-applications-azure-signalr-mvc",
+    "description": "This course demonstrates how several technologies can be brought together to form the basis of a solution for real-world retail scenarios, including Windows Azure Mobile Services, Windows 8, Windows Phone 8, Windows Azure Websites, MVC, Entity Framework, jQuery and SignalR.",
+    "author": "Colin Melia",
+    "level": "Intermediate",
+    "duration": 112,
+    "rating": "4.2",
+    "released": "2014-02-13T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Windows Azure",
     "name": "Elastic Scaling on Windows Azure",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/azure-elastic-scale",
     "description": "So you've spent the last few months building the next killer website, have you given much thought to your success? Specifically, have you thought about how your Cloud Services are going to respond to the load generated by your success? Azure has always provided the ability to scale your resources up or down, aka elastic scale, but do you actually know how to accomplish this? Automatically? Take this course to understand the core concepts surrounding elastic scale, and learn how you can use Enterprise Library 5's Autoscaling Application Block to automate your scaling in response to demand, without blowing out your budget.",
     "author": "Zoiner Tejada",
     "level": "Intermediate",
     "duration": 115,
-    "rating": "4.2",
+    "rating": "3.9",
     "released": "2012-12-21T05:00:00.000Z",
     "users": []
 }, {
@@ -12865,7 +14141,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Intermediate",
     "duration": 112,
-    "rating": "4.3",
+    "rating": "4.4",
     "released": "2013-04-10T04:00:00.000Z",
     "users": []
 }, {
@@ -12876,7 +14152,7 @@ courses = [{
     "author": "Mike McKeown",
     "level": "Intermediate",
     "duration": 100,
-    "rating": "4.5",
+    "rating": "4.6",
     "released": "2013-10-11T04:00:00.000Z",
     "users": []
 }, {
@@ -12887,7 +14163,7 @@ courses = [{
     "author": "Elton Stoneman",
     "level": "Intermediate",
     "duration": 234,
-    "rating": "4.8",
+    "rating": "4.6",
     "released": "2013-10-30T04:00:00.000Z",
     "users": []
 }, {
@@ -12909,7 +14185,7 @@ courses = [{
     "author": "Scott Seely",
     "level": "Intermediate",
     "duration": 120,
-    "rating": "4.2",
+    "rating": "4.1",
     "released": "2012-11-01T04:00:00.000Z",
     "users": []
 }, {
@@ -12964,7 +14240,7 @@ courses = [{
     "author": "Scott Seely",
     "level": "Intermediate",
     "duration": 100,
-    "rating": "4.2",
+    "rating": "4.1",
     "released": "2012-01-06T05:00:00.000Z",
     "users": []
 }, {
@@ -12997,7 +14273,7 @@ courses = [{
     "author": "Orin Thomas",
     "level": "Intermediate",
     "duration": 263,
-    "rating": "4.7",
+    "rating": "4.6",
     "released": "2013-09-11T04:00:00.000Z",
     "users": []
 }, {
@@ -13008,7 +14284,7 @@ courses = [{
     "author": "Joe Kunk",
     "level": "Intermediate",
     "duration": 116,
-    "rating": "Not",
+    "rating": "4.1",
     "released": "2013-12-20T05:00:00.000Z",
     "users": []
 }, {
@@ -13019,8 +14295,19 @@ courses = [{
     "author": "Scott Seely",
     "level": "Intermediate",
     "duration": 125,
-    "rating": "3.3",
+    "rating": "3.4",
     "released": "2012-01-09T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Windows Azure",
+    "name": "Windows Azure Storage In-Depth",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/windows-azure-storage-in-depth",
+    "description": "This course will provide a deep and thorough understanding of the Windows Azure storage services. After covering the basics the content will cover the more advanced topics, and round off with real-world scenarios of how the storage services can be used in distributed applications. The first modules will cover the use of storage accounts and the storage client library. The next three modules will cover the Windows Azure Storage Services, blobs, tables and queues. The final three modules will cover performance and scalability, using shared access signatures and transient fault handling.",
+    "author": "Alan Smith",
+    "level": "Intermediate",
+    "duration": 411,
+    "rating": "4.5",
+    "released": "2014-03-06T05:00:00.000Z",
     "users": []
 }, {
     "category": "Windows Azure",
@@ -13041,7 +14328,7 @@ courses = [{
     "author": "Alexander Wechsler",
     "level": "Intermediate",
     "duration": 301,
-    "rating": "Not",
+    "rating": "4.7",
     "released": "2013-07-12T04:00:00.000Z",
     "users": []
 }, {
@@ -13085,7 +14372,7 @@ courses = [{
     "author": "Michael Crump",
     "level": "Intermediate",
     "duration": 127,
-    "rating": "4.6",
+    "rating": "4.5",
     "released": "2013-07-30T04:00:00.000Z",
     "users": []
 }, {
@@ -13107,7 +14394,7 @@ courses = [{
     "author": "Lars Klint",
     "level": "Intermediate",
     "duration": 185,
-    "rating": "4.3",
+    "rating": "4.2",
     "released": "2013-10-23T04:00:00.000Z",
     "users": []
 }, {
@@ -13140,7 +14427,7 @@ courses = [{
     "author": "Yacine Khammal",
     "level": "Intermediate",
     "duration": 185,
-    "rating": "4 s",
+    "rating": "4.1",
     "released": "2011-04-18T04:00:00.000Z",
     "users": []
 }, {
@@ -13173,7 +14460,7 @@ courses = [{
     "author": "Yacine Khammal",
     "level": "Intermediate",
     "duration": 96,
-    "rating": "4.1",
+    "rating": "4.2",
     "released": "2011-02-07T05:00:00.000Z",
     "users": []
 }, {
@@ -13184,7 +14471,7 @@ courses = [{
     "author": "Yacine Khammal",
     "level": "Intermediate",
     "duration": 171,
-    "rating": "Not",
+    "rating": "4.2",
     "released": "2011-09-06T04:00:00.000Z",
     "users": []
 }, {
@@ -13305,7 +14592,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 127,
-    "rating": "Not",
+    "rating": "4.1",
     "released": "2011-04-26T04:00:00.000Z",
     "users": []
 }, {
@@ -13591,7 +14878,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 356,
-    "rating": "Not",
+    "rating": "4.5",
     "released": "2004-01-04T05:00:00.000Z",
     "users": []
 }, {
@@ -13712,7 +14999,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 482,
-    "rating": "4.6",
+    "rating": "4.5",
     "released": "2010-11-10T05:00:00.000Z",
     "users": []
 }, {
@@ -13723,7 +15010,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 301,
-    "rating": "4.5",
+    "rating": "4.6",
     "released": "2010-11-10T05:00:00.000Z",
     "users": []
 }, {
@@ -13745,7 +15032,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 237,
-    "rating": "4.8",
+    "rating": "4.7",
     "released": "2010-11-10T05:00:00.000Z",
     "users": []
 }, {
@@ -13756,8 +15043,19 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 171,
-    "rating": "4.3",
+    "rating": "4.2",
     "released": "2010-11-10T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Windows Server",
+    "name": "Windows Server 2008 Active Directory (70-640) Part 6",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/windows-server-2008-active-directory-pt6",
+    "description": "The bonus lessons in the Windows Server 2008 Active Directory (70-640) series will show you hands-on how to administer Active Directory using Windows Server 2008. You'll walk away from the course able to install and configure Active Directory, create and manage Active Directory and Group Policy objects, deploy software and manage permissions with Group Policy, create sites, and manage backup, replication, security and more. To get the most out of this course, you should have a solid foundation in networking. Some experience with Windows Server will be helpful, but is not required.",
+    "author": "Ed Liberman",
+    "level": "Intermediate",
+    "duration": 78,
+    "rating": "Not",
+    "released": "2011-11-10T05:00:00.000Z",
     "users": []
 }, {
     "category": "Windows Server",
@@ -13767,7 +15065,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 313,
-    "rating": "Not",
+    "rating": "4.2",
     "released": "2010-05-18T04:00:00.000Z",
     "users": []
 }, {
@@ -13822,7 +15120,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 249,
-    "rating": "4.2",
+    "rating": "4.4",
     "released": "2008-11-20T05:00:00.000Z",
     "users": []
 }, {
@@ -13833,7 +15131,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 316,
-    "rating": "Not",
+    "rating": "4.4",
     "released": "2008-11-20T05:00:00.000Z",
     "users": []
 }, {
@@ -13855,7 +15153,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 247,
-    "rating": "4.8",
+    "rating": "4.4",
     "released": "2009-02-03T05:00:00.000Z",
     "users": []
 }, {
@@ -13866,7 +15164,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 271,
-    "rating": "Not",
+    "rating": "4.4",
     "released": "2009-02-03T05:00:00.000Z",
     "users": []
 }, {
@@ -13877,7 +15175,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 210,
-    "rating": "Not",
+    "rating": "4.9",
     "released": "2009-02-03T05:00:00.000Z",
     "users": []
 }, {
@@ -13899,7 +15197,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 259,
-    "rating": "4.3",
+    "rating": "4.4",
     "released": "2013-04-12T04:00:00.000Z",
     "users": []
 }, {
@@ -13910,7 +15208,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 281,
-    "rating": "4.4",
+    "rating": "4.3",
     "released": "2013-04-12T04:00:00.000Z",
     "users": []
 }, {
@@ -13921,8 +15219,19 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 148,
-    "rating": "4.4",
+    "rating": "4.6",
     "released": "2013-04-12T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Windows Server",
+    "name": "Windows Server 2012 Advanced Infrastructure Management",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/windows-server-2012-adv-infrastructure-management",
+    "description": "For large, complex environments, keeping an IT infrastructure humming is a full time job. In this course, you'll explore the technologies available to you when you design the patching, updating, and monitoring of your Windows Server 2012 deployment. You'll consider how to design for automation of these key systems, plan an administrative strategy for that environment, and plan an auditing strategy to ensure your systems are being used securely.",
+    "author": "Mike Hammond",
+    "level": "Intermediate",
+    "duration": 105,
+    "rating": "4.1",
+    "released": "2014-03-14T04:00:00.000Z",
     "users": []
 }, {
     "category": "Windows Server",
@@ -13943,7 +15252,7 @@ courses = [{
     "author": "Mike Hammond",
     "level": "Intermediate",
     "duration": 220,
-    "rating": "4.5",
+    "rating": "4.6",
     "released": "2013-04-16T04:00:00.000Z",
     "users": []
 }, {
@@ -13970,13 +15279,24 @@ courses = [{
     "users": []
 }, {
     "category": "Windows Server",
+    "name": "Windows Server 2012 Designing Virtualization Infrastructure",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/windows-server-2012-designing-virtualization",
+    "description": "The virtualized datacenter is here. Consider the design options that enable you to transform some or most of your physical servers into virtual machines. You'll get ideas for energy and space-saving options in your organization as you explore provisioning host hardware, virtual networking and storage, and ensuring that your virtual infrastructure is kept patched as thoroughly as a physical infrastructure would be. You'll also explore the exciting area of client virtualization with Microsoft's Virtual Desktop Infrastructure technology!",
+    "author": "Mike Hammond",
+    "level": "Intermediate",
+    "duration": 166,
+    "rating": "4.7",
+    "released": "2014-03-04T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Windows Server",
     "name": "Windows Server 2012 High Availability: Hyper-V",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/windows-server-2012-high-availability-pt2",
     "description": "Part 2 of 2 in the Windows Server 2012 High Availability series will provide network engineers with the ideas of what technologies Microsoft Server 2012 has to offer in the world of High Availability. As well as the steps to successfully plan, implement, and support High Availability solutions for their managed Windows environment. A few features we'll cover are NIC Teaming, DHCP Scope Failover, Network Load Balancing, and more. A strong working knowledge of general hardware, networking, and Windows core infrastructure services is recommended.",
     "author": "Ken Mauldin",
     "level": "Intermediate",
     "duration": 210,
-    "rating": "Not",
+    "rating": "4.8",
     "released": "2013-07-10T04:00:00.000Z",
     "users": []
 }, {
@@ -13987,7 +15307,7 @@ courses = [{
     "author": "Ken Mauldin",
     "level": "Intermediate",
     "duration": 367,
-    "rating": "4.7",
+    "rating": "4.5",
     "released": "2013-07-10T04:00:00.000Z",
     "users": []
 }, {
@@ -13998,7 +15318,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 242,
-    "rating": "4.4",
+    "rating": "4.5",
     "released": "2013-01-08T05:00:00.000Z",
     "users": []
 }, {
@@ -14009,7 +15329,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 210,
-    "rating": "Not",
+    "rating": "4.6",
     "released": "2013-01-08T05:00:00.000Z",
     "users": []
 }, {
@@ -14042,7 +15362,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 210,
-    "rating": "4.3",
+    "rating": "4.4",
     "released": "2013-01-22T05:00:00.000Z",
     "users": []
 }, {
@@ -14053,8 +15373,19 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 141,
-    "rating": "4.4",
+    "rating": "4.5",
     "released": "2013-01-22T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Windows Server",
+    "name": "Windows Server 2012 R2 New Features",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/windows-server-2012-r2-new-features",
+    "description": "This course introduces the new and important features of Windows Server 2012 R2. By taking it, you'll learn what the difference is between Windows Server 2012 and Windows Server 2012 R2. You'll also learn how you can get the most out of these features in your own real world environment.",
+    "author": "Orin Thomas",
+    "level": "Intermediate",
+    "duration": 215,
+    "rating": "4.0",
+    "released": "2014-02-17T05:00:00.000Z",
     "users": []
 }, {
     "category": "Windows Vista",
@@ -14152,7 +15483,7 @@ courses = [{
     "author": "Chris Reynolds",
     "level": "Beginner",
     "duration": 82,
-    "rating": "4.0",
+    "rating": "4.1",
     "released": "2013-05-08T04:00:00.000Z",
     "users": []
 }, {
@@ -14163,8 +15494,19 @@ courses = [{
     "author": "Chris Reynolds",
     "level": "Beginner",
     "duration": 83,
-    "rating": "4.4",
+    "rating": "4.2",
     "released": "2013-06-28T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "WordPress",
+    "name": "Building a WordPress Theme Framework with Bootstrap 3",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/building-wordpress-theme-framework-bootstrap3",
+    "description": "If you build themes on a regular basis, you’re probably always on the lookout for new ways to speed up the process of developing a new theme. Theme and CSS frameworks help you do that, but which one should you use? This course will show you how to integrate Bootstrap 3 into a WordPress theme framework that makes the most of what both have to offer.",
+    "author": "Chris Reynolds",
+    "level": "Intermediate",
+    "duration": 310,
+    "rating": "Not",
+    "released": "2014-04-17T04:00:00.000Z",
     "users": []
 }, {
     "category": "WordPress",
@@ -14174,7 +15516,7 @@ courses = [{
     "author": "Chris Reynolds",
     "level": "Intermediate",
     "duration": 55,
-    "rating": "4.2",
+    "rating": "4.1",
     "released": "2013-10-11T04:00:00.000Z",
     "users": []
 }, {
@@ -14196,7 +15538,7 @@ courses = [{
     "author": "Chris Reynolds",
     "level": "Intermediate",
     "duration": 54,
-    "rating": "3.3",
+    "rating": "3.4",
     "released": "2013-01-09T05:00:00.000Z",
     "users": []
 }, {
@@ -14207,7 +15549,7 @@ courses = [{
     "author": "Chris Reynolds",
     "level": "Intermediate",
     "duration": 59,
-    "rating": "Not",
+    "rating": "4.4",
     "released": "2013-11-11T05:00:00.000Z",
     "users": []
 }, {
@@ -14218,7 +15560,7 @@ courses = [{
     "author": "Chris Reynolds",
     "level": "Intermediate",
     "duration": 110,
-    "rating": "Not",
+    "rating": "4.6",
     "released": "2013-12-31T05:00:00.000Z",
     "users": []
 }, {
@@ -14273,7 +15615,7 @@ courses = [{
     "author": "Jesse Liberty",
     "level": "Intermediate",
     "duration": 87,
-    "rating": "4.0",
+    "rating": "3.9",
     "released": "2013-06-21T04:00:00.000Z",
     "users": []
 }, {
@@ -14284,7 +15626,7 @@ courses = [{
     "author": "Ian Griffiths",
     "level": "Intermediate",
     "duration": 226,
-    "rating": "4.4",
+    "rating": "4.5",
     "released": "2011-01-31T05:00:00.000Z",
     "users": []
 }, {
@@ -14294,8 +15636,8 @@ courses = [{
     "description": "The data binding capabilities of WPF are one of the most powerful parts of the XAML platform. Data binding allows you to keep your XAML UI definition loosely coupled from the logic and data access that gets data into the application that will be used for display purposes. You can use data binding to build rich, interactive, beautifully designed user interfaces that are driven by data of many types. In this course you will learn how to leverage all the features of data binding and will learn enough to feel comfortable tackling everything from simple to complex data binding scenarios. You'll learn about what kinds of data sources you can work with, all the features that the Bindings themselves support, and how to use DataTemplates to provide a custom, reusable XAML rendering of your data objects. You'll learn how to use design time features in Visual Studio to generate data bound UIs or hook up existing ones, and you'll learn how to use the validation features to validate input data and present errors to the user. Along the way, you'll see some demos that use the Model-View-ViewModel (MVVM) pattern and others that do not so you can see the power of data binding regardless of the UI patterns that you follow.",
     "author": "Brian Noyes",
     "level": "Intermediate",
-    "duration": 409,
-    "rating": "4.6",
+    "duration": 379,
+    "rating": "4.7",
     "released": "2014-01-09T05:00:00.000Z",
     "users": []
 }, {
@@ -14306,8 +15648,8 @@ courses = [{
     "author": "Paul D. Sheriff",
     "level": "Intermediate",
     "duration": 278,
-    "rating": "4.0",
-    "released": "2013-09-13T04:00:00.000Z",
+    "rating": "4.1",
+    "released": "2009-06-13T04:00:00.000Z",
     "users": []
 }, {
     "category": "WPF",
@@ -14317,8 +15659,19 @@ courses = [{
     "author": "Paul D. Sheriff",
     "level": "Intermediate",
     "duration": 395,
-    "rating": "4.6",
+    "rating": "4.7",
     "released": "2013-12-16T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "WPF",
+    "name": "WPF for the Visual Basic Programmer - Part 2",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/wpf-vb-programmer-pt2",
+    "description": "Visual Basic Programmers are still in demand. Upgrade your skills by learning XAML and WPF. This course is specifically designed for the Visual Basic programmer and will get you up to speed quickly with WPF. In Part 2 you will learn the correct way to design WPF windows, how to use styles and all the most commonly used controls for business applications. You will gain a good knowledge of data binding and how to use the various list controls in WPF.",
+    "author": "Paul D. Sheriff",
+    "level": "Intermediate",
+    "duration": 258,
+    "rating": "Not",
+    "released": "2014-02-18T05:00:00.000Z",
     "users": []
 }, {
     "category": "WPF",
@@ -14350,7 +15703,7 @@ courses = [{
     "author": "Dan Sullivan",
     "level": "Beginner",
     "duration": 54,
-    "rating": "4.0",
+    "rating": "3.9",
     "released": "2009-11-17T05:00:00.000Z",
     "users": []
 }, {
@@ -14361,7 +15714,7 @@ courses = [{
     "author": "Paul D. Sheriff",
     "level": "Intermediate",
     "duration": 262,
-    "rating": "4.7",
+    "rating": "4.6",
     "released": "2013-07-22T04:00:00.000Z",
     "users": []
 }, {
@@ -14372,7 +15725,7 @@ courses = [{
     "author": "Dan Sullivan",
     "level": "Intermediate",
     "duration": 291,
-    "rating": "3.7",
+    "rating": "3.6",
     "released": "2012-05-11T04:00:00.000Z",
     "users": []
 }, {
@@ -14383,7 +15736,18 @@ courses = [{
     "author": "Ken Holman",
     "level": "Intermediate",
     "duration": 323,
-    "rating": "Not",
+    "rating": "3.3",
     "released": "2013-12-05T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "XML",
+    "name": "XSLT 2.0 and 1.0 Foundations",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/xslt-foundations-part1",
+    "description": "XSLT is the language, especially designed by the W3C Consortium for processing XML documents and hierarchical data in general. This course covers the fundamentals of the language  both version 1.0 and 2.0. Learn in depth the features of XSLT, and be part of the demos of their real-world practical applications. Not only is XSLT a powerful, higher-level, declarative and extraordinary with its pattern-matching philosophy modern programming language, but it opens to us a whole new world of knowledge, understanding and problem-solving strategies.",
+    "author": "Dimitre Novatchev",
+    "level": "Intermediate",
+    "duration": 525,
+    "rating": "3.8",
+    "released": "2014-02-19T05:00:00.000Z",
     "users": []
 }]

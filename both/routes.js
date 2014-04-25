@@ -5,11 +5,12 @@ Router.configure({
     notFoundTemplate: '404'
 });
 
+// home-route. display all courses, search
 Router.map(function() {
     this.route('home', {
         path: '/',
         waitOn: function() {
-            return Meteor.subscribe('courseList', 9999);
+            return Meteor.subscribe('courseList', 100);
         },
         data: function() {
             templateData = {
@@ -19,6 +20,7 @@ Router.map(function() {
         }
     });
 
+    // route for a specific course. don't know if i'll use this
     this.route('course', {
         path: '/course/:_id',
         data: function() {
@@ -29,6 +31,7 @@ Router.map(function() {
         }
     });
 
+    // route for the user's courses
     this.route('mine');
 
 });

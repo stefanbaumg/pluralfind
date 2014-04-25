@@ -1,14 +1,15 @@
 <head>
     <title>PluralFind</title>
+    <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700' rel='stylesheet' type='text/css'>
 </head>
 
 <body>
 
 </body>
 
+<!-- Master template -->
 <template name="layout">
     <div class="container">
-
         <div class="navbar" role="navigation">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -35,6 +36,7 @@
     </div>
 </template>
 
+<!-- Template for homepage with list of courses -->
 <template name="home">
     <div class="row">
         <div class="col-md-12">
@@ -43,6 +45,20 @@
                 <li>
                     <div class="category">{{category}}</div>
                     <div class="name">{{name}}</div>
+                    <div class="actions">
+                        <i class="fa fa-heart-o heart" title="Click to add to your courses"></i>
+                    </div>
+                    <div class="details">
+                        <div>{{level}}</div>
+                        <div class="duration">{{duration}} mins</div>
+                        <div class="rating" title="{{rating}}">
+                            <span class="{{starClass rating 5}}"></span>
+                            <span class="{{starClass rating 4}}"></span>
+                            <span class="{{starClass rating 3}}"></span>
+                            <span class="{{starClass rating 2}}"></span>
+                            <span class="{{starClass rating 1}}"></span>
+                        </div>
+                    </div>
                 </li>
                 {{else}}
                 <li>No courses found</li>
@@ -50,15 +66,16 @@
             </ul>
         </div>
     </div>
-
 </template>
 
+<!-- Template for user's list of courses -->
 <template name="mine">
     <h1>My Courses</h1>
     My courses here
 </template>
 
+<!-- Template for 404 page -->
 <template name="404">
     <h1>Oopsie-Daisy</h1>
-    The page you are looking for does not exist.
+    [Super-creative and hilarious 404 message goes here]
 </template>
