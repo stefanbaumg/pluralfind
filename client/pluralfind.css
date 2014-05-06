@@ -14,8 +14,11 @@
      border-radius: 0;
  }
  .navbar .navbar-brand {
-     color: #1DAFF0;
      font-size: 20px;
+     text-transform: none;
+ }
+ .navbar .navbar-brand i {
+     color: #1DAFF0;
  }
  .navbar a {
      color: #000;
