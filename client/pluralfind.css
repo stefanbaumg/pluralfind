@@ -1,6 +1,12 @@
+ html {
+     position: relative;
+     min-height: 100%;
+ }
  body {
      background-color: #fff;
      font-family:"Lato", Helvetica, Arial, sans-serif;
+     /*for sticky footer*/
+     margin-bottom: 60px;
  }
  /*Navigation*/
  .navbar {
@@ -22,6 +28,24 @@
  }
  ul.navbar-nav .active a, ul.navbar-nav li a:hover {
      background-color: #d5d5d5;
+ }
+ #footer {
+     position: absolute;
+     bottom: 0;
+     width: 100%;
+     /* Set the fixed height of the footer here */
+     height: 60px;
+     padding-top: 30px;
+ }
+ #footer .container p {
+     padding-top: 4px;
+     border-top: solid 1px #d5d5d5;
+ }
+ #footer .container p a {
+     color: #999
+ }
+ #footer .container p a:hover {
+     color: #1DAFF0;
  }
  /*Iron Router Progress bar and spinner*/
  #iron-router-progress {

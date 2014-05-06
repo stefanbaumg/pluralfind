@@ -10,7 +10,7 @@ Router.map(function() {
     this.route('home', {
         path: '/',
         waitOn: function() {
-            return Meteor.subscribe('courseList', 100);
+            return Meteor.subscribe('courseList', 50);
         },
         data: function() {
             templateData = {
