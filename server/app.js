@@ -27,7 +27,7 @@ Meteor.publish("courseList", function(limit) {
 // This happens when the app first starts
 Meteor.startup(function() {
 
-    Courses.remove({});
+    //Courses.remove({});
 
     //add courses in the courses.js file we grabbed from PluralSight to meteor mongo
     if (Courses.find().count() === 0) {
