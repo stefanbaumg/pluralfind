@@ -14,7 +14,20 @@ Router.map(function() {
         },
         data: function() {
             templateData = {
-                courses: Courses.find({}),
+                courses: Courses.find({
+                    // name: 'ADO.NET Fundamentals',
+                    // category: '.NET',
+                    // level: 'Intermediate',
+                    // duration: {
+                    //     $gt: 300
+                    // }
+                    // rating: {
+                    //     $gt: 4.5
+                    // }
+                    // released: {
+                    //     $gt: "2014-03-16T04:00:00.000Z"
+                    // }
+                }),
             };
             return templateData;
         }

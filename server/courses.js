@@ -6,7 +6,7 @@ courses = [{
     "author": "BurkeMalik",
     "level": "Beginner",
     "duration": 64,
-    "rating": "4",
+    "rating": 4,
     "released": "2010-03-16T04:00:00.000Z",
     "users": []
 }, {
@@ -17,7 +17,7 @@ courses = [{
     "author": "Robert Horvick",
     "level": "Beginner",
     "duration": 193,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-08-15T04:00:00.000Z",
     "users": []
 }, {
@@ -28,7 +28,7 @@ courses = [{
     "author": "Keith Brown",
     "level": "Beginner",
     "duration": 225,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2009-07-14T04:00:00.000Z",
     "users": []
 }, {
@@ -39,7 +39,7 @@ courses = [{
     "author": "Rob Windsor",
     "level": "Beginner",
     "duration": 351,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-08-15T04:00:00.000Z",
     "users": []
 }, {
@@ -50,7 +50,7 @@ courses = [{
     "author": "Dr. Joe Hummel",
     "level": "Beginner",
     "duration": 127,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2009-11-12T05:00:00.000Z",
     "users": []
 }, {
@@ -61,7 +61,7 @@ courses = [{
     "author": "Rob Windsor",
     "level": "Beginner",
     "duration": 292,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-11-03T04:00:00.000Z",
     "users": []
 }, {
@@ -72,7 +72,7 @@ courses = [{
     "author": "Steve Michelotti",
     "level": "Intermediate",
     "duration": 248,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-08-28T04:00:00.000Z",
     "users": []
 }, {
@@ -83,7 +83,7 @@ courses = [{
     "author": "Kathleen Dollard",
     "level": "Intermediate",
     "duration": 143,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-07-30T04:00:00.000Z",
     "users": []
 }, {
@@ -94,7 +94,7 @@ courses = [{
     "author": "Dan Sullivan",
     "level": "Intermediate",
     "duration": 209,
-    "rating": "3.8",
+    "rating": 3.8,
     "released": "2011-10-31T04:00:00.000Z",
     "users": []
 }, {
@@ -105,7 +105,7 @@ courses = [{
     "author": "Steve Evans",
     "level": "Intermediate",
     "duration": 100,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-05-29T04:00:00.000Z",
     "users": []
 }, {
@@ -116,7 +116,7 @@ courses = [{
     "author": "Herve Roggero",
     "level": "Intermediate",
     "duration": 246,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-10-22T04:00:00.000Z",
     "users": []
 }, {
@@ -127,7 +127,7 @@ courses = [{
     "author": "Robert Horvick",
     "level": "Intermediate",
     "duration": 150,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-06-11T04:00:00.000Z",
     "users": []
 }, {
@@ -138,7 +138,7 @@ courses = [{
     "author": "Jim Christopher",
     "level": "Intermediate",
     "duration": 275,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-08-29T04:00:00.000Z",
     "users": []
 }, {
@@ -149,7 +149,7 @@ courses = [{
     "author": "Cory House",
     "level": "Intermediate",
     "duration": 172,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2014-01-07T05:00:00.000Z",
     "users": []
 }, {
@@ -160,7 +160,7 @@ courses = [{
     "author": "Dr. Joe Hummel",
     "level": "Intermediate",
     "duration": 225,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2012-05-29T04:00:00.000Z",
     "users": []
 }, {
@@ -171,7 +171,7 @@ courses = [{
     "author": "Jason Roberts",
     "level": "Intermediate",
     "duration": 130,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2014-03-20T04:00:00.000Z",
     "users": []
 }, {
@@ -182,7 +182,7 @@ courses = [{
     "author": "Alexander Wechsler",
     "level": "Intermediate",
     "duration": 251,
-    "rating": "4.2",
+    "rating": 4.3,
     "released": "2014-02-21T05:00:00.000Z",
     "users": []
 }, {
@@ -193,7 +193,7 @@ courses = [{
     "author": "Elton Stoneman",
     "level": "Intermediate",
     "duration": 285,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2013-06-27T04:00:00.000Z",
     "users": []
 }, {
@@ -204,7 +204,7 @@ courses = [{
     "author": "Mike Woodring",
     "level": "Intermediate",
     "duration": 260,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2010-04-13T04:00:00.000Z",
     "users": []
 }, {
@@ -215,7 +215,7 @@ courses = [{
     "author": "Kathleen Dollard",
     "level": "Intermediate",
     "duration": 167,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2014-02-04T05:00:00.000Z",
     "users": []
 }, {
@@ -226,7 +226,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 322,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2012-09-28T04:00:00.000Z",
     "users": []
 }, {
@@ -237,7 +237,7 @@ courses = [{
     "author": "Dr. Joe Hummel",
     "level": "Intermediate",
     "duration": 171,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2012-01-03T05:00:00.000Z",
     "users": []
 }, {
@@ -248,7 +248,7 @@ courses = [{
     "author": "Alexander Zanfir",
     "level": "Intermediate",
     "duration": 271,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-12-03T05:00:00.000Z",
     "users": []
 }, {
@@ -259,7 +259,7 @@ courses = [{
     "author": "Jeremy Clark",
     "level": "Intermediate",
     "duration": 180,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2014-01-02T05:00:00.000Z",
     "users": []
 }, {
@@ -270,7 +270,7 @@ courses = [{
     "author": "Andreas Öhlund",
     "level": "Intermediate",
     "duration": 283,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-09-17T04:00:00.000Z",
     "users": []
 }, {
@@ -281,8 +281,19 @@ courses = [{
     "author": "Jeremy Clark",
     "level": "Intermediate",
     "duration": 127,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-08-06T04:00:00.000Z",
+    "users": []
+}, {
+    "category": ".NET",
+    "name": "Lessons from Real World .NET Code Reviews",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/dotnet-code-reviews-real-world-lessons",
+    "description": "Code reviews often get skipped when schedules are tight. It is only later when there are problems, that code reviews are often part of a postmortem analysis of a project, or are even part of an external review. In this course, Shawn Wildermuth will share with you lessons he's learned from doing many of these reviews for companies.",
+    "author": "Shawn Wildermuth",
+    "level": "Intermediate",
+    "duration": 126,
+    "rating": 4.5,
+    "released": "2014-04-29T04:00:00.000Z",
     "users": []
 }, {
     "category": ".NET",
@@ -292,8 +303,19 @@ courses = [{
     "author": "Fabian Deitelhoff",
     "level": "Intermediate",
     "duration": 102,
-    "rating": "4.0",
+    "rating": 3.9,
     "released": "2014-01-13T05:00:00.000Z",
+    "users": []
+}, {
+    "category": ".NET",
+    "name": "Message Queue Fundamentals in .NET",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/message-queue-fundamentals-dotnet",
+    "description": "Message queues are a core technology which all .NET developers and architects should be familiar with. They enable you to build high throughput systems which can scale beyond threads and processes, and which are inherently resilient - where different technologies can communicate with each other, and requests are never lost. This course will teach you the fundamental messaging patterns and explore popular queue implementations you can use with .NET: MSMQ, ZeroMQ, cloud messaging with Azure and AWS, and WebSphere MQ.",
+    "author": "Elton Stoneman",
+    "level": "Intermediate",
+    "duration": 446,
+    "rating": 4.7,
+    "released": "2014-04-29T04:00:00.000Z",
     "users": []
 }, {
     "category": ".NET",
@@ -303,7 +325,7 @@ courses = [{
     "author": "Jeremy Clark",
     "level": "Intermediate",
     "duration": 203,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-11-21T05:00:00.000Z",
     "users": []
 }, {
@@ -314,7 +336,7 @@ courses = [{
     "author": "Michael Stephenson",
     "level": "Intermediate",
     "duration": 161,
-    "rating": "4",
+    "rating": 4,
     "released": "2013-11-15T05:00:00.000Z",
     "users": []
 }, {
@@ -325,7 +347,7 @@ courses = [{
     "author": "Michael Stephenson",
     "level": "Intermediate",
     "duration": 218,
-    "rating": "4.4",
+    "rating": 4.5,
     "released": "2014-01-23T05:00:00.000Z",
     "users": []
 }, {
@@ -336,7 +358,7 @@ courses = [{
     "author": "Jason Roberts",
     "level": "Intermediate",
     "duration": 88,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2014-02-10T05:00:00.000Z",
     "users": []
 }, {
@@ -347,7 +369,7 @@ courses = [{
     "author": "Dustin Davis",
     "level": "Intermediate",
     "duration": 95,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2012-01-18T05:00:00.000Z",
     "users": []
 }, {
@@ -358,7 +380,7 @@ courses = [{
     "author": "Kevin Kuebler",
     "level": "Intermediate",
     "duration": 187,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-09-20T04:00:00.000Z",
     "users": []
 }, {
@@ -369,7 +391,7 @@ courses = [{
     "author": "Ian Griffiths",
     "level": "Intermediate",
     "duration": 268,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2011-12-23T05:00:00.000Z",
     "users": []
 }, {
@@ -380,7 +402,7 @@ courses = [{
     "author": "David Donovan",
     "level": "Intermediate",
     "duration": 134,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-06-18T04:00:00.000Z",
     "users": []
 }, {
@@ -391,7 +413,7 @@ courses = [{
     "author": "Donald Belcham",
     "level": "Intermediate",
     "duration": 51,
-    "rating": "Not",
+    "rating": 4.4,
     "released": "2014-01-30T05:00:00.000Z",
     "users": []
 }, {
@@ -402,7 +424,7 @@ courses = [{
     "author": "Kathleen Dollard",
     "level": "Intermediate",
     "duration": 282,
-    "rating": "3.7",
+    "rating": 3.6,
     "released": "2013-03-27T04:00:00.000Z",
     "users": []
 }, {
@@ -413,7 +435,7 @@ courses = [{
     "author": "Jon Flanders",
     "level": "Intermediate",
     "duration": 157,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2012-10-12T04:00:00.000Z",
     "users": []
 }, {
@@ -424,7 +446,7 @@ courses = [{
     "author": "Mike Woodring",
     "level": "Advanced",
     "duration": 157,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2010-04-13T04:00:00.000Z",
     "users": []
 }, {
@@ -435,7 +457,7 @@ courses = [{
     "author": "Jeff Hurd",
     "level": "Beginner",
     "duration": 201,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2014-02-13T05:00:00.000Z",
     "users": []
 }, {
@@ -446,7 +468,7 @@ courses = [{
     "author": "Richard Seroter",
     "level": "Beginner",
     "duration": 266,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-02-23T05:00:00.000Z",
     "users": []
 }, {
@@ -457,7 +479,7 @@ courses = [{
     "author": "Richard Seroter",
     "level": "Intermediate",
     "duration": 241,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-07-31T04:00:00.000Z",
     "users": []
 }, {
@@ -468,7 +490,7 @@ courses = [{
     "author": "Richard Seroter",
     "level": "Intermediate",
     "duration": 190,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2013-08-30T04:00:00.000Z",
     "users": []
 }, {
@@ -479,7 +501,7 @@ courses = [{
     "author": "Jim Wilson",
     "level": "Beginner",
     "duration": 212,
-    "rating": "4.6",
+    "rating": 4.5,
     "released": "2013-05-24T04:00:00.000Z",
     "users": []
 }, {
@@ -490,7 +512,7 @@ courses = [{
     "author": "Jim Wilson",
     "level": "Beginner",
     "duration": 184,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-06-27T04:00:00.000Z",
     "users": []
 }, {
@@ -501,7 +523,7 @@ courses = [{
     "author": "Jim Wilson",
     "level": "Beginner",
     "duration": 207,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-08-14T04:00:00.000Z",
     "users": []
 }, {
@@ -512,7 +534,7 @@ courses = [{
     "author": "Jim Wilson",
     "level": "Beginner",
     "duration": 203,
-    "rating": "4.4",
+    "rating": 4.5,
     "released": "2013-10-14T04:00:00.000Z",
     "users": []
 }, {
@@ -523,7 +545,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Beginner",
     "duration": 344,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-04-12T04:00:00.000Z",
     "users": []
 }, {
@@ -534,7 +556,7 @@ courses = [{
     "author": "Jim Wilson",
     "level": "Intermediate",
     "duration": 256,
-    "rating": "4.4",
+    "rating": 4.3,
     "released": "2012-04-24T04:00:00.000Z",
     "users": []
 }, {
@@ -545,7 +567,7 @@ courses = [{
     "author": "Jim Wilson",
     "level": "Intermediate",
     "duration": 200,
-    "rating": "4.6",
+    "rating": 4.5,
     "released": "2013-11-19T05:00:00.000Z",
     "users": []
 }, {
@@ -556,7 +578,7 @@ courses = [{
     "author": "Chiu-Ki Chan",
     "level": "Intermediate",
     "duration": 99,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2014-01-13T05:00:00.000Z",
     "users": []
 }, {
@@ -567,7 +589,7 @@ courses = [{
     "author": "Jim Wilson",
     "level": "Intermediate",
     "duration": 213,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-03-11T04:00:00.000Z",
     "users": []
 }, {
@@ -578,7 +600,7 @@ courses = [{
     "author": "Jim Wilson",
     "level": "Intermediate",
     "duration": 268,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-04-19T04:00:00.000Z",
     "users": []
 }, {
@@ -589,7 +611,7 @@ courses = [{
     "author": "Larry Schiefer",
     "level": "Intermediate",
     "duration": 119,
-    "rating": "4.4",
+    "rating": 4.3,
     "released": "2013-10-04T04:00:00.000Z",
     "users": []
 }, {
@@ -600,7 +622,7 @@ courses = [{
     "author": "Jim Wilson",
     "level": "Intermediate",
     "duration": 254,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-11-15T05:00:00.000Z",
     "users": []
 }, {
@@ -611,7 +633,7 @@ courses = [{
     "author": "Jim Wilson",
     "level": "Intermediate",
     "duration": 155,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-09-04T04:00:00.000Z",
     "users": []
 }, {
@@ -622,7 +644,7 @@ courses = [{
     "author": "Jim Wilson",
     "level": "Intermediate",
     "duration": 181,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2012-12-11T05:00:00.000Z",
     "users": []
 }, {
@@ -633,7 +655,7 @@ courses = [{
     "author": "Jim Wilson",
     "level": "Advanced",
     "duration": 183,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2011-08-22T04:00:00.000Z",
     "users": []
 }, {
@@ -644,7 +666,7 @@ courses = [{
     "author": "Donald Belcham",
     "level": "Intermediate",
     "duration": 104,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2012-06-04T04:00:00.000Z",
     "users": []
 }, {
@@ -655,7 +677,7 @@ courses = [{
     "author": "Donald Belcham",
     "level": "Advanced",
     "duration": 62,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2011-06-07T04:00:00.000Z",
     "users": []
 }, {
@@ -666,7 +688,7 @@ courses = [{
     "author": "Scott Seely",
     "level": "Intermediate",
     "duration": 330,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2010-07-06T04:00:00.000Z",
     "users": []
 }, {
@@ -677,7 +699,7 @@ courses = [{
     "author": "Miguel Castro",
     "level": "Intermediate",
     "duration": 703,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-08-30T04:00:00.000Z",
     "users": []
 }, {
@@ -688,7 +710,7 @@ courses = [{
     "author": "Steve Smith",
     "level": "Intermediate",
     "duration": 121,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2012-07-17T04:00:00.000Z",
     "users": []
 }, {
@@ -699,7 +721,7 @@ courses = [{
     "author": "Steve Smith",
     "level": "Intermediate",
     "duration": 100,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-12-31T05:00:00.000Z",
     "users": []
 }, {
@@ -710,7 +732,7 @@ courses = [{
     "author": "Michael Perry",
     "level": "Intermediate",
     "duration": 257,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-11-14T05:00:00.000Z",
     "users": []
 }, {
@@ -721,7 +743,7 @@ courses = [{
     "author": "Howard Dierking",
     "level": "Intermediate",
     "duration": 179,
-    "rating": "3.7",
+    "rating": 3.7,
     "released": "2012-03-21T04:00:00.000Z",
     "users": []
 }, {
@@ -732,7 +754,7 @@ courses = [{
     "author": "Clemens Vasters",
     "level": "Intermediate",
     "duration": 220,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2011-12-20T05:00:00.000Z",
     "users": []
 }, {
@@ -743,7 +765,7 @@ courses = [{
     "author": "SeelySkonnard",
     "level": "Intermediate",
     "duration": 243,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2010-08-27T04:00:00.000Z",
     "users": []
 }, {
@@ -754,7 +776,7 @@ courses = [{
     "author": "Michael Palermo",
     "level": "Beginner",
     "duration": 108,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2011-07-12T04:00:00.000Z",
     "users": []
 }, {
@@ -765,7 +787,7 @@ courses = [{
     "author": "Jesse Liberty",
     "level": "Beginner",
     "duration": 94,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-10-07T04:00:00.000Z",
     "users": []
 }, {
@@ -776,7 +798,7 @@ courses = [{
     "author": "WahlinOnion",
     "level": "Beginner",
     "duration": 521,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2011-04-11T04:00:00.000Z",
     "users": []
 }, {
@@ -787,7 +809,7 @@ courses = [{
     "author": "Scott Allen",
     "level": "Beginner",
     "duration": 391,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2011-03-14T04:00:00.000Z",
     "users": []
 }, {
@@ -798,7 +820,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Beginner",
     "duration": 225,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-05-01T04:00:00.000Z",
     "users": []
 }, {
@@ -809,7 +831,7 @@ courses = [{
     "author": "Jesse Liberty",
     "level": "Beginner",
     "duration": 97,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-10-15T04:00:00.000Z",
     "users": []
 }, {
@@ -820,7 +842,7 @@ courses = [{
     "author": "LibertyFritz",
     "level": "Beginner",
     "duration": 225,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-09-19T04:00:00.000Z",
     "users": []
 }, {
@@ -831,7 +853,7 @@ courses = [{
     "author": "Fritz Onionet al.",
     "level": "Intermediate",
     "duration": 419,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2008-11-12T05:00:00.000Z",
     "users": []
 }, {
@@ -842,7 +864,7 @@ courses = [{
     "author": "Keith Brown",
     "level": "Intermediate",
     "duration": 158,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2008-12-22T05:00:00.000Z",
     "users": []
 }, {
@@ -853,7 +875,7 @@ courses = [{
     "author": "OnionBrown",
     "level": "Intermediate",
     "duration": 461,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2008-12-04T05:00:00.000Z",
     "users": []
 }, {
@@ -864,7 +886,7 @@ courses = [{
     "author": "Fritz Onion",
     "level": "Intermediate",
     "duration": 147,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2010-11-23T05:00:00.000Z",
     "users": []
 }, {
@@ -875,7 +897,7 @@ courses = [{
     "author": "Fritz Onion",
     "level": "Intermediate",
     "duration": 371,
-    "rating": "4.4",
+    "rating": 4.5,
     "released": "2008-09-11T04:00:00.000Z",
     "users": []
 }, {
@@ -886,7 +908,7 @@ courses = [{
     "author": "Travis Gosselin",
     "level": "Intermediate",
     "duration": 262,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-12-11T05:00:00.000Z",
     "users": []
 }, {
@@ -897,7 +919,7 @@ courses = [{
     "author": "Yacine Khammal",
     "level": "Intermediate",
     "duration": 302,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2010-06-17T04:00:00.000Z",
     "users": []
 }, {
@@ -908,7 +930,7 @@ courses = [{
     "author": "Scott Allen",
     "level": "Intermediate",
     "duration": 114,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2010-08-13T04:00:00.000Z",
     "users": []
 }, {
@@ -919,7 +941,7 @@ courses = [{
     "author": "Scott Allen",
     "level": "Intermediate",
     "duration": 197,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2011-01-17T05:00:00.000Z",
     "users": []
 }, {
@@ -930,7 +952,7 @@ courses = [{
     "author": "Scott Allen",
     "level": "Intermediate",
     "duration": 261,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-07-23T04:00:00.000Z",
     "users": []
 }, {
@@ -941,7 +963,7 @@ courses = [{
     "author": "Scott Allen",
     "level": "Intermediate",
     "duration": 374,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2013-11-05T05:00:00.000Z",
     "users": []
 }, {
@@ -952,7 +974,7 @@ courses = [{
     "author": "Scott Allen",
     "level": "Intermediate",
     "duration": 283,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2009-04-11T04:00:00.000Z",
     "users": []
 }, {
@@ -963,7 +985,7 @@ courses = [{
     "author": "Troy Hunt",
     "level": "Intermediate",
     "duration": 204,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2014-01-07T05:00:00.000Z",
     "users": []
 }, {
@@ -974,7 +996,7 @@ courses = [{
     "author": "Mohamad Halabi",
     "level": "Intermediate",
     "duration": 64,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2013-06-13T04:00:00.000Z",
     "users": []
 }, {
@@ -985,7 +1007,7 @@ courses = [{
     "author": "Keith Brown",
     "level": "Intermediate",
     "duration": 37,
-    "rating": "4.0",
+    "rating": 4.1,
     "released": "2010-02-12T05:00:00.000Z",
     "users": []
 }, {
@@ -996,7 +1018,7 @@ courses = [{
     "author": "Matt Honeycutt",
     "level": "Intermediate",
     "duration": 205,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2014-03-13T04:00:00.000Z",
     "users": []
 }, {
@@ -1007,7 +1029,7 @@ courses = [{
     "author": "Joel Neubeck",
     "level": "Intermediate",
     "duration": 139,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2014-01-08T05:00:00.000Z",
     "users": []
 }, {
@@ -1018,7 +1040,7 @@ courses = [{
     "author": "Scott Allen",
     "level": "Intermediate",
     "duration": 442,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2012-11-08T05:00:00.000Z",
     "users": []
 }, {
@@ -1029,7 +1051,7 @@ courses = [{
     "author": "Dan Wahlin",
     "level": "Intermediate",
     "duration": 304,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2012-03-03T05:00:00.000Z",
     "users": []
 }, {
@@ -1040,8 +1062,19 @@ courses = [{
     "author": "Brian Noyes",
     "level": "Intermediate",
     "duration": 231,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-03-05T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "ASP.NET",
+    "name": "Building Web Apps & Services with Entity Framework and Web API",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/building-web-apps-services-aspdotnet-ef-webapi",
+    "description": "In this course, you will learn to create a web service that supports a database with multiple relational tables using the Microsoft Stack and Breeze. You will create the tables and the relationships, model them in code, and expose them through Web API, first through native Web API and then assisted by Breeze. You will then create a minimal client to interact with the service.",
+    "author": "Jesse Liberty",
+    "level": "Intermediate",
+    "duration": 155,
+    "rating": 4.3,
+    "released": "2014-05-02T04:00:00.000Z",
     "users": []
 }, {
     "category": "ASP.NET",
@@ -1051,7 +1084,7 @@ courses = [{
     "author": "Jesse Liberty",
     "level": "Intermediate",
     "duration": 156,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2013-11-29T05:00:00.000Z",
     "users": []
 }, {
@@ -1062,7 +1095,7 @@ courses = [{
     "author": "Adam Tuliper",
     "level": "Intermediate",
     "duration": 300,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2012-02-03T05:00:00.000Z",
     "users": []
 }, {
@@ -1073,7 +1106,7 @@ courses = [{
     "author": "Dominick Baier",
     "level": "Intermediate",
     "duration": 200,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2012-11-09T05:00:00.000Z",
     "users": []
 }, {
@@ -1084,7 +1117,7 @@ courses = [{
     "author": "Shawn Wildermuth",
     "level": "Intermediate",
     "duration": 374,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-10-01T04:00:00.000Z",
     "users": []
 }, {
@@ -1095,7 +1128,7 @@ courses = [{
     "author": "Keith Brown",
     "level": "Intermediate",
     "duration": 79,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2010-08-27T04:00:00.000Z",
     "users": []
 }, {
@@ -1106,7 +1139,7 @@ courses = [{
     "author": "Christian Weyer",
     "level": "Intermediate",
     "duration": 208,
-    "rating": "3.8",
+    "rating": 3.9,
     "released": "2013-03-20T04:00:00.000Z",
     "users": []
 }, {
@@ -1117,7 +1150,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 177,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-07-19T04:00:00.000Z",
     "users": []
 }, {
@@ -1128,7 +1161,7 @@ courses = [{
     "author": "Jon Flanders",
     "level": "Intermediate",
     "duration": 195,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2012-12-12T05:00:00.000Z",
     "users": []
 }, {
@@ -1139,7 +1172,7 @@ courses = [{
     "author": "Dan Wahlin",
     "level": "Intermediate",
     "duration": 269,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-03-21T04:00:00.000Z",
     "users": []
 }, {
@@ -1150,7 +1183,7 @@ courses = [{
     "author": "Scott Hanselman",
     "level": "Intermediate",
     "duration": 62,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-08-02T04:00:00.000Z",
     "users": []
 }, {
@@ -1161,7 +1194,7 @@ courses = [{
     "author": "ConeryNiemeyer",
     "level": "Intermediate",
     "duration": 68,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-02-21T05:00:00.000Z",
     "users": []
 }, {
@@ -1172,7 +1205,7 @@ courses = [{
     "author": "Ayende Rahien (Oren Eini)",
     "level": "Intermediate",
     "duration": 67,
-    "rating": "4.2",
+    "rating": 4,
     "released": "2011-10-03T04:00:00.000Z",
     "users": []
 }, {
@@ -1183,7 +1216,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 135,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-08-26T04:00:00.000Z",
     "users": []
 }, {
@@ -1194,7 +1227,7 @@ courses = [{
     "author": "Rob Conery",
     "level": "Intermediate",
     "duration": 412,
-    "rating": "3.7",
+    "rating": 3.8,
     "released": "2011-06-19T04:00:00.000Z",
     "users": []
 }, {
@@ -1205,7 +1238,7 @@ courses = [{
     "author": "Rich Dudley",
     "level": "Intermediate",
     "duration": 65,
-    "rating": "3.9",
+    "rating": 3.9,
     "released": "2013-03-28T04:00:00.000Z",
     "users": []
 }, {
@@ -1216,7 +1249,7 @@ courses = [{
     "author": "Samidip Basu",
     "level": "Intermediate",
     "duration": 243,
-    "rating": "4.3",
+    "rating": 4.2,
     "released": "2014-01-09T05:00:00.000Z",
     "users": []
 }, {
@@ -1227,7 +1260,7 @@ courses = [{
     "author": "Sam Saffron",
     "level": "Intermediate",
     "duration": 85,
-    "rating": "4.5",
+    "rating": 4.4,
     "released": "2012-07-02T04:00:00.000Z",
     "users": []
 }, {
@@ -1238,7 +1271,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 144,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-05-28T04:00:00.000Z",
     "users": []
 }, {
@@ -1249,7 +1282,7 @@ courses = [{
     "author": "Wes McClure",
     "level": "Intermediate",
     "duration": 192,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2014-04-04T04:00:00.000Z",
     "users": []
 }, {
@@ -1260,7 +1293,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 327,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2012-11-29T05:00:00.000Z",
     "users": []
 }, {
@@ -1271,7 +1304,7 @@ courses = [{
     "author": "Dominick Baier",
     "level": "Intermediate",
     "duration": 372,
-    "rating": "4.7",
+    "rating": 4.6,
     "released": "2014-04-12T04:00:00.000Z",
     "users": []
 }, {
@@ -1282,7 +1315,7 @@ courses = [{
     "author": "Fritz Onion",
     "level": "Advanced",
     "duration": 360,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2008-12-05T05:00:00.000Z",
     "users": []
 }, {
@@ -1293,7 +1326,7 @@ courses = [{
     "author": "Fritz Onion",
     "level": "Advanced",
     "duration": 173,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2008-09-30T04:00:00.000Z",
     "users": []
 }, {
@@ -1304,7 +1337,7 @@ courses = [{
     "author": "Scott Allen",
     "level": "Advanced",
     "duration": 330,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2009-07-22T04:00:00.000Z",
     "users": []
 }, {
@@ -1315,7 +1348,7 @@ courses = [{
     "author": "Steve Michelotti",
     "level": "Advanced",
     "duration": 104,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2011-08-15T04:00:00.000Z",
     "users": []
 }, {
@@ -1326,7 +1359,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Beginner",
     "duration": 201,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-04-04T04:00:00.000Z",
     "users": []
 }, {
@@ -1337,7 +1370,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Beginner",
     "duration": 125,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-03-08T05:00:00.000Z",
     "users": []
 }, {
@@ -1348,7 +1381,7 @@ courses = [{
     "author": "Doug Turnure",
     "level": "Beginner",
     "duration": 146,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2012-12-14T05:00:00.000Z",
     "users": []
 }, {
@@ -1359,7 +1392,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Beginner",
     "duration": 184,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-04-24T04:00:00.000Z",
     "users": []
 }, {
@@ -1370,8 +1403,19 @@ courses = [{
     "author": "Kate Gregory",
     "level": "Beginner",
     "duration": 417,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-07-22T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Beginner Programming",
+    "name": "Learn to Program: Kodu Kingdom Defense",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/learn-to-program-kodu-kingdom-defense",
+    "description": "Our Kingdom has been invaded by a swarm of raiders marching to destroy our treasure. Join our adventure of learning how to build this tower defense game using Kodu game lab that you can play on either your Xbox or Desktop. We will see that we can easily create our very own immersive 3D tower defense and shooter game. With your creativity, we will explore concepts of game design from storyline and objectives; to controls, play modes, graphics, sounds, scoring, and levels.",
+    "author": "Patrick Neborg",
+    "level": "Beginner",
+    "duration": 169,
+    "rating": null,
+    "released": "2014-05-05T04:00:00.000Z",
     "users": []
 }, {
     "category": "Beginner Programming",
@@ -1381,7 +1425,7 @@ courses = [{
     "author": "Dr. Joe Hummel",
     "level": "Beginner",
     "duration": 269,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-03-25T04:00:00.000Z",
     "users": []
 }, {
@@ -1392,7 +1436,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Beginner",
     "duration": 159,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2013-03-18T04:00:00.000Z",
     "users": []
 }, {
@@ -1403,7 +1447,7 @@ courses = [{
     "author": "AllenClasson",
     "level": "Beginner",
     "duration": 95,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-07-31T04:00:00.000Z",
     "users": []
 }, {
@@ -1414,7 +1458,7 @@ courses = [{
     "author": "Scott Allen",
     "level": "Beginner",
     "duration": 192,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-06-10T04:00:00.000Z",
     "users": []
 }, {
@@ -1425,7 +1469,7 @@ courses = [{
     "author": "Scott Allen",
     "level": "Beginner",
     "duration": 171,
-    "rating": "4.8",
+    "rating": 4.9,
     "released": "2013-07-18T04:00:00.000Z",
     "users": []
 }, {
@@ -1436,7 +1480,7 @@ courses = [{
     "author": "FalcoLangit",
     "level": "Beginner",
     "duration": 74,
-    "rating": "4.5",
+    "rating": 4.6,
     "released": "2013-03-25T04:00:00.000Z",
     "users": []
 }, {
@@ -1447,7 +1491,7 @@ courses = [{
     "author": "Slim Chtourou",
     "level": "Intermediate",
     "duration": 236,
-    "rating": "Not",
+    "rating": null,
     "released": "2014-01-10T05:00:00.000Z",
     "users": []
 }, {
@@ -1458,7 +1502,7 @@ courses = [{
     "author": "Ben Sullins",
     "level": "Intermediate",
     "duration": 224,
-    "rating": "4.2",
+    "rating": 4.3,
     "released": "2013-07-22T04:00:00.000Z",
     "users": []
 }, {
@@ -1469,7 +1513,7 @@ courses = [{
     "author": "Andrew Brust",
     "level": "Intermediate",
     "duration": 88,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2012-10-31T04:00:00.000Z",
     "users": []
 }, {
@@ -1480,7 +1524,7 @@ courses = [{
     "author": "Andrew Brust",
     "level": "Intermediate",
     "duration": 81,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2013-03-07T05:00:00.000Z",
     "users": []
 }, {
@@ -1491,7 +1535,7 @@ courses = [{
     "author": "Ahmad Alkilani",
     "level": "Intermediate",
     "duration": 256,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-10-08T04:00:00.000Z",
     "users": []
 }, {
@@ -1502,7 +1546,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Beginner",
     "duration": 405,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2008-06-01T04:00:00.000Z",
     "users": []
 }, {
@@ -1513,7 +1557,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Beginner",
     "duration": 232,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2009-11-24T05:00:00.000Z",
     "users": []
 }, {
@@ -1524,7 +1568,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Beginner",
     "duration": 147,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2010-01-12T05:00:00.000Z",
     "users": []
 }, {
@@ -1535,7 +1579,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Intermediate",
     "duration": 739,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-04-06T04:00:00.000Z",
     "users": []
 }, {
@@ -1546,7 +1590,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Intermediate",
     "duration": 220,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2010-11-12T05:00:00.000Z",
     "users": []
 }, {
@@ -1557,7 +1601,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Intermediate",
     "duration": 282,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2009-11-24T05:00:00.000Z",
     "users": []
 }, {
@@ -1568,7 +1612,7 @@ courses = [{
     "author": "Jon Flanders",
     "level": "Intermediate",
     "duration": 366,
-    "rating": "Not",
+    "rating": null,
     "released": "2008-08-20T04:00:00.000Z",
     "users": []
 }, {
@@ -1579,7 +1623,7 @@ courses = [{
     "author": "Mohamad Halabi",
     "level": "Intermediate",
     "duration": 307,
-    "rating": "4.3",
+    "rating": 4.2,
     "released": "2013-11-19T05:00:00.000Z",
     "users": []
 }, {
@@ -1590,7 +1634,7 @@ courses = [{
     "author": "Stephen W. Thomas",
     "level": "Intermediate",
     "duration": 185,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-07-26T04:00:00.000Z",
     "users": []
 }, {
@@ -1601,7 +1645,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Advanced",
     "duration": 744,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2010-11-12T05:00:00.000Z",
     "users": []
 }, {
@@ -1612,7 +1656,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Advanced",
     "duration": 369,
-    "rating": "Not",
+    "rating": null,
     "released": "2008-10-25T04:00:00.000Z",
     "users": []
 }, {
@@ -1623,7 +1667,7 @@ courses = [{
     "author": "Stacia Misner",
     "level": "Beginner",
     "duration": 391,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-08-22T04:00:00.000Z",
     "users": []
 }, {
@@ -1634,7 +1678,7 @@ courses = [{
     "author": "Ben Sullins",
     "level": "Beginner",
     "duration": 216,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2014-02-20T05:00:00.000Z",
     "users": []
 }, {
@@ -1645,7 +1689,7 @@ courses = [{
     "author": "Ben Sullins",
     "level": "Beginner",
     "duration": 287,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-09-04T04:00:00.000Z",
     "users": []
 }, {
@@ -1656,7 +1700,7 @@ courses = [{
     "author": "Stacia Misner",
     "level": "Beginner",
     "duration": 421,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-06-06T04:00:00.000Z",
     "users": []
 }, {
@@ -1667,7 +1711,7 @@ courses = [{
     "author": "Robert Cain",
     "level": "Beginner",
     "duration": 73,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2010-11-30T05:00:00.000Z",
     "users": []
 }, {
@@ -1678,7 +1722,7 @@ courses = [{
     "author": "Robert Cain",
     "level": "Beginner",
     "duration": 43,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2011-05-17T04:00:00.000Z",
     "users": []
 }, {
@@ -1689,7 +1733,7 @@ courses = [{
     "author": "Robert Cain",
     "level": "Beginner",
     "duration": 143,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2010-11-05T04:00:00.000Z",
     "users": []
 }, {
@@ -1700,7 +1744,7 @@ courses = [{
     "author": "Robert Cain",
     "level": "Beginner",
     "duration": 67,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-04-25T04:00:00.000Z",
     "users": []
 }, {
@@ -1711,7 +1755,7 @@ courses = [{
     "author": "Stacia Misner",
     "level": "Beginner",
     "duration": 288,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2010-12-14T05:00:00.000Z",
     "users": []
 }, {
@@ -1722,7 +1766,7 @@ courses = [{
     "author": "Stacia Misner",
     "level": "Beginner",
     "duration": 184,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2011-02-14T05:00:00.000Z",
     "users": []
 }, {
@@ -1733,7 +1777,7 @@ courses = [{
     "author": "Bret Statehamet al.",
     "level": "Beginner",
     "duration": 227,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2010-05-10T04:00:00.000Z",
     "users": []
 }, {
@@ -1744,7 +1788,7 @@ courses = [{
     "author": "Robert Horvick",
     "level": "Intermediate",
     "duration": 107,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-09-10T04:00:00.000Z",
     "users": []
 }, {
@@ -1755,7 +1799,7 @@ courses = [{
     "author": "Ben Sullins",
     "level": "Intermediate",
     "duration": 96,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-11-14T05:00:00.000Z",
     "users": []
 }, {
@@ -1766,7 +1810,7 @@ courses = [{
     "author": "Andrew Brust",
     "level": "Intermediate",
     "duration": 182,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-06-12T04:00:00.000Z",
     "users": []
 }, {
@@ -1777,7 +1821,7 @@ courses = [{
     "author": "Dejan Sarka",
     "level": "Intermediate",
     "duration": 168,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2014-02-07T05:00:00.000Z",
     "users": []
 }, {
@@ -1788,7 +1832,7 @@ courses = [{
     "author": "Markus Ehrenmüller-Jensen",
     "level": "Intermediate",
     "duration": 154,
-    "rating": "3.7",
+    "rating": 3.8,
     "released": "2013-08-19T04:00:00.000Z",
     "users": []
 }, {
@@ -1799,7 +1843,7 @@ courses = [{
     "author": "Dejan Sarka",
     "level": "Intermediate",
     "duration": 147,
-    "rating": "4",
+    "rating": 4,
     "released": "2013-10-31T04:00:00.000Z",
     "users": []
 }, {
@@ -1810,7 +1854,7 @@ courses = [{
     "author": "Stacia Misner",
     "level": "Intermediate",
     "duration": 217,
-    "rating": "4.5",
+    "rating": 4.4,
     "released": "2013-09-19T04:00:00.000Z",
     "users": []
 }, {
@@ -1821,7 +1865,7 @@ courses = [{
     "author": "Bill Pearson",
     "level": "Intermediate",
     "duration": 250,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2013-12-11T05:00:00.000Z",
     "users": []
 }, {
@@ -1832,7 +1876,7 @@ courses = [{
     "author": "Stacia Misner",
     "level": "Intermediate",
     "duration": 174,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2010-12-29T05:00:00.000Z",
     "users": []
 }, {
@@ -1843,7 +1887,7 @@ courses = [{
     "author": "Stacia Misner",
     "level": "Advanced",
     "duration": 272,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2012-09-28T04:00:00.000Z",
     "users": []
 }, {
@@ -1854,7 +1898,7 @@ courses = [{
     "author": "Stacia Misner",
     "level": "Advanced",
     "duration": 219,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-08-14T04:00:00.000Z",
     "users": []
 }, {
@@ -1865,7 +1909,7 @@ courses = [{
     "author": "Stacia Misner",
     "level": "Advanced",
     "duration": 155,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-01-24T05:00:00.000Z",
     "users": []
 }, {
@@ -1876,7 +1920,7 @@ courses = [{
     "author": "Scott Allen",
     "level": "Beginner",
     "duration": 377,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2010-03-26T04:00:00.000Z",
     "users": []
 }, {
@@ -1887,7 +1931,7 @@ courses = [{
     "author": "Jesse Liberty",
     "level": "Beginner",
     "duration": 191,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-05-29T04:00:00.000Z",
     "users": []
 }, {
@@ -1898,7 +1942,7 @@ courses = [{
     "author": "Jesse Liberty",
     "level": "Beginner",
     "duration": 114,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-08-07T04:00:00.000Z",
     "users": []
 }, {
@@ -1909,7 +1953,7 @@ courses = [{
     "author": "Scott Allen",
     "level": "Beginner",
     "duration": 374,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2014-02-28T05:00:00.000Z",
     "users": []
 }, {
@@ -1920,7 +1964,7 @@ courses = [{
     "author": "Jon Skeet",
     "level": "Beginner",
     "duration": 709,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2011-04-16T04:00:00.000Z",
     "users": []
 }, {
@@ -1931,7 +1975,7 @@ courses = [{
     "author": "Tracey Wiedmeyer",
     "level": "Beginner",
     "duration": 214,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-12-10T05:00:00.000Z",
     "users": []
 }, {
@@ -1942,7 +1986,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 196,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-08-15T04:00:00.000Z",
     "users": []
 }, {
@@ -1953,7 +1997,7 @@ courses = [{
     "author": "Jon Skeet",
     "level": "Intermediate",
     "duration": 172,
-    "rating": "3.7",
+    "rating": 3.7,
     "released": "2013-03-29T04:00:00.000Z",
     "users": []
 }, {
@@ -1964,7 +2008,7 @@ courses = [{
     "author": "Oliver Sturm",
     "level": "Intermediate",
     "duration": 94,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2011-08-01T04:00:00.000Z",
     "users": []
 }, {
@@ -1974,8 +2018,8 @@ courses = [{
     "description": "This course aims to empower you to take advantage of the surprisingly rich set of collections that are available in C#. You'll learn how to use the various collection types to store data as arrays, lists, dictionaries, linked lists, or sets, as well as how to customize collection behavior in C#. You'll also learn how many of these types work under the hood and the implications for performance. This course also covers enumerators and the collection interfaces.",
     "author": "Simon Robinson",
     "level": "Intermediate",
-    "duration": 357,
-    "rating": "4.6",
+    "duration": 356,
+    "rating": 4.6,
     "released": "2014-04-08T04:00:00.000Z",
     "users": []
 }, {
@@ -1986,7 +2030,7 @@ courses = [{
     "author": "Jon Skeet",
     "level": "Intermediate",
     "duration": 195,
-    "rating": "4.2",
+    "rating": 4.1,
     "released": "2012-04-26T04:00:00.000Z",
     "users": []
 }, {
@@ -1997,7 +2041,7 @@ courses = [{
     "author": "Dan Wahlin",
     "level": "Intermediate",
     "duration": 191,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-04-26T04:00:00.000Z",
     "users": []
 }, {
@@ -2008,7 +2052,7 @@ courses = [{
     "author": "Elton Stoneman",
     "level": "Intermediate",
     "duration": 189,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-12-16T05:00:00.000Z",
     "users": []
 }, {
@@ -2019,7 +2063,7 @@ courses = [{
     "author": "Craig Shoemaker",
     "level": "Intermediate",
     "duration": 196,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-09-27T04:00:00.000Z",
     "users": []
 }, {
@@ -2030,7 +2074,7 @@ courses = [{
     "author": "Scott Allen",
     "level": "Intermediate",
     "duration": 260,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-09-23T04:00:00.000Z",
     "users": []
 }, {
@@ -2041,7 +2085,7 @@ courses = [{
     "author": "Jeremy Clark",
     "level": "Intermediate",
     "duration": 172,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-07-02T04:00:00.000Z",
     "users": []
 }, {
@@ -2052,7 +2096,7 @@ courses = [{
     "author": "Scott Allen",
     "level": "Intermediate",
     "duration": 164,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2011-09-30T04:00:00.000Z",
     "users": []
 }, {
@@ -2063,7 +2107,7 @@ courses = [{
     "author": "Jason Roberts",
     "level": "Intermediate",
     "duration": 237,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2013-08-20T04:00:00.000Z",
     "users": []
 }, {
@@ -2074,7 +2118,7 @@ courses = [{
     "author": "Jason Roberts",
     "level": "Intermediate",
     "duration": 163,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2013-09-18T04:00:00.000Z",
     "users": []
 }, {
@@ -2085,7 +2129,7 @@ courses = [{
     "author": "Jim Wilson",
     "level": "Intermediate",
     "duration": 190,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2014-01-15T05:00:00.000Z",
     "users": []
 }, {
@@ -2096,8 +2140,19 @@ courses = [{
     "author": "Jim Wilson",
     "level": "Intermediate",
     "duration": 231,
-    "rating": "4.4",
+    "rating": 4.5,
     "released": "2014-03-11T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "C#",
+    "name": "Introduction to scriptcs",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/introduction-scriptcs",
+    "description": "scritpcs is a new and exciting open source project that allows you to write and execute C# in your favorite text editor. This course provides an introduction to the concepts and use of scriptcs. Specifically, you'll learn how to install scriptcs, use the REPL, use scriptcs from your favorite text editor, manage dependencies with NuGet, and wrap up complex code in Script Packs.",
+    "author": "Paul Bouwer",
+    "level": "Intermediate",
+    "duration": 228,
+    "rating": 4.3,
+    "released": "2014-05-02T04:00:00.000Z",
     "users": []
 }, {
     "category": "C#",
@@ -2107,7 +2162,7 @@ courses = [{
     "author": "Filip Ekberg",
     "level": "Intermediate",
     "duration": 154,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-06-14T04:00:00.000Z",
     "users": []
 }, {
@@ -2118,7 +2173,7 @@ courses = [{
     "author": "Ian Griffiths",
     "level": "Advanced",
     "duration": 75,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2010-12-10T05:00:00.000Z",
     "users": []
 }, {
@@ -2129,7 +2184,7 @@ courses = [{
     "author": "Bart De Smet",
     "level": "Advanced",
     "duration": 310,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2014-01-29T05:00:00.000Z",
     "users": []
 }, {
@@ -2140,7 +2195,7 @@ courses = [{
     "author": "Kenny Kerr",
     "level": "Beginner",
     "duration": 86,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2012-09-04T04:00:00.000Z",
     "users": []
 }, {
@@ -2151,7 +2206,7 @@ courses = [{
     "author": "Kate Gregory",
     "level": "Beginner",
     "duration": 423,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2011-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -2162,7 +2217,7 @@ courses = [{
     "author": "Kenny Kerr",
     "level": "Intermediate",
     "duration": 434,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2013-12-10T05:00:00.000Z",
     "users": []
 }, {
@@ -2173,7 +2228,7 @@ courses = [{
     "author": "Giovanni Dicanio",
     "level": "Intermediate",
     "duration": 168,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-11-01T04:00:00.000Z",
     "users": []
 }, {
@@ -2184,7 +2239,7 @@ courses = [{
     "author": "Kate Gregory",
     "level": "Intermediate",
     "duration": 174,
-    "rating": "4.6",
+    "rating": 4.5,
     "released": "2011-12-14T05:00:00.000Z",
     "users": []
 }, {
@@ -2195,7 +2250,7 @@ courses = [{
     "author": "Kate Gregory",
     "level": "Intermediate",
     "duration": 131,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-08-22T04:00:00.000Z",
     "users": []
 }, {
@@ -2206,7 +2261,7 @@ courses = [{
     "author": "Alex Korban",
     "level": "Intermediate",
     "duration": 201,
-    "rating": "4.3",
+    "rating": 4.2,
     "released": "2013-11-13T05:00:00.000Z",
     "users": []
 }, {
@@ -2217,7 +2272,7 @@ courses = [{
     "author": "Kenny Kerr",
     "level": "Intermediate",
     "duration": 205,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-11-29T05:00:00.000Z",
     "users": []
 }, {
@@ -2228,7 +2283,7 @@ courses = [{
     "author": "Kenny Kerr",
     "level": "Intermediate",
     "duration": 195,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-02-15T05:00:00.000Z",
     "users": []
 }, {
@@ -2239,7 +2294,7 @@ courses = [{
     "author": "Dmitri Nesteruk",
     "level": "Intermediate",
     "duration": 303,
-    "rating": "4.8",
+    "rating": 4.7,
     "released": "2014-04-11T04:00:00.000Z",
     "users": []
 }, {
@@ -2250,7 +2305,7 @@ courses = [{
     "author": "Kenny Kerr",
     "level": "Intermediate",
     "duration": 273,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-10-15T04:00:00.000Z",
     "users": []
 }, {
@@ -2261,7 +2316,7 @@ courses = [{
     "author": "Kenny Kerr",
     "level": "Intermediate",
     "duration": 241,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-08-28T04:00:00.000Z",
     "users": []
 }, {
@@ -2272,7 +2327,7 @@ courses = [{
     "author": "Dmitri Nesteruk",
     "level": "Intermediate",
     "duration": 252,
-    "rating": "4.6",
+    "rating": 4.5,
     "released": "2013-10-03T04:00:00.000Z",
     "users": []
 }, {
@@ -2283,7 +2338,7 @@ courses = [{
     "author": "Kenny Kerr",
     "level": "Intermediate",
     "duration": 252,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2014-03-10T04:00:00.000Z",
     "users": []
 }, {
@@ -2294,7 +2349,7 @@ courses = [{
     "author": "Kenny Kerr",
     "level": "Intermediate",
     "duration": 181,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-05-14T04:00:00.000Z",
     "users": []
 }, {
@@ -2305,7 +2360,7 @@ courses = [{
     "author": "Kenny Kerr",
     "level": "Intermediate",
     "duration": 221,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2013-07-12T04:00:00.000Z",
     "users": []
 }, {
@@ -2316,7 +2371,7 @@ courses = [{
     "author": "Kate Gregory",
     "level": "Advanced",
     "duration": 345,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-03-08T05:00:00.000Z",
     "users": []
 }, {
@@ -2327,7 +2382,7 @@ courses = [{
     "author": "Michael Lopp",
     "level": "Beginner",
     "duration": 30,
-    "rating": "3.6",
+    "rating": 3.6,
     "released": "2013-07-03T04:00:00.000Z",
     "users": []
 }, {
@@ -2338,7 +2393,7 @@ courses = [{
     "author": "Dan Appleman",
     "level": "Beginner",
     "duration": 182,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-01-10T05:00:00.000Z",
     "users": []
 }, {
@@ -2349,7 +2404,7 @@ courses = [{
     "author": "Rob Conery",
     "level": "Beginner",
     "duration": 53,
-    "rating": "4.5",
+    "rating": 4.4,
     "released": "2013-06-27T04:00:00.000Z",
     "users": []
 }, {
@@ -2360,7 +2415,7 @@ courses = [{
     "author": "Paul Randal",
     "level": "Beginner",
     "duration": 149,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-02-08T05:00:00.000Z",
     "users": []
 }, {
@@ -2371,7 +2426,7 @@ courses = [{
     "author": "Jason Alba",
     "level": "Beginner",
     "duration": 103,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2014-04-18T04:00:00.000Z",
     "users": []
 }, {
@@ -2382,8 +2437,19 @@ courses = [{
     "author": "Jason Alba",
     "level": "Beginner",
     "duration": 93,
-    "rating": "3.9",
+    "rating": 3.9,
     "released": "2013-10-03T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Careers",
+    "name": "Fundamentals of Written Proposals",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/written-proposals-fundamentals",
+    "description": "Fundamentals of Written Proposals covers how to create, develop, and eventually write a technical or business proposal. Specific modules cover the role of proposals in professional culture, different types of proposals, common persuasive techniques and strategies, main and secondary sections of an unsolicited proposal, and how to critically read and develop a solicited proposal.",
+    "author": "Alan Ackmann",
+    "level": "Beginner",
+    "duration": 163,
+    "rating": null,
+    "released": "2014-05-06T04:00:00.000Z",
     "users": []
 }, {
     "category": "Careers",
@@ -2393,7 +2459,7 @@ courses = [{
     "author": "HanselmanConery",
     "level": "Beginner",
     "duration": 109,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-03-06T05:00:00.000Z",
     "users": []
 }, {
@@ -2404,7 +2470,7 @@ courses = [{
     "author": "Jason Alba",
     "level": "Beginner",
     "duration": 105,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-07-31T04:00:00.000Z",
     "users": []
 }, {
@@ -2415,7 +2481,7 @@ courses = [{
     "author": "Dan Appleman",
     "level": "Beginner",
     "duration": 95,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2014-01-01T05:00:00.000Z",
     "users": []
 }, {
@@ -2426,7 +2492,7 @@ courses = [{
     "author": "Stephen Forte",
     "level": "Beginner",
     "duration": 54,
-    "rating": "4.1",
+    "rating": 4.2,
     "released": "2013-07-23T04:00:00.000Z",
     "users": []
 }, {
@@ -2437,7 +2503,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Beginner",
     "duration": 147,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-03-11T04:00:00.000Z",
     "users": []
 }, {
@@ -2448,7 +2514,7 @@ courses = [{
     "author": "Jason Alba",
     "level": "Beginner",
     "duration": 107,
-    "rating": "3.5",
+    "rating": 3.5,
     "released": "2013-12-04T05:00:00.000Z",
     "users": []
 }, {
@@ -2459,7 +2525,7 @@ courses = [{
     "author": "Dan Appleman",
     "level": "Beginner",
     "duration": 238,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-05-06T04:00:00.000Z",
     "users": []
 }, {
@@ -2470,7 +2536,7 @@ courses = [{
     "author": "John Papa",
     "level": "Beginner",
     "duration": 147,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-05-02T04:00:00.000Z",
     "users": []
 }, {
@@ -2481,7 +2547,7 @@ courses = [{
     "author": "Scott Hanselman",
     "level": "Beginner",
     "duration": 81,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2011-12-09T05:00:00.000Z",
     "users": []
 }, {
@@ -2492,7 +2558,7 @@ courses = [{
     "author": "Cory House",
     "level": "Intermediate",
     "duration": 153,
-    "rating": "4.7",
+    "rating": 4.6,
     "released": "2014-04-24T04:00:00.000Z",
     "users": []
 }, {
@@ -2503,7 +2569,7 @@ courses = [{
     "author": "Jason Alba",
     "level": "Intermediate",
     "duration": 118,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-10-17T04:00:00.000Z",
     "users": []
 }, {
@@ -2514,7 +2580,7 @@ courses = [{
     "author": "Chris Simmons",
     "level": "Intermediate",
     "duration": 161,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-10-23T04:00:00.000Z",
     "users": []
 }, {
@@ -2525,7 +2591,7 @@ courses = [{
     "author": "Jason Alba",
     "level": "Intermediate",
     "duration": 115,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2014-01-07T05:00:00.000Z",
     "users": []
 }, {
@@ -2536,7 +2602,7 @@ courses = [{
     "author": "Jay Mcfarland",
     "level": "Intermediate",
     "duration": 205,
-    "rating": "4.1",
+    "rating": 4,
     "released": "2014-04-10T04:00:00.000Z",
     "users": []
 }, {
@@ -2547,7 +2613,7 @@ courses = [{
     "author": "Paul D. Sheriff",
     "level": "Intermediate",
     "duration": 167,
-    "rating": "4.7",
+    "rating": 4.8,
     "released": "2013-09-12T04:00:00.000Z",
     "users": []
 }, {
@@ -2558,7 +2624,7 @@ courses = [{
     "author": "Dan Appleman",
     "level": "Intermediate",
     "duration": 253,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-09-20T04:00:00.000Z",
     "users": []
 }, {
@@ -2569,7 +2635,7 @@ courses = [{
     "author": "Jason Alba",
     "level": "Intermediate",
     "duration": 166,
-    "rating": "4.2",
+    "rating": 4,
     "released": "2013-12-02T05:00:00.000Z",
     "users": []
 }, {
@@ -2580,7 +2646,7 @@ courses = [{
     "author": "David Chappell",
     "level": "Beginner",
     "duration": 68,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2012-02-09T05:00:00.000Z",
     "users": []
 }, {
@@ -2591,7 +2657,7 @@ courses = [{
     "author": "David Davis",
     "level": "Beginner",
     "duration": 276,
-    "rating": "4.3",
+    "rating": 4.2,
     "released": "2012-07-10T04:00:00.000Z",
     "users": []
 }, {
@@ -2602,7 +2668,7 @@ courses = [{
     "author": "Richard Seroter",
     "level": "Intermediate",
     "duration": 226,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-04-09T04:00:00.000Z",
     "users": []
 }, {
@@ -2613,7 +2679,7 @@ courses = [{
     "author": "Robert Horvick",
     "level": "Intermediate",
     "duration": 67,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-03-06T05:00:00.000Z",
     "users": []
 }, {
@@ -2624,7 +2690,7 @@ courses = [{
     "author": "Dan Appleman",
     "level": "Intermediate",
     "duration": 115,
-    "rating": "Not",
+    "rating": 4.4,
     "released": "2014-04-25T04:00:00.000Z",
     "users": []
 }, {
@@ -2635,7 +2701,7 @@ courses = [{
     "author": "Abhishek Kumar",
     "level": "Intermediate",
     "duration": 139,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-07-22T04:00:00.000Z",
     "users": []
 }, {
@@ -2646,7 +2712,7 @@ courses = [{
     "author": "Simon Robinson",
     "level": "Intermediate",
     "duration": 316,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-08-26T04:00:00.000Z",
     "users": []
 }, {
@@ -2657,7 +2723,7 @@ courses = [{
     "author": "Abhishek Kumar",
     "level": "Advanced",
     "duration": 251,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-11-27T05:00:00.000Z",
     "users": []
 }, {
@@ -2668,7 +2734,7 @@ courses = [{
     "author": "Abhishek Kumar",
     "level": "Advanced",
     "duration": 221,
-    "rating": "Not",
+    "rating": null,
     "released": "2014-03-24T04:00:00.000Z",
     "users": []
 }, {
@@ -2679,7 +2745,7 @@ courses = [{
     "author": "Kevin Kuebler",
     "level": "Beginner",
     "duration": 177,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2011-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -2690,7 +2756,7 @@ courses = [{
     "author": "Charles Nurse",
     "level": "Intermediate",
     "duration": 117,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2013-08-16T04:00:00.000Z",
     "users": []
 }, {
@@ -2701,7 +2767,7 @@ courses = [{
     "author": "Charles Nurse",
     "level": "Intermediate",
     "duration": 143,
-    "rating": "4.1",
+    "rating": 4.2,
     "released": "2014-04-02T04:00:00.000Z",
     "users": []
 }, {
@@ -2712,7 +2778,7 @@ courses = [{
     "author": "Lino Tadros",
     "level": "Intermediate",
     "duration": 135,
-    "rating": "4.1",
+    "rating": 4.2,
     "released": "2013-07-25T04:00:00.000Z",
     "users": []
 }, {
@@ -2723,7 +2789,7 @@ courses = [{
     "author": "Lino Tadros",
     "level": "Intermediate",
     "duration": 232,
-    "rating": "4.4",
+    "rating": 4.5,
     "released": "2013-11-08T05:00:00.000Z",
     "users": []
 }, {
@@ -2734,7 +2800,7 @@ courses = [{
     "author": "Kevin Kuebler",
     "level": "Advanced",
     "duration": 252,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2012-04-06T04:00:00.000Z",
     "users": []
 }, {
@@ -2745,7 +2811,7 @@ courses = [{
     "author": "Jesse Liberty",
     "level": "Beginner",
     "duration": 98,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2013-07-31T04:00:00.000Z",
     "users": []
 }, {
@@ -2756,7 +2822,7 @@ courses = [{
     "author": "Michael Palermo",
     "level": "Beginner",
     "duration": 166,
-    "rating": "4.2",
+    "rating": 4.1,
     "released": "2012-03-06T05:00:00.000Z",
     "users": []
 }, {
@@ -2767,7 +2833,7 @@ courses = [{
     "author": "Scott Allen",
     "level": "Beginner",
     "duration": 129,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2011-07-18T04:00:00.000Z",
     "users": []
 }, {
@@ -2778,18 +2844,18 @@ courses = [{
     "author": "Shawn Wildermuth",
     "level": "Intermediate",
     "duration": 116,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-03-05T05:00:00.000Z",
     "users": []
 }, {
     "category": "CSS",
     "name": "CSS3 In-Depth",
     "url": "http://www.pluralsight.com/training/Courses/TableOfContents/css3-in-depth",
-    "description": "Learn how deep the CSS3 rabbit hole goes in this jam-packed course with CSS luminary Estelle Weyl. Estelle dives deep into the various components of CSS3 including: selectors, specificity, generated content, media queries, debugging, colors, fonts, shadows, text-effects, borders, backgrounds, gradients, transforms, transitions, animations…and more! Slides available at: http://estelle.github.com/CSS-Workshop.",
+    "description": "Learn how deep the CSS3 rabbit hole goes in this jam-packed course with CSS luminary Estelle Weyl. Estelle dives deep into the various components of CSS3 including: selectors, specificity, generated content, media queries, debugging, colors, fonts, shadows, text-effects, borders, backgrounds, gradients, transforms, transitions, animations…and more! Exercise files available at: http://estelle.github.com/CSS-Workshop.",
     "author": "Estelle Weyl",
     "level": "Intermediate",
     "duration": 370,
-    "rating": "3.9",
+    "rating": 4,
     "released": "2013-02-19T05:00:00.000Z",
     "users": []
 }, {
@@ -2800,7 +2866,7 @@ courses = [{
     "author": "Jon Flanders",
     "level": "Intermediate",
     "duration": 177,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2013-04-29T04:00:00.000Z",
     "users": []
 }, {
@@ -2811,7 +2877,7 @@ courses = [{
     "author": "Ben Callahan",
     "level": "Intermediate",
     "duration": 271,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-04-30T04:00:00.000Z",
     "users": []
 }, {
@@ -2822,7 +2888,7 @@ courses = [{
     "author": "Geoffrey Grosenbach",
     "level": "Beginner",
     "duration": 61,
-    "rating": "Not",
+    "rating": null,
     "released": "2008-09-23T04:00:00.000Z",
     "users": []
 }, {
@@ -2833,7 +2899,7 @@ courses = [{
     "author": "Rob Sullivan",
     "level": "Intermediate",
     "duration": 134,
-    "rating": "4.4",
+    "rating": 4.5,
     "released": "2012-03-26T04:00:00.000Z",
     "users": []
 }, {
@@ -2844,7 +2910,7 @@ courses = [{
     "author": "Ayende Rahien (Oren Eini)",
     "level": "Intermediate",
     "duration": 122,
-    "rating": "4.2",
+    "rating": 4.1,
     "released": "2012-02-26T05:00:00.000Z",
     "users": []
 }, {
@@ -2855,7 +2921,7 @@ courses = [{
     "author": "Xavier Shay",
     "level": "Intermediate",
     "duration": 67,
-    "rating": "3.1",
+    "rating": 3.1,
     "released": "2011-02-16T05:00:00.000Z",
     "users": []
 }, {
@@ -2866,7 +2932,7 @@ courses = [{
     "author": "ConerySullivan",
     "level": "Intermediate",
     "duration": 64,
-    "rating": "4.6",
+    "rating": 4.5,
     "released": "2011-06-04T04:00:00.000Z",
     "users": []
 }, {
@@ -2877,7 +2943,7 @@ courses = [{
     "author": "ConeryWilson",
     "level": "Intermediate",
     "duration": 65,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-08-16T04:00:00.000Z",
     "users": []
 }, {
@@ -2888,7 +2954,7 @@ courses = [{
     "author": "Hugo Kornelis",
     "level": "Intermediate",
     "duration": 453,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2014-01-06T05:00:00.000Z",
     "users": []
 }, {
@@ -2899,7 +2965,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Beginner",
     "duration": 170,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-04-24T04:00:00.000Z",
     "users": []
 }, {
@@ -2910,7 +2976,7 @@ courses = [{
     "author": "Mario Hewardt",
     "level": "Intermediate",
     "duration": 119,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2014-01-10T05:00:00.000Z",
     "users": []
 }, {
@@ -2921,7 +2987,7 @@ courses = [{
     "author": "Mario Hewardt",
     "level": "Intermediate",
     "duration": 169,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2012-06-08T04:00:00.000Z",
     "users": []
 }, {
@@ -2932,7 +2998,7 @@ courses = [{
     "author": "Mario Hewardt",
     "level": "Intermediate",
     "duration": 172,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-08-08T04:00:00.000Z",
     "users": []
 }, {
@@ -2943,7 +3009,7 @@ courses = [{
     "author": "Mario Hewardt",
     "level": "Intermediate",
     "duration": 126,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-03-19T04:00:00.000Z",
     "users": []
 }, {
@@ -2954,7 +3020,7 @@ courses = [{
     "author": "Shawn Wildermuth",
     "level": "Intermediate",
     "duration": 118,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-05-31T04:00:00.000Z",
     "users": []
 }, {
@@ -2965,7 +3031,7 @@ courses = [{
     "author": "Robert Boedigheimer",
     "level": "Intermediate",
     "duration": 139,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-06-18T04:00:00.000Z",
     "users": []
 }, {
@@ -2976,7 +3042,7 @@ courses = [{
     "author": "Marcel de Vries",
     "level": "Intermediate",
     "duration": 330,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-09-27T04:00:00.000Z",
     "users": []
 }, {
@@ -2987,7 +3053,7 @@ courses = [{
     "author": "Mario Hewardt",
     "level": "Intermediate",
     "duration": 220,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2012-03-28T04:00:00.000Z",
     "users": []
 }, {
@@ -2998,7 +3064,7 @@ courses = [{
     "author": "Robert Boedigheimer",
     "level": "Intermediate",
     "duration": 223,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-08-08T04:00:00.000Z",
     "users": []
 }, {
@@ -3009,7 +3075,7 @@ courses = [{
     "author": "WoodringSullivan",
     "level": "Intermediate",
     "duration": 44,
-    "rating": "3.9",
+    "rating": 3.9,
     "released": "2009-11-01T04:00:00.000Z",
     "users": []
 }, {
@@ -3020,7 +3086,7 @@ courses = [{
     "author": "Mario Hewardt",
     "level": "Advanced",
     "duration": 296,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2011-12-21T05:00:00.000Z",
     "users": []
 }, {
@@ -3031,7 +3097,7 @@ courses = [{
     "author": "Mario Hewardt",
     "level": "Advanced",
     "duration": 126,
-    "rating": "4.5",
+    "rating": 4.4,
     "released": "2011-11-17T05:00:00.000Z",
     "users": []
 }, {
@@ -3042,7 +3108,7 @@ courses = [{
     "author": "Mario Hewardt",
     "level": "Advanced",
     "duration": 138,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2011-12-06T05:00:00.000Z",
     "users": []
 }, {
@@ -3053,7 +3119,7 @@ courses = [{
     "author": "Pavel Yosifovich",
     "level": "Advanced",
     "duration": 407,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-08-07T04:00:00.000Z",
     "users": []
 }, {
@@ -3064,7 +3130,7 @@ courses = [{
     "author": "Pavel Yosifovich",
     "level": "Advanced",
     "duration": 450,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-10-17T04:00:00.000Z",
     "users": []
 }, {
@@ -3075,7 +3141,7 @@ courses = [{
     "author": "Pavel Yosifovich",
     "level": "Advanced",
     "duration": 316,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2014-02-12T05:00:00.000Z",
     "users": []
 }, {
@@ -3086,7 +3152,7 @@ courses = [{
     "author": "Geoffrey Grosenbach",
     "level": "Intermediate",
     "duration": 53,
-    "rating": "Not",
+    "rating": null,
     "released": "2007-02-28T05:00:00.000Z",
     "users": []
 }, {
@@ -3097,7 +3163,7 @@ courses = [{
     "author": "Geoffrey Grosenbach",
     "level": "Intermediate",
     "duration": 49,
-    "rating": "Not",
+    "rating": null,
     "released": "2007-11-30T05:00:00.000Z",
     "users": []
 }, {
@@ -3108,7 +3174,7 @@ courses = [{
     "author": "LindvallGrosenbach",
     "level": "Advanced",
     "duration": 53,
-    "rating": "3.8",
+    "rating": 3.8,
     "released": "2012-12-08T05:00:00.000Z",
     "users": []
 }, {
@@ -3119,7 +3185,7 @@ courses = [{
     "author": "Mark Heath",
     "level": "Intermediate",
     "duration": 419,
-    "rating": "4.7",
+    "rating": 4.8,
     "released": "2013-11-04T05:00:00.000Z",
     "users": []
 }, {
@@ -3130,7 +3196,7 @@ courses = [{
     "author": "Mark Heath",
     "level": "Intermediate",
     "duration": 168,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-07-25T04:00:00.000Z",
     "users": []
 }, {
@@ -3141,8 +3207,19 @@ courses = [{
     "author": "Leo Schuman",
     "level": "Beginner",
     "duration": 215,
-    "rating": "4.6",
+    "rating": 4.7,
     "released": "2013-10-08T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Drupal",
+    "name": "Intro to Fields for Drupal Site Builders",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/intro-to-fields-for-site-builders",
+    "description": "In this series, you will build out a job posting board using the built-in field module in Drupal 7, along with some other contributed modules. This covers the basics that Site Builders need to know about how to add fields, configure how they're displayed, and use all of the different types of fields including file files, image files, term references, node references, and user references. Each chapter of this series builds upon the last as the team builds and configures two content types for posting available jobs and job applications. To follow along with this course, you'll need to have access to a web server where you can either install Drupal 7 yourself, or have a pre-existing installation of Drupal 7 core.",
+    "author": "Joe Shindelar",
+    "level": "Intermediate",
+    "duration": 127,
+    "rating": null,
+    "released": "2014-05-07T04:00:00.000Z",
     "users": []
 }, {
     "category": "Drupal",
@@ -3152,8 +3229,19 @@ courses = [{
     "author": "Kyle Hofmeyeret al.",
     "level": "Intermediate",
     "duration": 188,
-    "rating": "4",
+    "rating": 4,
     "released": "2012-03-14T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Drupal",
+    "name": "Theming Basics For Drupal 7",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/theming-basics-for-drupal-7",
+    "description": "Theming Basics for Drupal 7 will provide a solid foundation for translating designs into Drupal themes. You'll learn to work with .info and tpl.php template files, how to add CSS and JavaScript, how to work with the rendering system, how to override templates, create regions, and use the Theme Developer tool. You'll start with the original HTML, CSS and JavaScript template files that were provided by the designer so that you can follow along in translating the design into a Drupal 7 theme. This series will cover the basics of Drupal theming while the more advanced theming topics of working with the template.php file will be covered in the Advanced Theming for Drupal 7 series. These courses pair with each other, and will finish the complete implementation of the 960 Robots theme used in both courses. You can download the completed theme we're building from Drupal.org at https://drupal.org/project/ninesixtyrobots.",
+    "author": "Joe Shindelar",
+    "level": "Intermediate",
+    "duration": 165,
+    "rating": null,
+    "released": "2014-05-07T04:00:00.000Z",
     "users": []
 }, {
     "category": "Dynamics CRM",
@@ -3163,7 +3251,7 @@ courses = [{
     "author": "Julie Yack",
     "level": "Beginner",
     "duration": 104,
-    "rating": "3.8",
+    "rating": 3.8,
     "released": "2013-07-02T04:00:00.000Z",
     "users": []
 }, {
@@ -3174,7 +3262,7 @@ courses = [{
     "author": "Julie Yack",
     "level": "Beginner",
     "duration": 158,
-    "rating": "3.7",
+    "rating": 3.7,
     "released": "2011-11-11T05:00:00.000Z",
     "users": []
 }, {
@@ -3185,7 +3273,7 @@ courses = [{
     "author": "YackYack",
     "level": "Intermediate",
     "duration": 195,
-    "rating": "3.6",
+    "rating": 3.6,
     "released": "2013-06-28T04:00:00.000Z",
     "users": []
 }, {
@@ -3196,7 +3284,7 @@ courses = [{
     "author": "David Yack",
     "level": "Intermediate",
     "duration": 428,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-05-02T04:00:00.000Z",
     "users": []
 }, {
@@ -3207,7 +3295,7 @@ courses = [{
     "author": "David Yack",
     "level": "Intermediate",
     "duration": 305,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-07-10T04:00:00.000Z",
     "users": []
 }, {
@@ -3218,7 +3306,7 @@ courses = [{
     "author": "David Yack",
     "level": "Intermediate",
     "duration": 247,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-11-07T05:00:00.000Z",
     "users": []
 }, {
@@ -3229,7 +3317,7 @@ courses = [{
     "author": "Julie Yack",
     "level": "Intermediate",
     "duration": 141,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2013-05-02T04:00:00.000Z",
     "users": []
 }, {
@@ -3240,7 +3328,7 @@ courses = [{
     "author": "David Yack",
     "level": "Intermediate",
     "duration": 210,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-11-12T05:00:00.000Z",
     "users": []
 }, {
@@ -3251,7 +3339,7 @@ courses = [{
     "author": "Tod Gentille",
     "level": "Intermediate",
     "duration": 261,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-08-08T04:00:00.000Z",
     "users": []
 }, {
@@ -3262,7 +3350,7 @@ courses = [{
     "author": "Tod Gentille",
     "level": "Intermediate",
     "duration": 206,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-12-18T05:00:00.000Z",
     "users": []
 }, {
@@ -3273,7 +3361,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Beginner",
     "duration": 77,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2012-04-17T04:00:00.000Z",
     "users": []
 }, {
@@ -3284,7 +3372,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Beginner",
     "duration": 79,
-    "rating": "4.2",
+    "rating": 4.3,
     "released": "2012-03-09T05:00:00.000Z",
     "users": []
 }, {
@@ -3295,7 +3383,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 70,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-04-27T04:00:00.000Z",
     "users": []
 }, {
@@ -3306,7 +3394,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 62,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-03-16T04:00:00.000Z",
     "users": []
 }, {
@@ -3317,7 +3405,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 90,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2012-04-20T04:00:00.000Z",
     "users": []
 }, {
@@ -3328,7 +3416,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 68,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2012-05-17T04:00:00.000Z",
     "users": []
 }, {
@@ -3339,7 +3427,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 80,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-05-09T04:00:00.000Z",
     "users": []
 }, {
@@ -3350,7 +3438,7 @@ courses = [{
     "author": "Julie Lerman",
     "level": "Beginner",
     "duration": 138,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2010-08-27T04:00:00.000Z",
     "users": []
 }, {
@@ -3361,7 +3449,7 @@ courses = [{
     "author": "Julie Lerman",
     "level": "Intermediate",
     "duration": 114,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-02-08T05:00:00.000Z",
     "users": []
 }, {
@@ -3372,7 +3460,7 @@ courses = [{
     "author": "Julie Lerman",
     "level": "Intermediate",
     "duration": 125,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2011-01-06T05:00:00.000Z",
     "users": []
 }, {
@@ -3383,7 +3471,7 @@ courses = [{
     "author": "Julie Lerman",
     "level": "Intermediate",
     "duration": 118,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2011-06-18T04:00:00.000Z",
     "users": []
 }, {
@@ -3394,7 +3482,7 @@ courses = [{
     "author": "Julie Lerman",
     "level": "Intermediate",
     "duration": 81,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2011-09-27T04:00:00.000Z",
     "users": []
 }, {
@@ -3405,7 +3493,7 @@ courses = [{
     "author": "Julie Lerman",
     "level": "Intermediate",
     "duration": 92,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2010-11-05T04:00:00.000Z",
     "users": []
 }, {
@@ -3416,7 +3504,7 @@ courses = [{
     "author": "Julie Lerman",
     "level": "Intermediate",
     "duration": 69,
-    "rating": "4.5",
+    "rating": 4.6,
     "released": "2012-03-06T05:00:00.000Z",
     "users": []
 }, {
@@ -3427,7 +3515,7 @@ courses = [{
     "author": "Julie Lerman",
     "level": "Intermediate",
     "duration": 196,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-09-19T04:00:00.000Z",
     "users": []
 }, {
@@ -3438,7 +3526,7 @@ courses = [{
     "author": "Julie Lerman",
     "level": "Intermediate",
     "duration": 263,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-03-06T05:00:00.000Z",
     "users": []
 }, {
@@ -3449,7 +3537,7 @@ courses = [{
     "author": "Julie Lerman",
     "level": "Intermediate",
     "duration": 82,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-02-28T05:00:00.000Z",
     "users": []
 }, {
@@ -3460,7 +3548,7 @@ courses = [{
     "author": "Laszlo Meszaros",
     "level": "Intermediate",
     "duration": 227,
-    "rating": "Not",
+    "rating": null,
     "released": "2014-04-16T04:00:00.000Z",
     "users": []
 }, {
@@ -3471,7 +3559,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 191,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2013-09-25T04:00:00.000Z",
     "users": []
 }, {
@@ -3482,7 +3570,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 186,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-07-26T04:00:00.000Z",
     "users": []
 }, {
@@ -3493,7 +3581,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 855,
-    "rating": "Not",
+    "rating": null,
     "released": "2005-06-01T04:00:00.000Z",
     "users": []
 }, {
@@ -3504,7 +3592,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 240,
-    "rating": "Not",
+    "rating": null,
     "released": "2005-06-01T04:00:00.000Z",
     "users": []
 }, {
@@ -3515,7 +3603,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 314,
-    "rating": "Not",
+    "rating": null,
     "released": "2005-06-01T04:00:00.000Z",
     "users": []
 }, {
@@ -3526,7 +3614,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 186,
-    "rating": "Not",
+    "rating": null,
     "released": "2005-06-01T04:00:00.000Z",
     "users": []
 }, {
@@ -3537,7 +3625,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 222,
-    "rating": "Not",
+    "rating": null,
     "released": "2005-06-01T04:00:00.000Z",
     "users": []
 }, {
@@ -3548,7 +3636,7 @@ courses = [{
     "author": "Dave Shackelford",
     "level": "Intermediate",
     "duration": 453,
-    "rating": "Not",
+    "rating": null,
     "released": "2009-03-19T04:00:00.000Z",
     "users": []
 }, {
@@ -3559,7 +3647,7 @@ courses = [{
     "author": "Dave Shackelford",
     "level": "Intermediate",
     "duration": 307,
-    "rating": "Not",
+    "rating": null,
     "released": "2008-01-22T05:00:00.000Z",
     "users": []
 }, {
@@ -3570,7 +3658,7 @@ courses = [{
     "author": "Dave Shackelford",
     "level": "Intermediate",
     "duration": 234,
-    "rating": "Not",
+    "rating": null,
     "released": "2008-01-22T05:00:00.000Z",
     "users": []
 }, {
@@ -3581,7 +3669,7 @@ courses = [{
     "author": "Dave Shackelford",
     "level": "Intermediate",
     "duration": 299,
-    "rating": "Not",
+    "rating": null,
     "released": "2008-01-22T05:00:00.000Z",
     "users": []
 }, {
@@ -3592,7 +3680,7 @@ courses = [{
     "author": "Dave Shackelford",
     "level": "Intermediate",
     "duration": 317,
-    "rating": "Not",
+    "rating": null,
     "released": "2008-01-22T05:00:00.000Z",
     "users": []
 }, {
@@ -3603,7 +3691,7 @@ courses = [{
     "author": "BruzzeseShackelfor",
     "level": "Intermediate",
     "duration": 191,
-    "rating": "Not",
+    "rating": null,
     "released": "2008-01-22T05:00:00.000Z",
     "users": []
 }, {
@@ -3614,7 +3702,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Intermediate",
     "duration": 298,
-    "rating": "Not",
+    "rating": null,
     "released": "2008-12-16T05:00:00.000Z",
     "users": []
 }, {
@@ -3625,7 +3713,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 317,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-04-03T04:00:00.000Z",
     "users": []
 }, {
@@ -3636,7 +3724,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 281,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2010-06-22T04:00:00.000Z",
     "users": []
 }, {
@@ -3647,7 +3735,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 346,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2010-06-22T04:00:00.000Z",
     "users": []
 }, {
@@ -3658,7 +3746,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 282,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2010-06-22T04:00:00.000Z",
     "users": []
 }, {
@@ -3669,7 +3757,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 189,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-06-22T04:00:00.000Z",
     "users": []
 }, {
@@ -3680,7 +3768,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 227,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-06-22T04:00:00.000Z",
     "users": []
 }, {
@@ -3691,7 +3779,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 320,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-12-13T05:00:00.000Z",
     "users": []
 }, {
@@ -3702,7 +3790,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 467,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-02-22T05:00:00.000Z",
     "users": []
 }, {
@@ -3713,7 +3801,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 188,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-09-23T04:00:00.000Z",
     "users": []
 }, {
@@ -3724,7 +3812,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 235,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-09-23T04:00:00.000Z",
     "users": []
 }, {
@@ -3735,7 +3823,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 253,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-09-23T04:00:00.000Z",
     "users": []
 }, {
@@ -3746,7 +3834,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 192,
-    "rating": "4.1",
+    "rating": 4.2,
     "released": "2013-05-28T04:00:00.000Z",
     "users": []
 }, {
@@ -3757,7 +3845,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 236,
-    "rating": "Not",
+    "rating": 4.1,
     "released": "2013-05-28T04:00:00.000Z",
     "users": []
 }, {
@@ -3768,7 +3856,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 158,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-05-28T04:00:00.000Z",
     "users": []
 }, {
@@ -3779,7 +3867,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 101,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-05-28T04:00:00.000Z",
     "users": []
 }, {
@@ -3790,7 +3878,7 @@ courses = [{
     "author": "Gary Grudzinskas",
     "level": "Intermediate",
     "duration": 200,
-    "rating": "Not",
+    "rating": null,
     "released": "2014-03-25T04:00:00.000Z",
     "users": []
 }, {
@@ -3801,7 +3889,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 248,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-12-19T05:00:00.000Z",
     "users": []
 }, {
@@ -3812,7 +3900,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 210,
-    "rating": "Not",
+    "rating": null,
     "released": "2014-02-26T05:00:00.000Z",
     "users": []
 }, {
@@ -3823,7 +3911,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 220,
-    "rating": "4.2",
+    "rating": 4.3,
     "released": "2013-01-29T05:00:00.000Z",
     "users": []
 }, {
@@ -3834,7 +3922,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 227,
-    "rating": "4.7",
+    "rating": 4.8,
     "released": "2013-01-29T05:00:00.000Z",
     "users": []
 }, {
@@ -3845,7 +3933,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 182,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-01-29T05:00:00.000Z",
     "users": []
 }, {
@@ -3856,7 +3944,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 133,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-02-01T05:00:00.000Z",
     "users": []
 }, {
@@ -3867,7 +3955,7 @@ courses = [{
     "author": "Oliver Sturm",
     "level": "Beginner",
     "duration": 257,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2012-03-07T05:00:00.000Z",
     "users": []
 }, {
@@ -3878,7 +3966,7 @@ courses = [{
     "author": "Mark Seemann",
     "level": "Intermediate",
     "duration": 148,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2014-01-22T05:00:00.000Z",
     "users": []
 }, {
@@ -3889,7 +3977,7 @@ courses = [{
     "author": "Lynn Langit",
     "level": "Beginner",
     "duration": 52,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2013-01-10T05:00:00.000Z",
     "users": []
 }, {
@@ -3900,7 +3988,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 160,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-09-11T04:00:00.000Z",
     "users": []
 }, {
@@ -3911,7 +3999,7 @@ courses = [{
     "author": "Zoiner Tejada",
     "level": "Intermediate",
     "duration": 135,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2012-09-18T04:00:00.000Z",
     "users": []
 }, {
@@ -3922,7 +4010,7 @@ courses = [{
     "author": "Lynn Langit",
     "level": "Intermediate",
     "duration": 86,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-03-04T05:00:00.000Z",
     "users": []
 }, {
@@ -3933,7 +4021,7 @@ courses = [{
     "author": "Paul Wilson",
     "level": "Intermediate",
     "duration": 187,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-10-31T04:00:00.000Z",
     "users": []
 }, {
@@ -3944,7 +4032,7 @@ courses = [{
     "author": "Robbe Morris",
     "level": "Intermediate",
     "duration": 204,
-    "rating": "4.2",
+    "rating": 4.1,
     "released": "2013-10-15T04:00:00.000Z",
     "users": []
 }, {
@@ -3955,7 +4043,7 @@ courses = [{
     "author": "Lynn Langit",
     "level": "Intermediate",
     "duration": 145,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2013-03-29T04:00:00.000Z",
     "users": []
 }, {
@@ -3966,7 +4054,7 @@ courses = [{
     "author": "Paul Gadbois",
     "level": "Beginner",
     "duration": 850,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-11-16T05:00:00.000Z",
     "users": []
 }, {
@@ -3977,7 +4065,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Beginner",
     "duration": 324,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-07-18T04:00:00.000Z",
     "users": []
 }, {
@@ -3988,7 +4076,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Beginner",
     "duration": 156,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-07-18T04:00:00.000Z",
     "users": []
 }, {
@@ -3999,7 +4087,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Beginner",
     "duration": 244,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-07-18T04:00:00.000Z",
     "users": []
 }, {
@@ -4010,7 +4098,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Beginner",
     "duration": 322,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-07-18T04:00:00.000Z",
     "users": []
 }, {
@@ -4021,7 +4109,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Beginner",
     "duration": 280,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-07-18T04:00:00.000Z",
     "users": []
 }, {
@@ -4032,7 +4120,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Beginner",
     "duration": 167,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-11-01T04:00:00.000Z",
     "users": []
 }, {
@@ -4043,7 +4131,7 @@ courses = [{
     "author": "Glenn Berry",
     "level": "Beginner",
     "duration": 180,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2012-10-25T04:00:00.000Z",
     "users": []
 }, {
@@ -4054,7 +4142,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 161,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-05-01T04:00:00.000Z",
     "users": []
 }, {
@@ -4065,7 +4153,7 @@ courses = [{
     "author": "SonmezClasson",
     "level": "Intermediate",
     "duration": 172,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-10-11T04:00:00.000Z",
     "users": []
 }, {
@@ -4076,7 +4164,7 @@ courses = [{
     "author": "Jon Flanders",
     "level": "Intermediate",
     "duration": 99,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-04-05T04:00:00.000Z",
     "users": []
 }, {
@@ -4087,7 +4175,7 @@ courses = [{
     "author": "András Velvárt",
     "level": "Intermediate",
     "duration": 119,
-    "rating": "3.9",
+    "rating": 3.9,
     "released": "2014-01-18T05:00:00.000Z",
     "users": []
 }, {
@@ -4098,7 +4186,7 @@ courses = [{
     "author": "Jon Flanders",
     "level": "Intermediate",
     "duration": 144,
-    "rating": "4.2",
+    "rating": 4.3,
     "released": "2013-05-30T04:00:00.000Z",
     "users": []
 }, {
@@ -4109,7 +4197,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Beginner",
     "duration": 133,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-05-18T04:00:00.000Z",
     "users": []
 }, {
@@ -4120,7 +4208,7 @@ courses = [{
     "author": "Jesse Liberty",
     "level": "Beginner",
     "duration": 96,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2013-07-10T04:00:00.000Z",
     "users": []
 }, {
@@ -4131,7 +4219,7 @@ courses = [{
     "author": "Craig Shoemaker",
     "level": "Beginner",
     "duration": 236,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-08-08T04:00:00.000Z",
     "users": []
 }, {
@@ -4142,7 +4230,7 @@ courses = [{
     "author": "Christopher Schmitt",
     "level": "Beginner",
     "duration": 155,
-    "rating": "3.2",
+    "rating": 3.1,
     "released": "2012-03-05T05:00:00.000Z",
     "users": []
 }, {
@@ -4153,7 +4241,7 @@ courses = [{
     "author": "Michael Palermo",
     "level": "Beginner",
     "duration": 132,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2011-12-02T05:00:00.000Z",
     "users": []
 }, {
@@ -4164,7 +4252,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 172,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-10-25T04:00:00.000Z",
     "users": []
 }, {
@@ -4175,7 +4263,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 140,
-    "rating": "4.6",
+    "rating": 4.7,
     "released": "2013-10-17T04:00:00.000Z",
     "users": []
 }, {
@@ -4186,7 +4274,7 @@ courses = [{
     "author": "Jon Flanders",
     "level": "Intermediate",
     "duration": 264,
-    "rating": "4.3",
+    "rating": 4.2,
     "released": "2012-03-09T05:00:00.000Z",
     "users": []
 }, {
@@ -4197,7 +4285,7 @@ courses = [{
     "author": "Derik Whittaker",
     "level": "Intermediate",
     "duration": 172,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-05-02T04:00:00.000Z",
     "users": []
 }, {
@@ -4208,7 +4296,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Intermediate",
     "duration": 124,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-08-03T04:00:00.000Z",
     "users": []
 }, {
@@ -4219,7 +4307,7 @@ courses = [{
     "author": "Ben Schwarz",
     "level": "Intermediate",
     "duration": 61,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2012-02-03T05:00:00.000Z",
     "users": []
 }, {
@@ -4230,7 +4318,7 @@ courses = [{
     "author": "Dan Wahlin",
     "level": "Intermediate",
     "duration": 272,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2012-06-12T04:00:00.000Z",
     "users": []
 }, {
@@ -4241,7 +4329,7 @@ courses = [{
     "author": "Craig Shoemaker",
     "level": "Intermediate",
     "duration": 272,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-06-13T04:00:00.000Z",
     "users": []
 }, {
@@ -4252,7 +4340,7 @@ courses = [{
     "author": "Craig Shoemaker",
     "level": "Intermediate",
     "duration": 328,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-12-03T05:00:00.000Z",
     "users": []
 }, {
@@ -4263,7 +4351,7 @@ courses = [{
     "author": "Lisa Larson-Kelley",
     "level": "Intermediate",
     "duration": 168,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-08-22T04:00:00.000Z",
     "users": []
 }, {
@@ -4274,7 +4362,7 @@ courses = [{
     "author": "Lisa Larson-Kelley",
     "level": "Intermediate",
     "duration": 100,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2014-02-20T05:00:00.000Z",
     "users": []
 }, {
@@ -4285,7 +4373,7 @@ courses = [{
     "author": "Craig Shoemaker",
     "level": "Advanced",
     "duration": 165,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2011-08-22T04:00:00.000Z",
     "users": []
 }, {
@@ -4296,7 +4384,7 @@ courses = [{
     "author": "Scott Allen",
     "level": "Beginner",
     "duration": 170,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2012-02-17T05:00:00.000Z",
     "users": []
 }, {
@@ -4307,7 +4395,7 @@ courses = [{
     "author": "Steve Evans",
     "level": "Beginner",
     "duration": 106,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2011-08-30T04:00:00.000Z",
     "users": []
 }, {
@@ -4318,7 +4406,7 @@ courses = [{
     "author": "Paul Lemmers",
     "level": "Beginner",
     "duration": 44,
-    "rating": "2.7",
+    "rating": 2.7,
     "released": "2010-06-25T04:00:00.000Z",
     "users": []
 }, {
@@ -4329,7 +4417,7 @@ courses = [{
     "author": "Robert Boedigheimer",
     "level": "Intermediate",
     "duration": 167,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2011-09-20T04:00:00.000Z",
     "users": []
 }, {
@@ -4340,7 +4428,7 @@ courses = [{
     "author": "Scott Forsyth",
     "level": "Intermediate",
     "duration": 240,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-09-06T04:00:00.000Z",
     "users": []
 }, {
@@ -4351,7 +4439,7 @@ courses = [{
     "author": "Steve Evans",
     "level": "Intermediate",
     "duration": 47,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-01-09T05:00:00.000Z",
     "users": []
 }, {
@@ -4362,7 +4450,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Intermediate",
     "duration": 158,
-    "rating": "4.3",
+    "rating": 4.4,
     "released": "2011-03-07T05:00:00.000Z",
     "users": []
 }, {
@@ -4373,7 +4461,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Beginner",
     "duration": 239,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2011-07-11T04:00:00.000Z",
     "users": []
 }, {
@@ -4384,7 +4472,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Beginner",
     "duration": 193,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2011-07-26T04:00:00.000Z",
     "users": []
 }, {
@@ -4395,7 +4483,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Beginner",
     "duration": 188,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2012-01-04T05:00:00.000Z",
     "users": []
 }, {
@@ -4406,7 +4494,7 @@ courses = [{
     "author": "Ben Scheirman",
     "level": "Intermediate",
     "duration": 300,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2012-09-28T04:00:00.000Z",
     "users": []
 }, {
@@ -4417,7 +4505,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 142,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-10-09T04:00:00.000Z",
     "users": []
 }, {
@@ -4428,7 +4516,7 @@ courses = [{
     "author": "Jon Flanders",
     "level": "Intermediate",
     "duration": 222,
-    "rating": "4.4",
+    "rating": 4.5,
     "released": "2013-08-19T04:00:00.000Z",
     "users": []
 }, {
@@ -4439,7 +4527,7 @@ courses = [{
     "author": "Brice Wilson",
     "level": "Intermediate",
     "duration": 120,
-    "rating": "4.6",
+    "rating": 4.5,
     "released": "2013-07-08T04:00:00.000Z",
     "users": []
 }, {
@@ -4450,7 +4538,7 @@ courses = [{
     "author": "Brice Wilson",
     "level": "Intermediate",
     "duration": 153,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-12-11T05:00:00.000Z",
     "users": []
 }, {
@@ -4461,7 +4549,7 @@ courses = [{
     "author": "Alex Vollmer",
     "level": "Intermediate",
     "duration": 172,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-12-20T05:00:00.000Z",
     "users": []
 }, {
@@ -4472,7 +4560,7 @@ courses = [{
     "author": "Jon Flanders",
     "level": "Intermediate",
     "duration": 236,
-    "rating": "4.1",
+    "rating": 4.2,
     "released": "2013-03-01T05:00:00.000Z",
     "users": []
 }, {
@@ -4483,7 +4571,7 @@ courses = [{
     "author": "Jon Flanders",
     "level": "Intermediate",
     "duration": 202,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-03-18T04:00:00.000Z",
     "users": []
 }, {
@@ -4494,7 +4582,7 @@ courses = [{
     "author": "Matthew Kruczek",
     "level": "Intermediate",
     "duration": 250,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-09-06T04:00:00.000Z",
     "users": []
 }, {
@@ -4505,7 +4593,7 @@ courses = [{
     "author": "Mark Zamoyta",
     "level": "Intermediate",
     "duration": 248,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-07-30T04:00:00.000Z",
     "users": []
 }, {
@@ -4516,8 +4604,19 @@ courses = [{
     "author": "Rag Dhiman",
     "level": "Intermediate",
     "duration": 186,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-12-04T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "iOS",
+    "name": "iOS Unit Testing with XCTest",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/ios-unit-testing-xctest",
+    "description": "This course will help you to understand the principles of iOS Unit Testing. In addition, you will learn some great patterns and best practices to implement when creating unit tests.",
+    "author": "Matthew Kruczek",
+    "level": "Intermediate",
+    "duration": 272,
+    "rating": null,
+    "released": "2014-05-08T04:00:00.000Z",
     "users": []
 }, {
     "category": "iOS",
@@ -4527,7 +4626,7 @@ courses = [{
     "author": "Jon Flanders",
     "level": "Intermediate",
     "duration": 599,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2014-02-04T05:00:00.000Z",
     "users": []
 }, {
@@ -4538,7 +4637,7 @@ courses = [{
     "author": "John O'Neill Sr.",
     "level": "Intermediate",
     "duration": 411,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-01-17T05:00:00.000Z",
     "users": []
 }, {
@@ -4549,7 +4648,7 @@ courses = [{
     "author": "Jim Wilson",
     "level": "Intermediate",
     "duration": 429,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2010-07-01T04:00:00.000Z",
     "users": []
 }, {
@@ -4560,7 +4659,7 @@ courses = [{
     "author": "Geoffrey Grosenbach",
     "level": "Intermediate",
     "duration": 81,
-    "rating": "Not",
+    "rating": null,
     "released": "2009-02-11T05:00:00.000Z",
     "users": []
 }, {
@@ -4571,7 +4670,7 @@ courses = [{
     "author": "Jon Flanders",
     "level": "Intermediate",
     "duration": 207,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-09-18T04:00:00.000Z",
     "users": []
 }, {
@@ -4582,7 +4681,7 @@ courses = [{
     "author": "John O'Neill Sr.",
     "level": "Beginner",
     "duration": 318,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-10-24T04:00:00.000Z",
     "users": []
 }, {
@@ -4593,7 +4692,7 @@ courses = [{
     "author": "John O'Neill Sr.",
     "level": "Beginner",
     "duration": 237,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-10-24T04:00:00.000Z",
     "users": []
 }, {
@@ -4604,7 +4703,7 @@ courses = [{
     "author": "John O'Neill Sr.",
     "level": "Beginner",
     "duration": 304,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-10-24T04:00:00.000Z",
     "users": []
 }, {
@@ -4615,7 +4714,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Beginner",
     "duration": 289,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2010-08-17T04:00:00.000Z",
     "users": []
 }, {
@@ -4626,7 +4725,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Beginner",
     "duration": 349,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-08-17T04:00:00.000Z",
     "users": []
 }, {
@@ -4637,7 +4736,7 @@ courses = [{
     "author": "Veronica Henry",
     "level": "Beginner",
     "duration": 178,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2011-05-10T04:00:00.000Z",
     "users": []
 }, {
@@ -4648,7 +4747,7 @@ courses = [{
     "author": "Veronica Henry",
     "level": "Beginner",
     "duration": 318,
-    "rating": "Not",
+    "rating": 4.3,
     "released": "2011-05-10T04:00:00.000Z",
     "users": []
 }, {
@@ -4659,7 +4758,7 @@ courses = [{
     "author": "Veronica Henry",
     "level": "Beginner",
     "duration": 339,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-05-10T04:00:00.000Z",
     "users": []
 }, {
@@ -4670,7 +4769,7 @@ courses = [{
     "author": "Ken Mauldin",
     "level": "Beginner",
     "duration": 436,
-    "rating": "4.1",
+    "rating": 4.2,
     "released": "2013-11-11T05:00:00.000Z",
     "users": []
 }, {
@@ -4681,7 +4780,7 @@ courses = [{
     "author": "Ken Mauldin",
     "level": "Beginner",
     "duration": 521,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2014-02-07T05:00:00.000Z",
     "users": []
 }, {
@@ -4692,7 +4791,7 @@ courses = [{
     "author": "Lowell Amos",
     "level": "Intermediate",
     "duration": 253,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-04-29T04:00:00.000Z",
     "users": []
 }, {
@@ -4703,7 +4802,7 @@ courses = [{
     "author": "Lowell Amos",
     "level": "Intermediate",
     "duration": 277,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2013-07-12T04:00:00.000Z",
     "users": []
 }, {
@@ -4714,7 +4813,7 @@ courses = [{
     "author": "J. Peter Bruzzeseet al.",
     "level": "Intermediate",
     "duration": 196,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-05-15T04:00:00.000Z",
     "users": []
 }, {
@@ -4725,7 +4824,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Beginner",
     "duration": 252,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-11-04T04:00:00.000Z",
     "users": []
 }, {
@@ -4736,7 +4835,7 @@ courses = [{
     "author": "Bryan Hansen",
     "level": "Beginner",
     "duration": 165,
-    "rating": "4.5",
+    "rating": 4.4,
     "released": "2013-08-22T04:00:00.000Z",
     "users": []
 }, {
@@ -4747,7 +4846,7 @@ courses = [{
     "author": "Eberhard Wolff",
     "level": "Intermediate",
     "duration": 160,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-10-14T04:00:00.000Z",
     "users": []
 }, {
@@ -4758,7 +4857,7 @@ courses = [{
     "author": "Antonio Goncalves",
     "level": "Intermediate",
     "duration": 149,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2014-01-28T05:00:00.000Z",
     "users": []
 }, {
@@ -4769,7 +4868,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 238,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-07-30T04:00:00.000Z",
     "users": []
 }, {
@@ -4780,7 +4879,7 @@ courses = [{
     "author": "Bryan Hansen",
     "level": "Intermediate",
     "duration": 238,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-01-14T05:00:00.000Z",
     "users": []
 }, {
@@ -4791,7 +4890,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 247,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-10-26T04:00:00.000Z",
     "users": []
 }, {
@@ -4802,7 +4901,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 227,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2011-11-23T05:00:00.000Z",
     "users": []
 }, {
@@ -4813,7 +4912,7 @@ courses = [{
     "author": "Rusty Lowrey",
     "level": "Intermediate",
     "duration": 199,
-    "rating": "4.6",
+    "rating": 4.5,
     "released": "2014-01-03T05:00:00.000Z",
     "users": []
 }, {
@@ -4824,7 +4923,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 157,
-    "rating": "4.7",
+    "rating": 4.6,
     "released": "2013-05-17T04:00:00.000Z",
     "users": []
 }, {
@@ -4835,7 +4934,7 @@ courses = [{
     "author": "John Purcell",
     "level": "Intermediate",
     "duration": 216,
-    "rating": "4.5",
+    "rating": 4.6,
     "released": "2012-01-01T05:00:00.000Z",
     "users": []
 }, {
@@ -4846,7 +4945,7 @@ courses = [{
     "author": "John Purcell",
     "level": "Intermediate",
     "duration": 225,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-01-01T05:00:00.000Z",
     "users": []
 }, {
@@ -4857,7 +4956,7 @@ courses = [{
     "author": "John Purcell",
     "level": "Intermediate",
     "duration": 285,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2012-01-01T05:00:00.000Z",
     "users": []
 }, {
@@ -4868,7 +4967,7 @@ courses = [{
     "author": "John Purcell",
     "level": "Intermediate",
     "duration": 110,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-01-01T05:00:00.000Z",
     "users": []
 }, {
@@ -4879,7 +4978,7 @@ courses = [{
     "author": "Bryan Hansen",
     "level": "Intermediate",
     "duration": 150,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-11-07T05:00:00.000Z",
     "users": []
 }, {
@@ -4890,7 +4989,7 @@ courses = [{
     "author": "James Hughes",
     "level": "Intermediate",
     "duration": 100,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-11-06T05:00:00.000Z",
     "users": []
 }, {
@@ -4901,7 +5000,7 @@ courses = [{
     "author": "Bryan Hansen",
     "level": "Intermediate",
     "duration": 264,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-11-15T05:00:00.000Z",
     "users": []
 }, {
@@ -4912,7 +5011,7 @@ courses = [{
     "author": "Bryan Hansen",
     "level": "Intermediate",
     "duration": 248,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2014-04-03T04:00:00.000Z",
     "users": []
 }, {
@@ -4923,7 +5022,7 @@ courses = [{
     "author": "Bryan Hansen",
     "level": "Intermediate",
     "duration": 297,
-    "rating": "4.7",
+    "rating": 4.6,
     "released": "2013-04-10T04:00:00.000Z",
     "users": []
 }, {
@@ -4934,7 +5033,7 @@ courses = [{
     "author": "Mike Nolan",
     "level": "Intermediate",
     "duration": 174,
-    "rating": "3.9",
+    "rating": 3.7,
     "released": "2014-04-07T04:00:00.000Z",
     "users": []
 }, {
@@ -4945,7 +5044,7 @@ courses = [{
     "author": "Joe Eames",
     "level": "Beginner",
     "duration": 224,
-    "rating": "Not",
+    "rating": 4.7,
     "released": "2014-04-24T04:00:00.000Z",
     "users": []
 }, {
@@ -4956,7 +5055,7 @@ courses = [{
     "author": "Paul O'Fallon",
     "level": "Beginner",
     "duration": 135,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2013-06-07T04:00:00.000Z",
     "users": []
 }, {
@@ -4967,7 +5066,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Beginner",
     "duration": 127,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-02-24T05:00:00.000Z",
     "users": []
 }, {
@@ -4978,7 +5077,7 @@ courses = [{
     "author": "Jesse Liberty",
     "level": "Beginner",
     "duration": 112,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-05-20T04:00:00.000Z",
     "users": []
 }, {
@@ -4989,7 +5088,7 @@ courses = [{
     "author": "Liam McLennan",
     "level": "Beginner",
     "duration": 173,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2011-01-25T05:00:00.000Z",
     "users": []
 }, {
@@ -5000,7 +5099,7 @@ courses = [{
     "author": "John Papa",
     "level": "Beginner",
     "duration": 179,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2012-04-30T04:00:00.000Z",
     "users": []
 }, {
@@ -5011,7 +5110,7 @@ courses = [{
     "author": "Steve Michelotti",
     "level": "Beginner",
     "duration": 99,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2011-12-01T05:00:00.000Z",
     "users": []
 }, {
@@ -5022,7 +5121,7 @@ courses = [{
     "author": "John Papa",
     "level": "Beginner",
     "duration": 310,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-03-14T04:00:00.000Z",
     "users": []
 }, {
@@ -5033,7 +5132,7 @@ courses = [{
     "author": "WahlinPapa",
     "level": "Beginner",
     "duration": 268,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-01-08T05:00:00.000Z",
     "users": []
 }, {
@@ -5044,7 +5143,7 @@ courses = [{
     "author": "Kevin Murray",
     "level": "Intermediate",
     "duration": 196,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-11-14T05:00:00.000Z",
     "users": []
 }, {
@@ -5055,7 +5154,7 @@ courses = [{
     "author": "Joe Eames",
     "level": "Intermediate",
     "duration": 303,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-10-25T04:00:00.000Z",
     "users": []
 }, {
@@ -5066,7 +5165,7 @@ courses = [{
     "author": "EamesCooper",
     "level": "Intermediate",
     "duration": 316,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-12-17T05:00:00.000Z",
     "users": []
 }, {
@@ -5077,7 +5176,7 @@ courses = [{
     "author": "EamesCooper",
     "level": "Intermediate",
     "duration": 381,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-05-17T04:00:00.000Z",
     "users": []
 }, {
@@ -5088,7 +5187,7 @@ courses = [{
     "author": "Lukas Ruebbelke",
     "level": "Intermediate",
     "duration": 296,
-    "rating": "3.8",
+    "rating": 3.8,
     "released": "2013-11-19T05:00:00.000Z",
     "users": []
 }, {
@@ -5099,7 +5198,7 @@ courses = [{
     "author": "Rob Conery",
     "level": "Intermediate",
     "duration": 163,
-    "rating": "4.5",
+    "rating": 4.6,
     "released": "2013-05-03T04:00:00.000Z",
     "users": []
 }, {
@@ -5110,7 +5209,7 @@ courses = [{
     "author": "Rob Conery",
     "level": "Intermediate",
     "duration": 266,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-02-09T05:00:00.000Z",
     "users": []
 }, {
@@ -5121,7 +5220,7 @@ courses = [{
     "author": "OnionAllen",
     "level": "Intermediate",
     "duration": 142,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2009-01-21T05:00:00.000Z",
     "users": []
 }, {
@@ -5132,7 +5231,7 @@ courses = [{
     "author": "Liam McLennan",
     "level": "Intermediate",
     "duration": 282,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-09-05T04:00:00.000Z",
     "users": []
 }, {
@@ -5143,7 +5242,7 @@ courses = [{
     "author": "Sam Breed",
     "level": "Intermediate",
     "duration": 319,
-    "rating": "4",
+    "rating": 3.9,
     "released": "2013-10-16T04:00:00.000Z",
     "users": []
 }, {
@@ -5154,7 +5253,7 @@ courses = [{
     "author": "GrosenbachGoodlad",
     "level": "Intermediate",
     "duration": 191,
-    "rating": "3.8",
+    "rating": 3.7,
     "released": "2011-11-23T05:00:00.000Z",
     "users": []
 }, {
@@ -5165,7 +5264,7 @@ courses = [{
     "author": "Shawn Wildermuth",
     "level": "Intermediate",
     "duration": 230,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-11-13T05:00:00.000Z",
     "users": []
 }, {
@@ -5176,7 +5275,7 @@ courses = [{
     "author": "Shawn Wildermuth",
     "level": "Intermediate",
     "duration": 389,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2013-07-31T04:00:00.000Z",
     "users": []
 }, {
@@ -5186,8 +5285,8 @@ courses = [{
     "description": "The MEAN stack is becoming more and more popular. Angular.js has become the hottest new MVC framework, and using it with Node and Express means a high level of harmony between the client and server. Throw MongoDB on for data storage, and you have JavaScript from front to back. These applications are quick to put together, and represent the modern state of web application development. This course will help you get a full application up and running in no time, and introduce you to all the core concepts you need to build applications utilizing these technologies.",
     "author": "Joe Eames",
     "level": "Intermediate",
-    "duration": 241,
-    "rating": "4.6",
+    "duration": 242,
+    "rating": 4.7,
     "released": "2014-01-31T05:00:00.000Z",
     "users": []
 }, {
@@ -5198,7 +5297,7 @@ courses = [{
     "author": "John Papa",
     "level": "Intermediate",
     "duration": 329,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-10-22T04:00:00.000Z",
     "users": []
 }, {
@@ -5209,7 +5308,7 @@ courses = [{
     "author": "John Papa",
     "level": "Intermediate",
     "duration": 314,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2013-12-23T05:00:00.000Z",
     "users": []
 }, {
@@ -5220,7 +5319,7 @@ courses = [{
     "author": "Brian Noyes",
     "level": "Intermediate",
     "duration": 366,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2013-10-02T04:00:00.000Z",
     "users": []
 }, {
@@ -5231,7 +5330,7 @@ courses = [{
     "author": "John Papa",
     "level": "Intermediate",
     "duration": 290,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2012-02-14T05:00:00.000Z",
     "users": []
 }, {
@@ -5242,7 +5341,7 @@ courses = [{
     "author": "Jesse Liberty",
     "level": "Intermediate",
     "duration": 150,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2014-01-24T05:00:00.000Z",
     "users": []
 }, {
@@ -5253,7 +5352,7 @@ courses = [{
     "author": "Misko Hevery",
     "level": "Intermediate",
     "duration": 51,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-02-19T05:00:00.000Z",
     "users": []
 }, {
@@ -5264,7 +5363,7 @@ courses = [{
     "author": "Liam McLennan",
     "level": "Intermediate",
     "duration": 119,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2011-09-12T04:00:00.000Z",
     "users": []
 }, {
@@ -5275,7 +5374,7 @@ courses = [{
     "author": "Ben Sullins",
     "level": "Intermediate",
     "duration": 275,
-    "rating": "Not",
+    "rating": 4.5,
     "released": "2014-04-23T04:00:00.000Z",
     "users": []
 }, {
@@ -5286,7 +5385,7 @@ courses = [{
     "author": "Keith Burnell",
     "level": "Intermediate",
     "duration": 113,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-07-11T04:00:00.000Z",
     "users": []
 }, {
@@ -5297,7 +5396,7 @@ courses = [{
     "author": "John Papa",
     "level": "Intermediate",
     "duration": 229,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-06-20T04:00:00.000Z",
     "users": []
 }, {
@@ -5308,7 +5407,7 @@ courses = [{
     "author": "Geoffrey Grosenbach",
     "level": "Intermediate",
     "duration": 85,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-01-24T05:00:00.000Z",
     "users": []
 }, {
@@ -5319,7 +5418,7 @@ courses = [{
     "author": "Elijah Manor",
     "level": "Intermediate",
     "duration": 222,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-08-21T04:00:00.000Z",
     "users": []
 }, {
@@ -5330,7 +5429,7 @@ courses = [{
     "author": "Elijah Manor",
     "level": "Intermediate",
     "duration": 201,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-05-10T04:00:00.000Z",
     "users": []
 }, {
@@ -5341,7 +5440,7 @@ courses = [{
     "author": "Derik Whittaker",
     "level": "Intermediate",
     "duration": 78,
-    "rating": "3.4",
+    "rating": 3.4,
     "released": "2013-09-24T04:00:00.000Z",
     "users": []
 }, {
@@ -5352,7 +5451,7 @@ courses = [{
     "author": "Ian Johnson",
     "level": "Intermediate",
     "duration": 330,
-    "rating": "4.3",
+    "rating": 4.4,
     "released": "2013-12-20T05:00:00.000Z",
     "users": []
 }, {
@@ -5363,7 +5462,7 @@ courses = [{
     "author": "Scott Allen",
     "level": "Intermediate",
     "duration": 129,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-02-05T05:00:00.000Z",
     "users": []
 }, {
@@ -5374,7 +5473,7 @@ courses = [{
     "author": "Karl Swedberg",
     "level": "Intermediate",
     "duration": 214,
-    "rating": "3.5",
+    "rating": 3.5,
     "released": "2013-02-19T05:00:00.000Z",
     "users": []
 }, {
@@ -5385,7 +5484,7 @@ courses = [{
     "author": "Keith Burnell",
     "level": "Intermediate",
     "duration": 145,
-    "rating": "4.2",
+    "rating": 4.3,
     "released": "2012-08-28T04:00:00.000Z",
     "users": []
 }, {
@@ -5396,7 +5495,7 @@ courses = [{
     "author": "Aaron Powell",
     "level": "Intermediate",
     "duration": 122,
-    "rating": "3.8",
+    "rating": 3.8,
     "released": "2012-04-18T04:00:00.000Z",
     "users": []
 }, {
@@ -5407,7 +5506,7 @@ courses = [{
     "author": "Shawn Wildermuth",
     "level": "Intermediate",
     "duration": 125,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-08-21T04:00:00.000Z",
     "users": []
 }, {
@@ -5418,7 +5517,7 @@ courses = [{
     "author": "Douglas Crockford",
     "level": "Intermediate",
     "duration": 292,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2013-02-19T05:00:00.000Z",
     "users": []
 }, {
@@ -5429,7 +5528,7 @@ courses = [{
     "author": "Elijah Manor",
     "level": "Intermediate",
     "duration": 146,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-10-30T04:00:00.000Z",
     "users": []
 }, {
@@ -5440,7 +5539,7 @@ courses = [{
     "author": "Derik Whittaker",
     "level": "Intermediate",
     "duration": 136,
-    "rating": "4.4",
+    "rating": 4.3,
     "released": "2013-06-28T04:00:00.000Z",
     "users": []
 }, {
@@ -5451,7 +5550,7 @@ courses = [{
     "author": "Shawn Wildermuth",
     "level": "Intermediate",
     "duration": 169,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2014-01-24T05:00:00.000Z",
     "users": []
 }, {
@@ -5462,7 +5561,7 @@ courses = [{
     "author": "Geoffrey Grosenbach",
     "level": "Intermediate",
     "duration": 75,
-    "rating": "Not",
+    "rating": 3.7,
     "released": "2011-05-12T04:00:00.000Z",
     "users": []
 }, {
@@ -5473,7 +5572,7 @@ courses = [{
     "author": "Geoffrey Grosenbach",
     "level": "Intermediate",
     "duration": 51,
-    "rating": "4.2",
+    "rating": 4.3,
     "released": "2010-10-07T04:00:00.000Z",
     "users": []
 }, {
@@ -5484,7 +5583,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 172,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-10-01T04:00:00.000Z",
     "users": []
 }, {
@@ -5495,7 +5594,7 @@ courses = [{
     "author": "Rob Conery",
     "level": "Intermediate",
     "duration": 71,
-    "rating": "4.1",
+    "rating": 4,
     "released": "2012-02-12T05:00:00.000Z",
     "users": []
 }, {
@@ -5506,7 +5605,7 @@ courses = [{
     "author": "Geoffrey Grosenbachet al.",
     "level": "Intermediate",
     "duration": 134,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-12-13T05:00:00.000Z",
     "users": []
 }, {
@@ -5517,7 +5616,7 @@ courses = [{
     "author": "GrosenbachWildermuth",
     "level": "Intermediate",
     "duration": 143,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-12-19T05:00:00.000Z",
     "users": []
 }, {
@@ -5528,7 +5627,7 @@ courses = [{
     "author": "Geoffrey Grosenbach",
     "level": "Intermediate",
     "duration": 183,
-    "rating": "Not",
+    "rating": null,
     "released": "2007-05-01T04:00:00.000Z",
     "users": []
 }, {
@@ -5539,7 +5638,7 @@ courses = [{
     "author": "Liam McLennan",
     "level": "Intermediate",
     "duration": 164,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2014-03-19T04:00:00.000Z",
     "users": []
 }, {
@@ -5550,7 +5649,7 @@ courses = [{
     "author": "Peter Kellner",
     "level": "Intermediate",
     "duration": 272,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-07-08T04:00:00.000Z",
     "users": []
 }, {
@@ -5561,7 +5660,7 @@ courses = [{
     "author": "John Papa",
     "level": "Intermediate",
     "duration": 385,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2012-08-29T04:00:00.000Z",
     "users": []
 }, {
@@ -5572,7 +5671,7 @@ courses = [{
     "author": "Dan Wahlin",
     "level": "Intermediate",
     "duration": 130,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2011-12-12T05:00:00.000Z",
     "users": []
 }, {
@@ -5583,7 +5682,7 @@ courses = [{
     "author": "Joe Eames",
     "level": "Intermediate",
     "duration": 290,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-02-12T05:00:00.000Z",
     "users": []
 }, {
@@ -5594,7 +5693,7 @@ courses = [{
     "author": "Garann Means",
     "level": "Intermediate",
     "duration": 234,
-    "rating": "2.4",
+    "rating": 2.4,
     "released": "2013-07-13T04:00:00.000Z",
     "users": []
 }, {
@@ -5605,7 +5704,7 @@ courses = [{
     "author": "Craig Shoemaker",
     "level": "Intermediate",
     "duration": 175,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-05-08T04:00:00.000Z",
     "users": []
 }, {
@@ -5616,7 +5715,7 @@ courses = [{
     "author": "Kyle Simpson",
     "level": "Intermediate",
     "duration": 303,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-03-29T04:00:00.000Z",
     "users": []
 }, {
@@ -5627,7 +5726,7 @@ courses = [{
     "author": "Dan Wahlin",
     "level": "Beginner",
     "duration": 318,
-    "rating": "4.6",
+    "rating": 4.7,
     "released": "2011-02-21T05:00:00.000Z",
     "users": []
 }, {
@@ -5638,7 +5737,7 @@ courses = [{
     "author": "Scott Allen",
     "level": "Beginner",
     "duration": 114,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2011-11-28T05:00:00.000Z",
     "users": []
 }, {
@@ -5649,7 +5748,7 @@ courses = [{
     "author": "Elijah Manor",
     "level": "Intermediate",
     "duration": 127,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-06-28T04:00:00.000Z",
     "users": []
 }, {
@@ -5660,7 +5759,7 @@ courses = [{
     "author": "Mark Zamoyta",
     "level": "Intermediate",
     "duration": 221,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-10-08T04:00:00.000Z",
     "users": []
 }, {
@@ -5671,7 +5770,7 @@ courses = [{
     "author": "Mark Zamoyta",
     "level": "Intermediate",
     "duration": 215,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2014-01-09T05:00:00.000Z",
     "users": []
 }, {
@@ -5682,7 +5781,7 @@ courses = [{
     "author": "Karl Swedberg",
     "level": "Intermediate",
     "duration": 215,
-    "rating": "3.4",
+    "rating": 3.3,
     "released": "2013-02-19T05:00:00.000Z",
     "users": []
 }, {
@@ -5693,7 +5792,7 @@ courses = [{
     "author": "Scott Allen",
     "level": "Intermediate",
     "duration": 107,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2012-04-27T04:00:00.000Z",
     "users": []
 }, {
@@ -5704,7 +5803,7 @@ courses = [{
     "author": "Scott Gonzalez",
     "level": "Intermediate",
     "duration": 206,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2013-02-19T05:00:00.000Z",
     "users": []
 }, {
@@ -5715,7 +5814,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Intermediate",
     "duration": 61,
-    "rating": "4.4",
+    "rating": 4.5,
     "released": "2012-02-28T05:00:00.000Z",
     "users": []
 }, {
@@ -5726,7 +5825,7 @@ courses = [{
     "author": "WahlinManor",
     "level": "Intermediate",
     "duration": 263,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-07-18T04:00:00.000Z",
     "users": []
 }, {
@@ -5737,7 +5836,7 @@ courses = [{
     "author": "Robert Boedigheimer",
     "level": "Intermediate",
     "duration": 186,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2014-01-17T05:00:00.000Z",
     "users": []
 }, {
@@ -5748,7 +5847,7 @@ courses = [{
     "author": "Joe Eames",
     "level": "Advanced",
     "duration": 183,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-01-30T05:00:00.000Z",
     "users": []
 }, {
@@ -5759,7 +5858,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Beginner",
     "duration": 94,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-07-03T04:00:00.000Z",
     "users": []
 }, {
@@ -5770,7 +5869,7 @@ courses = [{
     "author": "Edin Kapic",
     "level": "Intermediate",
     "duration": 103,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-10-10T04:00:00.000Z",
     "users": []
 }, {
@@ -5781,7 +5880,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Intermediate",
     "duration": 306,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2014-02-21T05:00:00.000Z",
     "users": []
 }, {
@@ -5792,7 +5891,7 @@ courses = [{
     "author": "Scott Allen",
     "level": "Intermediate",
     "duration": 340,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2008-12-06T05:00:00.000Z",
     "users": []
 }, {
@@ -5803,7 +5902,7 @@ courses = [{
     "author": "Scott Allen",
     "level": "Intermediate",
     "duration": 290,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2008-10-26T04:00:00.000Z",
     "users": []
 }, {
@@ -5814,7 +5913,7 @@ courses = [{
     "author": "Deborah Kurata",
     "level": "Intermediate",
     "duration": 212,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-09-17T04:00:00.000Z",
     "users": []
 }, {
@@ -5825,7 +5924,7 @@ courses = [{
     "author": "Dan Sullivan",
     "level": "Advanced",
     "duration": 234,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2011-05-17T04:00:00.000Z",
     "users": []
 }, {
@@ -5836,7 +5935,7 @@ courses = [{
     "author": "Scott Allen",
     "level": "Advanced",
     "duration": 83,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2010-10-08T04:00:00.000Z",
     "users": []
 }, {
@@ -5847,7 +5946,7 @@ courses = [{
     "author": "Veronica Henry",
     "level": "Beginner",
     "duration": 336,
-    "rating": "3.9",
+    "rating": 3.9,
     "released": "2010-11-30T05:00:00.000Z",
     "users": []
 }, {
@@ -5858,7 +5957,7 @@ courses = [{
     "author": "Veronica Henry",
     "level": "Beginner",
     "duration": 464,
-    "rating": "3.5",
+    "rating": 3.6,
     "released": "2010-11-30T05:00:00.000Z",
     "users": []
 }, {
@@ -5869,7 +5968,7 @@ courses = [{
     "author": "Adron Hall",
     "level": "Intermediate",
     "duration": 63,
-    "rating": "3.5",
+    "rating": 3.6,
     "released": "2014-01-11T05:00:00.000Z",
     "users": []
 }, {
@@ -5880,7 +5979,7 @@ courses = [{
     "author": "Chris Brown",
     "level": "Intermediate",
     "duration": 139,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-09-23T04:00:00.000Z",
     "users": []
 }, {
@@ -5891,7 +5990,7 @@ courses = [{
     "author": "Reindert-Jan Ekker",
     "level": "Intermediate",
     "duration": 209,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-07-02T04:00:00.000Z",
     "users": []
 }, {
@@ -5902,7 +6001,7 @@ courses = [{
     "author": "Stephen McCassey",
     "level": "Intermediate",
     "duration": 220,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-07-13T04:00:00.000Z",
     "users": []
 }, {
@@ -5913,7 +6012,7 @@ courses = [{
     "author": "Stephen McCassey",
     "level": "Intermediate",
     "duration": 290,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-07-13T04:00:00.000Z",
     "users": []
 }, {
@@ -5924,7 +6023,7 @@ courses = [{
     "author": "Stephen McCassey",
     "level": "Intermediate",
     "duration": 219,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-07-13T04:00:00.000Z",
     "users": []
 }, {
@@ -5935,7 +6034,7 @@ courses = [{
     "author": "Stephen McCassey",
     "level": "Intermediate",
     "duration": 263,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-03-20T04:00:00.000Z",
     "users": []
 }, {
@@ -5946,7 +6045,7 @@ courses = [{
     "author": "Stephen McCassey",
     "level": "Intermediate",
     "duration": 316,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-03-20T04:00:00.000Z",
     "users": []
 }, {
@@ -5957,7 +6056,7 @@ courses = [{
     "author": "Heather Ackmann",
     "level": "Beginner",
     "duration": 163,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2008-06-03T04:00:00.000Z",
     "users": []
 }, {
@@ -5968,7 +6067,7 @@ courses = [{
     "author": "Heather Ackmann",
     "level": "Beginner",
     "duration": 247,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2008-06-03T04:00:00.000Z",
     "users": []
 }, {
@@ -5979,7 +6078,7 @@ courses = [{
     "author": "Heather Ackmann",
     "level": "Beginner",
     "duration": 314,
-    "rating": "Not",
+    "rating": null,
     "released": "2008-06-03T04:00:00.000Z",
     "users": []
 }, {
@@ -5990,7 +6089,7 @@ courses = [{
     "author": "Heather Ackmann",
     "level": "Beginner",
     "duration": 358,
-    "rating": "Not",
+    "rating": null,
     "released": "2008-06-03T04:00:00.000Z",
     "users": []
 }, {
@@ -6001,7 +6100,7 @@ courses = [{
     "author": "Heather Ackmann",
     "level": "Beginner",
     "duration": 173,
-    "rating": "Not",
+    "rating": null,
     "released": "2008-06-03T04:00:00.000Z",
     "users": []
 }, {
@@ -6012,7 +6111,7 @@ courses = [{
     "author": "Heather Ackmann",
     "level": "Beginner",
     "duration": 228,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2010-11-02T04:00:00.000Z",
     "users": []
 }, {
@@ -6023,7 +6122,7 @@ courses = [{
     "author": "Heather Ackmann",
     "level": "Beginner",
     "duration": 156,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-11-02T04:00:00.000Z",
     "users": []
 }, {
@@ -6034,7 +6133,7 @@ courses = [{
     "author": "Heather Ackmann",
     "level": "Beginner",
     "duration": 305,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-11-10T05:00:00.000Z",
     "users": []
 }, {
@@ -6045,7 +6144,7 @@ courses = [{
     "author": "Heather Ackmann",
     "level": "Beginner",
     "duration": 303,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-08-23T04:00:00.000Z",
     "users": []
 }, {
@@ -6056,7 +6155,7 @@ courses = [{
     "author": "Heather Ackmann",
     "level": "Beginner",
     "duration": 317,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-08-23T04:00:00.000Z",
     "users": []
 }, {
@@ -6067,7 +6166,7 @@ courses = [{
     "author": "Ben Howard",
     "level": "Beginner",
     "duration": 158,
-    "rating": "3.9",
+    "rating": 4,
     "released": "2014-01-06T05:00:00.000Z",
     "users": []
 }, {
@@ -6078,7 +6177,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Beginner",
     "duration": 241,
-    "rating": "Not",
+    "rating": null,
     "released": "2007-12-19T05:00:00.000Z",
     "users": []
 }, {
@@ -6089,7 +6188,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Beginner",
     "duration": 263,
-    "rating": "4.8",
+    "rating": 4.7,
     "released": "2007-12-19T05:00:00.000Z",
     "users": []
 }, {
@@ -6100,7 +6199,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Beginner",
     "duration": 201,
-    "rating": "Not",
+    "rating": 4.2,
     "released": "2007-12-19T05:00:00.000Z",
     "users": []
 }, {
@@ -6111,7 +6210,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Beginner",
     "duration": 189,
-    "rating": "4.4",
+    "rating": 4.5,
     "released": "2011-04-13T04:00:00.000Z",
     "users": []
 }, {
@@ -6122,7 +6221,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Beginner",
     "duration": 168,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2011-04-13T04:00:00.000Z",
     "users": []
 }, {
@@ -6133,7 +6232,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Beginner",
     "duration": 180,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2011-04-13T04:00:00.000Z",
     "users": []
 }, {
@@ -6144,7 +6243,7 @@ courses = [{
     "author": "Heather Ackmann",
     "level": "Beginner",
     "duration": 334,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2014-02-05T05:00:00.000Z",
     "users": []
 }, {
@@ -6155,7 +6254,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Beginner",
     "duration": 233,
-    "rating": "Not",
+    "rating": null,
     "released": "2007-10-30T04:00:00.000Z",
     "users": []
 }, {
@@ -6166,7 +6265,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Beginner",
     "duration": 286,
-    "rating": "Not",
+    "rating": null,
     "released": "2007-10-30T04:00:00.000Z",
     "users": []
 }, {
@@ -6177,7 +6276,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Beginner",
     "duration": 141,
-    "rating": "Not",
+    "rating": null,
     "released": "2007-10-30T04:00:00.000Z",
     "users": []
 }, {
@@ -6188,7 +6287,7 @@ courses = [{
     "author": "KultermanAckmann",
     "level": "Beginner",
     "duration": 244,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-04-13T04:00:00.000Z",
     "users": []
 }, {
@@ -6199,7 +6298,7 @@ courses = [{
     "author": "AckmannKulterman",
     "level": "Beginner",
     "duration": 284,
-    "rating": "4.9",
+    "rating": 4.9,
     "released": "2011-04-13T04:00:00.000Z",
     "users": []
 }, {
@@ -6210,7 +6309,7 @@ courses = [{
     "author": "Heather Ackmann",
     "level": "Beginner",
     "duration": 251,
-    "rating": "Not",
+    "rating": null,
     "released": "2009-01-20T05:00:00.000Z",
     "users": []
 }, {
@@ -6221,7 +6320,7 @@ courses = [{
     "author": "Heather Ackmann",
     "level": "Beginner",
     "duration": 302,
-    "rating": "Not",
+    "rating": null,
     "released": "2009-01-20T05:00:00.000Z",
     "users": []
 }, {
@@ -6232,7 +6331,7 @@ courses = [{
     "author": "Heather Ackmann",
     "level": "Beginner",
     "duration": 187,
-    "rating": "Not",
+    "rating": null,
     "released": "2009-01-20T05:00:00.000Z",
     "users": []
 }, {
@@ -6243,7 +6342,7 @@ courses = [{
     "author": "Heather Ackmann",
     "level": "Beginner",
     "duration": 270,
-    "rating": "Not",
+    "rating": null,
     "released": "2009-01-20T05:00:00.000Z",
     "users": []
 }, {
@@ -6254,7 +6353,7 @@ courses = [{
     "author": "Heather Ackmann",
     "level": "Beginner",
     "duration": 197,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-04-13T04:00:00.000Z",
     "users": []
 }, {
@@ -6265,7 +6364,7 @@ courses = [{
     "author": "Heather Ackmann",
     "level": "Beginner",
     "duration": 275,
-    "rating": "4.5",
+    "rating": 4.3,
     "released": "2011-04-13T04:00:00.000Z",
     "users": []
 }, {
@@ -6276,7 +6375,7 @@ courses = [{
     "author": "Heather Ackmann",
     "level": "Beginner",
     "duration": 243,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-04-13T04:00:00.000Z",
     "users": []
 }, {
@@ -6287,7 +6386,7 @@ courses = [{
     "author": "Heather Ackmann",
     "level": "Beginner",
     "duration": 457,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-04-29T04:00:00.000Z",
     "users": []
 }, {
@@ -6298,7 +6397,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Beginner",
     "duration": 242,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2008-10-23T04:00:00.000Z",
     "users": []
 }, {
@@ -6309,7 +6408,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Beginner",
     "duration": 263,
-    "rating": "Not",
+    "rating": null,
     "released": "2008-10-23T04:00:00.000Z",
     "users": []
 }, {
@@ -6320,7 +6419,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Beginner",
     "duration": 322,
-    "rating": "Not",
+    "rating": null,
     "released": "2008-10-23T04:00:00.000Z",
     "users": []
 }, {
@@ -6331,7 +6430,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Beginner",
     "duration": 183,
-    "rating": "Not",
+    "rating": null,
     "released": "2008-10-23T04:00:00.000Z",
     "users": []
 }, {
@@ -6342,7 +6441,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Beginner",
     "duration": 108,
-    "rating": "Not",
+    "rating": null,
     "released": "2008-10-23T04:00:00.000Z",
     "users": []
 }, {
@@ -6353,7 +6452,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Beginner",
     "duration": 302,
-    "rating": "Not",
+    "rating": null,
     "released": "2008-03-12T04:00:00.000Z",
     "users": []
 }, {
@@ -6364,7 +6463,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Beginner",
     "duration": 268,
-    "rating": "Not",
+    "rating": null,
     "released": "2008-03-12T04:00:00.000Z",
     "users": []
 }, {
@@ -6375,7 +6474,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Beginner",
     "duration": 295,
-    "rating": "Not",
+    "rating": null,
     "released": "2008-03-12T04:00:00.000Z",
     "users": []
 }, {
@@ -6386,7 +6485,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Beginner",
     "duration": 260,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-04-13T04:00:00.000Z",
     "users": []
 }, {
@@ -6397,7 +6496,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Beginner",
     "duration": 154,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2011-04-13T04:00:00.000Z",
     "users": []
 }, {
@@ -6408,7 +6507,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Beginner",
     "duration": 230,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-04-13T04:00:00.000Z",
     "users": []
 }, {
@@ -6419,7 +6518,7 @@ courses = [{
     "author": "Ron Schindler",
     "level": "Intermediate",
     "duration": 310,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2014-01-17T05:00:00.000Z",
     "users": []
 }, {
@@ -6430,7 +6529,7 @@ courses = [{
     "author": "Ken Getz",
     "level": "Intermediate",
     "duration": 224,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2014-01-22T05:00:00.000Z",
     "users": []
 }, {
@@ -6441,7 +6540,7 @@ courses = [{
     "author": "Terry Bradbury",
     "level": "Intermediate",
     "duration": 218,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-11-05T05:00:00.000Z",
     "users": []
 }, {
@@ -6452,7 +6551,7 @@ courses = [{
     "author": "Shawn Wildermuth",
     "level": "Beginner",
     "duration": 215,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-04-24T04:00:00.000Z",
     "users": []
 }, {
@@ -6463,7 +6562,7 @@ courses = [{
     "author": "Steve Michelotti",
     "level": "Intermediate",
     "duration": 194,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2014-01-18T05:00:00.000Z",
     "users": []
 }, {
@@ -6474,7 +6573,7 @@ courses = [{
     "author": "Jay Mcfarland",
     "level": "Intermediate",
     "duration": 218,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-10-25T04:00:00.000Z",
     "users": []
 }, {
@@ -6485,7 +6584,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 175,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-06-27T04:00:00.000Z",
     "users": []
 }, {
@@ -6496,7 +6595,7 @@ courses = [{
     "author": "Jay Mcfarland",
     "level": "Intermediate",
     "duration": 111,
-    "rating": "Not",
+    "rating": null,
     "released": "2014-01-30T05:00:00.000Z",
     "users": []
 }, {
@@ -6507,7 +6606,7 @@ courses = [{
     "author": "Jay Mcfarland",
     "level": "Intermediate",
     "duration": 175,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-10-17T04:00:00.000Z",
     "users": []
 }, {
@@ -6518,7 +6617,7 @@ courses = [{
     "author": "Jay Mcfarland",
     "level": "Intermediate",
     "duration": 191,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-11-25T05:00:00.000Z",
     "users": []
 }, {
@@ -6529,7 +6628,7 @@ courses = [{
     "author": "Rag Dhiman",
     "level": "Intermediate",
     "duration": 321,
-    "rating": "Not",
+    "rating": null,
     "released": "2014-04-23T04:00:00.000Z",
     "users": []
 }, {
@@ -6540,7 +6639,7 @@ courses = [{
     "author": "Jay Mcfarland",
     "level": "Intermediate",
     "duration": 152,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-11-06T05:00:00.000Z",
     "users": []
 }, {
@@ -6551,7 +6650,7 @@ courses = [{
     "author": "Michael Perry",
     "level": "Intermediate",
     "duration": 197,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-12-23T05:00:00.000Z",
     "users": []
 }, {
@@ -6562,7 +6661,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Intermediate",
     "duration": 381,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-07-23T04:00:00.000Z",
     "users": []
 }, {
@@ -6573,7 +6672,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Beginner",
     "duration": 309,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-12-15T05:00:00.000Z",
     "users": []
 }, {
@@ -6584,7 +6683,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Beginner",
     "duration": 299,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-10-14T04:00:00.000Z",
     "users": []
 }, {
@@ -6595,7 +6694,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Beginner",
     "duration": 260,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-04-06T04:00:00.000Z",
     "users": []
 }, {
@@ -6606,7 +6705,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 207,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-08-13T04:00:00.000Z",
     "users": []
 }, {
@@ -6617,7 +6716,7 @@ courses = [{
     "author": "Aaron Skonnard",
     "level": "Beginner",
     "duration": 219,
-    "rating": "Not",
+    "rating": null,
     "released": "2009-11-24T05:00:00.000Z",
     "users": []
 }, {
@@ -6628,7 +6727,7 @@ courses = [{
     "author": "Aaron Skonnard",
     "level": "Advanced",
     "duration": 235,
-    "rating": "Not",
+    "rating": null,
     "released": "2009-11-24T05:00:00.000Z",
     "users": []
 }, {
@@ -6639,7 +6738,7 @@ courses = [{
     "author": "Pinal Dave",
     "level": "Intermediate",
     "duration": 157,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-04-29T04:00:00.000Z",
     "users": []
 }, {
@@ -6650,7 +6749,7 @@ courses = [{
     "author": "Pinal Dave",
     "level": "Intermediate",
     "duration": 163,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-07-09T04:00:00.000Z",
     "users": []
 }, {
@@ -6661,7 +6760,7 @@ courses = [{
     "author": "Pinal Dave",
     "level": "Intermediate",
     "duration": 99,
-    "rating": "4.2",
+    "rating": 4.1,
     "released": "2013-08-26T04:00:00.000Z",
     "users": []
 }, {
@@ -6672,7 +6771,7 @@ courses = [{
     "author": "Pinal Dave",
     "level": "Intermediate",
     "duration": 110,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-12-30T05:00:00.000Z",
     "users": []
 }, {
@@ -6683,7 +6782,7 @@ courses = [{
     "author": "Pinal Dave",
     "level": "Intermediate",
     "duration": 112,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2014-01-23T05:00:00.000Z",
     "users": []
 }, {
@@ -6694,7 +6793,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Beginner",
     "duration": 721,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2009-05-06T04:00:00.000Z",
     "users": []
 }, {
@@ -6704,8 +6803,8 @@ courses = [{
     "description": "Part 1 of 3 in the CompTIA Network+ (2012 Objectives) series. This CompTIA Network+ course teaches you the fundamentals of networking. You'll learn how to install, configure and troubleshoot basic networking hardware, protocols and services so you can successfully implement and maintain networks. If you're an aspiring network support professional or just getting started with networking, this course is right for you. This is an entry-level certification, so no previous IT experience is needed, but some familiarity with computer hardware and software will be helpful.",
     "author": "Ed Liberman",
     "level": "Beginner",
-    "duration": 257,
-    "rating": "4.6",
+    "duration": 261,
+    "rating": 4.6,
     "released": "2012-08-07T04:00:00.000Z",
     "users": []
 }, {
@@ -6716,7 +6815,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Beginner",
     "duration": 258,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-08-07T04:00:00.000Z",
     "users": []
 }, {
@@ -6727,7 +6826,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Beginner",
     "duration": 256,
-    "rating": "4.6",
+    "rating": 4.7,
     "released": "2012-08-07T04:00:00.000Z",
     "users": []
 }, {
@@ -6738,7 +6837,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Beginner",
     "duration": 258,
-    "rating": "4.6",
+    "rating": 4.5,
     "released": "2012-02-21T05:00:00.000Z",
     "users": []
 }, {
@@ -6749,7 +6848,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Beginner",
     "duration": 227,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2012-02-21T05:00:00.000Z",
     "users": []
 }, {
@@ -6760,7 +6859,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Beginner",
     "duration": 125,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2008-10-23T04:00:00.000Z",
     "users": []
 }, {
@@ -6771,7 +6870,7 @@ courses = [{
     "author": "Steve Evans",
     "level": "Beginner",
     "duration": 86,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2012-03-29T04:00:00.000Z",
     "users": []
 }, {
@@ -6782,7 +6881,7 @@ courses = [{
     "author": "Joe Rinehart",
     "level": "Intermediate",
     "duration": 625,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2012-08-21T04:00:00.000Z",
     "users": []
 }, {
@@ -6793,7 +6892,7 @@ courses = [{
     "author": "Joe Rinehart",
     "level": "Intermediate",
     "duration": 1153,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2012-08-21T04:00:00.000Z",
     "users": []
 }, {
@@ -6804,7 +6903,7 @@ courses = [{
     "author": "Chris Wahl",
     "level": "Intermediate",
     "duration": 410,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-10-29T04:00:00.000Z",
     "users": []
 }, {
@@ -6815,7 +6914,7 @@ courses = [{
     "author": "Chris Wahl",
     "level": "Intermediate",
     "duration": 266,
-    "rating": "4.8",
+    "rating": 4.7,
     "released": "2014-01-27T05:00:00.000Z",
     "users": []
 }, {
@@ -6826,7 +6925,7 @@ courses = [{
     "author": "Joe Rinehart",
     "level": "Intermediate",
     "duration": 184,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-11-20T05:00:00.000Z",
     "users": []
 }, {
@@ -6837,7 +6936,7 @@ courses = [{
     "author": "Joe Rinehart",
     "level": "Intermediate",
     "duration": 193,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2012-11-20T05:00:00.000Z",
     "users": []
 }, {
@@ -6848,7 +6947,7 @@ courses = [{
     "author": "Joe Rinehart",
     "level": "Intermediate",
     "duration": 122,
-    "rating": "4.3",
+    "rating": 4.4,
     "released": "2012-11-20T05:00:00.000Z",
     "users": []
 }, {
@@ -6859,7 +6958,7 @@ courses = [{
     "author": "Joe Rinehart",
     "level": "Intermediate",
     "duration": 236,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-06-07T04:00:00.000Z",
     "users": []
 }, {
@@ -6870,7 +6969,7 @@ courses = [{
     "author": "Joe Rinehart",
     "level": "Intermediate",
     "duration": 326,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2011-06-07T04:00:00.000Z",
     "users": []
 }, {
@@ -6881,7 +6980,7 @@ courses = [{
     "author": "Joe Rinehart",
     "level": "Intermediate",
     "duration": 503,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-09-28T04:00:00.000Z",
     "users": []
 }, {
@@ -6892,7 +6991,7 @@ courses = [{
     "author": "Avril Salter",
     "level": "Intermediate",
     "duration": 301,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-11-20T05:00:00.000Z",
     "users": []
 }, {
@@ -6903,7 +7002,7 @@ courses = [{
     "author": "Avril Salter",
     "level": "Intermediate",
     "duration": 298,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-11-20T05:00:00.000Z",
     "users": []
 }, {
@@ -6914,7 +7013,7 @@ courses = [{
     "author": "Avril Salter",
     "level": "Intermediate",
     "duration": 200,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2012-11-20T05:00:00.000Z",
     "users": []
 }, {
@@ -6925,7 +7024,7 @@ courses = [{
     "author": "Ross Bagurdes",
     "level": "Intermediate",
     "duration": 293,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-10-21T04:00:00.000Z",
     "users": []
 }, {
@@ -6936,7 +7035,7 @@ courses = [{
     "author": "Ross Bagurdes",
     "level": "Intermediate",
     "duration": 245,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-08-26T04:00:00.000Z",
     "users": []
 }, {
@@ -6947,7 +7046,7 @@ courses = [{
     "author": "Ross Bagurdes",
     "level": "Intermediate",
     "duration": 218,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-08-26T04:00:00.000Z",
     "users": []
 }, {
@@ -6958,7 +7057,7 @@ courses = [{
     "author": "Ross Bagurdes",
     "level": "Intermediate",
     "duration": 326,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2014-02-17T05:00:00.000Z",
     "users": []
 }, {
@@ -6969,7 +7068,7 @@ courses = [{
     "author": "Ross Bagurdes",
     "level": "Intermediate",
     "duration": 337,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2013-08-26T04:00:00.000Z",
     "users": []
 }, {
@@ -6980,7 +7079,7 @@ courses = [{
     "author": "Ross Bagurdes",
     "level": "Intermediate",
     "duration": 337,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-08-26T04:00:00.000Z",
     "users": []
 }, {
@@ -6991,7 +7090,7 @@ courses = [{
     "author": "Ross Bagurdes",
     "level": "Intermediate",
     "duration": 125,
-    "rating": "4.8",
+    "rating": 4.9,
     "released": "2013-09-16T04:00:00.000Z",
     "users": []
 }, {
@@ -7002,7 +7101,7 @@ courses = [{
     "author": "Joe Rinehart",
     "level": "Intermediate",
     "duration": 261,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-11-29T05:00:00.000Z",
     "users": []
 }, {
@@ -7013,7 +7112,7 @@ courses = [{
     "author": "Joe Rinehart",
     "level": "Intermediate",
     "duration": 198,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-11-29T05:00:00.000Z",
     "users": []
 }, {
@@ -7024,7 +7123,7 @@ courses = [{
     "author": "Joe Rinehart",
     "level": "Intermediate",
     "duration": 388,
-    "rating": "3.7",
+    "rating": 3.8,
     "released": "2011-11-29T05:00:00.000Z",
     "users": []
 }, {
@@ -7035,7 +7134,7 @@ courses = [{
     "author": "Joe Rinehart",
     "level": "Intermediate",
     "duration": 122,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-02-07T05:00:00.000Z",
     "users": []
 }, {
@@ -7046,7 +7145,7 @@ courses = [{
     "author": "Joe Rinehart",
     "level": "Intermediate",
     "duration": 300,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-02-07T05:00:00.000Z",
     "users": []
 }, {
@@ -7057,7 +7156,7 @@ courses = [{
     "author": "Joe Rinehart",
     "level": "Intermediate",
     "duration": 215,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-02-07T05:00:00.000Z",
     "users": []
 }, {
@@ -7068,7 +7167,7 @@ courses = [{
     "author": "Joe Rinehart",
     "level": "Intermediate",
     "duration": 331,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-05-15T04:00:00.000Z",
     "users": []
 }, {
@@ -7079,7 +7178,7 @@ courses = [{
     "author": "Joe Rinehart",
     "level": "Intermediate",
     "duration": 268,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-05-12T04:00:00.000Z",
     "users": []
 }, {
@@ -7090,7 +7189,7 @@ courses = [{
     "author": "Joe Rinehart",
     "level": "Intermediate",
     "duration": 229,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-05-15T04:00:00.000Z",
     "users": []
 }, {
@@ -7101,7 +7200,7 @@ courses = [{
     "author": "Avril Salter",
     "level": "Intermediate",
     "duration": 322,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-06-26T04:00:00.000Z",
     "users": []
 }, {
@@ -7112,7 +7211,7 @@ courses = [{
     "author": "Avril Salter",
     "level": "Intermediate",
     "duration": 318,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-06-26T04:00:00.000Z",
     "users": []
 }, {
@@ -7123,7 +7222,7 @@ courses = [{
     "author": "Joe Rinehart",
     "level": "Intermediate",
     "duration": 528,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-08-21T04:00:00.000Z",
     "users": []
 }, {
@@ -7134,7 +7233,7 @@ courses = [{
     "author": "Robert Juric",
     "level": "Intermediate",
     "duration": 219,
-    "rating": "4.1",
+    "rating": 4.2,
     "released": "2013-12-03T05:00:00.000Z",
     "users": []
 }, {
@@ -7145,7 +7244,7 @@ courses = [{
     "author": "Rhonda Layfield",
     "level": "Intermediate",
     "duration": 339,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2011-10-11T04:00:00.000Z",
     "users": []
 }, {
@@ -7156,7 +7255,7 @@ courses = [{
     "author": "Ross Bagurdes",
     "level": "Intermediate",
     "duration": 206,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-06-19T04:00:00.000Z",
     "users": []
 }, {
@@ -7167,7 +7266,7 @@ courses = [{
     "author": "Joe Astorino",
     "level": "Advanced",
     "duration": 304,
-    "rating": "Not",
+    "rating": null,
     "released": "2014-01-16T05:00:00.000Z",
     "users": []
 }, {
@@ -7178,7 +7277,7 @@ courses = [{
     "author": "Joe Astorino",
     "level": "Advanced",
     "duration": 335,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-08-14T04:00:00.000Z",
     "users": []
 }, {
@@ -7189,7 +7288,7 @@ courses = [{
     "author": "Joe Astorino",
     "level": "Advanced",
     "duration": 478,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-11-04T05:00:00.000Z",
     "users": []
 }, {
@@ -7200,7 +7299,7 @@ courses = [{
     "author": "Joe Astorino",
     "level": "Advanced",
     "duration": 264,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-08-14T04:00:00.000Z",
     "users": []
 }, {
@@ -7211,7 +7310,7 @@ courses = [{
     "author": "James Kovacs",
     "level": "Beginner",
     "duration": 181,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2012-03-27T04:00:00.000Z",
     "users": []
 }, {
@@ -7222,7 +7321,7 @@ courses = [{
     "author": "Geoffrey Grosenbach",
     "level": "Intermediate",
     "duration": 155,
-    "rating": "3.7",
+    "rating": 3.7,
     "released": "2012-04-27T04:00:00.000Z",
     "users": []
 }, {
@@ -7233,7 +7332,7 @@ courses = [{
     "author": "Paul O'Fallon",
     "level": "Intermediate",
     "duration": 168,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-12-20T05:00:00.000Z",
     "users": []
 }, {
@@ -7244,7 +7343,7 @@ courses = [{
     "author": "Geoffrey Grosenbach",
     "level": "Intermediate",
     "duration": 71,
-    "rating": "3.9",
+    "rating": 3.9,
     "released": "2010-08-30T04:00:00.000Z",
     "users": []
 }, {
@@ -7255,7 +7354,7 @@ courses = [{
     "author": "Paul O'Fallon",
     "level": "Intermediate",
     "duration": 204,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-08-21T04:00:00.000Z",
     "users": []
 }, {
@@ -7266,7 +7365,7 @@ courses = [{
     "author": "Shawn Wildermuth",
     "level": "Intermediate",
     "duration": 319,
-    "rating": "4.7",
+    "rating": 4.8,
     "released": "2014-03-31T04:00:00.000Z",
     "users": []
 }, {
@@ -7277,7 +7376,7 @@ courses = [{
     "author": "CaswellGrosenbach",
     "level": "Intermediate",
     "duration": 98,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2012-08-02T04:00:00.000Z",
     "users": []
 }, {
@@ -7288,7 +7387,7 @@ courses = [{
     "author": "Hadi Hariri",
     "level": "Intermediate",
     "duration": 134,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-09-27T04:00:00.000Z",
     "users": []
 }, {
@@ -7299,7 +7398,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Beginner",
     "duration": 183,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2012-02-09T05:00:00.000Z",
     "users": []
 }, {
@@ -7310,7 +7409,7 @@ courses = [{
     "author": "Andrew Brust",
     "level": "Beginner",
     "duration": 70,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2012-03-27T04:00:00.000Z",
     "users": []
 }, {
@@ -7321,8 +7420,19 @@ courses = [{
     "author": "Andrew Brust",
     "level": "Beginner",
     "duration": 160,
-    "rating": "3.9",
+    "rating": 3.9,
     "released": "2012-02-10T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "NoSQL",
+    "name": "Big Data & Reporting with MongoDB",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/mongodb-big-data-reporting",
+    "description": "When it comes to large scale data analysis, NoSQL databases may pose unique challenges - especially with reporting and aggregation. In this course, you will learn how to go beyond simple queries against collections. We will cover key techniques and strategies for digging up and aggregating data in a Big Data world using MongoDB.",
+    "author": "Nuri Halperin",
+    "level": "Intermediate",
+    "duration": 146,
+    "rating": 4.8,
+    "released": "2014-04-28T04:00:00.000Z",
     "users": []
 }, {
     "category": "NoSQL",
@@ -7332,7 +7442,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 199,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-07-09T04:00:00.000Z",
     "users": []
 }, {
@@ -7343,7 +7453,7 @@ courses = [{
     "author": "Nuri Halperin",
     "level": "Intermediate",
     "duration": 147,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-07-11T04:00:00.000Z",
     "users": []
 }, {
@@ -7354,7 +7464,7 @@ courses = [{
     "author": "Adron Hall",
     "level": "Intermediate",
     "duration": 86,
-    "rating": "3.5",
+    "rating": 3.5,
     "released": "2013-11-12T05:00:00.000Z",
     "users": []
 }, {
@@ -7365,7 +7475,7 @@ courses = [{
     "author": "Dmitri Nesteruk",
     "level": "Intermediate",
     "duration": 169,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-04-04T04:00:00.000Z",
     "users": []
 }, {
@@ -7376,7 +7486,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Beginner",
     "duration": 123,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2010-06-07T04:00:00.000Z",
     "users": []
 }, {
@@ -7387,7 +7497,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Intermediate",
     "duration": 137,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2012-01-25T05:00:00.000Z",
     "users": []
 }, {
@@ -7398,7 +7508,7 @@ courses = [{
     "author": "Pankaj Jain",
     "level": "Beginner",
     "duration": 268,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2014-03-03T05:00:00.000Z",
     "users": []
 }, {
@@ -7409,7 +7519,7 @@ courses = [{
     "author": "Scott Hecht",
     "level": "Intermediate",
     "duration": 144,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-12-06T05:00:00.000Z",
     "users": []
 }, {
@@ -7420,7 +7530,7 @@ courses = [{
     "author": "Scott Hecht",
     "level": "Intermediate",
     "duration": 226,
-    "rating": "Not",
+    "rating": 4.4,
     "released": "2014-04-15T04:00:00.000Z",
     "users": []
 }, {
@@ -7431,7 +7541,7 @@ courses = [{
     "author": "Robert Boedigheimer",
     "level": "Intermediate",
     "duration": 159,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2012-11-21T05:00:00.000Z",
     "users": []
 }, {
@@ -7442,7 +7552,7 @@ courses = [{
     "author": "Robert Boedigheimer",
     "level": "Intermediate",
     "duration": 171,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-08-08T04:00:00.000Z",
     "users": []
 }, {
@@ -7453,7 +7563,7 @@ courses = [{
     "author": "Troy Kranendonk",
     "level": "Beginner",
     "duration": 129,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-11-20T05:00:00.000Z",
     "users": []
 }, {
@@ -7464,7 +7574,7 @@ courses = [{
     "author": "Alexander Zanfir",
     "level": "Intermediate",
     "duration": 192,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2014-02-14T05:00:00.000Z",
     "users": []
 }, {
@@ -7475,7 +7585,7 @@ courses = [{
     "author": "Peter Shaw",
     "level": "Intermediate",
     "duration": 53,
-    "rating": "3.5",
+    "rating": 3.5,
     "released": "2013-04-10T04:00:00.000Z",
     "users": []
 }, {
@@ -7486,7 +7596,7 @@ courses = [{
     "author": "Dan Sullivan",
     "level": "Intermediate",
     "duration": 298,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-03-29T04:00:00.000Z",
     "users": []
 }, {
@@ -7497,7 +7607,7 @@ courses = [{
     "author": "Chris Brown",
     "level": "Intermediate",
     "duration": 300,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2014-02-25T05:00:00.000Z",
     "users": []
 }, {
@@ -7508,7 +7618,7 @@ courses = [{
     "author": "Dan Bunker",
     "level": "Intermediate",
     "duration": 190,
-    "rating": "4.2",
+    "rating": 4.1,
     "released": "2014-02-26T05:00:00.000Z",
     "users": []
 }, {
@@ -7519,7 +7629,7 @@ courses = [{
     "author": "Jill Gundersen",
     "level": "Intermediate",
     "duration": 239,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-11-26T05:00:00.000Z",
     "users": []
 }, {
@@ -7530,7 +7640,7 @@ courses = [{
     "author": "Elton Stoneman",
     "level": "Intermediate",
     "duration": 172,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-07-31T04:00:00.000Z",
     "users": []
 }, {
@@ -7541,7 +7651,7 @@ courses = [{
     "author": "Robert Cain",
     "level": "Beginner",
     "duration": 161,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-09-07T04:00:00.000Z",
     "users": []
 }, {
@@ -7552,7 +7662,7 @@ courses = [{
     "author": "EimermanMinasi",
     "level": "Beginner",
     "duration": 100,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2014-03-28T04:00:00.000Z",
     "users": []
 }, {
@@ -7563,7 +7673,7 @@ courses = [{
     "author": "Mark Minasi",
     "level": "Beginner",
     "duration": 77,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2014-03-21T04:00:00.000Z",
     "users": []
 }, {
@@ -7574,7 +7684,7 @@ courses = [{
     "author": "Thomas Lee",
     "level": "Intermediate",
     "duration": 153,
-    "rating": "3.7",
+    "rating": 3.7,
     "released": "2012-08-23T04:00:00.000Z",
     "users": []
 }, {
@@ -7585,7 +7695,7 @@ courses = [{
     "author": "Jim Christopher",
     "level": "Intermediate",
     "duration": 243,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2012-11-30T05:00:00.000Z",
     "users": []
 }, {
@@ -7596,7 +7706,7 @@ courses = [{
     "author": "Thomas Lee",
     "level": "Intermediate",
     "duration": 152,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-03-20T04:00:00.000Z",
     "users": []
 }, {
@@ -7607,7 +7717,7 @@ courses = [{
     "author": "Thomas Lee",
     "level": "Intermediate",
     "duration": 146,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-09-12T04:00:00.000Z",
     "users": []
 }, {
@@ -7618,7 +7728,7 @@ courses = [{
     "author": "Robert Cain",
     "level": "Intermediate",
     "duration": 167,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2012-06-26T04:00:00.000Z",
     "users": []
 }, {
@@ -7629,7 +7739,7 @@ courses = [{
     "author": "Jim Christopher",
     "level": "Intermediate",
     "duration": 100,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-10-28T04:00:00.000Z",
     "users": []
 }, {
@@ -7640,7 +7750,7 @@ courses = [{
     "author": "Jeff Hicks",
     "level": "Intermediate",
     "duration": 223,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2011-08-22T04:00:00.000Z",
     "users": []
 }, {
@@ -7651,7 +7761,7 @@ courses = [{
     "author": "Jeff Hicks",
     "level": "Intermediate",
     "duration": 249,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2011-08-22T04:00:00.000Z",
     "users": []
 }, {
@@ -7662,7 +7772,7 @@ courses = [{
     "author": "Jeff Hicks",
     "level": "Intermediate",
     "duration": 266,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-08-22T04:00:00.000Z",
     "users": []
 }, {
@@ -7673,7 +7783,7 @@ courses = [{
     "author": "Jeff Hicks",
     "level": "Intermediate",
     "duration": 260,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-06-04T04:00:00.000Z",
     "users": []
 }, {
@@ -7684,7 +7794,7 @@ courses = [{
     "author": "Jeff Hicks",
     "level": "Intermediate",
     "duration": 294,
-    "rating": "4.9",
+    "rating": 4.8,
     "released": "2013-06-04T04:00:00.000Z",
     "users": []
 }, {
@@ -7695,7 +7805,7 @@ courses = [{
     "author": "Jeff Hicks",
     "level": "Intermediate",
     "duration": 382,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-06-04T04:00:00.000Z",
     "users": []
 }, {
@@ -7706,7 +7816,7 @@ courses = [{
     "author": "Jeff Hicks",
     "level": "Intermediate",
     "duration": 219,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-12-11T05:00:00.000Z",
     "users": []
 }, {
@@ -7717,7 +7827,7 @@ courses = [{
     "author": "Jeff Hicks",
     "level": "Intermediate",
     "duration": 208,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-12-11T05:00:00.000Z",
     "users": []
 }, {
@@ -7728,7 +7838,7 @@ courses = [{
     "author": "Thomas Lee",
     "level": "Intermediate",
     "duration": 138,
-    "rating": "3.3",
+    "rating": 3.3,
     "released": "2012-10-15T04:00:00.000Z",
     "users": []
 }, {
@@ -7739,7 +7849,7 @@ courses = [{
     "author": "Robert Cain",
     "level": "Intermediate",
     "duration": 96,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-12-07T05:00:00.000Z",
     "users": []
 }, {
@@ -7750,7 +7860,7 @@ courses = [{
     "author": "Jeff Hicks",
     "level": "Intermediate",
     "duration": 221,
-    "rating": "Not",
+    "rating": 4.5,
     "released": "2011-11-08T05:00:00.000Z",
     "users": []
 }, {
@@ -7761,7 +7871,7 @@ courses = [{
     "author": "Jeff Hicks",
     "level": "Intermediate",
     "duration": 231,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-11-08T05:00:00.000Z",
     "users": []
 }, {
@@ -7772,7 +7882,7 @@ courses = [{
     "author": "Jeff Hicks",
     "level": "Intermediate",
     "duration": 241,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-11-08T05:00:00.000Z",
     "users": []
 }, {
@@ -7783,7 +7893,7 @@ courses = [{
     "author": "Thomas Lee",
     "level": "Intermediate",
     "duration": 150,
-    "rating": "3.9",
+    "rating": 3.9,
     "released": "2011-10-28T04:00:00.000Z",
     "users": []
 }, {
@@ -7794,7 +7904,7 @@ courses = [{
     "author": "Jimmy Skowronski",
     "level": "Advanced",
     "duration": 119,
-    "rating": "4.0",
+    "rating": 3.8,
     "released": "2013-02-14T05:00:00.000Z",
     "users": []
 }, {
@@ -7805,7 +7915,7 @@ courses = [{
     "author": "Calvin Correli",
     "level": "Beginner",
     "duration": 86,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2008-11-25T05:00:00.000Z",
     "users": []
 }, {
@@ -7816,7 +7926,7 @@ courses = [{
     "author": "Richard Seroter",
     "level": "Beginner",
     "duration": 59,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2014-01-08T05:00:00.000Z",
     "users": []
 }, {
@@ -7827,7 +7937,7 @@ courses = [{
     "author": "Jay Mcfarland",
     "level": "Intermediate",
     "duration": 180,
-    "rating": "4.7",
+    "rating": 4.6,
     "released": "2013-12-13T05:00:00.000Z",
     "users": []
 }, {
@@ -7838,7 +7948,7 @@ courses = [{
     "author": "Phil Hagelberg",
     "level": "Intermediate",
     "duration": 58,
-    "rating": "3.9",
+    "rating": 3.9,
     "released": "2008-12-23T05:00:00.000Z",
     "users": []
 }, {
@@ -7849,7 +7959,7 @@ courses = [{
     "author": "Jason Roberts",
     "level": "Intermediate",
     "duration": 125,
-    "rating": "4",
+    "rating": 3.9,
     "released": "2014-02-06T05:00:00.000Z",
     "users": []
 }, {
@@ -7860,7 +7970,7 @@ courses = [{
     "author": "Jesse Liberty",
     "level": "Intermediate",
     "duration": 102,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-10-29T04:00:00.000Z",
     "users": []
 }, {
@@ -7871,7 +7981,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 170,
-    "rating": "4.5",
+    "rating": 4.6,
     "released": "2013-12-02T05:00:00.000Z",
     "users": []
 }, {
@@ -7882,7 +7992,7 @@ courses = [{
     "author": "Alan Dipert",
     "level": "Intermediate",
     "duration": 188,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2012-07-13T04:00:00.000Z",
     "users": []
 }, {
@@ -7893,7 +8003,7 @@ courses = [{
     "author": "HagelbergHickey",
     "level": "Intermediate",
     "duration": 65,
-    "rating": "Not",
+    "rating": null,
     "released": "2009-04-24T04:00:00.000Z",
     "users": []
 }, {
@@ -7904,7 +8014,7 @@ courses = [{
     "author": "Jeremy Jarrell",
     "level": "Intermediate",
     "duration": 217,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2014-01-28T05:00:00.000Z",
     "users": []
 }, {
@@ -7915,7 +8025,7 @@ courses = [{
     "author": "Benson Joeris",
     "level": "Intermediate",
     "duration": 177,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-08-16T04:00:00.000Z",
     "users": []
 }, {
@@ -7926,7 +8036,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 161,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-06-13T04:00:00.000Z",
     "users": []
 }, {
@@ -7937,7 +8047,7 @@ courses = [{
     "author": "John Purcell",
     "level": "Intermediate",
     "duration": 157,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2013-01-01T05:00:00.000Z",
     "users": []
 }, {
@@ -7948,7 +8058,7 @@ courses = [{
     "author": "John Purcell",
     "level": "Intermediate",
     "duration": 216,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-01-01T05:00:00.000Z",
     "users": []
 }, {
@@ -7959,7 +8069,7 @@ courses = [{
     "author": "John Purcell",
     "level": "Intermediate",
     "duration": 263,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-01-01T05:00:00.000Z",
     "users": []
 }, {
@@ -7970,7 +8080,7 @@ courses = [{
     "author": "John Purcell",
     "level": "Intermediate",
     "duration": 168,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-01-01T05:00:00.000Z",
     "users": []
 }, {
@@ -7981,8 +8091,19 @@ courses = [{
     "author": "Jose Valim",
     "level": "Intermediate",
     "duration": 125,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-06-18T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Programming Languages",
+    "name": "POV-Ray Fundamentals",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/pov-ray-fundamentals",
+    "description": "This course will arm you with all the skills you need to start ray-tracing and 3D modeling using the POV-Ray ray-tracer.",
+    "author": "Felbrigg Herriot",
+    "level": "Intermediate",
+    "duration": 399,
+    "rating": null,
+    "released": "2014-05-01T04:00:00.000Z",
     "users": []
 }, {
     "category": "Programming Languages",
@@ -7992,7 +8113,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 275,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-02-15T05:00:00.000Z",
     "users": []
 }, {
@@ -8003,7 +8124,7 @@ courses = [{
     "author": "Craig Andera",
     "level": "Advanced",
     "duration": 154,
-    "rating": "4.7",
+    "rating": 4.6,
     "released": "2010-04-09T04:00:00.000Z",
     "users": []
 }, {
@@ -8014,7 +8135,7 @@ courses = [{
     "author": "Reindert-Jan Ekker",
     "level": "Intermediate",
     "duration": 189,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2014-01-31T05:00:00.000Z",
     "users": []
 }, {
@@ -8025,7 +8146,7 @@ courses = [{
     "author": "Filip Ekberg",
     "level": "Intermediate",
     "duration": 258,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-12-18T05:00:00.000Z",
     "users": []
 }, {
@@ -8036,7 +8157,7 @@ courses = [{
     "author": "BinghamSmallshire",
     "level": "Intermediate",
     "duration": 301,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-08-21T04:00:00.000Z",
     "users": []
 }, {
@@ -8047,7 +8168,7 @@ courses = [{
     "author": "Emily Bache",
     "level": "Intermediate",
     "duration": 178,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-11-01T04:00:00.000Z",
     "users": []
 }, {
@@ -8058,7 +8179,7 @@ courses = [{
     "author": "ShawGrosenbach",
     "level": "Advanced",
     "duration": 111,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2011-04-29T04:00:00.000Z",
     "users": []
 }, {
@@ -8069,7 +8190,7 @@ courses = [{
     "author": "Scott Allen",
     "level": "Beginner",
     "duration": 21,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2010-01-25T05:00:00.000Z",
     "users": []
 }, {
@@ -8080,7 +8201,7 @@ courses = [{
     "author": "Dan Benjamin",
     "level": "Beginner",
     "duration": 64,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2009-10-12T04:00:00.000Z",
     "users": []
 }, {
@@ -8091,7 +8212,7 @@ courses = [{
     "author": "Geoffrey Grosenbachet al.",
     "level": "Beginner",
     "duration": 111,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-03-08T05:00:00.000Z",
     "users": []
 }, {
@@ -8102,7 +8223,7 @@ courses = [{
     "author": "HwangGrosenbach",
     "level": "Beginner",
     "duration": 76,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-03-31T04:00:00.000Z",
     "users": []
 }, {
@@ -8113,7 +8234,7 @@ courses = [{
     "author": "BarnetteGrosenbach",
     "level": "Beginner",
     "duration": 111,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-02-01T05:00:00.000Z",
     "users": []
 }, {
@@ -8124,7 +8245,7 @@ courses = [{
     "author": "Dan Bunker",
     "level": "Intermediate",
     "duration": 236,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-05-23T04:00:00.000Z",
     "users": []
 }, {
@@ -8135,7 +8256,7 @@ courses = [{
     "author": "Xavier Shay",
     "level": "Intermediate",
     "duration": 105,
-    "rating": "Not",
+    "rating": null,
     "released": "2014-04-09T04:00:00.000Z",
     "users": []
 }, {
@@ -8146,7 +8267,7 @@ courses = [{
     "author": "Joshua Sierles",
     "level": "Intermediate",
     "duration": 111,
-    "rating": "3.9",
+    "rating": 3.8,
     "released": "2012-10-05T04:00:00.000Z",
     "users": []
 }, {
@@ -8157,7 +8278,7 @@ courses = [{
     "author": "Dan Sinclair",
     "level": "Intermediate",
     "duration": 93,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-06-13T04:00:00.000Z",
     "users": []
 }, {
@@ -8168,7 +8289,7 @@ courses = [{
     "author": "GrosenbachVollmer",
     "level": "Intermediate",
     "duration": 74,
-    "rating": "Not",
+    "rating": null,
     "released": "2009-05-19T04:00:00.000Z",
     "users": []
 }, {
@@ -8179,7 +8300,7 @@ courses = [{
     "author": "Geoffrey Grosenbach",
     "level": "Intermediate",
     "duration": 54,
-    "rating": "Not",
+    "rating": null,
     "released": "2008-07-04T04:00:00.000Z",
     "users": []
 }, {
@@ -8190,7 +8311,7 @@ courses = [{
     "author": "Geoffrey Grosenbach",
     "level": "Intermediate",
     "duration": 1,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-04-11T04:00:00.000Z",
     "users": []
 }, {
@@ -8201,7 +8322,7 @@ courses = [{
     "author": "WeirichGrosenbach",
     "level": "Intermediate",
     "duration": 90,
-    "rating": "Not",
+    "rating": 3.9,
     "released": "2012-03-16T04:00:00.000Z",
     "users": []
 }, {
@@ -8212,7 +8333,7 @@ courses = [{
     "author": "OwenGrosenbach",
     "level": "Intermediate",
     "duration": 126,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-08-17T04:00:00.000Z",
     "users": []
 }, {
@@ -8223,7 +8344,7 @@ courses = [{
     "author": "Geoffrey Grosenbach",
     "level": "Intermediate",
     "duration": 185,
-    "rating": "Not",
+    "rating": null,
     "released": "2007-07-06T04:00:00.000Z",
     "users": []
 }, {
@@ -8234,7 +8355,7 @@ courses = [{
     "author": "Geoffrey Grosenbach",
     "level": "Intermediate",
     "duration": 191,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2012-12-23T05:00:00.000Z",
     "users": []
 }, {
@@ -8245,7 +8366,7 @@ courses = [{
     "author": "Alex Korban",
     "level": "Intermediate",
     "duration": 222,
-    "rating": "4.3",
+    "rating": 4.4,
     "released": "2013-06-20T04:00:00.000Z",
     "users": []
 }, {
@@ -8256,7 +8377,7 @@ courses = [{
     "author": "Dustin Davis",
     "level": "Intermediate",
     "duration": 159,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-05-14T04:00:00.000Z",
     "users": []
 }, {
@@ -8267,7 +8388,7 @@ courses = [{
     "author": "Rob Conery",
     "level": "Intermediate",
     "duration": 297,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-07-30T04:00:00.000Z",
     "users": []
 }, {
@@ -8278,7 +8399,7 @@ courses = [{
     "author": "Geoffrey Grosenbach",
     "level": "Intermediate",
     "duration": 72,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-03-10T05:00:00.000Z",
     "users": []
 }, {
@@ -8289,7 +8410,7 @@ courses = [{
     "author": "GrosenbachSaternos",
     "level": "Intermediate",
     "duration": 48,
-    "rating": "Not",
+    "rating": null,
     "released": "2008-10-31T04:00:00.000Z",
     "users": []
 }, {
@@ -8300,7 +8421,7 @@ courses = [{
     "author": "Xavier Shay",
     "level": "Intermediate",
     "duration": 118,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-10-03T04:00:00.000Z",
     "users": []
 }, {
@@ -8311,7 +8432,7 @@ courses = [{
     "author": "BernhardtGrosenbach",
     "level": "Advanced",
     "duration": 99,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-12-31T05:00:00.000Z",
     "users": []
 }, {
@@ -8322,7 +8443,7 @@ courses = [{
     "author": "Geoffrey Grosenbach",
     "level": "Beginner",
     "duration": 168,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2010-10-22T04:00:00.000Z",
     "users": []
 }, {
@@ -8333,7 +8454,7 @@ courses = [{
     "author": "Geoffrey Grosenbach",
     "level": "Intermediate",
     "duration": 58,
-    "rating": "Not",
+    "rating": null,
     "released": "2009-01-13T05:00:00.000Z",
     "users": []
 }, {
@@ -8344,7 +8465,7 @@ courses = [{
     "author": "Geoffrey Grosenbach",
     "level": "Intermediate",
     "duration": 93,
-    "rating": "Not",
+    "rating": null,
     "released": "2007-02-21T05:00:00.000Z",
     "users": []
 }, {
@@ -8355,7 +8476,7 @@ courses = [{
     "author": "PattersonGrosenbach",
     "level": "Intermediate",
     "duration": 116,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-02-25T05:00:00.000Z",
     "users": []
 }, {
@@ -8366,7 +8487,7 @@ courses = [{
     "author": "KatzGrosenbach",
     "level": "Intermediate",
     "duration": 142,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-06-29T04:00:00.000Z",
     "users": []
 }, {
@@ -8377,7 +8498,7 @@ courses = [{
     "author": "Geoffrey Grosenbach",
     "level": "Intermediate",
     "duration": 153,
-    "rating": "Not",
+    "rating": null,
     "released": "2007-06-20T04:00:00.000Z",
     "users": []
 }, {
@@ -8388,7 +8509,7 @@ courses = [{
     "author": "Geoffrey Grosenbach",
     "level": "Intermediate",
     "duration": 57,
-    "rating": "Not",
+    "rating": null,
     "released": "2008-06-02T04:00:00.000Z",
     "users": []
 }, {
@@ -8399,7 +8520,7 @@ courses = [{
     "author": "Geoffrey Grosenbach",
     "level": "Intermediate",
     "duration": 55,
-    "rating": "Not",
+    "rating": null,
     "released": "2006-12-26T05:00:00.000Z",
     "users": []
 }, {
@@ -8410,7 +8531,7 @@ courses = [{
     "author": "Nic Williams",
     "level": "Intermediate",
     "duration": 67,
-    "rating": "Not",
+    "rating": null,
     "released": "2008-03-15T04:00:00.000Z",
     "users": []
 }, {
@@ -8421,7 +8542,7 @@ courses = [{
     "author": "Don Robins",
     "level": "Beginner",
     "duration": 84,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-01-30T05:00:00.000Z",
     "users": []
 }, {
@@ -8432,7 +8553,7 @@ courses = [{
     "author": "Dan Appleman",
     "level": "Intermediate",
     "duration": 196,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2012-11-08T05:00:00.000Z",
     "users": []
 }, {
@@ -8443,7 +8564,7 @@ courses = [{
     "author": "Adam Purkiss",
     "level": "Intermediate",
     "duration": 182,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-11-27T05:00:00.000Z",
     "users": []
 }, {
@@ -8454,7 +8575,7 @@ courses = [{
     "author": "Adam Purkiss",
     "level": "Intermediate",
     "duration": 105,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-05-02T04:00:00.000Z",
     "users": []
 }, {
@@ -8465,7 +8586,7 @@ courses = [{
     "author": "Dan Appleman",
     "level": "Intermediate",
     "duration": 97,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-02-26T05:00:00.000Z",
     "users": []
 }, {
@@ -8476,7 +8597,7 @@ courses = [{
     "author": "Richard Seroter",
     "level": "Intermediate",
     "duration": 347,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2012-08-24T04:00:00.000Z",
     "users": []
 }, {
@@ -8487,7 +8608,7 @@ courses = [{
     "author": "Matt Lacey",
     "level": "Intermediate",
     "duration": 152,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-07-31T04:00:00.000Z",
     "users": []
 }, {
@@ -8498,7 +8619,7 @@ courses = [{
     "author": "David Chappell",
     "level": "Beginner",
     "duration": 60,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-03-04T05:00:00.000Z",
     "users": []
 }, {
@@ -8509,7 +8630,7 @@ courses = [{
     "author": "Paul Gadbois",
     "level": "Beginner",
     "duration": 1289,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-04-28T04:00:00.000Z",
     "users": []
 }, {
@@ -8520,7 +8641,7 @@ courses = [{
     "author": "Lisa Szpunar",
     "level": "Beginner",
     "duration": 225,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2011-12-27T05:00:00.000Z",
     "users": []
 }, {
@@ -8531,7 +8652,7 @@ courses = [{
     "author": "Lisa Szpunar",
     "level": "Beginner",
     "duration": 262,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-12-27T05:00:00.000Z",
     "users": []
 }, {
@@ -8542,7 +8663,7 @@ courses = [{
     "author": "Lisa Szpunar",
     "level": "Beginner",
     "duration": 231,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2011-12-27T05:00:00.000Z",
     "users": []
 }, {
@@ -8553,7 +8674,7 @@ courses = [{
     "author": "Don Jones",
     "level": "Beginner",
     "duration": 347,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2012-04-17T04:00:00.000Z",
     "users": []
 }, {
@@ -8564,7 +8685,7 @@ courses = [{
     "author": "Paul Lemmers",
     "level": "Intermediate",
     "duration": 28,
-    "rating": "3.0",
+    "rating": 3,
     "released": "2009-11-12T05:00:00.000Z",
     "users": []
 }, {
@@ -8575,7 +8696,7 @@ courses = [{
     "author": "Bobby Meador",
     "level": "Intermediate",
     "duration": 238,
-    "rating": "Not",
+    "rating": null,
     "released": "2014-03-07T05:00:00.000Z",
     "users": []
 }, {
@@ -8586,7 +8707,7 @@ courses = [{
     "author": "Patrick Hynds",
     "level": "Intermediate",
     "duration": 63,
-    "rating": "3.7",
+    "rating": 3.8,
     "released": "2013-06-17T04:00:00.000Z",
     "users": []
 }, {
@@ -8597,7 +8718,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Intermediate",
     "duration": 393,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-08-20T04:00:00.000Z",
     "users": []
 }, {
@@ -8608,7 +8729,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Intermediate",
     "duration": 119,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-08-20T04:00:00.000Z",
     "users": []
 }, {
@@ -8619,7 +8740,7 @@ courses = [{
     "author": "Troy Hunt",
     "level": "Intermediate",
     "duration": 565,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2013-08-30T04:00:00.000Z",
     "users": []
 }, {
@@ -8630,7 +8751,7 @@ courses = [{
     "author": "Robert Boedigheimer",
     "level": "Intermediate",
     "duration": 123,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-04-30T04:00:00.000Z",
     "users": []
 }, {
@@ -8641,7 +8762,7 @@ courses = [{
     "author": "Dominick Baier",
     "level": "Intermediate",
     "duration": 144,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2012-06-21T04:00:00.000Z",
     "users": []
 }, {
@@ -8652,7 +8773,7 @@ courses = [{
     "author": "Dominick Baier",
     "level": "Intermediate",
     "duration": 143,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-06-26T04:00:00.000Z",
     "users": []
 }, {
@@ -8663,7 +8784,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 267,
-    "rating": "Not",
+    "rating": null,
     "released": "2005-06-15T04:00:00.000Z",
     "users": []
 }, {
@@ -8674,7 +8795,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 187,
-    "rating": "Not",
+    "rating": null,
     "released": "2005-06-15T04:00:00.000Z",
     "users": []
 }, {
@@ -8685,7 +8806,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 203,
-    "rating": "Not",
+    "rating": null,
     "released": "2005-06-15T04:00:00.000Z",
     "users": []
 }, {
@@ -8696,7 +8817,7 @@ courses = [{
     "author": "Troy Hunt",
     "level": "Intermediate",
     "duration": 486,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2013-04-30T04:00:00.000Z",
     "users": []
 }, {
@@ -8707,7 +8828,7 @@ courses = [{
     "author": "Tony Northrup",
     "level": "Intermediate",
     "duration": 201,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-06-28T04:00:00.000Z",
     "users": []
 }, {
@@ -8718,7 +8839,7 @@ courses = [{
     "author": "Tony Northrup",
     "level": "Intermediate",
     "duration": 250,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-06-28T04:00:00.000Z",
     "users": []
 }, {
@@ -8729,7 +8850,7 @@ courses = [{
     "author": "Tony Northrup",
     "level": "Intermediate",
     "duration": 179,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2013-06-28T04:00:00.000Z",
     "users": []
 }, {
@@ -8740,7 +8861,7 @@ courses = [{
     "author": "Tony Northrup",
     "level": "Intermediate",
     "duration": 218,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-06-28T04:00:00.000Z",
     "users": []
 }, {
@@ -8751,7 +8872,7 @@ courses = [{
     "author": "Tony Northrup",
     "level": "Intermediate",
     "duration": 347,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-06-28T04:00:00.000Z",
     "users": []
 }, {
@@ -8762,8 +8883,19 @@ courses = [{
     "author": "Troy Hunt",
     "level": "Intermediate",
     "duration": 123,
-    "rating": "4.5",
+    "rating": 4.6,
     "released": "2014-03-18T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Security",
+    "name": "What's New in the OWASP Top 10 for 2013",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/owasp-top-10-whats-new-2013",
+    "description": "The Top 10 Web application security risks produced by OWASP is an evolving resource that helps organizations focus on the most prominent risks in web security today. Every few years we see a revision; the types of attacks we’re witnessing change, the defenses change, and the risk and associated priority changes. OWASP adapts to this changing environment and recently made available the 2013 edition of the Top 10. This course is designed to help those who already have an awareness of the Top 10 understand what’s new in the latest edition and how the landscape has changed in three short years. It also introduces the concept of “Risk Assessments” and provides further resources to help go beyond just the Top 10 risks.",
+    "author": "Troy Hunt",
+    "level": "Intermediate",
+    "duration": 94,
+    "rating": 3.9,
+    "released": "2014-04-28T04:00:00.000Z",
     "users": []
 }, {
     "category": "Security",
@@ -8773,7 +8905,7 @@ courses = [{
     "author": "Niraj Bhatt",
     "level": "Intermediate",
     "duration": 286,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2012-08-30T04:00:00.000Z",
     "users": []
 }, {
@@ -8784,7 +8916,7 @@ courses = [{
     "author": "Paul Lemmers",
     "level": "Advanced",
     "duration": 288,
-    "rating": "3.4",
+    "rating": 3.4,
     "released": "2011-05-31T04:00:00.000Z",
     "users": []
 }, {
@@ -8795,7 +8927,7 @@ courses = [{
     "author": "David Mann",
     "level": "Beginner",
     "duration": 64,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -8806,7 +8938,7 @@ courses = [{
     "author": "Dan Wahlin",
     "level": "Beginner",
     "duration": 46,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2009-11-12T05:00:00.000Z",
     "users": []
 }, {
@@ -8817,7 +8949,7 @@ courses = [{
     "author": "OnionMalik",
     "level": "Beginner",
     "duration": 449,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2010-06-29T04:00:00.000Z",
     "users": []
 }, {
@@ -8828,7 +8960,7 @@ courses = [{
     "author": "Janis Hall",
     "level": "Beginner",
     "duration": 128,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2010-03-24T04:00:00.000Z",
     "users": []
 }, {
@@ -8839,7 +8971,7 @@ courses = [{
     "author": "PattisonConnell",
     "level": "Beginner",
     "duration": 194,
-    "rating": "3.9",
+    "rating": 3.9,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -8850,7 +8982,7 @@ courses = [{
     "author": "Wendy Henry",
     "level": "Beginner",
     "duration": 50,
-    "rating": "3.4",
+    "rating": 3.4,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -8861,7 +8993,7 @@ courses = [{
     "author": "Ted Pattison",
     "level": "Beginner",
     "duration": 71,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -8872,7 +9004,7 @@ courses = [{
     "author": "Rob Windsor",
     "level": "Beginner",
     "duration": 250,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-02-21T05:00:00.000Z",
     "users": []
 }, {
@@ -8883,7 +9015,7 @@ courses = [{
     "author": "Wendy Henry",
     "level": "Beginner",
     "duration": 56,
-    "rating": "3.0",
+    "rating": 3,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -8894,7 +9026,7 @@ courses = [{
     "author": "Wendy Henry",
     "level": "Beginner",
     "duration": 118,
-    "rating": "3.5",
+    "rating": 3.5,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -8905,7 +9037,7 @@ courses = [{
     "author": "Wendy Henry",
     "level": "Beginner",
     "duration": 334,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -8916,7 +9048,7 @@ courses = [{
     "author": "Andrew Connell",
     "level": "Beginner",
     "duration": 341,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -8927,7 +9059,7 @@ courses = [{
     "author": "Wendy Henry",
     "level": "Beginner",
     "duration": 65,
-    "rating": "3.6",
+    "rating": 3.6,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -8938,7 +9070,7 @@ courses = [{
     "author": "Wendy Henry",
     "level": "Beginner",
     "duration": 62,
-    "rating": "3.3",
+    "rating": 3.5,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -8949,7 +9081,7 @@ courses = [{
     "author": "Rob Windsor",
     "level": "Beginner",
     "duration": 424,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-11-07T05:00:00.000Z",
     "users": []
 }, {
@@ -8960,7 +9092,7 @@ courses = [{
     "author": "Sahil Malik",
     "level": "Beginner",
     "duration": 72,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2013-03-05T05:00:00.000Z",
     "users": []
 }, {
@@ -8971,7 +9103,7 @@ courses = [{
     "author": "Spike Xavier",
     "level": "Intermediate",
     "duration": 70,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-06-21T04:00:00.000Z",
     "users": []
 }, {
@@ -8982,7 +9114,7 @@ courses = [{
     "author": "Andrew Connell",
     "level": "Intermediate",
     "duration": 216,
-    "rating": "Not",
+    "rating": 4.4,
     "released": "2014-04-25T04:00:00.000Z",
     "users": []
 }, {
@@ -8993,8 +9125,19 @@ courses = [{
     "author": "Jeff Adkin",
     "level": "Intermediate",
     "duration": 276,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2014-01-21T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "SharePoint",
+    "name": "Configuring SharePoint 2013 for Business Intelligence",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/configuring-sharepoint-2013-business-intelligence",
+    "description": "SharePoint has many Business Intelligence (BI) tools to help you make informed business decisions quickly and accurately, but getting them all to work properly can be an intimidating task. With this course, you will chart your way through the treacherous waters of SharePoint BI and reach the other side intact. SharePoint BI has many moving parts, many of which involve manipulating SQL Server, which is never an easy thing. This course explores not only SharePoint, but SQL Server as well. You will learn to configure Excel Services, which is the backbone of so many of the BI tools, and install SQL Server Analysis Services to work with SharePoint. Beyond that, we cover PowerPivot, Power View, SQL Server Reporting Services, and many other BI tools of SharePoint. This is a must-view course if you need to prepare your SharePoint farm for Business Intelligence.",
+    "author": "Bill Kulterman",
+    "level": "Intermediate",
+    "duration": 281,
+    "rating": null,
+    "released": "2014-04-30T04:00:00.000Z",
     "users": []
 }, {
     "category": "SharePoint",
@@ -9004,7 +9147,7 @@ courses = [{
     "author": "David Mann",
     "level": "Intermediate",
     "duration": 370,
-    "rating": "4.6",
+    "rating": 4.5,
     "released": "2013-12-04T05:00:00.000Z",
     "users": []
 }, {
@@ -9015,7 +9158,7 @@ courses = [{
     "author": "Jeff Adkin",
     "level": "Intermediate",
     "duration": 254,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-11-08T05:00:00.000Z",
     "users": []
 }, {
@@ -9026,7 +9169,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Intermediate",
     "duration": 221,
-    "rating": "4.5",
+    "rating": 4.3,
     "released": "2014-03-12T04:00:00.000Z",
     "users": []
 }, {
@@ -9037,7 +9180,7 @@ courses = [{
     "author": "David Mann",
     "level": "Intermediate",
     "duration": 107,
-    "rating": "3.9",
+    "rating": 3.9,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9048,7 +9191,7 @@ courses = [{
     "author": "David Mann",
     "level": "Intermediate",
     "duration": 124,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9059,7 +9202,7 @@ courses = [{
     "author": "David Mann",
     "level": "Intermediate",
     "duration": 143,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9070,7 +9213,7 @@ courses = [{
     "author": "David Mann",
     "level": "Intermediate",
     "duration": 162,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9081,7 +9224,7 @@ courses = [{
     "author": "David Mann",
     "level": "Intermediate",
     "duration": 169,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9092,7 +9235,7 @@ courses = [{
     "author": "David Mann",
     "level": "Intermediate",
     "duration": 81,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9103,7 +9246,7 @@ courses = [{
     "author": "David Mann",
     "level": "Intermediate",
     "duration": 89,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9114,7 +9257,7 @@ courses = [{
     "author": "Sahil Malik",
     "level": "Intermediate",
     "duration": 141,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-07-05T04:00:00.000Z",
     "users": []
 }, {
@@ -9125,7 +9268,7 @@ courses = [{
     "author": "Sahil Maliket al.",
     "level": "Intermediate",
     "duration": 251,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-07-20T04:00:00.000Z",
     "users": []
 }, {
@@ -9136,7 +9279,7 @@ courses = [{
     "author": "Ted Pattison",
     "level": "Intermediate",
     "duration": 123,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9147,7 +9290,7 @@ courses = [{
     "author": "Ted Pattison",
     "level": "Intermediate",
     "duration": 225,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9158,7 +9301,7 @@ courses = [{
     "author": "Ted Pattison",
     "level": "Intermediate",
     "duration": 36,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9169,7 +9312,7 @@ courses = [{
     "author": "Ted Pattison",
     "level": "Intermediate",
     "duration": 51,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9180,7 +9323,7 @@ courses = [{
     "author": "Ted Pattison",
     "level": "Intermediate",
     "duration": 89,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9191,7 +9334,7 @@ courses = [{
     "author": "Ted Pattison",
     "level": "Intermediate",
     "duration": 51,
-    "rating": "3.8",
+    "rating": 3.8,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9202,7 +9345,7 @@ courses = [{
     "author": "Ted Pattison",
     "level": "Intermediate",
     "duration": 79,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9213,7 +9356,7 @@ courses = [{
     "author": "Ted Pattison",
     "level": "Intermediate",
     "duration": 111,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9224,7 +9367,7 @@ courses = [{
     "author": "Sahil Malik",
     "level": "Intermediate",
     "duration": 107,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2010-08-27T04:00:00.000Z",
     "users": []
 }, {
@@ -9235,7 +9378,7 @@ courses = [{
     "author": "ConnellPattison",
     "level": "Intermediate",
     "duration": 195,
-    "rating": "3.8",
+    "rating": 3.8,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9246,7 +9389,7 @@ courses = [{
     "author": "ConnellPattison",
     "level": "Intermediate",
     "duration": 177,
-    "rating": "3.9",
+    "rating": 3.9,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9257,7 +9400,7 @@ courses = [{
     "author": "Andrew Connell",
     "level": "Intermediate",
     "duration": 171,
-    "rating": "3.2",
+    "rating": 3.2,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9268,7 +9411,7 @@ courses = [{
     "author": "Andrew Connell",
     "level": "Intermediate",
     "duration": 161,
-    "rating": "3.7",
+    "rating": 3.7,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9279,7 +9422,7 @@ courses = [{
     "author": "ConnellPattison",
     "level": "Intermediate",
     "duration": 122,
-    "rating": "4",
+    "rating": 4,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9290,7 +9433,7 @@ courses = [{
     "author": "Sahil Malik",
     "level": "Intermediate",
     "duration": 166,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2010-09-24T04:00:00.000Z",
     "users": []
 }, {
@@ -9301,7 +9444,7 @@ courses = [{
     "author": "Ted Pattison",
     "level": "Intermediate",
     "duration": 138,
-    "rating": "4.2",
+    "rating": 4.1,
     "released": "2012-10-02T04:00:00.000Z",
     "users": []
 }, {
@@ -9312,7 +9455,7 @@ courses = [{
     "author": "Ted Pattison",
     "level": "Intermediate",
     "duration": 150,
-    "rating": "4.3",
+    "rating": 4.4,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9323,7 +9466,7 @@ courses = [{
     "author": "Ted Pattison",
     "level": "Intermediate",
     "duration": 155,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9334,7 +9477,7 @@ courses = [{
     "author": "Ted Pattison",
     "level": "Intermediate",
     "duration": 302,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2012-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9345,7 +9488,7 @@ courses = [{
     "author": "Rob Windsor",
     "level": "Intermediate",
     "duration": 237,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2011-07-18T04:00:00.000Z",
     "users": []
 }, {
@@ -9356,7 +9499,7 @@ courses = [{
     "author": "Sahil Malik",
     "level": "Intermediate",
     "duration": 68,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2011-10-05T04:00:00.000Z",
     "users": []
 }, {
@@ -9367,7 +9510,7 @@ courses = [{
     "author": "Rob Windsor",
     "level": "Intermediate",
     "duration": 202,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-08-06T04:00:00.000Z",
     "users": []
 }, {
@@ -9378,7 +9521,7 @@ courses = [{
     "author": "Scot Hillier",
     "level": "Intermediate",
     "duration": 169,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-03-27T04:00:00.000Z",
     "users": []
 }, {
@@ -9389,7 +9532,7 @@ courses = [{
     "author": "Andrew Connell",
     "level": "Intermediate",
     "duration": 97,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2012-11-05T05:00:00.000Z",
     "users": []
 }, {
@@ -9400,7 +9543,7 @@ courses = [{
     "author": "Andrew Connell",
     "level": "Intermediate",
     "duration": 112,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2012-11-05T05:00:00.000Z",
     "users": []
 }, {
@@ -9411,7 +9554,7 @@ courses = [{
     "author": "Andrew Connell",
     "level": "Intermediate",
     "duration": 146,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2012-11-05T05:00:00.000Z",
     "users": []
 }, {
@@ -9422,7 +9565,7 @@ courses = [{
     "author": "Andrew Connell",
     "level": "Intermediate",
     "duration": 55,
-    "rating": "3.9",
+    "rating": 3.9,
     "released": "2012-11-05T05:00:00.000Z",
     "users": []
 }, {
@@ -9433,7 +9576,7 @@ courses = [{
     "author": "Andrew Connell",
     "level": "Intermediate",
     "duration": 160,
-    "rating": "4.3",
+    "rating": 4.2,
     "released": "2012-11-05T05:00:00.000Z",
     "users": []
 }, {
@@ -9444,7 +9587,7 @@ courses = [{
     "author": "Andrew Connell",
     "level": "Intermediate",
     "duration": 192,
-    "rating": "3.7",
+    "rating": 3.7,
     "released": "2012-11-05T05:00:00.000Z",
     "users": []
 }, {
@@ -9455,7 +9598,7 @@ courses = [{
     "author": "Rob Windsor",
     "level": "Intermediate",
     "duration": 401,
-    "rating": "4.6",
+    "rating": 4.7,
     "released": "2013-05-28T04:00:00.000Z",
     "users": []
 }, {
@@ -9466,7 +9609,7 @@ courses = [{
     "author": "Markus Ehrenmüller-Jensen",
     "level": "Intermediate",
     "duration": 91,
-    "rating": "3.9",
+    "rating": 4,
     "released": "2014-01-16T05:00:00.000Z",
     "users": []
 }, {
@@ -9477,7 +9620,7 @@ courses = [{
     "author": "Matthew McDermott",
     "level": "Intermediate",
     "duration": 219,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-08-08T04:00:00.000Z",
     "users": []
 }, {
@@ -9488,7 +9631,7 @@ courses = [{
     "author": "Scot Hillier",
     "level": "Intermediate",
     "duration": 230,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-07-30T04:00:00.000Z",
     "users": []
 }, {
@@ -9499,7 +9642,7 @@ courses = [{
     "author": "Andrew Connell",
     "level": "Intermediate",
     "duration": 244,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-06-21T04:00:00.000Z",
     "users": []
 }, {
@@ -9510,7 +9653,7 @@ courses = [{
     "author": "Andrew Connell",
     "level": "Intermediate",
     "duration": 196,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2014-02-06T05:00:00.000Z",
     "users": []
 }, {
@@ -9521,7 +9664,7 @@ courses = [{
     "author": "WindsorMalik",
     "level": "Intermediate",
     "duration": 208,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2010-09-24T04:00:00.000Z",
     "users": []
 }, {
@@ -9532,7 +9675,7 @@ courses = [{
     "author": "Benjamin Culbertson",
     "level": "Intermediate",
     "duration": 151,
-    "rating": "Not",
+    "rating": null,
     "released": "2007-10-23T04:00:00.000Z",
     "users": []
 }, {
@@ -9543,7 +9686,7 @@ courses = [{
     "author": "Benjamin Culbertson",
     "level": "Intermediate",
     "duration": 191,
-    "rating": "Not",
+    "rating": null,
     "released": "2008-10-23T04:00:00.000Z",
     "users": []
 }, {
@@ -9554,7 +9697,7 @@ courses = [{
     "author": "Benjamin Culbertson",
     "level": "Intermediate",
     "duration": 279,
-    "rating": "Not",
+    "rating": null,
     "released": "2007-10-23T04:00:00.000Z",
     "users": []
 }, {
@@ -9565,7 +9708,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 233,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9576,7 +9719,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 223,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2011-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9587,7 +9730,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 229,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9598,7 +9741,7 @@ courses = [{
     "author": "J. Peter Bruzzese",
     "level": "Intermediate",
     "duration": 211,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2011-09-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9609,7 +9752,7 @@ courses = [{
     "author": "Eric Skaggs",
     "level": "Intermediate",
     "duration": 245,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-12-04T05:00:00.000Z",
     "users": []
 }, {
@@ -9620,7 +9763,7 @@ courses = [{
     "author": "Eric Skaggs",
     "level": "Intermediate",
     "duration": 251,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-12-04T05:00:00.000Z",
     "users": []
 }, {
@@ -9631,7 +9774,7 @@ courses = [{
     "author": "Eric Skaggs",
     "level": "Intermediate",
     "duration": 264,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-12-04T05:00:00.000Z",
     "users": []
 }, {
@@ -9642,7 +9785,7 @@ courses = [{
     "author": "Eric Skaggs",
     "level": "Intermediate",
     "duration": 216,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-09-18T04:00:00.000Z",
     "users": []
 }, {
@@ -9653,7 +9796,7 @@ courses = [{
     "author": "Eric Skaggs",
     "level": "Intermediate",
     "duration": 342,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-09-18T04:00:00.000Z",
     "users": []
 }, {
@@ -9664,7 +9807,7 @@ courses = [{
     "author": "Eric Skaggs",
     "level": "Intermediate",
     "duration": 265,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-09-18T04:00:00.000Z",
     "users": []
 }, {
@@ -9675,7 +9818,7 @@ courses = [{
     "author": "Eric Skaggs",
     "level": "Intermediate",
     "duration": 213,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-09-18T04:00:00.000Z",
     "users": []
 }, {
@@ -9686,7 +9829,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Intermediate",
     "duration": 224,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-09-12T04:00:00.000Z",
     "users": []
 }, {
@@ -9697,7 +9840,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Intermediate",
     "duration": 160,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-09-12T04:00:00.000Z",
     "users": []
 }, {
@@ -9708,7 +9851,7 @@ courses = [{
     "author": "KultermanAckmann",
     "level": "Intermediate",
     "duration": 178,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-09-12T04:00:00.000Z",
     "users": []
 }, {
@@ -9719,7 +9862,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Intermediate",
     "duration": 368,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-03-25T04:00:00.000Z",
     "users": []
 }, {
@@ -9730,7 +9873,7 @@ courses = [{
     "author": "Christopher Harrison",
     "level": "Intermediate",
     "duration": 244,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-05-06T04:00:00.000Z",
     "users": []
 }, {
@@ -9741,7 +9884,7 @@ courses = [{
     "author": "Christopher Harrison",
     "level": "Intermediate",
     "duration": 238,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-05-06T04:00:00.000Z",
     "users": []
 }, {
@@ -9752,7 +9895,7 @@ courses = [{
     "author": "Christopher Harrison",
     "level": "Intermediate",
     "duration": 197,
-    "rating": "4.5",
+    "rating": 4.6,
     "released": "2013-05-06T04:00:00.000Z",
     "users": []
 }, {
@@ -9763,7 +9906,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Intermediate",
     "duration": 171,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2013-06-28T04:00:00.000Z",
     "users": []
 }, {
@@ -9774,7 +9917,7 @@ courses = [{
     "author": "Sahil Malik",
     "level": "Intermediate",
     "duration": 92,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2013-03-05T05:00:00.000Z",
     "users": []
 }, {
@@ -9785,7 +9928,7 @@ courses = [{
     "author": "Sahil Malik",
     "level": "Intermediate",
     "duration": 162,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-03-05T05:00:00.000Z",
     "users": []
 }, {
@@ -9796,7 +9939,7 @@ courses = [{
     "author": "Sahil Malik",
     "level": "Intermediate",
     "duration": 221,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-05-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9807,7 +9950,7 @@ courses = [{
     "author": "Sahil Malik",
     "level": "Intermediate",
     "duration": 136,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-05-22T04:00:00.000Z",
     "users": []
 }, {
@@ -9818,7 +9961,7 @@ courses = [{
     "author": "Sahil Malik",
     "level": "Intermediate",
     "duration": 198,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-11-27T05:00:00.000Z",
     "users": []
 }, {
@@ -9829,7 +9972,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Intermediate",
     "duration": 122,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-10-25T04:00:00.000Z",
     "users": []
 }, {
@@ -9840,7 +9983,7 @@ courses = [{
     "author": "Gary Lapointe",
     "level": "Intermediate",
     "duration": 287,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-07-12T04:00:00.000Z",
     "users": []
 }, {
@@ -9851,7 +9994,7 @@ courses = [{
     "author": "Sahil Malik",
     "level": "Advanced",
     "duration": 108,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-05-08T04:00:00.000Z",
     "users": []
 }, {
@@ -9862,19 +10005,8 @@ courses = [{
     "author": "Andrew Connell",
     "level": "Advanced",
     "duration": 217,
-    "rating": "Not",
+    "rating": 4.2,
     "released": "2014-01-15T05:00:00.000Z",
-    "users": []
-}, {
-    "category": "SharePoint",
-    "name": "SharePoint Server 2013 Advanced Solutions (70-332)",
-    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/sharepoint-2013-adv-solutions-pt3",
-    "description": "Part 3 of 3 in the SharePoint Server 2013 Advanced Solutions (70-332) series. This series focuses on the planning and implementing phases of all aspects of SharePoint 2013. This course is intended for advanced users who are looking to gain knowledge for the 70-332 exam. We will start with a bare bones environment, and begin to build and plan through SQL, SharePoint, and the Services, until our entire environment is configured; based on our demo company, Globomantics, requests.",
-    "author": "Jeff Adkin",
-    "level": "Advanced",
-    "duration": 177,
-    "rating": "4.5",
-    "released": "2013-06-24T04:00:00.000Z",
     "users": []
 }, {
     "category": "SharePoint",
@@ -9884,7 +10016,7 @@ courses = [{
     "author": "Jeff Adkin",
     "level": "Advanced",
     "duration": 305,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-06-24T04:00:00.000Z",
     "users": []
 }, {
@@ -9895,7 +10027,18 @@ courses = [{
     "author": "Jeff Adkin",
     "level": "Advanced",
     "duration": 311,
-    "rating": "4.3",
+    "rating": 4.4,
+    "released": "2013-06-24T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "SharePoint",
+    "name": "SharePoint Server 2013 Advanced Solutions (70-332) Part 3",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/sharepoint-2013-adv-solutions-pt3",
+    "description": "Part 3 of 3 in the SharePoint Server 2013 Advanced Solutions (70-332) series. This series focuses on the planning and implementing phases of all aspects of SharePoint 2013. This course is intended for advanced users who are looking to gain knowledge for the 70-332 exam. We will start with a bare bones environment, and begin to build and plan through SQL, SharePoint, and the Services, until our entire environment is configured; based on our demo company, Globomantics, requests.",
+    "author": "Jeff Adkin",
+    "level": "Advanced",
+    "duration": 177,
+    "rating": 4.5,
     "released": "2013-06-24T04:00:00.000Z",
     "users": []
 }, {
@@ -9906,7 +10049,7 @@ courses = [{
     "author": "Ian Griffiths",
     "level": "Beginner",
     "duration": 379,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2010-09-03T04:00:00.000Z",
     "users": []
 }, {
@@ -9917,7 +10060,7 @@ courses = [{
     "author": "Ian Griffiths",
     "level": "Beginner",
     "duration": 392,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2008-10-28T04:00:00.000Z",
     "users": []
 }, {
@@ -9928,7 +10071,7 @@ courses = [{
     "author": "Shawn Wildermuth",
     "level": "Intermediate",
     "duration": 218,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-11-08T05:00:00.000Z",
     "users": []
 }, {
@@ -9939,7 +10082,7 @@ courses = [{
     "author": "Shawn Wildermuth",
     "level": "Intermediate",
     "duration": 186,
-    "rating": "4.3",
+    "rating": 4.4,
     "released": "2011-10-13T04:00:00.000Z",
     "users": []
 }, {
@@ -9950,7 +10093,7 @@ courses = [{
     "author": "Yacine Khammal",
     "level": "Intermediate",
     "duration": 295,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2010-09-03T04:00:00.000Z",
     "users": []
 }, {
@@ -9961,7 +10104,7 @@ courses = [{
     "author": "Shawn Wildermuth",
     "level": "Intermediate",
     "duration": 100,
-    "rating": "4.7",
+    "rating": 4.5,
     "released": "2011-04-12T04:00:00.000Z",
     "users": []
 }, {
@@ -9972,7 +10115,7 @@ courses = [{
     "author": "Ian Griffiths",
     "level": "Advanced",
     "duration": 125,
-    "rating": "3.8",
+    "rating": 3.8,
     "released": "2010-03-25T04:00:00.000Z",
     "users": []
 }, {
@@ -9983,7 +10126,7 @@ courses = [{
     "author": "Yacine Khammal",
     "level": "Advanced",
     "duration": 206,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2010-09-03T04:00:00.000Z",
     "users": []
 }, {
@@ -9994,7 +10137,7 @@ courses = [{
     "author": "Pinal Dave",
     "level": "Beginner",
     "duration": 125,
-    "rating": "4 s",
+    "rating": 4,
     "released": "2013-05-13T04:00:00.000Z",
     "users": []
 }, {
@@ -10005,7 +10148,7 @@ courses = [{
     "author": "Devin Thorpe",
     "level": "Beginner",
     "duration": 114,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2014-02-11T05:00:00.000Z",
     "users": []
 }, {
@@ -10016,7 +10159,7 @@ courses = [{
     "author": "Yasser Shohoud",
     "level": "Beginner",
     "duration": 74,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2012-01-21T05:00:00.000Z",
     "users": []
 }, {
@@ -10027,7 +10170,7 @@ courses = [{
     "author": "Felbrigg Herriot",
     "level": "Beginner",
     "duration": 147,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-12-27T05:00:00.000Z",
     "users": []
 }, {
@@ -10038,7 +10181,7 @@ courses = [{
     "author": "Jesse Stay",
     "level": "Beginner",
     "duration": 204,
-    "rating": "3.6",
+    "rating": 3.5,
     "released": "2012-03-14T04:00:00.000Z",
     "users": []
 }, {
@@ -10049,7 +10192,7 @@ courses = [{
     "author": "Jesse Stay",
     "level": "Beginner",
     "duration": 169,
-    "rating": "3.4",
+    "rating": 3.4,
     "released": "2012-05-03T04:00:00.000Z",
     "users": []
 }, {
@@ -10060,7 +10203,7 @@ courses = [{
     "author": "Jesse Stay",
     "level": "Beginner",
     "duration": 154,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-07-25T04:00:00.000Z",
     "users": []
 }, {
@@ -10071,7 +10214,7 @@ courses = [{
     "author": "Amber Mac",
     "level": "Beginner",
     "duration": 25,
-    "rating": "3.8",
+    "rating": 3.9,
     "released": "2013-02-14T05:00:00.000Z",
     "users": []
 }, {
@@ -10082,7 +10225,7 @@ courses = [{
     "author": "Jesse Stay",
     "level": "Beginner",
     "duration": 130,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-06-25T04:00:00.000Z",
     "users": []
 }, {
@@ -10093,7 +10236,7 @@ courses = [{
     "author": "Jason Alba",
     "level": "Beginner",
     "duration": 112,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-07-23T04:00:00.000Z",
     "users": []
 }, {
@@ -10104,7 +10247,7 @@ courses = [{
     "author": "Amber Mac",
     "level": "Beginner",
     "duration": 57,
-    "rating": "3.7",
+    "rating": 3.7,
     "released": "2012-07-12T04:00:00.000Z",
     "users": []
 }, {
@@ -10115,7 +10258,7 @@ courses = [{
     "author": "Jesse Stay",
     "level": "Beginner",
     "duration": 135,
-    "rating": "3.1",
+    "rating": 3.1,
     "released": "2013-03-05T05:00:00.000Z",
     "users": []
 }, {
@@ -10126,7 +10269,7 @@ courses = [{
     "author": "GalbraithAlmaer",
     "level": "Beginner",
     "duration": 84,
-    "rating": "3.5",
+    "rating": 3.5,
     "released": "2012-11-12T05:00:00.000Z",
     "users": []
 }, {
@@ -10137,7 +10280,7 @@ courses = [{
     "author": "Pinal Dave",
     "level": "Intermediate",
     "duration": 100,
-    "rating": "3.9",
+    "rating": 3.8,
     "released": "2013-07-24T04:00:00.000Z",
     "users": []
 }, {
@@ -10148,7 +10291,7 @@ courses = [{
     "author": "Jesse Stay",
     "level": "Intermediate",
     "duration": 144,
-    "rating": "4 s",
+    "rating": 4.1,
     "released": "2013-12-12T05:00:00.000Z",
     "users": []
 }, {
@@ -10159,7 +10302,7 @@ courses = [{
     "author": "David Starr",
     "level": "Beginner",
     "duration": 190,
-    "rating": "4.6",
+    "rating": 4.5,
     "released": "2013-11-29T05:00:00.000Z",
     "users": []
 }, {
@@ -10170,7 +10313,7 @@ courses = [{
     "author": "Julie Lerman",
     "level": "Beginner",
     "duration": 87,
-    "rating": "4.4",
+    "rating": 4.3,
     "released": "2013-05-22T04:00:00.000Z",
     "users": []
 }, {
@@ -10181,7 +10324,7 @@ courses = [{
     "author": "Stephen Forte",
     "level": "Beginner",
     "duration": 194,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-09-19T04:00:00.000Z",
     "users": []
 }, {
@@ -10192,7 +10335,7 @@ courses = [{
     "author": "James Kovacs",
     "level": "Beginner",
     "duration": 154,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2010-12-10T05:00:00.000Z",
     "users": []
 }, {
@@ -10203,7 +10346,7 @@ courses = [{
     "author": "Jeremy Clark",
     "level": "Beginner",
     "duration": 211,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-09-26T04:00:00.000Z",
     "users": []
 }, {
@@ -10214,7 +10357,7 @@ courses = [{
     "author": "Steve Smith",
     "level": "Beginner",
     "duration": 91,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2012-02-13T05:00:00.000Z",
     "users": []
 }, {
@@ -10225,7 +10368,7 @@ courses = [{
     "author": "Geoffrey Grosenbach",
     "level": "Beginner",
     "duration": 24,
-    "rating": "3.3",
+    "rating": 3.2,
     "released": "2013-04-19T04:00:00.000Z",
     "users": []
 }, {
@@ -10236,7 +10379,7 @@ courses = [{
     "author": "Stephen Forte",
     "level": "Intermediate",
     "duration": 92,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2012-06-07T04:00:00.000Z",
     "users": []
 }, {
@@ -10247,7 +10390,7 @@ courses = [{
     "author": "Jan-Erik Sandberg",
     "level": "Intermediate",
     "duration": 92,
-    "rating": "3.5",
+    "rating": 3.4,
     "released": "2013-06-17T04:00:00.000Z",
     "users": []
 }, {
@@ -10258,7 +10401,7 @@ courses = [{
     "author": "David Starr",
     "level": "Intermediate",
     "duration": 225,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2010-04-15T04:00:00.000Z",
     "users": []
 }, {
@@ -10269,7 +10412,7 @@ courses = [{
     "author": "Jason Roberts",
     "level": "Intermediate",
     "duration": 171,
-    "rating": "3.9",
+    "rating": 3.9,
     "released": "2013-10-28T04:00:00.000Z",
     "users": []
 }, {
@@ -10280,7 +10423,7 @@ courses = [{
     "author": "Jason Roberts",
     "level": "Intermediate",
     "duration": 195,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-06-18T04:00:00.000Z",
     "users": []
 }, {
@@ -10291,7 +10434,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 203,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-09-10T04:00:00.000Z",
     "users": []
 }, {
@@ -10302,7 +10445,7 @@ courses = [{
     "author": "Michael Krasowski",
     "level": "Intermediate",
     "duration": 61,
-    "rating": "3.6",
+    "rating": 3.6,
     "released": "2013-11-07T05:00:00.000Z",
     "users": []
 }, {
@@ -10313,7 +10456,7 @@ courses = [{
     "author": "Brendan Younger",
     "level": "Intermediate",
     "duration": 97,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-10-10T04:00:00.000Z",
     "users": []
 }, {
@@ -10324,7 +10467,7 @@ courses = [{
     "author": "Donald Belcham",
     "level": "Intermediate",
     "duration": 168,
-    "rating": "4.5",
+    "rating": 4.4,
     "released": "2012-02-16T05:00:00.000Z",
     "users": []
 }, {
@@ -10335,8 +10478,19 @@ courses = [{
     "author": "Dustin Davis",
     "level": "Intermediate",
     "duration": 115,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2012-08-02T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Software Practices",
+    "name": "Building the Right Thing in .NET with TestStack",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/building-right-thing-dotnet-teststack",
+    "description": "Learn how to use the TestStack tools to ensure the right features are being built. Increase the clarity of communication within the development team and between the team and customer. Produce living documentation by executing the specifications of the system and help to find defects sooner. Automate Web sites and WPF application UIs.",
+    "author": "Jason Roberts",
+    "level": "Intermediate",
+    "duration": 255,
+    "rating": null,
+    "released": "2014-05-01T04:00:00.000Z",
     "users": []
 }, {
     "category": "Software Practices",
@@ -10346,7 +10500,7 @@ courses = [{
     "author": "Cory House",
     "level": "Intermediate",
     "duration": 190,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-10-07T04:00:00.000Z",
     "users": []
 }, {
@@ -10357,7 +10511,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 111,
-    "rating": "4.4",
+    "rating": 4.3,
     "released": "2012-07-17T04:00:00.000Z",
     "users": []
 }, {
@@ -10368,7 +10522,7 @@ courses = [{
     "author": "Emily Bache",
     "level": "Intermediate",
     "duration": 124,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-06-25T04:00:00.000Z",
     "users": []
 }, {
@@ -10379,7 +10533,7 @@ courses = [{
     "author": "Erik Dietrich",
     "level": "Intermediate",
     "duration": 154,
-    "rating": "4.5",
+    "rating": 4.4,
     "released": "2013-05-16T04:00:00.000Z",
     "users": []
 }, {
@@ -10390,7 +10544,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 190,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-05-17T04:00:00.000Z",
     "users": []
 }, {
@@ -10401,7 +10555,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 226,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-09-26T04:00:00.000Z",
     "users": []
 }, {
@@ -10412,7 +10566,7 @@ courses = [{
     "author": "Milena Pajic",
     "level": "Intermediate",
     "duration": 88,
-    "rating": "4.3",
+    "rating": 4.2,
     "released": "2014-02-28T05:00:00.000Z",
     "users": []
 }, {
@@ -10423,7 +10577,7 @@ courses = [{
     "author": "Jeremy Clark",
     "level": "Intermediate",
     "duration": 158,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-10-21T04:00:00.000Z",
     "users": []
 }, {
@@ -10434,7 +10588,7 @@ courses = [{
     "author": "Steve Smithet al.",
     "level": "Intermediate",
     "duration": 901,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2010-09-10T04:00:00.000Z",
     "users": []
 }, {
@@ -10445,7 +10599,7 @@ courses = [{
     "author": "Miguel Castro",
     "level": "Intermediate",
     "duration": 226,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2014-02-05T05:00:00.000Z",
     "users": []
 }, {
@@ -10456,7 +10610,7 @@ courses = [{
     "author": "BelchamCooper",
     "level": "Intermediate",
     "duration": 81,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2012-08-20T04:00:00.000Z",
     "users": []
 }, {
@@ -10467,7 +10621,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 158,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-02-22T05:00:00.000Z",
     "users": []
 }, {
@@ -10478,7 +10632,7 @@ courses = [{
     "author": "Mike Erickson",
     "level": "Intermediate",
     "duration": 133,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-09-09T04:00:00.000Z",
     "users": []
 }, {
@@ -10489,7 +10643,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 251,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-08-15T04:00:00.000Z",
     "users": []
 }, {
@@ -10500,7 +10654,7 @@ courses = [{
     "author": "Jan-Erik Sandberg",
     "level": "Intermediate",
     "duration": 148,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2013-09-05T04:00:00.000Z",
     "users": []
 }, {
@@ -10511,7 +10665,7 @@ courses = [{
     "author": "Philip Japikse",
     "level": "Intermediate",
     "duration": 156,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-10-02T04:00:00.000Z",
     "users": []
 }, {
@@ -10522,7 +10676,7 @@ courses = [{
     "author": "CooperBelcham",
     "level": "Intermediate",
     "duration": 116,
-    "rating": "3.8",
+    "rating": 3.8,
     "released": "2012-10-10T04:00:00.000Z",
     "users": []
 }, {
@@ -10533,7 +10687,7 @@ courses = [{
     "author": "BelchamCooper",
     "level": "Intermediate",
     "duration": 113,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2012-07-25T04:00:00.000Z",
     "users": []
 }, {
@@ -10544,7 +10698,7 @@ courses = [{
     "author": "Mark Seemann",
     "level": "Intermediate",
     "duration": 147,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-01-16T05:00:00.000Z",
     "users": []
 }, {
@@ -10555,7 +10709,7 @@ courses = [{
     "author": "Erik Dietrich",
     "level": "Intermediate",
     "duration": 241,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-10-21T04:00:00.000Z",
     "users": []
 }, {
@@ -10566,7 +10720,7 @@ courses = [{
     "author": "Rob Conery",
     "level": "Intermediate",
     "duration": 172,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2014-03-05T05:00:00.000Z",
     "users": []
 }, {
@@ -10577,7 +10731,7 @@ courses = [{
     "author": "Michael Perry",
     "level": "Intermediate",
     "duration": 351,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2012-06-13T04:00:00.000Z",
     "users": []
 }, {
@@ -10588,7 +10742,7 @@ courses = [{
     "author": "Steve Smith",
     "level": "Intermediate",
     "duration": 481,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-12-13T05:00:00.000Z",
     "users": []
 }, {
@@ -10599,7 +10753,7 @@ courses = [{
     "author": "CooperBelcham",
     "level": "Intermediate",
     "duration": 132,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2012-06-28T04:00:00.000Z",
     "users": []
 }, {
@@ -10610,7 +10764,7 @@ courses = [{
     "author": "Xavier Morera",
     "level": "Intermediate",
     "duration": 97,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2014-01-14T05:00:00.000Z",
     "users": []
 }, {
@@ -10621,7 +10775,7 @@ courses = [{
     "author": "David Starr",
     "level": "Intermediate",
     "duration": 220,
-    "rating": "4.3",
+    "rating": 4.4,
     "released": "2012-10-23T04:00:00.000Z",
     "users": []
 }, {
@@ -10632,7 +10786,7 @@ courses = [{
     "author": "Steve Smith",
     "level": "Intermediate",
     "duration": 248,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2010-09-10T04:00:00.000Z",
     "users": []
 }, {
@@ -10643,7 +10797,7 @@ courses = [{
     "author": "Jan-Erik Sandberg",
     "level": "Intermediate",
     "duration": 98,
-    "rating": "3.6",
+    "rating": 3.6,
     "released": "2013-10-23T04:00:00.000Z",
     "users": []
 }, {
@@ -10654,7 +10808,7 @@ courses = [{
     "author": "StarrAllen",
     "level": "Intermediate",
     "duration": 213,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2010-11-16T05:00:00.000Z",
     "users": []
 }, {
@@ -10665,7 +10819,7 @@ courses = [{
     "author": "David Starr",
     "level": "Intermediate",
     "duration": 164,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2011-02-21T05:00:00.000Z",
     "users": []
 }, {
@@ -10676,7 +10830,7 @@ courses = [{
     "author": "Todd Ropog",
     "level": "Intermediate",
     "duration": 107,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2012-10-02T04:00:00.000Z",
     "users": []
 }, {
@@ -10687,7 +10841,7 @@ courses = [{
     "author": "Geoffrey Grosenbach",
     "level": "Intermediate",
     "duration": 77,
-    "rating": "Not",
+    "rating": null,
     "released": "2006-12-26T05:00:00.000Z",
     "users": []
 }, {
@@ -10698,8 +10852,19 @@ courses = [{
     "author": "Jason Roberts",
     "level": "Intermediate",
     "duration": 169,
-    "rating": "3.8",
+    "rating": 3.8,
     "released": "2013-10-09T04:00:00.000Z",
+    "users": []
+}, {
+    "category": "Software Practices",
+    "name": "Understanding and Eliminating Technical Debt",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/understanding-eliminating-technical-debt",
+    "description": "If you are working on a large and successful commercial project, technical debt can gradually accumulate as you take the decision to do things the quick way rather than the right way. If care isn't taken, technical debt can threaten the long-term success of your project. In this course we take a broad look at the wide variety of forms that technical debt can appear in, and look at how you can identify it and quantify it with metrics. We also look at the challenges associated with repaying it, including getting the rest of the development team and your managers to view it as a priority. We conclude the course with advice about techniques and action plans for repaying the debt.",
+    "author": "Mark Heath",
+    "level": "Intermediate",
+    "duration": 196,
+    "rating": null,
+    "released": "2014-05-07T04:00:00.000Z",
     "users": []
 }, {
     "category": "Software Practices",
@@ -10709,7 +10874,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Intermediate",
     "duration": 157,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-05-10T04:00:00.000Z",
     "users": []
 }, {
@@ -10720,7 +10885,7 @@ courses = [{
     "author": "Shawn Wildermuth",
     "level": "Intermediate",
     "duration": 137,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-06-19T04:00:00.000Z",
     "users": []
 }, {
@@ -10731,7 +10896,7 @@ courses = [{
     "author": "Mark Seemann",
     "level": "Advanced",
     "duration": 181,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-04-15T04:00:00.000Z",
     "users": []
 }, {
@@ -10742,7 +10907,7 @@ courses = [{
     "author": "Geoffrey Grosenbach",
     "level": "Beginner",
     "duration": 60,
-    "rating": "3.5",
+    "rating": 3.4,
     "released": "2007-10-25T04:00:00.000Z",
     "users": []
 }, {
@@ -10753,7 +10918,7 @@ courses = [{
     "author": "John Sonmez",
     "level": "Beginner",
     "duration": 177,
-    "rating": "4.4",
+    "rating": 4.5,
     "released": "2012-01-13T05:00:00.000Z",
     "users": []
 }, {
@@ -10764,7 +10929,7 @@ courses = [{
     "author": "Todd Ropog",
     "level": "Beginner",
     "duration": 114,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-03-15T04:00:00.000Z",
     "users": []
 }, {
@@ -10775,7 +10940,7 @@ courses = [{
     "author": "Robert Horvick",
     "level": "Beginner",
     "duration": 229,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2011-05-02T04:00:00.000Z",
     "users": []
 }, {
@@ -10786,7 +10951,7 @@ courses = [{
     "author": "Ben Hoskings",
     "level": "Intermediate",
     "duration": 60,
-    "rating": "2.6",
+    "rating": 2.5,
     "released": "2011-12-31T05:00:00.000Z",
     "users": []
 }, {
@@ -10797,7 +10962,7 @@ courses = [{
     "author": "James Kovacs",
     "level": "Intermediate",
     "duration": 111,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2012-05-23T04:00:00.000Z",
     "users": []
 }, {
@@ -10808,7 +10973,7 @@ courses = [{
     "author": "Rob Conery",
     "level": "Intermediate",
     "duration": 176,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-03-18T04:00:00.000Z",
     "users": []
 }, {
@@ -10819,7 +10984,7 @@ courses = [{
     "author": "Mark Heath",
     "level": "Intermediate",
     "duration": 177,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2014-01-27T05:00:00.000Z",
     "users": []
 }, {
@@ -10830,7 +10995,7 @@ courses = [{
     "author": "Jon Flanders",
     "level": "Beginner",
     "duration": 202,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-10-11T04:00:00.000Z",
     "users": []
 }, {
@@ -10841,7 +11006,7 @@ courses = [{
     "author": "Scott Hecht",
     "level": "Intermediate",
     "duration": 265,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-10-31T04:00:00.000Z",
     "users": []
 }, {
@@ -10852,7 +11017,7 @@ courses = [{
     "author": "Dan Sullivan",
     "level": "Beginner",
     "duration": 129,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-01-24T05:00:00.000Z",
     "users": []
 }, {
@@ -10863,7 +11028,7 @@ courses = [{
     "author": "Don Jones",
     "level": "Beginner",
     "duration": 275,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2012-10-02T04:00:00.000Z",
     "users": []
 }, {
@@ -10874,7 +11039,7 @@ courses = [{
     "author": "Richard Seroter",
     "level": "Beginner",
     "duration": 307,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-12-15T05:00:00.000Z",
     "users": []
 }, {
@@ -10885,7 +11050,7 @@ courses = [{
     "author": "Dan Sullivan",
     "level": "Beginner",
     "duration": 107,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2011-02-14T05:00:00.000Z",
     "users": []
 }, {
@@ -10896,7 +11061,7 @@ courses = [{
     "author": "Glenn Berry",
     "level": "Beginner",
     "duration": 130,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-04-24T04:00:00.000Z",
     "users": []
 }, {
@@ -10907,7 +11072,7 @@ courses = [{
     "author": "Glenn Berry",
     "level": "Beginner",
     "duration": 154,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-01-11T05:00:00.000Z",
     "users": []
 }, {
@@ -10918,7 +11083,7 @@ courses = [{
     "author": "Dan Sullivan",
     "level": "Beginner",
     "duration": 492,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2010-06-15T04:00:00.000Z",
     "users": []
 }, {
@@ -10929,7 +11094,7 @@ courses = [{
     "author": "Dan Sullivan",
     "level": "Beginner",
     "duration": 63,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2010-03-11T05:00:00.000Z",
     "users": []
 }, {
@@ -10940,7 +11105,7 @@ courses = [{
     "author": "Jonathan Kehayias",
     "level": "Beginner",
     "duration": 159,
-    "rating": "4.7",
+    "rating": 4.6,
     "released": "2013-11-22T05:00:00.000Z",
     "users": []
 }, {
@@ -10951,7 +11116,7 @@ courses = [{
     "author": "Joe Sack",
     "level": "Beginner",
     "duration": 152,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-09-18T04:00:00.000Z",
     "users": []
 }, {
@@ -10962,7 +11127,7 @@ courses = [{
     "author": "Joe Sack",
     "level": "Beginner",
     "duration": 233,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-08-01T04:00:00.000Z",
     "users": []
 }, {
@@ -10973,7 +11138,7 @@ courses = [{
     "author": "Erin Stellato",
     "level": "Intermediate",
     "duration": 362,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-05-31T04:00:00.000Z",
     "users": []
 }, {
@@ -10984,7 +11149,7 @@ courses = [{
     "author": "Leonard Lobel",
     "level": "Intermediate",
     "duration": 253,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-12-19T05:00:00.000Z",
     "users": []
 }, {
@@ -10995,7 +11160,7 @@ courses = [{
     "author": "Scott Hecht",
     "level": "Intermediate",
     "duration": 178,
-    "rating": "4.0",
+    "rating": 3.9,
     "released": "2014-01-14T05:00:00.000Z",
     "users": []
 }, {
@@ -11006,7 +11171,7 @@ courses = [{
     "author": "Ahmad Alkilani",
     "level": "Intermediate",
     "duration": 139,
-    "rating": "4.8",
+    "rating": 4.7,
     "released": "2014-01-15T05:00:00.000Z",
     "users": []
 }, {
@@ -11017,7 +11182,7 @@ courses = [{
     "author": "Glenn Berry",
     "level": "Intermediate",
     "duration": 234,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2014-03-27T04:00:00.000Z",
     "users": []
 }, {
@@ -11028,7 +11193,7 @@ courses = [{
     "author": "Dan Sullivan",
     "level": "Intermediate",
     "duration": 287,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2010-03-22T04:00:00.000Z",
     "users": []
 }, {
@@ -11039,7 +11204,7 @@ courses = [{
     "author": "Mel Haynes",
     "level": "Intermediate",
     "duration": 301,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2009-05-11T04:00:00.000Z",
     "users": []
 }, {
@@ -11050,7 +11215,7 @@ courses = [{
     "author": "Mel Haynes",
     "level": "Intermediate",
     "duration": 355,
-    "rating": "4 s",
+    "rating": 4.1,
     "released": "2009-05-11T04:00:00.000Z",
     "users": []
 }, {
@@ -11061,7 +11226,7 @@ courses = [{
     "author": "Mel Haynes",
     "level": "Intermediate",
     "duration": 335,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2009-09-08T04:00:00.000Z",
     "users": []
 }, {
@@ -11072,7 +11237,7 @@ courses = [{
     "author": "Mel Haynes",
     "level": "Intermediate",
     "duration": 284,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2009-09-08T04:00:00.000Z",
     "users": []
 }, {
@@ -11083,7 +11248,7 @@ courses = [{
     "author": "Sean McCown",
     "level": "Intermediate",
     "duration": 286,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-10-30T04:00:00.000Z",
     "users": []
 }, {
@@ -11094,7 +11259,7 @@ courses = [{
     "author": "Sean McCown",
     "level": "Intermediate",
     "duration": 301,
-    "rating": "4.6",
+    "rating": 4.5,
     "released": "2012-10-30T04:00:00.000Z",
     "users": []
 }, {
@@ -11105,7 +11270,7 @@ courses = [{
     "author": "Sean McCown",
     "level": "Intermediate",
     "duration": 291,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2012-10-30T04:00:00.000Z",
     "users": []
 }, {
@@ -11116,7 +11281,7 @@ courses = [{
     "author": "Christopher Harrison",
     "level": "Intermediate",
     "duration": 312,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-10-30T04:00:00.000Z",
     "users": []
 }, {
@@ -11127,7 +11292,7 @@ courses = [{
     "author": "Christopher Harrison",
     "level": "Intermediate",
     "duration": 220,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-10-30T04:00:00.000Z",
     "users": []
 }, {
@@ -11138,7 +11303,7 @@ courses = [{
     "author": "Joe Sack",
     "level": "Intermediate",
     "duration": 76,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-05-08T04:00:00.000Z",
     "users": []
 }, {
@@ -11149,7 +11314,7 @@ courses = [{
     "author": "Joe Sack",
     "level": "Intermediate",
     "duration": 81,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-08-21T04:00:00.000Z",
     "users": []
 }, {
@@ -11160,7 +11325,7 @@ courses = [{
     "author": "DaveKumar",
     "level": "Intermediate",
     "duration": 118,
-    "rating": "3.7",
+    "rating": 3.7,
     "released": "2012-03-05T05:00:00.000Z",
     "users": []
 }, {
@@ -11171,7 +11336,7 @@ courses = [{
     "author": "KumarDave",
     "level": "Intermediate",
     "duration": 235,
-    "rating": "3.9",
+    "rating": 3.9,
     "released": "2012-06-01T04:00:00.000Z",
     "users": []
 }, {
@@ -11182,7 +11347,7 @@ courses = [{
     "author": "DaveKumar",
     "level": "Intermediate",
     "duration": 133,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2012-01-24T05:00:00.000Z",
     "users": []
 }, {
@@ -11193,7 +11358,7 @@ courses = [{
     "author": "Erin Stellato",
     "level": "Intermediate",
     "duration": 200,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2012-10-19T04:00:00.000Z",
     "users": []
 }, {
@@ -11204,7 +11369,7 @@ courses = [{
     "author": "Jonathan Kehayias",
     "level": "Intermediate",
     "duration": 232,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2012-07-30T04:00:00.000Z",
     "users": []
 }, {
@@ -11215,7 +11380,7 @@ courses = [{
     "author": "Joe Sack",
     "level": "Intermediate",
     "duration": 157,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-11-21T05:00:00.000Z",
     "users": []
 }, {
@@ -11226,7 +11391,7 @@ courses = [{
     "author": "Joe Sack",
     "level": "Intermediate",
     "duration": 87,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-12-17T05:00:00.000Z",
     "users": []
 }, {
@@ -11237,7 +11402,7 @@ courses = [{
     "author": "Jonathan Kehayias",
     "level": "Intermediate",
     "duration": 158,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-10-18T04:00:00.000Z",
     "users": []
 }, {
@@ -11248,7 +11413,7 @@ courses = [{
     "author": "Paul Randal",
     "level": "Intermediate",
     "duration": 232,
-    "rating": "4.9",
+    "rating": 4.9,
     "released": "2013-09-18T04:00:00.000Z",
     "users": []
 }, {
@@ -11259,7 +11424,7 @@ courses = [{
     "author": "Jonathan Kehayias",
     "level": "Intermediate",
     "duration": 300,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-09-25T04:00:00.000Z",
     "users": []
 }, {
@@ -11270,7 +11435,7 @@ courses = [{
     "author": "Paul Randal",
     "level": "Intermediate",
     "duration": 456,
-    "rating": "4.8",
+    "rating": 4.9,
     "released": "2012-11-16T05:00:00.000Z",
     "users": []
 }, {
@@ -11281,7 +11446,7 @@ courses = [{
     "author": "Paul Randal",
     "level": "Intermediate",
     "duration": 234,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2012-06-06T04:00:00.000Z",
     "users": []
 }, {
@@ -11292,7 +11457,7 @@ courses = [{
     "author": "Kimberly L. Tripp",
     "level": "Intermediate",
     "duration": 435,
-    "rating": "4.9",
+    "rating": 4.9,
     "released": "2013-12-06T05:00:00.000Z",
     "users": []
 }, {
@@ -11303,7 +11468,7 @@ courses = [{
     "author": "Paul Randal",
     "level": "Intermediate",
     "duration": 271,
-    "rating": "4.9",
+    "rating": 4.9,
     "released": "2012-06-28T04:00:00.000Z",
     "users": []
 }, {
@@ -11314,7 +11479,7 @@ courses = [{
     "author": "Joe Sack",
     "level": "Intermediate",
     "duration": 134,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-03-28T04:00:00.000Z",
     "users": []
 }, {
@@ -11325,7 +11490,7 @@ courses = [{
     "author": "Joe Sack",
     "level": "Intermediate",
     "duration": 69,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-10-29T04:00:00.000Z",
     "users": []
 }, {
@@ -11336,7 +11501,7 @@ courses = [{
     "author": "Joe Sack",
     "level": "Intermediate",
     "duration": 112,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-06-21T04:00:00.000Z",
     "users": []
 }, {
@@ -11347,7 +11512,7 @@ courses = [{
     "author": "Joe Sack",
     "level": "Intermediate",
     "duration": 80,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2014-02-14T05:00:00.000Z",
     "users": []
 }, {
@@ -11358,7 +11523,7 @@ courses = [{
     "author": "Joe Sack",
     "level": "Intermediate",
     "duration": 140,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2013-01-11T05:00:00.000Z",
     "users": []
 }, {
@@ -11369,7 +11534,7 @@ courses = [{
     "author": "Jonathan Kehayias",
     "level": "Intermediate",
     "duration": 124,
-    "rating": "4.5",
+    "rating": 4.4,
     "released": "2013-12-26T05:00:00.000Z",
     "users": []
 }, {
@@ -11380,7 +11545,7 @@ courses = [{
     "author": "Jonathan Kehayias",
     "level": "Intermediate",
     "duration": 247,
-    "rating": "4.6",
+    "rating": 4.5,
     "released": "2013-06-19T04:00:00.000Z",
     "users": []
 }, {
@@ -11391,7 +11556,7 @@ courses = [{
     "author": "Kimberly L. Tripp",
     "level": "Intermediate",
     "duration": 236,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2013-09-27T04:00:00.000Z",
     "users": []
 }, {
@@ -11402,7 +11567,7 @@ courses = [{
     "author": "Erin Stellato",
     "level": "Intermediate",
     "duration": 121,
-    "rating": "Not",
+    "rating": null,
     "released": "2014-03-17T04:00:00.000Z",
     "users": []
 }, {
@@ -11413,7 +11578,7 @@ courses = [{
     "author": "Dave Green",
     "level": "Intermediate",
     "duration": 180,
-    "rating": "4.2",
+    "rating": 4.3,
     "released": "2013-12-10T05:00:00.000Z",
     "users": []
 }, {
@@ -11424,7 +11589,7 @@ courses = [{
     "author": "Bob Beauchemin",
     "level": "Intermediate",
     "duration": 329,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2010-08-20T04:00:00.000Z",
     "users": []
 }, {
@@ -11435,7 +11600,7 @@ courses = [{
     "author": "Mel Haynes",
     "level": "Advanced",
     "duration": 202,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2010-03-02T05:00:00.000Z",
     "users": []
 }, {
@@ -11446,7 +11611,7 @@ courses = [{
     "author": "Mel Haynes",
     "level": "Advanced",
     "duration": 303,
-    "rating": "4.4",
+    "rating": 4.2,
     "released": "2010-03-02T05:00:00.000Z",
     "users": []
 }, {
@@ -11457,7 +11622,7 @@ courses = [{
     "author": "Mel Haynes",
     "level": "Advanced",
     "duration": 185,
-    "rating": "3.9",
+    "rating": 3.9,
     "released": "2010-03-02T05:00:00.000Z",
     "users": []
 }, {
@@ -11468,7 +11633,7 @@ courses = [{
     "author": "Paul Randal",
     "level": "Advanced",
     "duration": 237,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2013-11-22T05:00:00.000Z",
     "users": []
 }, {
@@ -11479,7 +11644,7 @@ courses = [{
     "author": "Jonathan Kehayias",
     "level": "Advanced",
     "duration": 254,
-    "rating": "4.7",
+    "rating": 4.6,
     "released": "2013-04-01T04:00:00.000Z",
     "users": []
 }, {
@@ -11490,7 +11655,7 @@ courses = [{
     "author": "Nigel Poulton",
     "level": "Intermediate",
     "duration": 199,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-12-09T05:00:00.000Z",
     "users": []
 }, {
@@ -11501,7 +11666,7 @@ courses = [{
     "author": "Nigel Poulton",
     "level": "Intermediate",
     "duration": 206,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-12-09T05:00:00.000Z",
     "users": []
 }, {
@@ -11512,7 +11677,7 @@ courses = [{
     "author": "Nigel Poulton",
     "level": "Intermediate",
     "duration": 269,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-12-09T05:00:00.000Z",
     "users": []
 }, {
@@ -11523,7 +11688,7 @@ courses = [{
     "author": "Joe Kelly",
     "level": "Intermediate",
     "duration": 199,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-08-19T04:00:00.000Z",
     "users": []
 }, {
@@ -11534,7 +11699,7 @@ courses = [{
     "author": "Joe Kelly",
     "level": "Intermediate",
     "duration": 341,
-    "rating": "3.9",
+    "rating": 4,
     "released": "2013-06-07T04:00:00.000Z",
     "users": []
 }, {
@@ -11545,7 +11710,7 @@ courses = [{
     "author": "Patrick Neborg",
     "level": "Intermediate",
     "duration": 384,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2013-11-25T05:00:00.000Z",
     "users": []
 }, {
@@ -11556,7 +11721,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Intermediate",
     "duration": 120,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-01-15T05:00:00.000Z",
     "users": []
 }, {
@@ -11567,7 +11732,7 @@ courses = [{
     "author": "Rhonda Layfield",
     "level": "Intermediate",
     "duration": 44,
-    "rating": "3.7",
+    "rating": 3.7,
     "released": "2013-06-26T04:00:00.000Z",
     "users": []
 }, {
@@ -11578,7 +11743,7 @@ courses = [{
     "author": "Adam Bertram",
     "level": "Intermediate",
     "duration": 150,
-    "rating": "Not",
+    "rating": null,
     "released": "2014-04-21T04:00:00.000Z",
     "users": []
 }, {
@@ -11589,7 +11754,7 @@ courses = [{
     "author": "Rhonda Layfield",
     "level": "Intermediate",
     "duration": 340,
-    "rating": "Not",
+    "rating": null,
     "released": "2014-01-11T05:00:00.000Z",
     "users": []
 }, {
@@ -11600,7 +11765,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Intermediate",
     "duration": 283,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2012-09-14T04:00:00.000Z",
     "users": []
 }, {
@@ -11611,7 +11776,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Intermediate",
     "duration": 233,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-09-14T04:00:00.000Z",
     "users": []
 }, {
@@ -11622,7 +11787,7 @@ courses = [{
     "author": "Elias Khnaser",
     "level": "Intermediate",
     "duration": 242,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-02-05T05:00:00.000Z",
     "users": []
 }, {
@@ -11633,7 +11798,7 @@ courses = [{
     "author": "Elias Khnaser",
     "level": "Intermediate",
     "duration": 276,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-02-05T05:00:00.000Z",
     "users": []
 }, {
@@ -11644,7 +11809,7 @@ courses = [{
     "author": "Elias Khnaser",
     "level": "Intermediate",
     "duration": 206,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-02-05T05:00:00.000Z",
     "users": []
 }, {
@@ -11655,7 +11820,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Intermediate",
     "duration": 306,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-01-15T05:00:00.000Z",
     "users": []
 }, {
@@ -11666,7 +11831,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Intermediate",
     "duration": 306,
-    "rating": "Not",
+    "rating": null,
     "released": "2009-07-17T04:00:00.000Z",
     "users": []
 }, {
@@ -11677,7 +11842,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Intermediate",
     "duration": 217,
-    "rating": "Not",
+    "rating": null,
     "released": "2009-07-17T04:00:00.000Z",
     "users": []
 }, {
@@ -11688,7 +11853,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Intermediate",
     "duration": 293,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-02-01T05:00:00.000Z",
     "users": []
 }, {
@@ -11699,7 +11864,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Intermediate",
     "duration": 177,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-02-01T05:00:00.000Z",
     "users": []
 }, {
@@ -11710,7 +11875,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Intermediate",
     "duration": 91,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-02-01T05:00:00.000Z",
     "users": []
 }, {
@@ -11721,7 +11886,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Intermediate",
     "duration": 163,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-03-16T04:00:00.000Z",
     "users": []
 }, {
@@ -11732,7 +11897,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Intermediate",
     "duration": 345,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-03-16T04:00:00.000Z",
     "users": []
 }, {
@@ -11743,7 +11908,7 @@ courses = [{
     "author": "David Starr",
     "level": "Beginner",
     "duration": 139,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2011-07-11T04:00:00.000Z",
     "users": []
 }, {
@@ -11754,7 +11919,7 @@ courses = [{
     "author": "John Brown",
     "level": "Beginner",
     "duration": 150,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2010-08-20T04:00:00.000Z",
     "users": []
 }, {
@@ -11765,7 +11930,7 @@ courses = [{
     "author": "David Starr",
     "level": "Beginner",
     "duration": 146,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2011-01-12T05:00:00.000Z",
     "users": []
 }, {
@@ -11776,7 +11941,7 @@ courses = [{
     "author": "Benjamin Day",
     "level": "Intermediate",
     "duration": 271,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-09-24T04:00:00.000Z",
     "users": []
 }, {
@@ -11787,7 +11952,7 @@ courses = [{
     "author": "John Brown",
     "level": "Intermediate",
     "duration": 239,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2012-03-26T04:00:00.000Z",
     "users": []
 }, {
@@ -11798,7 +11963,7 @@ courses = [{
     "author": "Benjamin Day",
     "level": "Intermediate",
     "duration": 334,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2012-09-05T04:00:00.000Z",
     "users": []
 }, {
@@ -11809,7 +11974,7 @@ courses = [{
     "author": "David Batten",
     "level": "Intermediate",
     "duration": 51,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2012-08-07T04:00:00.000Z",
     "users": []
 }, {
@@ -11820,7 +11985,7 @@ courses = [{
     "author": "John Brown",
     "level": "Intermediate",
     "duration": 234,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-10-16T04:00:00.000Z",
     "users": []
 }, {
@@ -11831,7 +11996,7 @@ courses = [{
     "author": "John Brown",
     "level": "Intermediate",
     "duration": 162,
-    "rating": "4.1",
+    "rating": 4.2,
     "released": "2014-01-20T05:00:00.000Z",
     "users": []
 }, {
@@ -11842,7 +12007,7 @@ courses = [{
     "author": "Esteban Garcia",
     "level": "Intermediate",
     "duration": 140,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-03-15T04:00:00.000Z",
     "users": []
 }, {
@@ -11853,7 +12018,7 @@ courses = [{
     "author": "John Brown",
     "level": "Intermediate",
     "duration": 121,
-    "rating": "3.9",
+    "rating": 4,
     "released": "2012-06-19T04:00:00.000Z",
     "users": []
 }, {
@@ -11864,7 +12029,7 @@ courses = [{
     "author": "Dan Benjamin",
     "level": "Beginner",
     "duration": 52,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2010-07-10T04:00:00.000Z",
     "users": []
 }, {
@@ -11875,7 +12040,7 @@ courses = [{
     "author": "Dan Benjamin",
     "level": "Beginner",
     "duration": 113,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2009-05-28T04:00:00.000Z",
     "users": []
 }, {
@@ -11886,7 +12051,7 @@ courses = [{
     "author": "Andrew Stewart",
     "level": "Beginner",
     "duration": 110,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2010-07-08T04:00:00.000Z",
     "users": []
 }, {
@@ -11897,7 +12062,7 @@ courses = [{
     "author": "Reindert-Jan Ekker",
     "level": "Intermediate",
     "duration": 273,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-10-16T04:00:00.000Z",
     "users": []
 }, {
@@ -11908,7 +12073,7 @@ courses = [{
     "author": "NeathGrosenbach",
     "level": "Beginner",
     "duration": 106,
-    "rating": "3.7",
+    "rating": 3.6,
     "released": "2012-05-15T04:00:00.000Z",
     "users": []
 }, {
@@ -11919,7 +12084,7 @@ courses = [{
     "author": "MrganGrosenbach",
     "level": "Beginner",
     "duration": 106,
-    "rating": "4.0",
+    "rating": 4.1,
     "released": "2012-08-30T04:00:00.000Z",
     "users": []
 }, {
@@ -11930,7 +12095,7 @@ courses = [{
     "author": "SingerGrosenbach",
     "level": "Beginner",
     "duration": 147,
-    "rating": "3.9",
+    "rating": 3.9,
     "released": "2011-09-17T04:00:00.000Z",
     "users": []
 }, {
@@ -11941,7 +12106,7 @@ courses = [{
     "author": "Jason Roberts",
     "level": "Intermediate",
     "duration": 113,
-    "rating": "3.9",
+    "rating": 3.9,
     "released": "2013-07-09T04:00:00.000Z",
     "users": []
 }, {
@@ -11952,7 +12117,7 @@ courses = [{
     "author": "Billy Hollis",
     "level": "Intermediate",
     "duration": 271,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-05-10T04:00:00.000Z",
     "users": []
 }, {
@@ -11963,7 +12128,7 @@ courses = [{
     "author": "Geoffrey Grosenbachet al.",
     "level": "Intermediate",
     "duration": 120,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-12-05T05:00:00.000Z",
     "users": []
 }, {
@@ -11974,7 +12139,7 @@ courses = [{
     "author": "Bill Scott",
     "level": "Intermediate",
     "duration": 323,
-    "rating": "3.9",
+    "rating": 3.9,
     "released": "2013-06-07T04:00:00.000Z",
     "users": []
 }, {
@@ -11985,7 +12150,7 @@ courses = [{
     "author": "David Davis",
     "level": "Beginner",
     "duration": 150,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2014-04-01T04:00:00.000Z",
     "users": []
 }, {
@@ -11996,7 +12161,7 @@ courses = [{
     "author": "David Davis",
     "level": "Beginner",
     "duration": 134,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-09-09T04:00:00.000Z",
     "users": []
 }, {
@@ -12007,7 +12172,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 194,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-08-30T04:00:00.000Z",
     "users": []
 }, {
@@ -12018,7 +12183,7 @@ courses = [{
     "author": "Elias Khnaser",
     "level": "Intermediate",
     "duration": 62,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2012-10-08T04:00:00.000Z",
     "users": []
 }, {
@@ -12029,7 +12194,7 @@ courses = [{
     "author": "Jason Nash",
     "level": "Intermediate",
     "duration": 432,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2012-09-18T04:00:00.000Z",
     "users": []
 }, {
@@ -12040,7 +12205,7 @@ courses = [{
     "author": "Rick Scherer",
     "level": "Intermediate",
     "duration": 69,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-02-08T05:00:00.000Z",
     "users": []
 }, {
@@ -12051,7 +12216,7 @@ courses = [{
     "author": "Elias Khnaser",
     "level": "Intermediate",
     "duration": 316,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2012-08-14T04:00:00.000Z",
     "users": []
 }, {
@@ -12062,7 +12227,7 @@ courses = [{
     "author": "Elias Khnaser",
     "level": "Intermediate",
     "duration": 249,
-    "rating": "4.7",
+    "rating": 4.6,
     "released": "2014-02-24T05:00:00.000Z",
     "users": []
 }, {
@@ -12073,7 +12238,7 @@ courses = [{
     "author": "Elias Khnaser",
     "level": "Intermediate",
     "duration": 111,
-    "rating": "4.1",
+    "rating": 4,
     "released": "2012-06-15T04:00:00.000Z",
     "users": []
 }, {
@@ -12084,7 +12249,7 @@ courses = [{
     "author": "Elias Khnaser",
     "level": "Intermediate",
     "duration": 211,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2011-07-26T04:00:00.000Z",
     "users": []
 }, {
@@ -12095,7 +12260,7 @@ courses = [{
     "author": "Elias Khnaser",
     "level": "Intermediate",
     "duration": 390,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-07-26T04:00:00.000Z",
     "users": []
 }, {
@@ -12106,7 +12271,7 @@ courses = [{
     "author": "Elias Khnaser",
     "level": "Intermediate",
     "duration": 261,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-07-26T04:00:00.000Z",
     "users": []
 }, {
@@ -12117,7 +12282,7 @@ courses = [{
     "author": "Elias Khnaser",
     "level": "Intermediate",
     "duration": 161,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-02-14T05:00:00.000Z",
     "users": []
 }, {
@@ -12128,7 +12293,7 @@ courses = [{
     "author": "Elias Khnaser",
     "level": "Intermediate",
     "duration": 326,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-02-14T05:00:00.000Z",
     "users": []
 }, {
@@ -12139,7 +12304,7 @@ courses = [{
     "author": "Elias Khnaser",
     "level": "Intermediate",
     "duration": 107,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-02-14T05:00:00.000Z",
     "users": []
 }, {
@@ -12150,7 +12315,7 @@ courses = [{
     "author": "Elias Khnaser",
     "level": "Intermediate",
     "duration": 69,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-08-14T04:00:00.000Z",
     "users": []
 }, {
@@ -12161,7 +12326,7 @@ courses = [{
     "author": "Elias Khnaser",
     "level": "Intermediate",
     "duration": 189,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-03-08T05:00:00.000Z",
     "users": []
 }, {
@@ -12172,7 +12337,7 @@ courses = [{
     "author": "Elias Khnaser",
     "level": "Intermediate",
     "duration": 335,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-03-08T05:00:00.000Z",
     "users": []
 }, {
@@ -12183,7 +12348,7 @@ courses = [{
     "author": "Elias Khnaser",
     "level": "Intermediate",
     "duration": 205,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-03-08T05:00:00.000Z",
     "users": []
 }, {
@@ -12194,7 +12359,7 @@ courses = [{
     "author": "Elias Khnaser",
     "level": "Intermediate",
     "duration": 262,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2014-02-24T05:00:00.000Z",
     "users": []
 }, {
@@ -12205,7 +12370,7 @@ courses = [{
     "author": "Elias Khnaser",
     "level": "Intermediate",
     "duration": 300,
-    "rating": "Not",
+    "rating": 4.3,
     "released": "2014-02-25T05:00:00.000Z",
     "users": []
 }, {
@@ -12216,7 +12381,7 @@ courses = [{
     "author": "Elias Khnaser",
     "level": "Intermediate",
     "duration": 178,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-05-29T04:00:00.000Z",
     "users": []
 }, {
@@ -12227,7 +12392,7 @@ courses = [{
     "author": "Elias Khnaser",
     "level": "Intermediate",
     "duration": 242,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-05-29T04:00:00.000Z",
     "users": []
 }, {
@@ -12238,7 +12403,7 @@ courses = [{
     "author": "Benjamin Culbertson",
     "level": "Intermediate",
     "duration": 350,
-    "rating": "Not",
+    "rating": null,
     "released": "2009-07-13T04:00:00.000Z",
     "users": []
 }, {
@@ -12249,7 +12414,7 @@ courses = [{
     "author": "Benjamin Culbertson",
     "level": "Intermediate",
     "duration": 127,
-    "rating": "Not",
+    "rating": null,
     "released": "2009-07-13T04:00:00.000Z",
     "users": []
 }, {
@@ -12260,7 +12425,7 @@ courses = [{
     "author": "Jason Nash",
     "level": "Intermediate",
     "duration": 533,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2011-12-13T05:00:00.000Z",
     "users": []
 }, {
@@ -12271,7 +12436,7 @@ courses = [{
     "author": "Jason Nash",
     "level": "Intermediate",
     "duration": 285,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-12-13T05:00:00.000Z",
     "users": []
 }, {
@@ -12282,7 +12447,7 @@ courses = [{
     "author": "Bill Gurling",
     "level": "Intermediate",
     "duration": 291,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-09-30T04:00:00.000Z",
     "users": []
 }, {
@@ -12293,7 +12458,7 @@ courses = [{
     "author": "Elias Khnaser",
     "level": "Intermediate",
     "duration": 121,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2014-02-24T05:00:00.000Z",
     "users": []
 }, {
@@ -12304,7 +12469,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 142,
-    "rating": "4.5",
+    "rating": 4.4,
     "released": "2011-03-11T05:00:00.000Z",
     "users": []
 }, {
@@ -12315,7 +12480,7 @@ courses = [{
     "author": "Jason Nash",
     "level": "Intermediate",
     "duration": 53,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-06-18T04:00:00.000Z",
     "users": []
 }, {
@@ -12326,7 +12491,7 @@ courses = [{
     "author": "Jason Nash",
     "level": "Intermediate",
     "duration": 50,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-07-09T04:00:00.000Z",
     "users": []
 }, {
@@ -12337,7 +12502,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 201,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-08-22T04:00:00.000Z",
     "users": []
 }, {
@@ -12348,7 +12513,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 145,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2011-08-22T04:00:00.000Z",
     "users": []
 }, {
@@ -12359,7 +12524,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 210,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-08-22T04:00:00.000Z",
     "users": []
 }, {
@@ -12370,7 +12535,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 314,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-08-22T04:00:00.000Z",
     "users": []
 }, {
@@ -12381,7 +12546,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 699,
-    "rating": "Not",
+    "rating": null,
     "released": "2007-12-19T05:00:00.000Z",
     "users": []
 }, {
@@ -12392,7 +12557,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 131,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2010-07-12T04:00:00.000Z",
     "users": []
 }, {
@@ -12403,7 +12568,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 53,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-07-12T04:00:00.000Z",
     "users": []
 }, {
@@ -12414,7 +12579,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 66,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-07-12T04:00:00.000Z",
     "users": []
 }, {
@@ -12425,7 +12590,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 146,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-07-12T04:00:00.000Z",
     "users": []
 }, {
@@ -12436,7 +12601,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 190,
-    "rating": "Not",
+    "rating": null,
     "released": "2008-01-08T05:00:00.000Z",
     "users": []
 }, {
@@ -12447,7 +12612,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 616,
-    "rating": "Not",
+    "rating": null,
     "released": "2008-01-08T05:00:00.000Z",
     "users": []
 }, {
@@ -12458,7 +12623,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 261,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2008-01-08T05:00:00.000Z",
     "users": []
 }, {
@@ -12469,7 +12634,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 211,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-11-06T05:00:00.000Z",
     "users": []
 }, {
@@ -12480,7 +12645,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 690,
-    "rating": "Not",
+    "rating": null,
     "released": "2007-01-01T05:00:00.000Z",
     "users": []
 }, {
@@ -12491,7 +12656,7 @@ courses = [{
     "author": "Sean Clark",
     "level": "Intermediate",
     "duration": 330,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-07-12T04:00:00.000Z",
     "users": []
 }, {
@@ -12502,7 +12667,7 @@ courses = [{
     "author": "Sean Clark",
     "level": "Intermediate",
     "duration": 202,
-    "rating": "Not",
+    "rating": 4.5,
     "released": "2012-06-12T04:00:00.000Z",
     "users": []
 }, {
@@ -12513,7 +12678,7 @@ courses = [{
     "author": "Sean Clark",
     "level": "Intermediate",
     "duration": 237,
-    "rating": "4.2",
+    "rating": 4.3,
     "released": "2012-06-12T04:00:00.000Z",
     "users": []
 }, {
@@ -12524,7 +12689,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 191,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-06-28T04:00:00.000Z",
     "users": []
 }, {
@@ -12535,7 +12700,7 @@ courses = [{
     "author": "Jason Nash",
     "level": "Intermediate",
     "duration": 476,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-01-02T05:00:00.000Z",
     "users": []
 }, {
@@ -12546,7 +12711,7 @@ courses = [{
     "author": "Chris Wahl",
     "level": "Intermediate",
     "duration": 154,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-05-13T04:00:00.000Z",
     "users": []
 }, {
@@ -12557,7 +12722,7 @@ courses = [{
     "author": "Chris Wahl",
     "level": "Intermediate",
     "duration": 294,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2013-05-13T04:00:00.000Z",
     "users": []
 }, {
@@ -12568,7 +12733,7 @@ courses = [{
     "author": "DavisRobinson",
     "level": "Intermediate",
     "duration": 317,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-03-20T04:00:00.000Z",
     "users": []
 }, {
@@ -12579,7 +12744,7 @@ courses = [{
     "author": "Jake Robinson",
     "level": "Intermediate",
     "duration": 232,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-10-16T04:00:00.000Z",
     "users": []
 }, {
@@ -12590,7 +12755,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 165,
-    "rating": "Not",
+    "rating": null,
     "released": "2014-02-03T05:00:00.000Z",
     "users": []
 }, {
@@ -12601,7 +12766,7 @@ courses = [{
     "author": "Brian Knudtson",
     "level": "Intermediate",
     "duration": 370,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-07-13T04:00:00.000Z",
     "users": []
 }, {
@@ -12612,7 +12777,7 @@ courses = [{
     "author": "Brian Knudtson",
     "level": "Intermediate",
     "duration": 157,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-07-13T04:00:00.000Z",
     "users": []
 }, {
@@ -12623,7 +12788,7 @@ courses = [{
     "author": "KnudtsonLeverett",
     "level": "Intermediate",
     "duration": 270,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-01-24T05:00:00.000Z",
     "users": []
 }, {
@@ -12634,7 +12799,7 @@ courses = [{
     "author": "KnudtsonLeverett",
     "level": "Intermediate",
     "duration": 180,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-01-24T05:00:00.000Z",
     "users": []
 }, {
@@ -12645,7 +12810,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 228,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-02-08T05:00:00.000Z",
     "users": []
 }, {
@@ -12656,7 +12821,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 458,
-    "rating": "Not",
+    "rating": null,
     "released": "2009-08-18T04:00:00.000Z",
     "users": []
 }, {
@@ -12667,7 +12832,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 534,
-    "rating": "Not",
+    "rating": null,
     "released": "2009-08-18T04:00:00.000Z",
     "users": []
 }, {
@@ -12678,7 +12843,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 345,
-    "rating": "Not",
+    "rating": null,
     "released": "2009-08-18T04:00:00.000Z",
     "users": []
 }, {
@@ -12689,7 +12854,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 361,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-04-08T04:00:00.000Z",
     "users": []
 }, {
@@ -12700,7 +12865,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 187,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-08-27T04:00:00.000Z",
     "users": []
 }, {
@@ -12711,7 +12876,7 @@ courses = [{
     "author": "DavisKhnaser",
     "level": "Intermediate",
     "duration": 364,
-    "rating": "4.6",
+    "rating": 4.7,
     "released": "2011-08-29T04:00:00.000Z",
     "users": []
 }, {
@@ -12722,7 +12887,7 @@ courses = [{
     "author": "KhnaserDavis",
     "level": "Intermediate",
     "duration": 389,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2011-08-29T04:00:00.000Z",
     "users": []
 }, {
@@ -12733,7 +12898,7 @@ courses = [{
     "author": "DavisKhnaser",
     "level": "Intermediate",
     "duration": 245,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2011-08-29T04:00:00.000Z",
     "users": []
 }, {
@@ -12744,7 +12909,7 @@ courses = [{
     "author": "Brian Tobia",
     "level": "Intermediate",
     "duration": 232,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-10-31T04:00:00.000Z",
     "users": []
 }, {
@@ -12755,7 +12920,7 @@ courses = [{
     "author": "Brian Tobia",
     "level": "Intermediate",
     "duration": 287,
-    "rating": "Not",
+    "rating": 4.4,
     "released": "2014-01-14T05:00:00.000Z",
     "users": []
 }, {
@@ -12766,7 +12931,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 256,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-06-03T04:00:00.000Z",
     "users": []
 }, {
@@ -12777,7 +12942,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Advanced",
     "duration": 370,
-    "rating": "4.9",
+    "rating": 4.9,
     "released": "2012-07-24T04:00:00.000Z",
     "users": []
 }, {
@@ -12788,7 +12953,7 @@ courses = [{
     "author": "Hal Rottenberg",
     "level": "Advanced",
     "duration": 342,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-02-08T05:00:00.000Z",
     "users": []
 }, {
@@ -12799,7 +12964,7 @@ courses = [{
     "author": "Hal Rottenberg",
     "level": "Advanced",
     "duration": 278,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-07-12T04:00:00.000Z",
     "users": []
 }, {
@@ -12810,7 +12975,7 @@ courses = [{
     "author": "Eric Siebert",
     "level": "Advanced",
     "duration": 245,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-07-12T04:00:00.000Z",
     "users": []
 }, {
@@ -12821,7 +12986,7 @@ courses = [{
     "author": "Jason Nash",
     "level": "Advanced",
     "duration": 484,
-    "rating": "4.9",
+    "rating": 4.9,
     "released": "2012-05-01T04:00:00.000Z",
     "users": []
 }, {
@@ -12832,7 +12997,7 @@ courses = [{
     "author": "Jason Nash",
     "level": "Advanced",
     "duration": 278,
-    "rating": "5 s",
+    "rating": 5,
     "released": "2013-06-04T04:00:00.000Z",
     "users": []
 }, {
@@ -12843,7 +13008,7 @@ courses = [{
     "author": "Jason Nash",
     "level": "Advanced",
     "duration": 294,
-    "rating": "4.9",
+    "rating": 4.9,
     "released": "2013-06-04T04:00:00.000Z",
     "users": []
 }, {
@@ -12854,7 +13019,7 @@ courses = [{
     "author": "Jason Nash",
     "level": "Advanced",
     "duration": 328,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-06-04T04:00:00.000Z",
     "users": []
 }, {
@@ -12865,7 +13030,7 @@ courses = [{
     "author": "David Davis",
     "level": "Advanced",
     "duration": 217,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-05-24T04:00:00.000Z",
     "users": []
 }, {
@@ -12876,7 +13041,7 @@ courses = [{
     "author": "David Davis",
     "level": "Advanced",
     "duration": 439,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-05-24T04:00:00.000Z",
     "users": []
 }, {
@@ -12887,7 +13052,7 @@ courses = [{
     "author": "David Davis",
     "level": "Advanced",
     "duration": 167,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-05-24T04:00:00.000Z",
     "users": []
 }, {
@@ -12898,7 +13063,7 @@ courses = [{
     "author": "Hal Rottenberg",
     "level": "Advanced",
     "duration": 389,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-03-22T04:00:00.000Z",
     "users": []
 }, {
@@ -12909,7 +13074,7 @@ courses = [{
     "author": "Hal Rottenberg",
     "level": "Advanced",
     "duration": 278,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-03-22T04:00:00.000Z",
     "users": []
 }, {
@@ -12920,7 +13085,7 @@ courses = [{
     "author": "Jason Nashet al.",
     "level": "Advanced",
     "duration": 257,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-07-19T04:00:00.000Z",
     "users": []
 }, {
@@ -12931,7 +13096,7 @@ courses = [{
     "author": "Lane Leverett",
     "level": "Advanced",
     "duration": 136,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-07-19T04:00:00.000Z",
     "users": []
 }, {
@@ -12942,7 +13107,7 @@ courses = [{
     "author": "NashDavis",
     "level": "Advanced",
     "duration": 305,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-07-19T04:00:00.000Z",
     "users": []
 }, {
@@ -12953,7 +13118,7 @@ courses = [{
     "author": "David Davis",
     "level": "Advanced",
     "duration": 265,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-01-04T05:00:00.000Z",
     "users": []
 }, {
@@ -12964,7 +13129,7 @@ courses = [{
     "author": "David Davis",
     "level": "Advanced",
     "duration": 230,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-01-04T05:00:00.000Z",
     "users": []
 }, {
@@ -12975,7 +13140,7 @@ courses = [{
     "author": "David Davis",
     "level": "Advanced",
     "duration": 213,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-01-04T05:00:00.000Z",
     "users": []
 }, {
@@ -12986,7 +13151,7 @@ courses = [{
     "author": "David Davis",
     "level": "Advanced",
     "duration": 121,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-01-04T05:00:00.000Z",
     "users": []
 }, {
@@ -12997,7 +13162,7 @@ courses = [{
     "author": "Kate Gregory",
     "level": "Beginner",
     "duration": 295,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2010-07-25T04:00:00.000Z",
     "users": []
 }, {
@@ -13008,7 +13173,7 @@ courses = [{
     "author": "Kate Gregory",
     "level": "Beginner",
     "duration": 277,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2011-04-04T04:00:00.000Z",
     "users": []
 }, {
@@ -13019,7 +13184,7 @@ courses = [{
     "author": "Kate Gregory",
     "level": "Beginner",
     "duration": 187,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2011-05-16T04:00:00.000Z",
     "users": []
 }, {
@@ -13030,7 +13195,7 @@ courses = [{
     "author": "Kate Gregory",
     "level": "Beginner",
     "duration": 224,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-10-11T04:00:00.000Z",
     "users": []
 }, {
@@ -13041,7 +13206,7 @@ courses = [{
     "author": "Kate Gregory",
     "level": "Beginner",
     "duration": 163,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2012-11-19T05:00:00.000Z",
     "users": []
 }, {
@@ -13052,7 +13217,7 @@ courses = [{
     "author": "Kate Gregory",
     "level": "Beginner",
     "duration": 269,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2014-02-27T05:00:00.000Z",
     "users": []
 }, {
@@ -13063,7 +13228,7 @@ courses = [{
     "author": "Kathleen Dollard",
     "level": "Beginner",
     "duration": 234,
-    "rating": "3.7",
+    "rating": 3.7,
     "released": "2012-11-06T05:00:00.000Z",
     "users": []
 }, {
@@ -13074,7 +13239,7 @@ courses = [{
     "author": "David Starr",
     "level": "Beginner",
     "duration": 214,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-04-26T04:00:00.000Z",
     "users": []
 }, {
@@ -13085,7 +13250,7 @@ courses = [{
     "author": "Kate Gregory",
     "level": "Intermediate",
     "duration": 247,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2010-08-27T04:00:00.000Z",
     "users": []
 }, {
@@ -13096,7 +13261,7 @@ courses = [{
     "author": "Oliver Sturm",
     "level": "Intermediate",
     "duration": 303,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2011-10-27T04:00:00.000Z",
     "users": []
 }, {
@@ -13107,7 +13272,7 @@ courses = [{
     "author": "Esteban Garcia",
     "level": "Intermediate",
     "duration": 128,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-12-18T05:00:00.000Z",
     "users": []
 }, {
@@ -13118,7 +13283,7 @@ courses = [{
     "author": "John V. Petersen",
     "level": "Intermediate",
     "duration": 250,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2012-05-25T04:00:00.000Z",
     "users": []
 }, {
@@ -13129,7 +13294,7 @@ courses = [{
     "author": "John Brown",
     "level": "Intermediate",
     "duration": 173,
-    "rating": "3.6",
+    "rating": 3.6,
     "released": "2011-10-04T04:00:00.000Z",
     "users": []
 }, {
@@ -13140,7 +13305,7 @@ courses = [{
     "author": "Benjamin Day",
     "level": "Intermediate",
     "duration": 243,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-08-26T04:00:00.000Z",
     "users": []
 }, {
@@ -13151,7 +13316,7 @@ courses = [{
     "author": "Deborah Kurata",
     "level": "Intermediate",
     "duration": 230,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-07-30T04:00:00.000Z",
     "users": []
 }, {
@@ -13162,7 +13327,7 @@ courses = [{
     "author": "Deborah Kurata",
     "level": "Intermediate",
     "duration": 170,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2013-10-22T04:00:00.000Z",
     "users": []
 }, {
@@ -13173,7 +13338,7 @@ courses = [{
     "author": "Esteban Garcia",
     "level": "Intermediate",
     "duration": 114,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-07-10T04:00:00.000Z",
     "users": []
 }, {
@@ -13184,7 +13349,7 @@ courses = [{
     "author": "James Kovacs",
     "level": "Intermediate",
     "duration": 207,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2011-03-10T05:00:00.000Z",
     "users": []
 }, {
@@ -13195,7 +13360,7 @@ courses = [{
     "author": "Richard Seroter",
     "level": "Intermediate",
     "duration": 144,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2011-05-10T04:00:00.000Z",
     "users": []
 }, {
@@ -13206,7 +13371,7 @@ courses = [{
     "author": "Marcel de Vries",
     "level": "Intermediate",
     "duration": 322,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2014-02-11T05:00:00.000Z",
     "users": []
 }, {
@@ -13217,7 +13382,7 @@ courses = [{
     "author": "Phani Tipparaju",
     "level": "Intermediate",
     "duration": 184,
-    "rating": "3.8",
+    "rating": 3.8,
     "released": "2011-04-25T04:00:00.000Z",
     "users": []
 }, {
@@ -13228,7 +13393,7 @@ courses = [{
     "author": "Robert Cain",
     "level": "Intermediate",
     "duration": 109,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2011-01-06T05:00:00.000Z",
     "users": []
 }, {
@@ -13239,7 +13404,7 @@ courses = [{
     "author": "Deborah Kurata",
     "level": "Intermediate",
     "duration": 197,
-    "rating": "4.3",
+    "rating": 4.4,
     "released": "2014-02-12T05:00:00.000Z",
     "users": []
 }, {
@@ -13250,7 +13415,7 @@ courses = [{
     "author": "David Starr",
     "level": "Intermediate",
     "duration": 275,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-04-26T04:00:00.000Z",
     "users": []
 }, {
@@ -13261,7 +13426,7 @@ courses = [{
     "author": "David Starr",
     "level": "Intermediate",
     "duration": 130,
-    "rating": "Not",
+    "rating": null,
     "released": "2009-11-30T05:00:00.000Z",
     "users": []
 }, {
@@ -13272,7 +13437,7 @@ courses = [{
     "author": "Steve Smith",
     "level": "Intermediate",
     "duration": 199,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2011-07-27T04:00:00.000Z",
     "users": []
 }, {
@@ -13283,7 +13448,7 @@ courses = [{
     "author": "Kate Gregory",
     "level": "Intermediate",
     "duration": 206,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-11-21T05:00:00.000Z",
     "users": []
 }, {
@@ -13294,7 +13459,7 @@ courses = [{
     "author": "Aaron Skonnard",
     "level": "Beginner",
     "duration": 118,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2009-11-12T05:00:00.000Z",
     "users": []
 }, {
@@ -13305,7 +13470,7 @@ courses = [{
     "author": "Aaron Skonnard",
     "level": "Beginner",
     "duration": 272,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2008-08-22T04:00:00.000Z",
     "users": []
 }, {
@@ -13316,7 +13481,7 @@ courses = [{
     "author": "Dominick Baier",
     "level": "Intermediate",
     "duration": 192,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2012-12-14T05:00:00.000Z",
     "users": []
 }, {
@@ -13327,7 +13492,7 @@ courses = [{
     "author": "Mohamad Halabi",
     "level": "Intermediate",
     "duration": 64,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-05-01T04:00:00.000Z",
     "users": []
 }, {
@@ -13338,7 +13503,7 @@ courses = [{
     "author": "Mohamad Halabi",
     "level": "Intermediate",
     "duration": 344,
-    "rating": "4.6",
+    "rating": 4.5,
     "released": "2014-03-26T04:00:00.000Z",
     "users": []
 }, {
@@ -13349,7 +13514,7 @@ courses = [{
     "author": "Scott Seely",
     "level": "Intermediate",
     "duration": 150,
-    "rating": "3.6",
+    "rating": 3.7,
     "released": "2010-07-21T04:00:00.000Z",
     "users": []
 }, {
@@ -13360,7 +13525,7 @@ courses = [{
     "author": "Aaron Skonnard",
     "level": "Intermediate",
     "duration": 395,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2008-08-22T04:00:00.000Z",
     "users": []
 }, {
@@ -13371,7 +13536,7 @@ courses = [{
     "author": "Aaron Skonnard",
     "level": "Advanced",
     "duration": 251,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2009-11-24T05:00:00.000Z",
     "users": []
 }, {
@@ -13382,7 +13547,7 @@ courses = [{
     "author": "Carlos Figueira",
     "level": "Advanced",
     "duration": 189,
-    "rating": "3.9",
+    "rating": 3.9,
     "released": "2012-06-27T04:00:00.000Z",
     "users": []
 }, {
@@ -13393,7 +13558,7 @@ courses = [{
     "author": "Chad McCallum",
     "level": "Intermediate",
     "duration": 362,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-09-25T04:00:00.000Z",
     "users": []
 }, {
@@ -13404,7 +13569,7 @@ courses = [{
     "author": "Michael Hoffman",
     "level": "Intermediate",
     "duration": 197,
-    "rating": "Not",
+    "rating": null,
     "released": "2014-04-22T04:00:00.000Z",
     "users": []
 }, {
@@ -13415,7 +13580,7 @@ courses = [{
     "author": "Pinal Dave",
     "level": "Intermediate",
     "duration": 134,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2013-02-04T05:00:00.000Z",
     "users": []
 }, {
@@ -13426,7 +13591,7 @@ courses = [{
     "author": "Dan Bunker",
     "level": "Intermediate",
     "duration": 208,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2013-10-10T04:00:00.000Z",
     "users": []
 }, {
@@ -13437,7 +13602,7 @@ courses = [{
     "author": "Richard Cirerol",
     "level": "Intermediate",
     "duration": 92,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-07-03T04:00:00.000Z",
     "users": []
 }, {
@@ -13448,7 +13613,7 @@ courses = [{
     "author": "James Hughes",
     "level": "Intermediate",
     "duration": 97,
-    "rating": "Not",
+    "rating": 3.7,
     "released": "2014-04-14T04:00:00.000Z",
     "users": []
 }, {
@@ -13459,7 +13624,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Beginner",
     "duration": 153,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2010-07-07T04:00:00.000Z",
     "users": []
 }, {
@@ -13470,7 +13635,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Beginner",
     "duration": 281,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2009-11-01T04:00:00.000Z",
     "users": []
 }, {
@@ -13481,7 +13646,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Beginner",
     "duration": 386,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2008-05-31T04:00:00.000Z",
     "users": []
 }, {
@@ -13492,7 +13657,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Intermediate",
     "duration": 143,
-    "rating": "4.2",
+    "rating": 4.1,
     "released": "2010-08-27T04:00:00.000Z",
     "users": []
 }, {
@@ -13503,7 +13668,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Intermediate",
     "duration": 157,
-    "rating": "4.0",
+    "rating": 4,
     "released": "2012-12-17T05:00:00.000Z",
     "users": []
 }, {
@@ -13514,7 +13679,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Advanced",
     "duration": 133,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2010-08-27T04:00:00.000Z",
     "users": []
 }, {
@@ -13525,7 +13690,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Advanced",
     "duration": 371,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2008-05-31T04:00:00.000Z",
     "users": []
 }, {
@@ -13536,7 +13701,7 @@ courses = [{
     "author": "Kate Gregory",
     "level": "Beginner",
     "duration": 261,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2010-05-05T04:00:00.000Z",
     "users": []
 }, {
@@ -13547,7 +13712,7 @@ courses = [{
     "author": "Bill Kulterman",
     "level": "Beginner",
     "duration": 390,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2010-05-20T04:00:00.000Z",
     "users": []
 }, {
@@ -13558,7 +13723,7 @@ courses = [{
     "author": "Eric Burke",
     "level": "Intermediate",
     "duration": 237,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2010-07-12T04:00:00.000Z",
     "users": []
 }, {
@@ -13569,7 +13734,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Intermediate",
     "duration": 286,
-    "rating": "4.4",
+    "rating": 4.3,
     "released": "2010-07-13T04:00:00.000Z",
     "users": []
 }, {
@@ -13580,7 +13745,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Intermediate",
     "duration": 294,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2010-07-13T04:00:00.000Z",
     "users": []
 }, {
@@ -13591,7 +13756,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Intermediate",
     "duration": 233,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-07-13T04:00:00.000Z",
     "users": []
 }, {
@@ -13602,7 +13767,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Intermediate",
     "duration": 243,
-    "rating": "4.3",
+    "rating": 4.4,
     "released": "2010-07-13T04:00:00.000Z",
     "users": []
 }, {
@@ -13613,7 +13778,7 @@ courses = [{
     "author": "Rhonda Layfield",
     "level": "Intermediate",
     "duration": 372,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-12-06T05:00:00.000Z",
     "users": []
 }, {
@@ -13624,7 +13789,7 @@ courses = [{
     "author": "Rhonda Layfield",
     "level": "Intermediate",
     "duration": 121,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-12-06T05:00:00.000Z",
     "users": []
 }, {
@@ -13635,7 +13800,7 @@ courses = [{
     "author": "Rhonda Layfield",
     "level": "Intermediate",
     "duration": 198,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-12-06T05:00:00.000Z",
     "users": []
 }, {
@@ -13646,7 +13811,7 @@ courses = [{
     "author": "Rhonda Layfield",
     "level": "Intermediate",
     "duration": 261,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-12-06T05:00:00.000Z",
     "users": []
 }, {
@@ -13657,7 +13822,7 @@ courses = [{
     "author": "Craig Shoemaker",
     "level": "Beginner",
     "duration": 269,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-11-13T05:00:00.000Z",
     "users": []
 }, {
@@ -13668,7 +13833,7 @@ courses = [{
     "author": "Gill Cleeren",
     "level": "Beginner",
     "duration": 211,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2013-04-19T04:00:00.000Z",
     "users": []
 }, {
@@ -13679,7 +13844,7 @@ courses = [{
     "author": "Iris Classon",
     "level": "Beginner",
     "duration": 152,
-    "rating": "4.6",
+    "rating": 4.7,
     "released": "2012-10-02T04:00:00.000Z",
     "users": []
 }, {
@@ -13690,7 +13855,7 @@ courses = [{
     "author": "WahlinPapa",
     "level": "Beginner",
     "duration": 343,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2012-10-10T04:00:00.000Z",
     "users": []
 }, {
@@ -13701,7 +13866,7 @@ courses = [{
     "author": "Jesse Liberty",
     "level": "Beginner",
     "duration": 255,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-03-14T04:00:00.000Z",
     "users": []
 }, {
@@ -13712,7 +13877,7 @@ courses = [{
     "author": "Heather Ackmann",
     "level": "Beginner",
     "duration": 183,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-03-04T05:00:00.000Z",
     "users": []
 }, {
@@ -13723,7 +13888,7 @@ courses = [{
     "author": "Gill Cleeren",
     "level": "Intermediate",
     "duration": 205,
-    "rating": "4.7",
+    "rating": 4.6,
     "released": "2013-09-24T04:00:00.000Z",
     "users": []
 }, {
@@ -13734,7 +13899,7 @@ courses = [{
     "author": "Kevin Dockx",
     "level": "Intermediate",
     "duration": 159,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-08-30T04:00:00.000Z",
     "users": []
 }, {
@@ -13745,7 +13910,7 @@ courses = [{
     "author": "Kate Gregory",
     "level": "Intermediate",
     "duration": 213,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2011-10-18T04:00:00.000Z",
     "users": []
 }, {
@@ -13756,7 +13921,7 @@ courses = [{
     "author": "Brian Noyes",
     "level": "Intermediate",
     "duration": 316,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-11-20T05:00:00.000Z",
     "users": []
 }, {
@@ -13767,7 +13932,7 @@ courses = [{
     "author": "Ian Griffiths",
     "level": "Intermediate",
     "duration": 280,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-11-07T05:00:00.000Z",
     "users": []
 }, {
@@ -13778,7 +13943,7 @@ courses = [{
     "author": "Scott Seely",
     "level": "Intermediate",
     "duration": 83,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-05-30T04:00:00.000Z",
     "users": []
 }, {
@@ -13789,7 +13954,7 @@ courses = [{
     "author": "Brian Noyes",
     "level": "Intermediate",
     "duration": 354,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2013-05-17T04:00:00.000Z",
     "users": []
 }, {
@@ -13800,7 +13965,7 @@ courses = [{
     "author": "Jason Roberts",
     "level": "Intermediate",
     "duration": 98,
-    "rating": "3.9",
+    "rating": 3.8,
     "released": "2013-05-23T04:00:00.000Z",
     "users": []
 }, {
@@ -13811,7 +13976,7 @@ courses = [{
     "author": "Michael Palermo",
     "level": "Intermediate",
     "duration": 66,
-    "rating": "3.8",
+    "rating": 3.8,
     "released": "2013-12-06T05:00:00.000Z",
     "users": []
 }, {
@@ -13822,7 +13987,7 @@ courses = [{
     "author": "Rhonda Layfield",
     "level": "Intermediate",
     "duration": 67,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-06-25T04:00:00.000Z",
     "users": []
 }, {
@@ -13833,7 +13998,7 @@ courses = [{
     "author": "Yacine Khammal",
     "level": "Intermediate",
     "duration": 202,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2012-10-24T04:00:00.000Z",
     "users": []
 }, {
@@ -13844,7 +14009,7 @@ courses = [{
     "author": "Jesse Liberty",
     "level": "Intermediate",
     "duration": 95,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-06-20T04:00:00.000Z",
     "users": []
 }, {
@@ -13855,7 +14020,7 @@ courses = [{
     "author": "Aaron Powell",
     "level": "Intermediate",
     "duration": 180,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-01-28T05:00:00.000Z",
     "users": []
 }, {
@@ -13866,7 +14031,7 @@ courses = [{
     "author": "Jesse Liberty",
     "level": "Intermediate",
     "duration": 170,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-04-04T04:00:00.000Z",
     "users": []
 }, {
@@ -13877,7 +14042,7 @@ courses = [{
     "author": "Gill Cleeren",
     "level": "Intermediate",
     "duration": 205,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2012-12-18T05:00:00.000Z",
     "users": []
 }, {
@@ -13888,7 +14053,7 @@ courses = [{
     "author": "Tony Northrup",
     "level": "Intermediate",
     "duration": 223,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-04-01T04:00:00.000Z",
     "users": []
 }, {
@@ -13899,7 +14064,7 @@ courses = [{
     "author": "Tony Northrup",
     "level": "Intermediate",
     "duration": 262,
-    "rating": "4.4",
+    "rating": 4.5,
     "released": "2013-04-01T04:00:00.000Z",
     "users": []
 }, {
@@ -13910,7 +14075,7 @@ courses = [{
     "author": "Tony Northrup",
     "level": "Intermediate",
     "duration": 286,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-04-01T04:00:00.000Z",
     "users": []
 }, {
@@ -13921,7 +14086,7 @@ courses = [{
     "author": "Tony Northrup",
     "level": "Intermediate",
     "duration": 246,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-04-01T04:00:00.000Z",
     "users": []
 }, {
@@ -13932,7 +14097,7 @@ courses = [{
     "author": "Rhonda Layfield",
     "level": "Intermediate",
     "duration": 284,
-    "rating": "4.9",
+    "rating": 4.9,
     "released": "2013-06-06T04:00:00.000Z",
     "users": []
 }, {
@@ -13943,7 +14108,7 @@ courses = [{
     "author": "Rhonda Layfield",
     "level": "Intermediate",
     "duration": 105,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-06-25T04:00:00.000Z",
     "users": []
 }, {
@@ -13954,7 +14119,7 @@ courses = [{
     "author": "Rhonda Layfield",
     "level": "Intermediate",
     "duration": 211,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-06-26T04:00:00.000Z",
     "users": []
 }, {
@@ -13965,7 +14130,7 @@ courses = [{
     "author": "John O'Neill Sr.",
     "level": "Intermediate",
     "duration": 241,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-06-28T04:00:00.000Z",
     "users": []
 }, {
@@ -13976,7 +14141,7 @@ courses = [{
     "author": "John O'Neill Sr.",
     "level": "Intermediate",
     "duration": 246,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-06-28T04:00:00.000Z",
     "users": []
 }, {
@@ -13987,7 +14152,7 @@ courses = [{
     "author": "John O'Neill Sr.",
     "level": "Intermediate",
     "duration": 187,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-06-28T04:00:00.000Z",
     "users": []
 }, {
@@ -13998,7 +14163,7 @@ courses = [{
     "author": "John O'Neill Sr.",
     "level": "Intermediate",
     "duration": 244,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-06-28T04:00:00.000Z",
     "users": []
 }, {
@@ -14009,7 +14174,7 @@ courses = [{
     "author": "Yacine Khammal",
     "level": "Intermediate",
     "duration": 226,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2012-04-23T04:00:00.000Z",
     "users": []
 }, {
@@ -14020,7 +14185,7 @@ courses = [{
     "author": "Yacine Khammal",
     "level": "Intermediate",
     "duration": 249,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2012-07-11T04:00:00.000Z",
     "users": []
 }, {
@@ -14031,7 +14196,7 @@ courses = [{
     "author": "Yacine Khammal",
     "level": "Intermediate",
     "duration": 348,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-01-28T05:00:00.000Z",
     "users": []
 }, {
@@ -14042,7 +14207,7 @@ courses = [{
     "author": "Gill Cleeren",
     "level": "Intermediate",
     "duration": 289,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2014-02-27T05:00:00.000Z",
     "users": []
 }, {
@@ -14053,7 +14218,7 @@ courses = [{
     "author": "Laurence Moroney",
     "level": "Intermediate",
     "duration": 153,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-07-25T04:00:00.000Z",
     "users": []
 }, {
@@ -14064,7 +14229,7 @@ courses = [{
     "author": "Gergely Orosz",
     "level": "Intermediate",
     "duration": 172,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-12-05T05:00:00.000Z",
     "users": []
 }, {
@@ -14075,7 +14240,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Beginner",
     "duration": 145,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2011-01-24T05:00:00.000Z",
     "users": []
 }, {
@@ -14086,7 +14251,7 @@ courses = [{
     "author": "Vishwas Lele",
     "level": "Beginner",
     "duration": 166,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2013-04-24T04:00:00.000Z",
     "users": []
 }, {
@@ -14097,7 +14262,7 @@ courses = [{
     "author": "David Chappell",
     "level": "Beginner",
     "duration": 83,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2012-08-20T04:00:00.000Z",
     "users": []
 }, {
@@ -14108,7 +14273,7 @@ courses = [{
     "author": "Vishwas Lele",
     "level": "Intermediate",
     "duration": 291,
-    "rating": "3.7",
+    "rating": 3.6,
     "released": "2014-02-19T05:00:00.000Z",
     "users": []
 }, {
@@ -14119,7 +14284,7 @@ courses = [{
     "author": "Colin Melia",
     "level": "Intermediate",
     "duration": 112,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2014-02-13T05:00:00.000Z",
     "users": []
 }, {
@@ -14130,7 +14295,7 @@ courses = [{
     "author": "Zoiner Tejada",
     "level": "Intermediate",
     "duration": 115,
-    "rating": "3.9",
+    "rating": 3.9,
     "released": "2012-12-21T05:00:00.000Z",
     "users": []
 }, {
@@ -14141,7 +14306,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Intermediate",
     "duration": 112,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-04-10T04:00:00.000Z",
     "users": []
 }, {
@@ -14152,7 +14317,7 @@ courses = [{
     "author": "Mike McKeown",
     "level": "Intermediate",
     "duration": 100,
-    "rating": "4.6",
+    "rating": 4.4,
     "released": "2013-10-11T04:00:00.000Z",
     "users": []
 }, {
@@ -14163,7 +14328,7 @@ courses = [{
     "author": "Elton Stoneman",
     "level": "Intermediate",
     "duration": 234,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-10-30T04:00:00.000Z",
     "users": []
 }, {
@@ -14174,7 +14339,7 @@ courses = [{
     "author": "Richard Seroter",
     "level": "Intermediate",
     "duration": 105,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-03-07T05:00:00.000Z",
     "users": []
 }, {
@@ -14185,7 +14350,7 @@ courses = [{
     "author": "Scott Seely",
     "level": "Intermediate",
     "duration": 120,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2012-11-01T04:00:00.000Z",
     "users": []
 }, {
@@ -14196,7 +14361,7 @@ courses = [{
     "author": "Scott Seely",
     "level": "Intermediate",
     "duration": 158,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2011-01-24T05:00:00.000Z",
     "users": []
 }, {
@@ -14207,7 +14372,7 @@ courses = [{
     "author": "Mike McKeown",
     "level": "Intermediate",
     "duration": 121,
-    "rating": "Not",
+    "rating": null,
     "released": "2014-01-20T05:00:00.000Z",
     "users": []
 }, {
@@ -14218,7 +14383,7 @@ courses = [{
     "author": "Scott Seely",
     "level": "Intermediate",
     "duration": 130,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2012-01-05T05:00:00.000Z",
     "users": []
 }, {
@@ -14229,7 +14394,7 @@ courses = [{
     "author": "Scott Seely",
     "level": "Intermediate",
     "duration": 259,
-    "rating": "3.8",
+    "rating": 3.8,
     "released": "2010-12-26T05:00:00.000Z",
     "users": []
 }, {
@@ -14240,7 +14405,7 @@ courses = [{
     "author": "Scott Seely",
     "level": "Intermediate",
     "duration": 100,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2012-01-06T05:00:00.000Z",
     "users": []
 }, {
@@ -14251,7 +14416,7 @@ courses = [{
     "author": "Niraj Bhatt",
     "level": "Intermediate",
     "duration": 198,
-    "rating": "3.3",
+    "rating": 3.3,
     "released": "2012-03-09T05:00:00.000Z",
     "users": []
 }, {
@@ -14262,7 +14427,7 @@ courses = [{
     "author": "Matt Milner",
     "level": "Intermediate",
     "duration": 297,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2010-03-27T04:00:00.000Z",
     "users": []
 }, {
@@ -14273,7 +14438,7 @@ courses = [{
     "author": "Orin Thomas",
     "level": "Intermediate",
     "duration": 263,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-09-11T04:00:00.000Z",
     "users": []
 }, {
@@ -14284,7 +14449,7 @@ courses = [{
     "author": "Joe Kunk",
     "level": "Intermediate",
     "duration": 116,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2013-12-20T05:00:00.000Z",
     "users": []
 }, {
@@ -14295,7 +14460,7 @@ courses = [{
     "author": "Scott Seely",
     "level": "Intermediate",
     "duration": 125,
-    "rating": "3.4",
+    "rating": 3.4,
     "released": "2012-01-09T05:00:00.000Z",
     "users": []
 }, {
@@ -14306,7 +14471,7 @@ courses = [{
     "author": "Alan Smith",
     "level": "Intermediate",
     "duration": 411,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2014-03-06T05:00:00.000Z",
     "users": []
 }, {
@@ -14317,8 +14482,19 @@ courses = [{
     "author": "Matt Milner",
     "level": "Intermediate",
     "duration": 95,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2012-11-30T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Windows Embedded",
+    "name": "Building an Intelligent System: From Embedded to Cloud",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/building-intelligent-system-embedded-to-cloud",
+    "description": "This course is an advanced journey in the developing phases of an Intelligent System, using Windows Embedded 8.1 Industry and Windows Azure. After a brief introduction to the Internet of Things concept, we'll see how a real word intelligent system can be built, starting from requirements and specifications, passing through configuration, services, management, cloud backend, and communication strategies, up to the final deploy.",
+    "author": "Gianni Rosa Gallina",
+    "level": "Intermediate",
+    "duration": 150,
+    "rating": null,
+    "released": "2014-05-05T04:00:00.000Z",
     "users": []
 }, {
     "category": "Windows Embedded",
@@ -14328,7 +14504,7 @@ courses = [{
     "author": "Alexander Wechsler",
     "level": "Intermediate",
     "duration": 301,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-07-12T04:00:00.000Z",
     "users": []
 }, {
@@ -14339,7 +14515,7 @@ courses = [{
     "author": "Gianni Rosa Gallina",
     "level": "Intermediate",
     "duration": 156,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-11-01T04:00:00.000Z",
     "users": []
 }, {
@@ -14350,7 +14526,7 @@ courses = [{
     "author": "Alexander Wechsler",
     "level": "Intermediate",
     "duration": 274,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-10-09T04:00:00.000Z",
     "users": []
 }, {
@@ -14361,7 +14537,7 @@ courses = [{
     "author": "Adam Grocholski",
     "level": "Beginner",
     "duration": 173,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2010-12-11T05:00:00.000Z",
     "users": []
 }, {
@@ -14372,7 +14548,7 @@ courses = [{
     "author": "Michael Crump",
     "level": "Intermediate",
     "duration": 127,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-07-30T04:00:00.000Z",
     "users": []
 }, {
@@ -14383,7 +14559,7 @@ courses = [{
     "author": "Yacine Khammal",
     "level": "Intermediate",
     "duration": 157,
-    "rating": "Not",
+    "rating": null,
     "released": "2012-02-15T05:00:00.000Z",
     "users": []
 }, {
@@ -14394,7 +14570,7 @@ courses = [{
     "author": "Lars Klint",
     "level": "Intermediate",
     "duration": 185,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2013-10-23T04:00:00.000Z",
     "users": []
 }, {
@@ -14405,7 +14581,7 @@ courses = [{
     "author": "Michael Crump",
     "level": "Intermediate",
     "duration": 165,
-    "rating": "Not",
+    "rating": null,
     "released": "2014-01-21T05:00:00.000Z",
     "users": []
 }, {
@@ -14416,7 +14592,7 @@ courses = [{
     "author": "Adam Grocholski",
     "level": "Intermediate",
     "duration": 245,
-    "rating": "3.9",
+    "rating": 3.9,
     "released": "2010-12-10T05:00:00.000Z",
     "users": []
 }, {
@@ -14427,7 +14603,7 @@ courses = [{
     "author": "Yacine Khammal",
     "level": "Intermediate",
     "duration": 185,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2011-04-18T04:00:00.000Z",
     "users": []
 }, {
@@ -14438,7 +14614,7 @@ courses = [{
     "author": "Yacine Khammal",
     "level": "Intermediate",
     "duration": 239,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-04-03T04:00:00.000Z",
     "users": []
 }, {
@@ -14449,7 +14625,7 @@ courses = [{
     "author": "Yacine Khammal",
     "level": "Intermediate",
     "duration": 142,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-06-20T04:00:00.000Z",
     "users": []
 }, {
@@ -14460,7 +14636,7 @@ courses = [{
     "author": "Yacine Khammal",
     "level": "Intermediate",
     "duration": 96,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2011-02-07T05:00:00.000Z",
     "users": []
 }, {
@@ -14471,7 +14647,7 @@ courses = [{
     "author": "Yacine Khammal",
     "level": "Intermediate",
     "duration": 171,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2011-09-06T04:00:00.000Z",
     "users": []
 }, {
@@ -14482,7 +14658,7 @@ courses = [{
     "author": "Yacine Khammal",
     "level": "Intermediate",
     "duration": 131,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-08-01T04:00:00.000Z",
     "users": []
 }, {
@@ -14493,8 +14669,19 @@ courses = [{
     "author": "Lars Klint",
     "level": "Intermediate",
     "duration": 206,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-12-12T05:00:00.000Z",
+    "users": []
+}, {
+    "category": "Windows Server",
+    "name": "Windows Server Administration Fundamentals Part 1",
+    "url": "http://www.pluralsight.com/training/Courses/TableOfContents/windows-server-administration-fundamentals-part1",
+    "description": "At the heart of all networks, we have servers, and many of those networks run on Windows. In part 1 of this 2-part course, we'll begin exploring the basics of Windows Server administration on Windows Server 2008 R2. This will include hardware components, installation, and basic management of a Windows Server. You’ll get a base foundation of knowledge in Windows Server. This course is designed for entry-level IT Pros and Developers. Some experience with Windows operating systems and networking will be helpful, but is not a requirement to be successful.",
+    "author": "Michael Bender",
+    "level": "Beginner",
+    "duration": 247,
+    "rating": null,
+    "released": "2014-04-30T04:00:00.000Z",
     "users": []
 }, {
     "category": "Windows Server",
@@ -14504,7 +14691,7 @@ courses = [{
     "author": "Richard Hicks",
     "level": "Intermediate",
     "duration": 238,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-05-20T04:00:00.000Z",
     "users": []
 }, {
@@ -14515,7 +14702,7 @@ courses = [{
     "author": "Jon Hassell",
     "level": "Intermediate",
     "duration": 327,
-    "rating": "Not",
+    "rating": null,
     "released": "2007-05-23T04:00:00.000Z",
     "users": []
 }, {
@@ -14526,7 +14713,7 @@ courses = [{
     "author": "Jon Hassell",
     "level": "Intermediate",
     "duration": 139,
-    "rating": "Not",
+    "rating": null,
     "released": "2007-05-23T04:00:00.000Z",
     "users": []
 }, {
@@ -14537,7 +14724,7 @@ courses = [{
     "author": "Jon Hassell",
     "level": "Intermediate",
     "duration": 217,
-    "rating": "Not",
+    "rating": null,
     "released": "2007-05-23T04:00:00.000Z",
     "users": []
 }, {
@@ -14548,7 +14735,7 @@ courses = [{
     "author": "Dave Shackelford",
     "level": "Intermediate",
     "duration": 130,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-01-26T05:00:00.000Z",
     "users": []
 }, {
@@ -14559,7 +14746,7 @@ courses = [{
     "author": "Dave Shackelford",
     "level": "Intermediate",
     "duration": 165,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-01-26T05:00:00.000Z",
     "users": []
 }, {
@@ -14570,7 +14757,7 @@ courses = [{
     "author": "Dave Shackelford",
     "level": "Intermediate",
     "duration": 268,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-01-26T05:00:00.000Z",
     "users": []
 }, {
@@ -14581,7 +14768,7 @@ courses = [{
     "author": "Dave Shackelford",
     "level": "Intermediate",
     "duration": 519,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-01-26T05:00:00.000Z",
     "users": []
 }, {
@@ -14592,7 +14779,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 127,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2011-04-26T04:00:00.000Z",
     "users": []
 }, {
@@ -14603,7 +14790,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 294,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-04-26T04:00:00.000Z",
     "users": []
 }, {
@@ -14614,7 +14801,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 300,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-04-26T04:00:00.000Z",
     "users": []
 }, {
@@ -14625,7 +14812,7 @@ courses = [{
     "author": "BruzzeseLiberman",
     "level": "Intermediate",
     "duration": 393,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-04-26T04:00:00.000Z",
     "users": []
 }, {
@@ -14636,7 +14823,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 220,
-    "rating": "Not",
+    "rating": null,
     "released": "2003-01-01T05:00:00.000Z",
     "users": []
 }, {
@@ -14647,7 +14834,7 @@ courses = [{
     "author": "ChhatriwalaSkinger",
     "level": "Intermediate",
     "duration": 280,
-    "rating": "Not",
+    "rating": null,
     "released": "2005-02-15T05:00:00.000Z",
     "users": []
 }, {
@@ -14658,7 +14845,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 297,
-    "rating": "Not",
+    "rating": null,
     "released": "2003-01-12T05:00:00.000Z",
     "users": []
 }, {
@@ -14669,7 +14856,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 186,
-    "rating": "Not",
+    "rating": null,
     "released": "2003-01-05T05:00:00.000Z",
     "users": []
 }, {
@@ -14680,7 +14867,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 188,
-    "rating": "Not",
+    "rating": null,
     "released": "2003-01-04T05:00:00.000Z",
     "users": []
 }, {
@@ -14691,7 +14878,7 @@ courses = [{
     "author": "ChhatriwalaSkinger",
     "level": "Intermediate",
     "duration": 293,
-    "rating": "Not",
+    "rating": null,
     "released": "2005-02-15T05:00:00.000Z",
     "users": []
 }, {
@@ -14702,7 +14889,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 253,
-    "rating": "Not",
+    "rating": null,
     "released": "2003-01-07T05:00:00.000Z",
     "users": []
 }, {
@@ -14713,7 +14900,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 294,
-    "rating": "Not",
+    "rating": null,
     "released": "2003-01-07T05:00:00.000Z",
     "users": []
 }, {
@@ -14724,7 +14911,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 215,
-    "rating": "Not",
+    "rating": null,
     "released": "2003-01-12T05:00:00.000Z",
     "users": []
 }, {
@@ -14735,7 +14922,7 @@ courses = [{
     "author": "ChhatriwalaSkinger",
     "level": "Intermediate",
     "duration": 267,
-    "rating": "Not",
+    "rating": null,
     "released": "2005-02-15T05:00:00.000Z",
     "users": []
 }, {
@@ -14746,7 +14933,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 216,
-    "rating": "Not",
+    "rating": null,
     "released": "2003-01-08T05:00:00.000Z",
     "users": []
 }, {
@@ -14757,7 +14944,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 220,
-    "rating": "Not",
+    "rating": null,
     "released": "2003-01-02T05:00:00.000Z",
     "users": []
 }, {
@@ -14768,7 +14955,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 404,
-    "rating": "Not",
+    "rating": null,
     "released": "2003-01-10T05:00:00.000Z",
     "users": []
 }, {
@@ -14779,7 +14966,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 157,
-    "rating": "Not",
+    "rating": null,
     "released": "2003-01-03T05:00:00.000Z",
     "users": []
 }, {
@@ -14790,7 +14977,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 124,
-    "rating": "Not",
+    "rating": null,
     "released": "2003-01-06T05:00:00.000Z",
     "users": []
 }, {
@@ -14801,7 +14988,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Intermediate",
     "duration": 349,
-    "rating": "Not",
+    "rating": null,
     "released": "2008-02-19T05:00:00.000Z",
     "users": []
 }, {
@@ -14812,7 +14999,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Intermediate",
     "duration": 230,
-    "rating": "Not",
+    "rating": null,
     "released": "2008-02-19T05:00:00.000Z",
     "users": []
 }, {
@@ -14823,7 +15010,7 @@ courses = [{
     "author": "Scott Lowe",
     "level": "Intermediate",
     "duration": 218,
-    "rating": "Not",
+    "rating": null,
     "released": "2008-02-19T05:00:00.000Z",
     "users": []
 }, {
@@ -14834,7 +15021,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 349,
-    "rating": "Not",
+    "rating": null,
     "released": "2004-01-01T05:00:00.000Z",
     "users": []
 }, {
@@ -14845,7 +15032,7 @@ courses = [{
     "author": "ChhatriwalaSkinger",
     "level": "Intermediate",
     "duration": 375,
-    "rating": "Not",
+    "rating": null,
     "released": "2005-02-15T05:00:00.000Z",
     "users": []
 }, {
@@ -14856,7 +15043,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 146,
-    "rating": "Not",
+    "rating": null,
     "released": "2004-01-12T05:00:00.000Z",
     "users": []
 }, {
@@ -14867,7 +15054,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 267,
-    "rating": "Not",
+    "rating": null,
     "released": "2004-01-05T05:00:00.000Z",
     "users": []
 }, {
@@ -14878,7 +15065,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 356,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2004-01-04T05:00:00.000Z",
     "users": []
 }, {
@@ -14889,7 +15076,7 @@ courses = [{
     "author": "ChhatriwalaSkinger",
     "level": "Intermediate",
     "duration": 264,
-    "rating": "Not",
+    "rating": null,
     "released": "2005-02-15T05:00:00.000Z",
     "users": []
 }, {
@@ -14900,7 +15087,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 153,
-    "rating": "Not",
+    "rating": null,
     "released": "2004-01-07T05:00:00.000Z",
     "users": []
 }, {
@@ -14911,7 +15098,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 153,
-    "rating": "Not",
+    "rating": null,
     "released": "2004-01-11T05:00:00.000Z",
     "users": []
 }, {
@@ -14922,7 +15109,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 107,
-    "rating": "Not",
+    "rating": null,
     "released": "2003-01-09T05:00:00.000Z",
     "users": []
 }, {
@@ -14933,7 +15120,7 @@ courses = [{
     "author": "ChhatriwalaSkinger",
     "level": "Intermediate",
     "duration": 355,
-    "rating": "Not",
+    "rating": null,
     "released": "2005-02-15T05:00:00.000Z",
     "users": []
 }, {
@@ -14944,7 +15131,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 186,
-    "rating": "Not",
+    "rating": null,
     "released": "2004-01-08T05:00:00.000Z",
     "users": []
 }, {
@@ -14955,7 +15142,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 371,
-    "rating": "Not",
+    "rating": null,
     "released": "2004-01-10T05:00:00.000Z",
     "users": []
 }, {
@@ -14966,7 +15153,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 222,
-    "rating": "Not",
+    "rating": null,
     "released": "2004-01-10T05:00:00.000Z",
     "users": []
 }, {
@@ -14977,7 +15164,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 207,
-    "rating": "Not",
+    "rating": null,
     "released": "2004-01-03T05:00:00.000Z",
     "users": []
 }, {
@@ -14988,7 +15175,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 171,
-    "rating": "Not",
+    "rating": null,
     "released": "2004-01-06T05:00:00.000Z",
     "users": []
 }, {
@@ -14999,7 +15186,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 482,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2010-11-10T05:00:00.000Z",
     "users": []
 }, {
@@ -15010,7 +15197,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 301,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2010-11-10T05:00:00.000Z",
     "users": []
 }, {
@@ -15021,7 +15208,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 229,
-    "rating": "4.7",
+    "rating": 4.8,
     "released": "2010-11-10T05:00:00.000Z",
     "users": []
 }, {
@@ -15032,7 +15219,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 237,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2010-11-10T05:00:00.000Z",
     "users": []
 }, {
@@ -15042,8 +15229,8 @@ courses = [{
     "description": "This course is part 5 of 5 in the Windows Server 2008 Active Directory (70-640) series. This course will show you hands-on how to administer Active Directory using Windows Server 2008. You'll walk away from the course able to install and configure Active Directory, create and manage Active Directory and Group Policy objects, deploy software and manage permissions with Group Policy, create sites, and manage backup, replication, security and more. To get the most out of this course, you should have a solid foundation in networking. Some experience with Windows Server will be helpful, but is not required.",
     "author": "Ed Liberman",
     "level": "Intermediate",
-    "duration": 171,
-    "rating": "4.2",
+    "duration": 169,
+    "rating": 4.3,
     "released": "2010-11-10T05:00:00.000Z",
     "users": []
 }, {
@@ -15054,7 +15241,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 78,
-    "rating": "Not",
+    "rating": null,
     "released": "2011-11-10T05:00:00.000Z",
     "users": []
 }, {
@@ -15065,7 +15252,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 313,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2010-05-18T04:00:00.000Z",
     "users": []
 }, {
@@ -15076,7 +15263,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 262,
-    "rating": "Not",
+    "rating": null,
     "released": "2010-05-18T04:00:00.000Z",
     "users": []
 }, {
@@ -15086,8 +15273,8 @@ courses = [{
     "description": "Part 3 of 3 in the Windows Server 2008 Applications Infrastructure (70-643) series. This in-depth course covers Applications Infrastructure in Windows Server 2008, server image deployment, Hyper-V, and web server security. This course caters to those who have little to no experience.",
     "author": "Ed Liberman",
     "level": "Intermediate",
-    "duration": 323,
-    "rating": "Not",
+    "duration": 321,
+    "rating": null,
     "released": "2010-05-18T04:00:00.000Z",
     "users": []
 }, {
@@ -15098,7 +15285,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 371,
-    "rating": "Not",
+    "rating": 4.3,
     "released": "2011-11-22T05:00:00.000Z",
     "users": []
 }, {
@@ -15108,8 +15295,8 @@ courses = [{
     "description": "Part 2 of 2 in the Windows Server 2008 Enterprise Administrator (70-647) series. The goal of this course is to help you develop hands-on experience as an Enterprise Administrator for Windows Server 2008. Throughout this course you will learn to design active directory networks, configure certificate services, and utilize high availability tools. This course is recommended for those who are knowledgeable in Windows Server 2008 and Network Infrastructure.",
     "author": "Ed Liberman",
     "level": "Intermediate",
-    "duration": 160,
-    "rating": "Not",
+    "duration": 159,
+    "rating": null,
     "released": "2011-11-22T05:00:00.000Z",
     "users": []
 }, {
@@ -15119,8 +15306,8 @@ courses = [{
     "description": "Part 1 of 3 in the Windows Server 2008 Network Infrastructure (70-642) series. This in-depth course will help you gain an understanding of network infrastructure, and will cover everything you need to know to configure your own Server 2008 Network. This course is recommended for those who have little to no experience, and those who wish to update and improve their skills.",
     "author": "Ed Liberman",
     "level": "Intermediate",
-    "duration": 249,
-    "rating": "4.4",
+    "duration": 319,
+    "rating": 4.4,
     "released": "2008-11-20T05:00:00.000Z",
     "users": []
 }, {
@@ -15131,7 +15318,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 316,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2008-11-20T05:00:00.000Z",
     "users": []
 }, {
@@ -15141,8 +15328,8 @@ courses = [{
     "description": "Part 3 of 3 in the Windows Server 2008 Network Infrastructure (70-642) series. This in-depth course will help you gain an understanding of network infrastructure, and will cover everything you need to know to configure your own Server 2008 Network. This course is recommended for those who have little to no experience, and those who wish to update and improve their skills.",
     "author": "Ed Liberman",
     "level": "Intermediate",
-    "duration": 261,
-    "rating": "Not",
+    "duration": 259,
+    "rating": null,
     "released": "2008-11-20T05:00:00.000Z",
     "users": []
 }, {
@@ -15153,7 +15340,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 247,
-    "rating": "4.4",
+    "rating": 4.5,
     "released": "2009-02-03T05:00:00.000Z",
     "users": []
 }, {
@@ -15164,7 +15351,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 271,
-    "rating": "4.4",
+    "rating": 4.5,
     "released": "2009-02-03T05:00:00.000Z",
     "users": []
 }, {
@@ -15175,7 +15362,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 210,
-    "rating": "4.9",
+    "rating": 4.9,
     "released": "2009-02-03T05:00:00.000Z",
     "users": []
 }, {
@@ -15185,8 +15372,8 @@ courses = [{
     "description": "Part 4 of 4 in the Windows Server 2008 Server Administrator (70-646) series will teach you to install, deploy, delegate, update, and secure your Windows Server 2008 computers. This advanced course also covers server administration, read only domain controllers, server 2008 server core, and virtualization. This course is recommended for those who are knowledgeable in Windows Server 2008, Active Directory, and Network Infrastructure.",
     "author": "LibermanCulbertson",
     "level": "Intermediate",
-    "duration": 216,
-    "rating": "Not",
+    "duration": 213,
+    "rating": null,
     "released": "2009-02-03T05:00:00.000Z",
     "users": []
 }, {
@@ -15197,7 +15384,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 259,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-04-12T04:00:00.000Z",
     "users": []
 }, {
@@ -15208,7 +15395,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 281,
-    "rating": "4.3",
+    "rating": 4.3,
     "released": "2013-04-12T04:00:00.000Z",
     "users": []
 }, {
@@ -15219,7 +15406,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 148,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-04-12T04:00:00.000Z",
     "users": []
 }, {
@@ -15230,7 +15417,7 @@ courses = [{
     "author": "Mike Hammond",
     "level": "Intermediate",
     "duration": 105,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2014-03-14T04:00:00.000Z",
     "users": []
 }, {
@@ -15241,7 +15428,7 @@ courses = [{
     "author": "Mike Hammond",
     "level": "Intermediate",
     "duration": 307,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-04-16T04:00:00.000Z",
     "users": []
 }, {
@@ -15252,7 +15439,7 @@ courses = [{
     "author": "Mike Hammond",
     "level": "Intermediate",
     "duration": 220,
-    "rating": "4.6",
+    "rating": 4.5,
     "released": "2013-04-16T04:00:00.000Z",
     "users": []
 }, {
@@ -15263,7 +15450,7 @@ courses = [{
     "author": "Mike Hammond",
     "level": "Intermediate",
     "duration": 277,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-04-16T04:00:00.000Z",
     "users": []
 }, {
@@ -15274,7 +15461,7 @@ courses = [{
     "author": "Mike Hammond",
     "level": "Intermediate",
     "duration": 166,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-04-16T04:00:00.000Z",
     "users": []
 }, {
@@ -15285,7 +15472,7 @@ courses = [{
     "author": "Mike Hammond",
     "level": "Intermediate",
     "duration": 166,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2014-03-04T05:00:00.000Z",
     "users": []
 }, {
@@ -15296,7 +15483,7 @@ courses = [{
     "author": "Ken Mauldin",
     "level": "Intermediate",
     "duration": 210,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2013-07-10T04:00:00.000Z",
     "users": []
 }, {
@@ -15307,7 +15494,7 @@ courses = [{
     "author": "Ken Mauldin",
     "level": "Intermediate",
     "duration": 367,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-07-10T04:00:00.000Z",
     "users": []
 }, {
@@ -15318,7 +15505,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 242,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-01-08T05:00:00.000Z",
     "users": []
 }, {
@@ -15329,7 +15516,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 210,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-01-08T05:00:00.000Z",
     "users": []
 }, {
@@ -15340,7 +15527,7 @@ courses = [{
     "author": "Richard Hicks",
     "level": "Intermediate",
     "duration": 291,
-    "rating": "4.8",
+    "rating": 4.8,
     "released": "2013-03-11T04:00:00.000Z",
     "users": []
 }, {
@@ -15351,7 +15538,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 235,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-01-22T05:00:00.000Z",
     "users": []
 }, {
@@ -15362,7 +15549,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 210,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-01-22T05:00:00.000Z",
     "users": []
 }, {
@@ -15373,7 +15560,7 @@ courses = [{
     "author": "Ed Liberman",
     "level": "Intermediate",
     "duration": 141,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-01-22T05:00:00.000Z",
     "users": []
 }, {
@@ -15384,7 +15571,7 @@ courses = [{
     "author": "Orin Thomas",
     "level": "Intermediate",
     "duration": 215,
-    "rating": "4.0",
+    "rating": 4.1,
     "released": "2014-02-17T05:00:00.000Z",
     "users": []
 }, {
@@ -15395,7 +15582,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 167,
-    "rating": "Not",
+    "rating": null,
     "released": "2007-03-22T04:00:00.000Z",
     "users": []
 }, {
@@ -15406,7 +15593,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 313,
-    "rating": "Not",
+    "rating": null,
     "released": "2007-03-22T04:00:00.000Z",
     "users": []
 }, {
@@ -15417,7 +15604,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 319,
-    "rating": "Not",
+    "rating": null,
     "released": "2007-03-22T04:00:00.000Z",
     "users": []
 }, {
@@ -15428,7 +15615,7 @@ courses = [{
     "author": "Scott Skinger",
     "level": "Intermediate",
     "duration": 351,
-    "rating": "Not",
+    "rating": null,
     "released": "2007-03-22T04:00:00.000Z",
     "users": []
 }, {
@@ -15439,7 +15626,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 209,
-    "rating": "Not",
+    "rating": null,
     "released": "2006-09-24T04:00:00.000Z",
     "users": []
 }, {
@@ -15450,7 +15637,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 360,
-    "rating": "Not",
+    "rating": null,
     "released": "2006-09-24T04:00:00.000Z",
     "users": []
 }, {
@@ -15461,7 +15648,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 208,
-    "rating": "Not",
+    "rating": null,
     "released": "2006-09-24T04:00:00.000Z",
     "users": []
 }, {
@@ -15472,7 +15659,7 @@ courses = [{
     "author": "David Davis",
     "level": "Intermediate",
     "duration": 219,
-    "rating": "Not",
+    "rating": null,
     "released": "2006-09-24T04:00:00.000Z",
     "users": []
 }, {
@@ -15483,7 +15670,7 @@ courses = [{
     "author": "Chris Reynolds",
     "level": "Beginner",
     "duration": 82,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2013-05-08T04:00:00.000Z",
     "users": []
 }, {
@@ -15494,7 +15681,7 @@ courses = [{
     "author": "Chris Reynolds",
     "level": "Beginner",
     "duration": 83,
-    "rating": "4.2",
+    "rating": 4.1,
     "released": "2013-06-28T04:00:00.000Z",
     "users": []
 }, {
@@ -15505,7 +15692,7 @@ courses = [{
     "author": "Chris Reynolds",
     "level": "Intermediate",
     "duration": 310,
-    "rating": "Not",
+    "rating": null,
     "released": "2014-04-17T04:00:00.000Z",
     "users": []
 }, {
@@ -15516,7 +15703,7 @@ courses = [{
     "author": "Chris Reynolds",
     "level": "Intermediate",
     "duration": 55,
-    "rating": "4.1",
+    "rating": 4.1,
     "released": "2013-10-11T04:00:00.000Z",
     "users": []
 }, {
@@ -15527,7 +15714,7 @@ courses = [{
     "author": "Chris Reynolds",
     "level": "Intermediate",
     "duration": 43,
-    "rating": "Not",
+    "rating": null,
     "released": "2013-07-26T04:00:00.000Z",
     "users": []
 }, {
@@ -15538,7 +15725,7 @@ courses = [{
     "author": "Chris Reynolds",
     "level": "Intermediate",
     "duration": 54,
-    "rating": "3.4",
+    "rating": 3.4,
     "released": "2013-01-09T05:00:00.000Z",
     "users": []
 }, {
@@ -15549,7 +15736,7 @@ courses = [{
     "author": "Chris Reynolds",
     "level": "Intermediate",
     "duration": 59,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-11-11T05:00:00.000Z",
     "users": []
 }, {
@@ -15560,7 +15747,7 @@ courses = [{
     "author": "Chris Reynolds",
     "level": "Intermediate",
     "duration": 110,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-12-31T05:00:00.000Z",
     "users": []
 }, {
@@ -15571,7 +15758,7 @@ courses = [{
     "author": "Jesse Liberty",
     "level": "Beginner",
     "duration": 152,
-    "rating": "4.4",
+    "rating": 4.4,
     "released": "2013-04-26T04:00:00.000Z",
     "users": []
 }, {
@@ -15582,7 +15769,7 @@ courses = [{
     "author": "Ian Griffiths",
     "level": "Beginner",
     "duration": 420,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2008-10-28T04:00:00.000Z",
     "users": []
 }, {
@@ -15593,7 +15780,7 @@ courses = [{
     "author": "Brian Lagunas",
     "level": "Intermediate",
     "duration": 247,
-    "rating": "4.4",
+    "rating": 4.5,
     "released": "2011-07-03T04:00:00.000Z",
     "users": []
 }, {
@@ -15604,7 +15791,7 @@ courses = [{
     "author": "Brian Lagunas",
     "level": "Intermediate",
     "duration": 249,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-07-31T04:00:00.000Z",
     "users": []
 }, {
@@ -15615,7 +15802,7 @@ courses = [{
     "author": "Jesse Liberty",
     "level": "Intermediate",
     "duration": 87,
-    "rating": "3.9",
+    "rating": 3.9,
     "released": "2013-06-21T04:00:00.000Z",
     "users": []
 }, {
@@ -15626,7 +15813,7 @@ courses = [{
     "author": "Ian Griffiths",
     "level": "Intermediate",
     "duration": 226,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2011-01-31T05:00:00.000Z",
     "users": []
 }, {
@@ -15637,7 +15824,7 @@ courses = [{
     "author": "Brian Noyes",
     "level": "Intermediate",
     "duration": 379,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2014-01-09T05:00:00.000Z",
     "users": []
 }, {
@@ -15648,7 +15835,7 @@ courses = [{
     "author": "Paul D. Sheriff",
     "level": "Intermediate",
     "duration": 278,
-    "rating": "4.1",
+    "rating": 4,
     "released": "2009-06-13T04:00:00.000Z",
     "users": []
 }, {
@@ -15659,7 +15846,7 @@ courses = [{
     "author": "Paul D. Sheriff",
     "level": "Intermediate",
     "duration": 395,
-    "rating": "4.7",
+    "rating": 4.7,
     "released": "2013-12-16T05:00:00.000Z",
     "users": []
 }, {
@@ -15670,7 +15857,7 @@ courses = [{
     "author": "Paul D. Sheriff",
     "level": "Intermediate",
     "duration": 258,
-    "rating": "Not",
+    "rating": 4.6,
     "released": "2014-02-18T05:00:00.000Z",
     "users": []
 }, {
@@ -15681,7 +15868,7 @@ courses = [{
     "author": "Michael Perry",
     "level": "Intermediate",
     "duration": 289,
-    "rating": "4.5",
+    "rating": 4.5,
     "released": "2013-06-07T04:00:00.000Z",
     "users": []
 }, {
@@ -15692,7 +15879,7 @@ courses = [{
     "author": "Ian Griffiths",
     "level": "Advanced",
     "duration": 164,
-    "rating": "4.2",
+    "rating": 4.2,
     "released": "2008-10-28T04:00:00.000Z",
     "users": []
 }, {
@@ -15703,7 +15890,7 @@ courses = [{
     "author": "Dan Sullivan",
     "level": "Beginner",
     "duration": 54,
-    "rating": "3.9",
+    "rating": 3.9,
     "released": "2009-11-17T05:00:00.000Z",
     "users": []
 }, {
@@ -15714,7 +15901,7 @@ courses = [{
     "author": "Paul D. Sheriff",
     "level": "Intermediate",
     "duration": 262,
-    "rating": "4.6",
+    "rating": 4.6,
     "released": "2013-07-22T04:00:00.000Z",
     "users": []
 }, {
@@ -15725,7 +15912,7 @@ courses = [{
     "author": "Dan Sullivan",
     "level": "Intermediate",
     "duration": 291,
-    "rating": "3.6",
+    "rating": 3.6,
     "released": "2012-05-11T04:00:00.000Z",
     "users": []
 }, {
@@ -15736,7 +15923,7 @@ courses = [{
     "author": "Ken Holman",
     "level": "Intermediate",
     "duration": 323,
-    "rating": "3.3",
+    "rating": 3.3,
     "released": "2013-12-05T05:00:00.000Z",
     "users": []
 }, {
@@ -15747,7 +15934,7 @@ courses = [{
     "author": "Dimitre Novatchev",
     "level": "Intermediate",
     "duration": 525,
-    "rating": "3.8",
+    "rating": 3.8,
     "released": "2014-02-19T05:00:00.000Z",
     "users": []
 }]
