@@ -20,6 +20,13 @@
  .navbar .navbar-brand i {
      color: #1DAFF0;
  }
+ .navbar .tag-line{
+     display: block;
+     margin-left: 1px;
+     font-size: 11px;
+     color: #E85946;
+     letter-spacing: 3px;
+ }
  .navbar a {
      color: #000;
      text-transform: uppercase;
@@ -84,6 +91,10 @@
  }
  ul.course-list li .name {
      padding-left: 0;
+ }
+  ul.course-list li .external-link{
+     color: #fff;
+     margin-left: 5px;
  }
  ul.course-list li .details {
      float: right;

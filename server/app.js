@@ -1,10 +1,5 @@
 // list of courses for the homepage. only getting a subset of fields for better performance
-Meteor.publish("courseList", function(limit) {
-
-    //default limit if none set
-    var dl = limit || 25;
-
-    //TODO: Make paging work
+Meteor.publish("courseList", function() {
 
     return Courses.find({}, {
         fields: {
@@ -19,8 +14,7 @@ Meteor.publish("courseList", function(limit) {
         sort: {
             category: 1,
             name: 1
-        },
-        limit: dl
+        }
     });
 });
 

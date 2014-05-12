@@ -18,7 +18,13 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="{{pathFor 'home'}}"><i class="fa fa-play fa-fw"></i>PluralFind</a>
+                <a class="navbar-brand" href="{{pathFor 'home'}}">
+                <!-- <i class="fa fa-play fa-fw pull-left"></i> -->
+                    <div class="pull-left" style="margin-top: -7px;">
+                        <span>PluralFind</span>
+                        <span class="tag-line">Find and plan Pluralsight courses</span>
+                    </div>
+                </a>
             </div>
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
@@ -37,7 +43,7 @@
     <div id="footer">
         <div class="container">
             <p class="text-muted">
-                <span>Find the shit out of PluralSight's catalog</span>
+                <span>Find the shit out of Pluralsight's catalog</span>
                 <span class="pull-right">&copy; 2014 <a href="http://www.codeadventures.com">codeadventures.com</a>
                 </span>
             </p>
@@ -50,10 +56,12 @@
     <div class="row">
         <div class="col-md-12">
             <ul class="course-list">
+            {{courseCount}} Courses
                 {{#each courses}}
                 <li>
                     <div class="category">{{category}}</div>
                     <div class="name">{{name}}</div>
+                    <a class="external-link" target="_blank" href="{{url}}" title="View this course on Pluralsight"><i class="fa fa-external-link"></i></a>
                     <div class="actions">
                         <i class="fa fa-heart-o heart" title="Click to add to your courses"></i>
                     </div>
@@ -75,6 +83,11 @@
             </ul>
         </div>
     </div>
+    {{#if showLoading}}
+<div>
+    <i class="fa fa-spinner"></i>
+</div>
+{{/if}}
 </template>
 
 <!-- Template for user's list of courses -->

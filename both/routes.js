@@ -10,24 +10,32 @@ Router.map(function() {
     this.route('home', {
         path: '/',
         waitOn: function() {
-            return Meteor.subscribe('courseList', 50);
+            return Meteor.subscribe('courseList');
+        },
+        onRun: function(){
+            Session.set('itemsLimit', 20);
         },
         data: function() {
-            templateData = {
-                courses: Courses.find({
-                    // name: 'ADO.NET Fundamentals',
+
+
+            var filters = {
+                     //name: 'ADO.NET Fundamentals',
                     // category: '.NET',
-                    // level: 'Intermediate',
+                    //level: 'Intermediate',
                     // duration: {
                     //     $gt: 300
                     // }
-                    // rating: {
-                    //     $gt: 4.5
-                    // }
+                     // rating: {
+                     //     $gt: parseFloat(this.params.hash)
+                     // }
                     // released: {
                     //     $gt: "2014-03-16T04:00:00.000Z"
                     // }
-                }),
+                };
+            templateData = {
+                courses: Courses.find(filters, {limit: Session.get('itemsLimit')}),
+                courseCount: Courses.find(filters).count(),
+                showLoading: Courses.find(filters).count() > Session.get('itemsLimit')
             };
             return templateData;
         }
