@@ -19,7 +19,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand" href="{{pathFor 'home'}}">
-                <!-- <i class="fa fa-play fa-fw pull-left"></i> -->
+                    <!-- <i class="fa fa-play fa-fw pull-left"></i> -->
                     <div class="pull-left" style="margin-top: -7px;">
                         <span>PluralFind</span>
                         <span class="tag-line">Find and plan Pluralsight courses</span>
@@ -56,7 +56,15 @@
     <div class="row">
         <div class="col-md-12">
             <ul class="course-list">
-            {{courseCount}} Courses
+                {{courseCount}} Courses
+                <a href="?rating=1">1</a>
+                <a href="?rating=2">2</a>
+                <a href="?rating=3">3</a>
+                <a href="?rating=4">4</a>
+                <a href="?rating=4.5">4.5</a>
+                <a href="?categories=.NET">.NET</a>
+                <a href="?categories=.NET_BizTalk">.NET and Biztalk</a>
+                <a href="?rating=4&categories=.NET_BizTalk">.NET and Biztalk and rating > 4</a>
                 {{#each courses}}
                 <li>
                     <div class="category">{{category}}</div>
@@ -84,10 +92,10 @@
         </div>
     </div>
     {{#if showLoading}}
-<div>
-    <i class="fa fa-spinner"></i>
-</div>
-{{/if}}
+    <div>
+        <i class="fa fa-spinner"></i>
+    </div>
+    {{/if}}
 </template>
 
 <!-- Template for user's list of courses -->

@@ -9,31 +9,49 @@ Router.configure({
 Router.map(function() {
     this.route('home', {
         path: '/',
-        waitOn: function() {
-            return Meteor.subscribe('courseList');
+        progress: {
+            enabled: false
         },
-        onRun: function(){
+        waitOn: function() {
+            return Meteor.subscribe('courses-list');
+        },
+        onRun: function() {
             Session.set('itemsLimit', 20);
         },
         data: function() {
-
+            //parse categories:
+            var categories = [];
+            if (this.params.categories) {
+                categories = this.params.categories.split("_");
+            }
 
             var filters = {
-                     //name: 'ADO.NET Fundamentals',
-                    // category: '.NET',
-                    //level: 'Intermediate',
-                    // duration: {
-                    //     $gt: 300
-                    // }
-                     // rating: {
-                     //     $gt: parseFloat(this.params.hash)
-                     // }
-                    // released: {
-                    //     $gt: "2014-03-16T04:00:00.000Z"
-                    // }
-                };
+                //name: 'ADO.NET Fundamentals',
+                category: categories.length > 0 ? {
+                    $in: categories
+                } : {
+                    $ne: null
+                },
+                //level: 'Intermediate',
+                // duration: {
+                //     $gt: 300
+                // }
+                $or: [{
+                    rating: {
+                        $gt: this.params.rating ? parseFloat(this.params.rating) : -1
+                    }
+                }, {
+                    rating: this.params.rating ? -1 : null
+                }]
+
+                // released: {
+                //     $gt: "2014-03-16T04:00:00.000Z"
+                // }
+            };
             templateData = {
-                courses: Courses.find(filters, {limit: Session.get('itemsLimit')}),
+                courses: Courses.find(filters, {
+                    limit: Session.get('itemsLimit')
+                }),
                 courseCount: Courses.find(filters).count(),
                 showLoading: Courses.find(filters).count() > Session.get('itemsLimit')
             };

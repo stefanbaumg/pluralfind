@@ -1,16 +1,6 @@
 // list of courses for the homepage. only getting a subset of fields for better performance
-Meteor.publish("courseList", function() {
-
-    return Courses.find({}, {
-        fields: {
-            name: 1,
-            rating: 1,
-            category: 1,
-            level: 1,
-            duration: 1,
-            released: 1,
-            url: 1
-        },
+Meteor.publish("courses-list", function() {
+    return Courses.find({},{
         sort: {
             category: 1,
             name: 1
