@@ -67,8 +67,10 @@
                 <a href="?rating=4&categories=.NET_BizTalk">.NET and Biztalk and rating > 4</a>
                 {{#each courses}}
                 <li>
-                    <div class="category">{{category}}</div>
-                    <div class="name">{{name}}</div>
+                <div class="category-name">
+                    <span class="category">{{category}}</span>
+                    <span class="name">{{name}}</span>
+                    </div>
                     <a class="external-link" target="_blank" href="{{url}}" title="View this course on Pluralsight"><i class="fa fa-external-link"></i></a>
                     <div class="actions">
                         <i class="fa fa-heart-o heart" title="Click to add to your courses"></i>

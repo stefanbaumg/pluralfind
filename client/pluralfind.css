@@ -20,7 +20,7 @@
  .navbar .navbar-brand i {
      color: #1DAFF0;
  }
- .navbar .tag-line{
+ .navbar .tag-line {
      display: block;
      margin-left: 1px;
      font-size: 11px;
@@ -90,26 +90,37 @@
      opacity: .5;
  }
  ul.course-list li .name {
-     padding: 0;
+     padding-left: 0;
+     padding-bottom: 15px;
+ }
+ ul.course-list li .category-name {
      margin: 0;
-     max-width: 100px;
+     max-width: 260px;
      overflow-x: hidden;
      white-space: nowrap;
      text-overflow: ellipsis;
+     padding: 10px;
      margin-bottom: -5px;
  }
-  ul.course-list li .external-link{
+ ul.course-list li .external-link {
      color: #fff;
      margin-left: 5px;
+     position: relative;
+     top: -9px;
  }
  ul.course-list li .details {
      float: right;
+     display: none;
  }
  ul.course-list li .details div {
      padding: 0 10px;
  }
+  ul.course-list li .details .level {
+     display: none;
+ }
  ul.course-list li .details .duration {
      width: 80px;
+     display: none;
  }
  ul.course-list li .details .rating {
      unicode-bidi: bidi-override;
@@ -149,4 +160,35 @@
  }
  ul.course-list li .actions .heart:hover {
      background-color: #DD422F;
+ }
+ @media (min-width: 480px) {
+     ul.course-list li .category-name {
+         max-width: 270px;
+     }
+     ul.course-list li .details{
+          display: inline-block;
+     }
+ }
+ @media (min-width: 600px) {
+     ul.course-list li .category-name {
+         max-width: 355px;
+     }
+ }
+ @media (min-width: 768px) {
+     ul.course-list li .category-name {
+         max-width: 325px;
+     }
+     ul.course-list li .details .level, ul.course-list li .details .duration {
+     display: inline-block;
+ }
+ }
+ @media (min-width: 992px) {
+     ul.course-list li .category-name {
+         max-width: 400px;
+     }
+ }
+ @media (min-width: 1200px) {
+     ul.course-list li .category-name {
+         max-width: 500px;
+     }
  }
