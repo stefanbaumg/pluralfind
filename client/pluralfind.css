@@ -115,7 +115,7 @@
  ul.course-list li .details div {
      padding: 0 10px;
  }
-  ul.course-list li .details .level {
+ ul.course-list li .details .level {
      display: none;
  }
  ul.course-list li .details .duration {
@@ -165,8 +165,8 @@
      ul.course-list li .category-name {
          max-width: 270px;
      }
-     ul.course-list li .details{
-          display: inline-block;
+     ul.course-list li .details {
+         display: inline-block;
      }
  }
  @media (min-width: 600px) {
@@ -179,8 +179,8 @@
          max-width: 325px;
      }
      ul.course-list li .details .level, ul.course-list li .details .duration {
-     display: inline-block;
- }
+         display: inline-block;
+     }
  }
  @media (min-width: 992px) {
      ul.course-list li .category-name {
