@@ -64,6 +64,26 @@
  #iron-router-progress.spinner:before {
      border-color : #1DAFF0;
  }
+ /*Course search fields*/
+ .search{
+     background-color: #00AEF3;
+     margin: 0 0 12px 0;
+     padding: 15px 0;
+ }
+ .search-field{
+ }
+ .search-field input, .search-field input:focus{
+     padding: 5px;
+     border: none;
+ }
+ .course-count{
+     padding: 0;
+     margin: 5px 0 0 0;
+     font-size: 90px;
+     line-height: 20px;
+     color: #fff;
+     text-align: right;
+ }
  /*Course Listing on Homepage*/
  ul.course-list {
      margin: 0;
@@ -88,10 +108,12 @@
  }
  ul.course-list li .category {
      opacity: .5;
+     margin-left: 5px;
  }
  ul.course-list li .name {
      padding-left: 0;
      padding-bottom: 15px;
+     color: #fff;
  }
  ul.course-list li .category-name {
      margin: 0;

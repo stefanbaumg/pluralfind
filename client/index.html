@@ -55,23 +55,37 @@
 <template name="home">
     <div class="row">
         <div class="col-md-12">
+            {{courseCount}} Courses
+            <a href="?rating=1">1</a>
+            <a href="?rating=2">2</a>
+            <a href="?rating=3">3</a>
+            <a href="?rating=4">4</a>
+            <a href="?rating=4.5">4.5</a>
+            <a href="?categories=.NET">.NET</a>
+            <a href="?categories=.NET_BizTalk">.NET and Biztalk</a>
+            <a href="?rating=4&categories=.NET_BizTalk">.NET and Biztalk and rating > 4</a>
+        </div>
+    </div>
+    <div class="row search">
+        <div class="col-md-2">
+            <div class="search-field">
+                <input type="text" id="search-text" placeholder="Search..." value="{{params.text}}" />
+            </div>
+        </div>
+        <div class="col-md-2"><button id="search-go" class="btn btn-primary">Go</button></div>
+        <div class="col-md-3 pull-right course-count">{{courseCount}}</div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
             <ul class="course-list">
-                {{courseCount}} Courses
-                <a href="?rating=1">1</a>
-                <a href="?rating=2">2</a>
-                <a href="?rating=3">3</a>
-                <a href="?rating=4">4</a>
-                <a href="?rating=4.5">4.5</a>
-                <a href="?categories=.NET">.NET</a>
-                <a href="?categories=.NET_BizTalk">.NET and Biztalk</a>
-                <a href="?rating=4&categories=.NET_BizTalk">.NET and Biztalk and rating > 4</a>
+
                 {{#each courses}}
                 <li>
                     <div class="category-name">
                         <span class="category">{{category}}</span>
-                        <span class="name">{{name}}</span>
+                        <a class="name" target="_blank" href="{{url}}" title="View this course on Pluralsight">{{name}}</a>
                     </div>
-                    <a class="external-link" target="_blank" href="{{url}}" title="View this course on Pluralsight"><i class="fa fa-external-link"></i></a>
+                    <!-- <a class="external-link" target="_blank" href="{{url}}" title="View this course on Pluralsight"><i class="fa fa-external-link"></i></a> -->
                     <div class="actions">
                         <i class="fa fa-heart-o heart" title="Click to add to your courses"></i>
                     </div>

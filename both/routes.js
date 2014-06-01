@@ -26,7 +26,13 @@ Router.map(function() {
             }
 
             var filters = {
-                //name: 'ADO.NET Fundamentals',
+                $or: [{
+                    category: new RegExp(this.params.text.replace(".", "\\."), "i")
+                },{
+                    name: new RegExp(this.params.text.replace(".", "\\."), "i")
+                }, {
+                    description: new RegExp(this.params.text.replace(".", "\\."), "i")
+                }],
                 category: categories.length > 0 ? {
                     $in: categories
                 } : {
@@ -36,19 +42,21 @@ Router.map(function() {
                 // duration: {
                 //     $gt: 300
                 // }
-                $or: [{
-                    rating: {
-                        $gt: this.params.rating ? parseFloat(this.params.rating) : -1
-                    }
-                }, {
-                    rating: this.params.rating ? -1 : null
-                }]
+                // $or: [{
+                //     rating: {
+                //         $gt: this.params.rating ? parseFloat(this.params.rating) : -1
+                //     }
+                // }, {
+                //     rating: this.params.rating ? -1 : null
+                // }]
 
                 // released: {
                 //     $gt: "2014-03-16T04:00:00.000Z"
                 // }
             };
+
             templateData = {
+                params: this.params,
                 courses: Courses.find(filters, {
                     limit: Session.get('itemsLimit')
                 }),
