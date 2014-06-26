@@ -20,7 +20,10 @@ Router.map(function() {
         },
         data: function() {
             templateData = {
-                params: this.params,
+                // pass in params so we can set the controls correctly
+                paramText: this.params.text,
+
+                // the "actual" data: courses
                 courses: Courses.find(),
                 courseCount: 1200,
                 showLoading: 1200 > Session.get('page') * 20
