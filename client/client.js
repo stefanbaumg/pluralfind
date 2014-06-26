@@ -33,20 +33,17 @@ Template.home.events({
     }
 });
 
+// when a search control is changed, go to new route
 function redirectSearch() {
 
     var query = "text=" + $("#search-text").val();
 
-    Router.go('home', null,
-    {query: query});
-    // Router.go('home', {
-    //     _categories: $("#search-text").val(),
-    // });
+    Router.go('home', null, {query: query});
 }
 
 // load more items on scroll
 Template.layout.created = function() {
-    $(window).on('scroll', scrollHandler);
+    $(window).on('scroll', _.throttle(scrollHandler, 200));
 };
 
 Template.layout.destroyed = function() {
@@ -55,6 +52,7 @@ Template.layout.destroyed = function() {
 
 var scrollHandler = function(e) {
     if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
-        Session.set('itemsLimit', Session.get('itemsLimit') + 20);
+        Session.set('page', Session.get('page') + 1);
+        console.log(Session.get('page'));
     }
 };

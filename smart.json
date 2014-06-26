@@ -1,7 +1,7 @@
 {
   "packages": {
     "bootstrap-3": {},
-    "iron-router": {},
+    "iron-router": {"version": "0.7.0"},
     "accounts-ui-bootstrap-3-blaze": {},
     "iron-router-progress": {},
     "iron-router-active": {},
