@@ -38,7 +38,9 @@ function redirectSearch() {
 
     var query = "text=" + $("#search-text").val();
 
-    Router.go('home', null, {query: query});
+    Router.go('home', null, {
+        query: query
+    });
 }
 
 // load more items on scroll
@@ -46,10 +48,12 @@ Template.layout.created = function() {
     $(window).on('scroll', _.throttle(scrollHandler, 200));
 };
 
+// remove the scrollhandler if we're  no longer using the layout
 Template.layout.destroyed = function() {
     $(window).off('scroll', scrollHandler);
 };
 
+// the function that handles scrolls. simply increment page by one when user gets to bottom of page
 var scrollHandler = function(e) {
     if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
         Session.set('page', Session.get('page') + 1);
