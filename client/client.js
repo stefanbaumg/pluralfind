@@ -57,6 +57,5 @@ Template.layout.destroyed = function() {
 var scrollHandler = function(e) {
     if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
         Session.set('page', Session.get('page') + 1);
-        console.log(Session.get('page'));
     }
 };

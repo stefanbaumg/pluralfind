@@ -19,14 +19,20 @@ Router.map(function() {
             Session.set('page', 1);
         },
         data: function() {
+
+            // get count of matching records
+            Meteor.call('getCoursesCount', this.params.text, this.params.category, function (err, count) {
+                Session.set('courses-count', count);
+            });
+
             templateData = {
                 // pass in params so we can set the controls correctly
                 paramText: this.params.text,
 
                 // the "actual" data: courses
                 courses: Courses.find(),
-                courseCount: 1200,
-                showLoading: 1200 > Session.get('page') * 20
+                courseCount: Session.get('courses-count'),
+                showLoading: Session.get('courses-count') > Session.get('page') * 20
             };
             return templateData;
         }

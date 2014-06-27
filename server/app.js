@@ -1,6 +1,38 @@
 // list of courses for the homepage. only getting a subset of fields for better performance
 Meteor.publish("courses-list", function(text, categories, page) {
 
+    // the query that returns the filtered, paged list of courses.
+    // only return some of the fields of a course to save bandwidth
+    return Courses.find(getFilters(text, categories), {
+        fields: {
+            name: 1,
+            rating: 1,
+            category: 1,
+            level: 1,
+            duration: 1,
+            released: 1,
+            url: 1
+        },
+        sort: {
+            category: 1,
+            name: 1
+        },
+        limit: page * 20
+    });
+}); // end publish courses paged and filtered
+
+Meteor.methods({
+    getCoursesCount: function(text, categories){
+        return Courses.find(getFilters(text, categories), {
+        fields: {
+            _id: 1
+        }
+    }).count();
+    }
+});
+
+// this function builds a filter expression from the given filter params
+function getFilters(text, categories){
     // split the categories-string into an array
     if (categories) {
         categories = categories.split("_");
@@ -13,7 +45,7 @@ Meteor.publish("courses-list", function(text, categories, page) {
         text = '';
     }
 
-    var filters = {
+    return {
         $or: [{
             category: new RegExp(text.replace(".", "\\."), "i")
         }, {
@@ -42,26 +74,7 @@ Meteor.publish("courses-list", function(text, categories, page) {
         //     $gt: "2014-03-16T04:00:00.000Z"
         // }
     };
-
-    // finally, the query that returns the filtered, paged list of courses.
-    // only return some of the fields of a course to save bandwidth
-    return Courses.find(filters, {
-        fields: {
-            name: 1,
-            rating: 1,
-            category: 1,
-            level: 1,
-            duration: 1,
-            released: 1,
-            url: 1
-        },
-        sort: {
-            category: 1,
-            name: 1
-        },
-        limit: page * 20
-    });
-}); // end publish courses paged and filtered
+}
 
 // This happens when the app first starts
 // Good place to set up base data
