@@ -8,6 +8,17 @@
      /*for sticky footer*/
      margin-bottom: 60px;
  }
+ #scrollUp {
+  bottom: 10px;
+  right: 10px;
+  padding: 10px 20px;
+  background: #eee;
+  color: #000;
+  opacity: .8;
+}
+.btn, .form-control{
+     border-radius: 0;
+}
  /*Navigation*/
  .navbar {
      background-color: #eee;
@@ -70,12 +81,6 @@
      margin: 0 0 12px 0;
      padding: 15px 0;
  }
- .search-field {
- }
- .search-field input, .search-field input:focus {
-     padding: 5px;
-     border: none;
- }
  .course-count {
      padding: 0;
      margin: 5px 0 0 0;
@@ -94,6 +99,13 @@
      width: 100%;
      background-color: #E65A4B;
      margin: 7px 0;
+     height: 40px;
+ }
+ ul.course-list .no-results{
+     font-size: 14px;
+     font-weight: bold;
+     color: #fff;
+     padding: 10px;
  }
  ul.course-list li:hover {
      background-color: #FD6251;
@@ -108,11 +120,8 @@
  }
  ul.course-list li .category {
      opacity: .5;
-     margin-left: 5px;
  }
- ul.course-list li .name {
-     padding-left: 0;
-     padding-bottom: 15px;
+ ul.course-list li .name{
      color: #fff;
  }
  ul.course-list li .category-name {
@@ -211,6 +220,6 @@
  }
  @media (min-width: 1200px) {
      ul.course-list li .category-name {
-         max-width: 500px;
+         max-width: 600px;
      }
  }

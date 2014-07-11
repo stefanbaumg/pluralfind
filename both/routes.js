@@ -2,7 +2,13 @@
 Router.configure({
     layoutTemplate: 'layout',
     loadingTemplate: 'loading',
-    notFoundTemplate: '404'
+    notFoundTemplate: '404',
+    onAfterAction: function(){
+        $(document).ready(function(){
+        $.scrollUp();
+
+        });
+    }
 });
 
 // home-route. display all courses, search
@@ -16,7 +22,7 @@ Router.map(function() {
             return Meteor.subscribe('courses-list', this.params.text, this.params.category, Session.get('page'));
         },
         onRun: function() {
-            Session.set('page', 1);
+            Session.set('page', 2);
         },
         data: function() {
 

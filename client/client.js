@@ -9,6 +9,16 @@ Handlebars.registerHelper('starClass', function(rating, starNumber) {
         return "half";
     else
         return "";
+
+});
+
+// format dates using moment js
+Handlebars.registerHelper('formatDate', function(date) {
+    // half star?
+    if (!date)
+        return "";
+    else
+        return moment(date).calendar();
 });
 
 // events on course list
@@ -36,7 +46,7 @@ Template.home.events({
 // when a search control is changed, go to new route
 function redirectSearch() {
 
-    var query = "text=" + $("#search-text").val();
+    var query = "text=" + encodeURIComponent($("#search-text").val());
 
     Router.go('home', null, {
         query: query

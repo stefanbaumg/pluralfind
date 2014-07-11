@@ -66,13 +66,15 @@
         </div>
     </div> -->
     <div class="row search">
-        <div class="col-md-2">
-            <div class="search-field">
-                <input type="text" id="search-text" placeholder="Search..." value="{{paramText}}" />
-            </div>
-        </div>
-        <div class="col-md-2">
-            <button id="search-go" class="btn btn-primary">Go</button>
+        <div class="col-md-9">
+            <form class="form-inline" role="form">
+                <div class="form-group">
+                    <label class="sr-only" for="exampleInputEmail2">Search Text...</label>
+                    <input class="form-control" type="text" id="search-text" placeholder="Search..." value="{{paramText}}" />
+                </div>
+                <button id="search-go" class="btn btn-primary"><i class="fa fa-search"></i>
+                </button>
+            </form>
         </div>
         <div class="col-md-3 pull-right course-count">{{courseCount}}</div>
     </div>
@@ -92,6 +94,7 @@
                     <div class="details">
                         <div class="level">{{level}}</div>
                         <div class="duration">{{duration}} mins</div>
+                        <div class="released hidden-md hidden-sm hidden-xs">{{formatDate released}}</div>
                         <div class="rating" title="{{rating}}">
                             <span class="{{starClass rating 5}}"></span>
                             <span class="{{starClass rating 4}}"></span>
@@ -102,7 +105,7 @@
                     </div>
                 </li>
                 {{else}}
-                <li>No courses found</li>
+                <li class="no-results">No courses found</li>
                 {{/each}}
             </ul>
         </div>

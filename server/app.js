@@ -47,6 +47,8 @@ function getFilters(text, categories){
 
     return {
         $or: [{
+            author: new RegExp(text.replace(".", "\\."), "i")
+        },{
             category: new RegExp(text.replace(".", "\\."), "i")
         }, {
             name: new RegExp(text.replace(".", "\\."), "i")
