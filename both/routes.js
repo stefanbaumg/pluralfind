@@ -31,12 +31,18 @@ Router.map(function() {
                 Session.set('courses-count', count);
             });
 
+            Meteor.call('getCoursesCategories', this.params.text, this.params.category, function (err, categories) {
+                Session.set('courses-categories', categories);
+            });
+
             templateData = {
                 // pass in params so we can set the controls correctly
                 paramText: this.params.text,
+                paramCategory: this.params.category,
 
                 // the "actual" data: courses
                 courses: Courses.find(),
+                categories: _.pairs(_.countBy(Session.get('courses-categories'), 'category')),
                 courseCount: Session.get('courses-count'),
                 showLoading: Session.get('courses-count') > Session.get('page') * 20
             };

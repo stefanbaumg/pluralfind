@@ -21,10 +21,22 @@ Handlebars.registerHelper('formatDate', function(date) {
         return moment(date).calendar();
 });
 
+Handlebars.registerHelper('isSelected', function(value, param) {
+    if (value == decodeURIComponent(param)){
+        return "selected='selected'";
+    }
+    return "";
+});
+
 // events on course list
 Template.home.events({
     // do search on text field blur
     'blur #search-text': function(e, t) {
+        e.preventDefault();
+
+        redirectSearch();
+    },
+    'change select': function(e, t){
         e.preventDefault();
 
         redirectSearch();
@@ -46,7 +58,7 @@ Template.home.events({
 // when a search control is changed, go to new route
 function redirectSearch() {
 
-    var query = "text=" + encodeURIComponent($("#search-text").val());
+    var query = "text=" + encodeURIComponent($("#search-text").val()) + "&category=" + encodeURIComponent($("#search-category").val());
 
     Router.go('home', null, {
         query: query

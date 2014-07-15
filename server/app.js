@@ -28,12 +28,23 @@ Meteor.methods({
             _id: 1
         }
     }).count();
+    },
+    getCoursesCategories: function(text, categories){
+        return Courses.find(getFilters(text, ''), {
+        fields: {
+            category: 1
+        },
+        sort: {
+            category: 1
+        }
+    }).fetch();
     }
 });
 
 // this function builds a filter expression from the given filter params
 function getFilters(text, categories){
     // split the categories-string into an array
+    categories = decodeURIComponent(categories);
     if (categories) {
         categories = categories.split("_");
     } else {

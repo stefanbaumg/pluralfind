@@ -69,8 +69,17 @@
         <div class="col-md-9">
             <form class="form-inline" role="form">
                 <div class="form-group">
-                    <label class="sr-only" for="exampleInputEmail2">Search Text...</label>
+                    <label class="sr-only" for="search-text">Search...</label>
                     <input class="form-control" type="text" id="search-text" placeholder="Search..." value="{{paramText}}" />
+                </div>
+                <div class="form-group">
+                    <label class="sr-only" for="search-category">Search Category</label>
+                    <select class="form-control" id="search-category">
+                        <option value="">Select Category</option>
+                        {{#each categories}}
+                        <option {{isSelected [0] ../paramCategory}} value="{{[0]}}" >{{[0]}} ({{[1]}})</option>
+                        {{/each}}
+                    </select>
                 </div>
                 <button id="search-go" class="btn btn-primary"><i class="fa fa-search"></i>
                 </button>
