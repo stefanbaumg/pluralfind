@@ -77,7 +77,7 @@
                     <select class="form-control" id="search-category">
                         <option value="">Select Category</option>
                         {{#each categories}}
-                        <option {{isSelected [0] ../paramCategory}} value="{{[0]}}" >{{[0]}} ({{[1]}})</option>
+                        <option {{isSelected [0] ../paramCategory}} value="{{[0]}}">{{[0]}} ({{[1]}})</option>
                         {{/each}}
                     </select>
                 </div>
@@ -119,11 +119,23 @@
             </ul>
         </div>
     </div>
-    {{#if showLoading}}
-    <div style="color: gray; font-size: 20px; margin: 20px 0">
-        <i class="fa fa-refresh fa-spin"></i>
-    </div>
-    {{/if}}
+
+    <ul class="pagination pagination-lg" >
+        <li><a href="#">&laquo;</a>
+        </li>
+        <li><a href="#">1</a>
+        </li>
+        <li><a href="#">2</a>
+        </li>
+        <li><a href="#">3</a>
+        </li>
+        <li><a href="#">4</a>
+        </li>
+        <li><a href="#">5</a>
+        </li>
+        <li><a href="#">&raquo;</a>
+        </li>
+    </ul>
 </template>
 
 <!-- Template for user's list of courses -->

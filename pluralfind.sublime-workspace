@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"cate",
+				"categories"
+			],
+			[
+				"cateog",
+				"category"
+			],
+			[
+				"cat",
+				"categories"
+			],
+			[
+				"search-",
+				"search-text"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
 				"loadingn",
 				"loadingNextClicked"
 			],
@@ -35,6 +55,38 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "server/app.js",
+			"settings":
+			{
+				"buffer_size": 2803,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/client.js",
+			"settings":
+			{
+				"buffer_size": 2135,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/index.html",
+			"settings":
+			{
+				"buffer_size": 5913,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "both/routes.js",
+			"settings":
+			{
+				"buffer_size": 2041,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -126,20 +178,27 @@
 	"file_history":
 	[
 		"/Users/Stefan/Documents/Projects/pluralfind/server/courses.js",
+		"/Users/Stefan/Documents/Projects/pluralfind/client/pluralfind.css",
+		"/Users/Stefan/Documents/Projects/pluralfind/server/app.js",
+		"/Users/Stefan/Documents/Projects/pluralfind/both/routes.js",
+		"/Users/Stefan/Documents/Projects/pluralfind/client/index.html",
+		"/Users/Stefan/Documents/Projects/pluralfind/client/client.js",
 		"/Users/Stefan/Documents/Projects/pluralfind/both/collections.js",
+		"/Users/Stefan/Documents/Projects/pluralfind/smart.json",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/courses.js",
 		"/Users/Stefan/Documents/Projects/pstracker/client/main.js",
+		"/Users/Stefan/Documents/Projects/pstracker/client/index.html",
 		"/Users/Stefan/Documents/Projects/pstracker/server/publication.js",
 		"/Users/Stefan/Documents/Projects/pstracker/server/server.js",
 		"/Users/Stefan/Documents/Projects/pluralfind/pluralfind.js",
 		"/Users/Stefan/Documents/Projects/pluralfind/routing.js",
-		"/Users/Stefan/Documents/Projects/pstracker/client/index.html",
 		"/Users/Stefan/Documents/Projects/pluralfind/pluralfind.css",
 		"/Users/Stefan/Documents/Projects/pluralfind/pluralfind.html",
 		"/Users/Stefan/Documents/Projects/pluralfind/bootstrap.css",
 		"/Users/Stefan/Documents/Projects/pluralfindOld/pluralfind.html",
 		"/Users/Stefan/Documents/Projects/meteorite/meteorite.js",
-		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
-		"/Users/Stefan/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
 		"/Users/Stefan/Documents/Projects/meteorite/meteorite.html",
 		"/Users/Stefan/Documents/Projects/testing/testing.js",
 		"/Users/Stefan/Documents/Projects/testing/testing.html",
@@ -175,7 +234,7 @@
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -189,6 +248,20 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"starcl",
+			"png",
+			"();\n",
+			"introduction to machine learning",
+			"encog",
+			".ent",
+			"external",
+			"max-width: 200px;\n     overflow-x: hidden;\n     ",
+			"home",
+			"Find",
+			"navbar",
+			"                    <span class=\"sr-only\">Toggle navigation</span>\n",
+			"container",
+			"4 s",
 			">\n",
 			"            \n",
 			"loginbuttons",
@@ -258,8 +331,129 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "server/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2803,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								988,
+								988
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 625.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client/client.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2135,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 131.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5913,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3379,
+								3379
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1339.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "both/routes.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2041,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1289,
+								1289
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 543.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
 			]
 		}
 	],

@@ -6,7 +6,6 @@ Router.configure({
     onAfterAction: function(){
         $(document).ready(function(){
         $.scrollUp();
-
         });
     }
 });
@@ -22,7 +21,7 @@ Router.map(function() {
             return Meteor.subscribe('courses-list', this.params.text, this.params.category, Session.get('page'));
         },
         onRun: function() {
-            Session.set('page', 2);
+            Session.set('page', 0);
         },
         data: function() {
 
@@ -44,8 +43,9 @@ Router.map(function() {
                 courses: Courses.find(),
                 categories: _.pairs(_.countBy(Session.get('courses-categories'), 'category')),
                 courseCount: Session.get('courses-count'),
-                showLoading: Session.get('courses-count') > Session.get('page') * 20
+                showLoading: Session.get('courses-count') > Session.get('page') * 10
             };
+
             return templateData;
         }
     });

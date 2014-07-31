@@ -23,7 +23,7 @@ Handlebars.registerHelper('formatDate', function(date) {
 
 Handlebars.registerHelper('isSelected', function(value, param) {
     if (value == decodeURIComponent(param)){
-        return "selected='selected'";
+        return "selected";
     }
     return "";
 });
@@ -52,6 +52,10 @@ Template.home.events({
         if (e.keyCode == 13) {
             $('#search-go').click();
         }
+    },
+    'click #load-more': function(e, t){
+        e.preventDefault();
+        Session.set('page', Session.get('page') + 1);
     }
 });
 
@@ -65,19 +69,19 @@ function redirectSearch() {
     });
 }
 
-// load more items on scroll
-Template.layout.created = function() {
-    $(window).on('scroll', _.throttle(scrollHandler, 200));
-};
+// // load more items on scroll
+// Template.layout.created = function() {
+//     $(window).on('scroll', _.throttle(scrollHandler, 200));
+// };
 
-// remove the scrollhandler if we're  no longer using the layout
-Template.layout.destroyed = function() {
-    $(window).off('scroll', scrollHandler);
-};
+// // remove the scrollhandler if we're  no longer using the layout
+// Template.layout.destroyed = function() {
+//     $(window).off('scroll', scrollHandler);
+// };
 
-// the function that handles scrolls. simply increment page by one when user gets to bottom of page
-var scrollHandler = function(e) {
-    if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
-        Session.set('page', Session.get('page') + 1);
-    }
-};
+// // the function that handles scrolls. simply increment page by one when user gets to bottom of page
+// var scrollHandler = function(e) {
+//     if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
+//         Session.set('page', Session.get('page') + 1);
+//     }
+// };

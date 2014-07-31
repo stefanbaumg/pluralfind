@@ -17,7 +17,8 @@ Meteor.publish("courses-list", function(text, categories, page) {
             category: 1,
             name: 1
         },
-        limit: page * 20
+        skip: page* 10,
+        limit: 10
     });
 }); // end publish courses paged and filtered
 

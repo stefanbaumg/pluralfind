@@ -1,13 +1,11 @@
 {
   "packages": {
     "bootstrap-3": {},
-    "iron-router": {
-      "version": "0.7.0"
-    },
+    "iron-router": {},
     "accounts-ui-bootstrap-3-blaze": {},
-    "iron-router-progress": {},
     "iron-router-active": {},
     "font-awesome": {},
-    "moment": {}
+    "moment": {},
+    "iron-router-progress": {}
   }
 }

@@ -11,7 +11,7 @@ accounts-ui-bootstrap-3-blaze
 accounts-google
 accounts-twitter
 accounts-facebook
-iron-router-progress
 iron-router-active
 font-awesome
 moment
+iron-router-progress
