@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"pr",
+				"preventDefault"
+			],
+			[
 				"cate",
 				"categories"
 			],
@@ -59,7 +63,7 @@
 			"file": "server/app.js",
 			"settings":
 			{
-				"buffer_size": 2803,
+				"buffer_size": 2820,
 				"line_ending": "Unix"
 			}
 		},
@@ -67,7 +71,7 @@
 			"file": "client/client.js",
 			"settings":
 			{
-				"buffer_size": 2135,
+				"buffer_size": 2306,
 				"line_ending": "Unix"
 			}
 		},
@@ -75,7 +79,7 @@
 			"file": "client/index.html",
 			"settings":
 			{
-				"buffer_size": 5913,
+				"buffer_size": 6130,
 				"line_ending": "Unix"
 			}
 		},
@@ -84,6 +88,14 @@
 			"settings":
 			{
 				"buffer_size": 2041,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/courses.js",
+			"settings":
+			{
+				"buffer_size": 1443874,
 				"line_ending": "Unix"
 			}
 		}
@@ -177,11 +189,11 @@
 	},
 	"file_history":
 	[
+		"/Users/Stefan/Documents/Projects/pluralfind/client/index.html",
 		"/Users/Stefan/Documents/Projects/pluralfind/server/courses.js",
 		"/Users/Stefan/Documents/Projects/pluralfind/client/pluralfind.css",
 		"/Users/Stefan/Documents/Projects/pluralfind/server/app.js",
 		"/Users/Stefan/Documents/Projects/pluralfind/both/routes.js",
-		"/Users/Stefan/Documents/Projects/pluralfind/client/index.html",
 		"/Users/Stefan/Documents/Projects/pluralfind/client/client.js",
 		"/Users/Stefan/Documents/Projects/pluralfind/both/collections.js",
 		"/Users/Stefan/Documents/Projects/pluralfind/smart.json",
@@ -248,6 +260,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"page",
+			"20",
 			"starcl",
 			"png",
 			"();\n",
@@ -340,15 +354,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2803,
+						"buffer_size": 2820,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								988,
-								988
+								652,
+								652
 							]
 						],
 						"settings":
@@ -358,10 +372,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 625.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -370,15 +384,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2135,
+						"buffer_size": 2306,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1377,
+								1381
 							]
 						],
 						"settings":
@@ -388,10 +402,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 131.0,
+						"translation.y": 1185.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -400,15 +414,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5913,
+						"buffer_size": 6130,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3379,
-								3379
+								5512,
+								5512
 							]
 						],
 						"settings":
@@ -418,7 +432,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1339.0,
+						"translation.y": 2467.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -437,8 +451,8 @@
 						"selection":
 						[
 							[
-								1289,
-								1289
+								549,
+								553
 							]
 						],
 						"settings":
@@ -448,10 +462,40 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 543.0,
+						"translation.y": 100.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "server/courses.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1443874,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
